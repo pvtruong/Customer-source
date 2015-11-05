@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dvdmdt" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dvdmdt">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dvdmdt>
+    <FormID>dvdmdt</FormID>
+    <TextID>001</TextID>
+    <TextV>Mã nhà cung cấp</TextV>
+    <TextE>Mã nhà cung cấp</TextE>
+  </dvdmdt>
+  <dvdmdt>
+    <FormID>dvdmdt</FormID>
+    <TextID>002</TextID>
+    <TextV>Giá trị</TextV>
+    <TextE>Giá trị</TextE>
+  </dvdmdt>
+  <dvdmdt>
+    <FormID>dvdmdt</FormID>
+    <TextID>003</TextID>
+    <TextV>Ghi chú</TextV>
+    <TextE>Ghi chú</TextE>
+  </dvdmdt>
+  <dvdmdt>
+    <FormID>dvdmdt</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Người tạo</TextE>
+  </dvdmdt>
+  <dvdmdt>
+    <FormID>dvdmdt</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Người sửa</TextE>
+  </dvdmdt>
+  <dvdmdt>
+    <FormID>dvdmdt</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Ngày tạo</TextE>
+  </dvdmdt>
+  <dvdmdt>
+    <FormID>dvdmdt</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Ngày sửa</TextE>
+  </dvdmdt>
+  <dvdmdt>
+    <FormID>dvdmdt</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </dvdmdt>
+  <dvdmdt>
+    <FormID>dvdmdt</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dvdmdt>
+</NewDataSet>

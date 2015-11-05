@@ -1,0 +1,285 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="ldhd" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="ldhd">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>000</TextID>
+    <TextV>Cập nhật hợp đồng</TextV>
+    <TextE>Cập nhật hợp đồng</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>001</TextID>
+    <TextV>Mã sản phẩm</TextV>
+    <TextE>Mã sản phẩm</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>002</TextID>
+    <TextV>Số hợp đồng</TextV>
+    <TextE>Số hợp đồng</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>003</TextID>
+    <TextV>Khách hàng mua</TextV>
+    <TextE>Khách hàng mua</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>004</TextID>
+    <TextV>Diễn giải</TextV>
+    <TextE>Diễn giải</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>005</TextID>
+    <TextV>Ngày hợp đồng</TextV>
+    <TextE>Ngày hợp đồng</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>006</TextID>
+    <TextV>Thông tin hợp đồng</TextV>
+    <TextE>Thông tin hợp đồng</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>007</TextID>
+    <TextV>Tiền nt</TextV>
+    <TextE>Tiền nt</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>008</TextID>
+    <TextV>Ngoại tệ</TextV>
+    <TextE>Ngoại tệ</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>009</TextID>
+    <TextV>Tỷ giá</TextV>
+    <TextE>Tỷ giá</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>010</TextID>
+    <TextV>Tiền</TextV>
+    <TextE>Tiền</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>011</TextID>
+    <TextV>Ngày hợp đồng</TextV>
+    <TextE>Ngày hợp đồng</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>012</TextID>
+    <TextV>GT hợp đồng</TextV>
+    <TextE>GT hợp đông</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>013</TextID>
+    <TextV>Tiền hoa hồng</TextV>
+    <TextE>Tiền hoa hồng</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>014</TextID>
+    <TextV>Hạn tt</TextV>
+    <TextE>Hạn tt</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>015</TextID>
+    <TextV>Tiền tt hoa hồng</TextV>
+    <TextE>Tiền tt hoa hồng</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>016</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Điều kiện lọc</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>017</TextID>
+    <TextV>Tìm</TextV>
+    <TextE>Tìm</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>018</TextID>
+    <TextV>Khách hàng mua</TextV>
+    <TextE>Khách hàng mua</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>019</TextID>
+    <TextV>Mã sản phẩm</TextV>
+    <TextE>Mã sản phẩm</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>020</TextID>
+    <TextV>Ghi chú</TextV>
+    <TextE>Ghi chú</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>021</TextID>
+    <TextV>Đã thanh toán nt</TextV>
+    <TextE>Đã thanh toán nt</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>022</TextID>
+    <TextV>Đã thanh toán</TextV>
+    <TextE>Đã thanh toán</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>023</TextID>
+    <TextV>Hoa hồng nt</TextV>
+    <TextE>Hoa hồng nt</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>024</TextID>
+    <TextV>Hoa hồng</TextV>
+    <TextE>Hoa hồng</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>025</TextID>
+    <TextV>Còn lại nt</TextV>
+    <TextE>Còn lại nt</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>026</TextID>
+    <TextV>Còn lại</TextV>
+    <TextE>Còn lại</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>030</TextID>
+    <TextV>Từ/đến ngày</TextV>
+    <TextE>Từ/đến ngày</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>031</TextID>
+    <TextV>Khách hàng mua</TextV>
+    <TextE>Khách hàng mua</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Người tạo</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Người sửa</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Ngày tạo</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Ngày sửa</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Lưu</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Hủy</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;Mới</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Sửa</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Xóa</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Thoát</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Chức năng</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>101</TextID>
+    <TextV>Thông tin giao dịch</TextV>
+    <TextE>Thông tin giao dịch</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>102</TextID>
+    <TextV>Ngày giao dịch</TextV>
+    <TextE>Ngày giao dịch</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>103</TextID>
+    <TextV>Hạn thanh toán</TextV>
+    <TextE>Hạn thanh toán</TextE>
+  </ldhd>
+  <ldhd>
+    <FormID>ldhd</FormID>
+    <TextID>104</TextID>
+    <TextV>Ngày</TextV>
+    <TextE>Days</TextE>
+  </ldhd>
+</NewDataSet>

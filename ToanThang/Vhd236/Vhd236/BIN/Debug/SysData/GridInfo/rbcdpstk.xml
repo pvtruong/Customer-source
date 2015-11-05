@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rbcdpstk" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rbcdpstk">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsv" type="xs:string" minOccurs="0" />
+                <xs:element name="columnse" type="xs:string" minOccurs="0" />
+                <xs:element name="headersv" type="xs:string" minOccurs="0" />
+                <xs:element name="headerse" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rbcdpstk>
+    <gridid>rbcdpstk</gridid>
+    <columnsv>sel,tk,dk,ps_no,ps_co,ck,ten_tk</columnsv>
+    <columnse>sel,tk,dk,ps_no,ps_co,ck,ten_tk2</columnse>
+    <headersv>Chọn,Tài khoản,Dư đầu kỳ,Phát sinh Nợ,Phát sinh Có,Dư cuối kỳ,Tên tài khoản</headersv>
+    <headerse>Chọn,Tài khoản,Dư đầu kỳ,Phát sinh Nợ,Phát sinh Có,Dư cuối kỳ,Tên tài khoản</headerse>
+    <widths>50,100,200,200,200,200,250</widths>
+    <formats>,,,,,,</formats>
+    <readonlys>0,1,1,1,1,1,1</readonlys>
+    <hides>0,0,0,0,0,0,0</hides>
+    <defaultvalues>,,,,,,</defaultvalues>
+    <carrys>0,0,0,0,0,0,0</carrys>
+  </rbcdpstk>
+</NewDataSet>

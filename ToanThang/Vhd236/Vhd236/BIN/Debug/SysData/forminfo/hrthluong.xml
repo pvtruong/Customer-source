@@ -1,0 +1,159 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="hrthluong" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="hrthluong">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <hrthluong>
+    <FormID>hrthluong</FormID>
+    <TextID>000</TextID>
+    <TextV>Báo cáo tổng hợp lương</TextV>
+    <TextE>Báo cáo tổng hợp lương</TextE>
+  </hrthluong>
+  <hrthluong>
+    <FormID>hrthluong</FormID>
+    <TextID>001</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Filter Condition</TextE>
+  </hrthluong>
+  <hrthluong>
+    <FormID>hrthluong</FormID>
+    <TextID>002</TextID>
+    <TextV>Mã kỳ lương</TextV>
+    <TextE />
+  </hrthluong>
+  <hrthluong>
+    <FormID>hrthluong</FormID>
+    <TextID>003</TextID>
+    <TextV>từ ngày</TextV>
+    <TextE>From Date</TextE>
+  </hrthluong>
+  <hrthluong>
+    <FormID>hrthluong</FormID>
+    <TextID>004</TextID>
+    <TextV>- đến ngày</TextV>
+    <TextE>- to date</TextE>
+  </hrthluong>
+  <hrthluong>
+    <FormID>hrthluong</FormID>
+    <TextID>005</TextID>
+    <TextV>Mã nhóm lương</TextV>
+    <TextE>Mã nhóm lương</TextE>
+  </hrthluong>
+  <hrthluong>
+    <FormID>hrthluong</FormID>
+    <TextID>006</TextID>
+    <TextV>Mã phòng ban</TextV>
+    <TextE>Mã phòng ban</TextE>
+  </hrthluong>
+  <hrthluong>
+    <FormID>hrthluong</FormID>
+    <TextID>090</TextID>
+    <TextV>Nhóm theo</TextV>
+    <TextE>Group by</TextE>
+  </hrthluong>
+  <hrthluong>
+    <FormID>hrthluong</FormID>
+    <TextID>091</TextID>
+    <TextV>Đơn vị</TextV>
+    <TextE>Unit</TextE>
+  </hrthluong>
+  <hrthluong>
+    <FormID>hrthluong</FormID>
+    <TextID>092</TextID>
+    <TextV>Mẫu báo cáo</TextV>
+    <TextE>Report Form</TextE>
+  </hrthluong>
+  <hrthluong>
+    <FormID>hrthluong</FormID>
+    <TextID>093</TextID>
+    <TextV>Tiêu đề</TextV>
+    <TextE>Title</TextE>
+  </hrthluong>
+  <hrthluong>
+    <FormID>hrthluong</FormID>
+    <TextID>200</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </hrthluong>
+  <hrthluong>
+    <FormID>hrthluong</FormID>
+    <TextID>201</TextID>
+    <TextV>&amp;In</TextV>
+    <TextE>&amp;Print</TextE>
+  </hrthluong>
+  <hrthluong>
+    <FormID>hrthluong</FormID>
+    <TextID>202</TextID>
+    <TextV>&amp;Xem</TextV>
+    <TextE>&amp;View</TextE>
+  </hrthluong>
+  <hrthluong>
+    <FormID>hrthluong</FormID>
+    <TextID>203</TextID>
+    <TextV>Làm tươi</TextV>
+    <TextE>Refresh</TextE>
+  </hrthluong>
+  <hrthluong>
+    <FormID>hrthluong</FormID>
+    <TextID>204</TextID>
+    <TextV>Xem chứng từ</TextV>
+    <TextE>View Voucher</TextE>
+  </hrthluong>
+  <hrthluong>
+    <FormID>hrthluong</FormID>
+    <TextID>900</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>&amp;OK</TextE>
+  </hrthluong>
+  <hrthluong>
+    <FormID>hrthluong</FormID>
+    <TextID>901</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </hrthluong>
+  <hrthluong>
+    <FormID>hrthluong</FormID>
+    <TextID>999</TextID>
+    <TextV>Thoát</TextV>
+    <TextE>Close</TextE>
+  </hrthluong>
+  <hrthluong>
+    <FormID>hrthluong</FormID>
+    <TextID>M01</TextID>
+    <TextV>1/- Tổng hợp quỹ lương</TextV>
+    <TextE>1/- Tổng hợp quỹ lương</TextE>
+  </hrthluong>
+  <hrthluong>
+    <FormID>hrthluong</FormID>
+    <TextID>M02</TextID>
+    <TextV>2/- Trả tiền vay quỹ</TextV>
+    <TextE>2/- Trả tiền vay quỹ công nhân</TextE>
+  </hrthluong>
+  <hrthluong>
+    <FormID>hrthluong</FormID>
+    <TextID>M03</TextID>
+    <TextV>3/- Công nhân đóng tiền quỹ</TextV>
+    <TextE>3/- Công nhân đóng tiền</TextE>
+  </hrthluong>
+  <hrthluong>
+    <FormID>hrthluong</FormID>
+    <TextID>M04</TextID>
+    <TextV>4/- Bảo hiểm Y Tế - Xã hội - Công đoàn - Thất nghiệp</TextV>
+    <TextE>4/- Bảo hiểm Y Tế - Xã hội - Công đoàn - Thất nghiệp</TextE>
+  </hrthluong>
+</NewDataSet>

@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Dvatra" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Dvatra">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsv" type="xs:string" minOccurs="0" />
+                <xs:element name="columnse" type="xs:string" minOccurs="0" />
+                <xs:element name="headersv" type="xs:string" minOccurs="0" />
+                <xs:element name="headerse" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Dvatra>
+    <gridid>Dvatra</gridid>
+    <columnsv>so_hd,so_seri,ngay_hd,t_tien_nt,t_tien,ma_thue,thue_suat,t_thue_nt,t_thue,tk_thue_co,tk_du</columnsv>
+    <columnse>so_hd,so_seri,ngay_hd,t_tien_nt,t_tien,ma_thue,thue_suat,t_thue_nt,t_thue,tk_thue_co,tk_du</columnse>
+    <headersv>Số hóa đơn,Số 
+seri,Ngày hóa đơn,Tiền hàng nt,Tiền hàng,Mã thuế,Thuế suất,Tiền thuế nt,Tiền thuế,Tk thuế,Tk đối ứng</headersv>
+    <headerse>Invoice num,Seri num,Invoice date,FC Amount,Amount,Tax Code,Tax Rate,FC Tax Amt.,Tax Amt. ,Tax Acct.,Ref. Acct.</headerse>
+    <widths>100,100,100,100,100,100,100,100,100,100,100</widths>
+    <formats>,,,f_tien_nt,f_tien,,f_tien,f_tien_nt,f_tien,,</formats>
+    <readonlys>0,0,0,0,0,0,1,0,0,1,0</readonlys>
+    <hides>0,0,0,0,0,0,0,0,0,0,0</hides>
+    <defaultvalues>,,,,,,,,,,</defaultvalues>
+    <carrys>0,0,0,0,0,0,0,0,0,0,1</carrys>
+  </Dvatra>
+</NewDataSet>

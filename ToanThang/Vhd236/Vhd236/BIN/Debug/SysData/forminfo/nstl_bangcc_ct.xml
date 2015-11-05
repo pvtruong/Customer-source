@@ -1,0 +1,141 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="nstl_bangcc_ct" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="nstl_bangcc_ct">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <nstl_bangcc_ct>
+    <FormID>nstl_bangcc_ct</FormID>
+    <TextID>000</TextID>
+    <TextV>Chi tiết chấm công</TextV>
+    <TextE>Detailed workday</TextE>
+  </nstl_bangcc_ct>
+  <nstl_bangcc_ct>
+    <FormID>nstl_bangcc_ct</FormID>
+    <TextID>001</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Filter Condition</TextE>
+  </nstl_bangcc_ct>
+  <nstl_bangcc_ct>
+    <FormID>nstl_bangcc_ct</FormID>
+    <TextID>002</TextID>
+    <TextV>Kỳ/năm</TextV>
+    <TextE>Period/Year</TextE>
+  </nstl_bangcc_ct>
+  <nstl_bangcc_ct>
+    <FormID>nstl_bangcc_ct</FormID>
+    <TextID>003</TextID>
+    <TextV>Mã nhân viên</TextV>
+    <TextE>Employee</TextE>
+  </nstl_bangcc_ct>
+  <nstl_bangcc_ct>
+    <FormID>nstl_bangcc_ct</FormID>
+    <TextID>004</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>&amp;OK</TextE>
+  </nstl_bangcc_ct>
+  <nstl_bangcc_ct>
+    <FormID>nstl_bangcc_ct</FormID>
+    <TextID>005</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </nstl_bangcc_ct>
+  <nstl_bangcc_ct>
+    <FormID>nstl_bangcc_ct</FormID>
+    <TextID>006</TextID>
+    <TextV>Mã bộ phận</TextV>
+    <TextE>Department</TextE>
+  </nstl_bangcc_ct>
+  <nstl_bangcc_ct>
+    <FormID>nstl_bangcc_ct</FormID>
+    <TextID>007</TextID>
+    <TextV>Lô</TextV>
+    <TextE>Lot</TextE>
+  </nstl_bangcc_ct>
+  <nstl_bangcc_ct>
+    <FormID>nstl_bangcc_ct</FormID>
+    <TextID>008</TextID>
+    <TextV>Nhà cung cấp</TextV>
+    <TextE>Supplier</TextE>
+  </nstl_bangcc_ct>
+  <nstl_bangcc_ct>
+    <FormID>nstl_bangcc_ct</FormID>
+    <TextID>009</TextID>
+    <TextV>Đơn vị</TextV>
+    <TextE>Unit</TextE>
+  </nstl_bangcc_ct>
+  <nstl_bangcc_ct>
+    <FormID>nstl_bangcc_ct</FormID>
+    <TextID>010</TextID>
+    <TextV>Lưu</TextV>
+    <TextE>Save</TextE>
+  </nstl_bangcc_ct>
+  <nstl_bangcc_ct>
+    <FormID>nstl_bangcc_ct</FormID>
+    <TextID>011</TextID>
+    <TextV>Mẫu báo cáo</TextV>
+    <TextE>Report Form</TextE>
+  </nstl_bangcc_ct>
+  <nstl_bangcc_ct>
+    <FormID>nstl_bangcc_ct</FormID>
+    <TextID>012</TextID>
+    <TextV>Tiêu đề</TextV>
+    <TextE>Title</TextE>
+  </nstl_bangcc_ct>
+  <nstl_bangcc_ct>
+    <FormID>nstl_bangcc_ct</FormID>
+    <TextID>014</TextID>
+    <TextV>Chương trình đã lưu xong</TextV>
+    <TextE>Chương trình đã lưu xong</TextE>
+  </nstl_bangcc_ct>
+  <nstl_bangcc_ct>
+    <FormID>nstl_bangcc_ct</FormID>
+    <TextID>200</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>Function</TextE>
+  </nstl_bangcc_ct>
+  <nstl_bangcc_ct>
+    <FormID>nstl_bangcc_ct</FormID>
+    <TextID>201</TextID>
+    <TextV>&amp;In</TextV>
+    <TextE>&amp;Print</TextE>
+  </nstl_bangcc_ct>
+  <nstl_bangcc_ct>
+    <FormID>nstl_bangcc_ct</FormID>
+    <TextID>202</TextID>
+    <TextV>&amp;Xem</TextV>
+    <TextE>&amp;View</TextE>
+  </nstl_bangcc_ct>
+  <nstl_bangcc_ct>
+    <FormID>nstl_bangcc_ct</FormID>
+    <TextID>203</TextID>
+    <TextV>Làm tươi</TextV>
+    <TextE>Refresh</TextE>
+  </nstl_bangcc_ct>
+  <nstl_bangcc_ct>
+    <FormID>nstl_bangcc_ct</FormID>
+    <TextID>204</TextID>
+    <TextV>Xem chứng từ</TextV>
+    <TextE>View Voucher</TextE>
+  </nstl_bangcc_ct>
+  <nstl_bangcc_ct>
+    <FormID>nstl_bangcc_ct</FormID>
+    <TextID>999</TextID>
+    <TextV>Thoát</TextV>
+    <TextE>Close</TextE>
+  </nstl_bangcc_ct>
+</NewDataSet>

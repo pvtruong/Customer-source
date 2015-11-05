@@ -1,0 +1,171 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dmgiaban" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dmgiaban">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dmgiaban>
+    <FormID>dmgiaban</FormID>
+    <TextID>000</TextID>
+    <TextV>Danh mục giá bán</TextV>
+    <TextE>Danh mục giá bán</TextE>
+  </dmgiaban>
+  <dmgiaban>
+    <FormID>dmgiaban</FormID>
+    <TextID>001</TextID>
+    <TextV>Mã vật tư</TextV>
+    <TextE>Mã vật tư</TextE>
+  </dmgiaban>
+  <dmgiaban>
+    <FormID>dmgiaban</FormID>
+    <TextID>002</TextID>
+    <TextV>Mã ĐVT</TextV>
+    <TextE>Mã ĐVT</TextE>
+  </dmgiaban>
+  <dmgiaban>
+    <FormID>dmgiaban</FormID>
+    <TextID>003</TextID>
+    <TextV>Mã thuộc tính 1</TextV>
+    <TextE>Mã thuộc tính 1</TextE>
+  </dmgiaban>
+  <dmgiaban>
+    <FormID>dmgiaban</FormID>
+    <TextID>004</TextID>
+    <TextV>Mã thuộc tính 2</TextV>
+    <TextE>Mã thuộc tính 2</TextE>
+  </dmgiaban>
+  <dmgiaban>
+    <FormID>dmgiaban</FormID>
+    <TextID>005</TextID>
+    <TextV>Mã thuộc tính 3</TextV>
+    <TextE>Mã thuộc tính 3</TextE>
+  </dmgiaban>
+  <dmgiaban>
+    <FormID>dmgiaban</FormID>
+    <TextID>006</TextID>
+    <TextV>Mã thuộc tính 4</TextV>
+    <TextE>Mã thuộc tính 4</TextE>
+  </dmgiaban>
+  <dmgiaban>
+    <FormID>dmgiaban</FormID>
+    <TextID>007</TextID>
+    <TextV>Mã thuộc tính 5</TextV>
+    <TextE>Mã thuộc tính 5</TextE>
+  </dmgiaban>
+  <dmgiaban>
+    <FormID>dmgiaban</FormID>
+    <TextID>008</TextID>
+    <TextV>Hiệu lực từ ngày/đến ngày</TextV>
+    <TextE>Hiệu lực từ ngày/đến ngày</TextE>
+  </dmgiaban>
+  <dmgiaban>
+    <FormID>dmgiaban</FormID>
+    <TextID>009</TextID>
+    <TextV>Mã ngoại tệ</TextV>
+    <TextE>Mã ngoại tệ</TextE>
+  </dmgiaban>
+  <dmgiaban>
+    <FormID>dmgiaban</FormID>
+    <TextID>010</TextID>
+    <TextV>Giá ngoại tệ</TextV>
+    <TextE>Giá ngoại tệ</TextE>
+  </dmgiaban>
+  <dmgiaban>
+    <FormID>dmgiaban</FormID>
+    <TextID>089</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Status</TextE>
+  </dmgiaban>
+  <dmgiaban>
+    <FormID>dmgiaban</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Creator</TextE>
+  </dmgiaban>
+  <dmgiaban>
+    <FormID>dmgiaban</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modifỉer</TextE>
+  </dmgiaban>
+  <dmgiaban>
+    <FormID>dmgiaban</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </dmgiaban>
+  <dmgiaban>
+    <FormID>dmgiaban</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </dmgiaban>
+  <dmgiaban>
+    <FormID>dmgiaban</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </dmgiaban>
+  <dmgiaban>
+    <FormID>dmgiaban</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dmgiaban>
+  <dmgiaban>
+    <FormID>dmgiaban</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </dmgiaban>
+  <dmgiaban>
+    <FormID>dmgiaban</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </dmgiaban>
+  <dmgiaban>
+    <FormID>dmgiaban</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </dmgiaban>
+  <dmgiaban>
+    <FormID>dmgiaban</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </dmgiaban>
+  <dmgiaban>
+    <FormID>dmgiaban</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </dmgiaban>
+  <dmgiaban>
+    <FormID>dmgiaban</FormID>
+    <TextID>I94</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </dmgiaban>
+  <dmgiaban>
+    <FormID>dmgiaban</FormID>
+    <TextID>I95</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dmgiaban>
+</NewDataSet>

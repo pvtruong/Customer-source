@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dtns" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dtns">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsv" type="xs:string" minOccurs="0" />
+                <xs:element name="columnse" type="xs:string" minOccurs="0" />
+                <xs:element name="headersv" type="xs:string" minOccurs="0" />
+                <xs:element name="headerse" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dtns>
+    <gridid>dtns</gridid>
+    <columnsv>ma_phi,ma_bp,tien,tien01,tien02,tien03,tien04,tien05,tien06,tien07,tien08,tien09,tien10,tien11,tien12</columnsv>
+    <columnse>ma_phi,ma_bp,tien,tien01,tien02,tien03,tien04,tien05,tien06,tien07,tien08,tien09,tien10,tien11,tien12</columnse>
+    <headersv>Mã phí,Mã bộ phận,Ngân sách năm,Kỳ 1,Kỳ 2,Kỳ 3,Kỳ 4,Kỳ 5,Kỳ 6,Kỳ 7,Kỳ 8,Kỳ 9,Kỳ 10,Kỳ 11,Kỳ 12</headersv>
+    <headerse>Fee Code,Dept. ID   ,The annual budget,Period 1,Period 2,Period 3,Period 4,Period 5,Period 6,Period 7,Period 8,Period 9,Period 10,Period 11,Period 12</headerse>
+    <widths>100,100,100,100,100,100,100,100,100,100,100,100,100,100,100</widths>
+    <formats>,,f_stt,f_tien,f_tien,f_tien,f_tien,f_tien,f_tien,f_tien,f_tien,f_tien,f_tien,f_tien,f_tien</formats>
+    <readonlys>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</readonlys>
+    <hides>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</hides>
+    <defaultvalues>,,,,,,,,,,,,,,</defaultvalues>
+    <carrys>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</carrys>
+  </dtns>
+</NewDataSet>

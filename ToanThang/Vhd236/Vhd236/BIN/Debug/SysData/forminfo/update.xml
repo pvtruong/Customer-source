@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="update" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="update">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <update>
+    <FormID>update</FormID>
+    <TextID>000</TextID>
+    <TextV>Cập nhật chương trình</TextV>
+    <TextE>Update</TextE>
+  </update>
+  <update>
+    <FormID>update</FormID>
+    <TextID>001</TextID>
+    <TextV>Thoát</TextV>
+    <TextE>Quit</TextE>
+  </update>
+  <update>
+    <FormID>update</FormID>
+    <TextID>101</TextID>
+    <TextV>Đang cập nhật file</TextV>
+    <TextE>Updating file</TextE>
+  </update>
+  <update>
+    <FormID>update</FormID>
+    <TextID>102</TextID>
+    <TextV>Hoàn thành cập nhật</TextV>
+    <TextE>Finished update</TextE>
+  </update>
+  <update>
+    <FormID>update</FormID>
+    <TextID>103</TextID>
+    <TextV>Không thể update. Hãy tắt tất cả các màn hình rồi thử lại</TextV>
+    <TextE>Không thể update. Hãy tắt tất cả các màn hình rồi thử lại</TextE>
+  </update>
+  <update>
+    <FormID>update</FormID>
+    <TextID>104</TextID>
+    <TextV>Tắt tất cả các màn hình của chương trình để tiến hành cập nhật</TextV>
+    <TextE>Tắt tất cả các màn hình của chương trình để tiến hành cập nhật</TextE>
+  </update>
+  <update>
+    <FormID>update</FormID>
+    <TextID>105</TextID>
+    <TextV>Đang update...</TextV>
+    <TextE>Đang update..</TextE>
+  </update>
+  <update>
+    <FormID>update</FormID>
+    <TextID>106</TextID>
+    <TextV>Thử lại</TextV>
+    <TextE>Retry</TextE>
+  </update>
+  <update>
+    <FormID>update</FormID>
+    <TextID>107</TextID>
+    <TextV>Thực hiện</TextV>
+    <TextE>Ok</TextE>
+  </update>
+  <update>
+    <FormID>update</FormID>
+    <TextID>108</TextID>
+    <TextV>Thư mục chứ file cần cập nhật</TextV>
+    <TextE>Choose Folder</TextE>
+  </update>
+  <update>
+    <FormID>update</FormID>
+    <TextID>109</TextID>
+    <TextV>Không thể cập nhật file:</TextV>
+    <TextE>Can't update file:</TextE>
+  </update>
+</NewDataSet>

@@ -1,0 +1,105 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dmdieuchuyenns" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dmdieuchuyenns">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dmdieuchuyenns>
+    <FormID>dmdieuchuyenns</FormID>
+    <TextID>000</TextID>
+    <TextV>Điều chuyền nhân sự</TextV>
+    <TextE>Điều chuyền nhân sự</TextE>
+  </dmdieuchuyenns>
+  <dmdieuchuyenns>
+    <FormID>dmdieuchuyenns</FormID>
+    <TextID>001</TextID>
+    <TextV>Phòng ban</TextV>
+    <TextE>Phòng ban</TextE>
+  </dmdieuchuyenns>
+  <dmdieuchuyenns>
+    <FormID>dmdieuchuyenns</FormID>
+    <TextID>002</TextID>
+    <TextV>Chức vụ</TextV>
+    <TextE>Chức vụ</TextE>
+  </dmdieuchuyenns>
+  <dmdieuchuyenns>
+    <FormID>dmdieuchuyenns</FormID>
+    <TextID>003</TextID>
+    <TextV>Số quyết định</TextV>
+    <TextE>Số quyết định</TextE>
+  </dmdieuchuyenns>
+  <dmdieuchuyenns>
+    <FormID>dmdieuchuyenns</FormID>
+    <TextID>004</TextID>
+    <TextV>Ngày quyết định</TextV>
+    <TextE>Ngày quyết định</TextE>
+  </dmdieuchuyenns>
+  <dmdieuchuyenns>
+    <FormID>dmdieuchuyenns</FormID>
+    <TextID>005</TextID>
+    <TextV>Ngày bắt đầu</TextV>
+    <TextE>Ngày bắt đầu</TextE>
+  </dmdieuchuyenns>
+  <dmdieuchuyenns>
+    <FormID>dmdieuchuyenns</FormID>
+    <TextID>006</TextID>
+    <TextV>Ngày kết thúc</TextV>
+    <TextE>Ngày kết thúc</TextE>
+  </dmdieuchuyenns>
+  <dmdieuchuyenns>
+    <FormID>dmdieuchuyenns</FormID>
+    <TextID>007</TextID>
+    <TextV>Ghi chú</TextV>
+    <TextE>Ghi chú</TextE>
+  </dmdieuchuyenns>
+  <dmdieuchuyenns>
+    <FormID>dmdieuchuyenns</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Người tạo</TextE>
+  </dmdieuchuyenns>
+  <dmdieuchuyenns>
+    <FormID>dmdieuchuyenns</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Người sửa</TextE>
+  </dmdieuchuyenns>
+  <dmdieuchuyenns>
+    <FormID>dmdieuchuyenns</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Ngày tạo</TextE>
+  </dmdieuchuyenns>
+  <dmdieuchuyenns>
+    <FormID>dmdieuchuyenns</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Ngày sửa</TextE>
+  </dmdieuchuyenns>
+  <dmdieuchuyenns>
+    <FormID>dmdieuchuyenns</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </dmdieuchuyenns>
+  <dmdieuchuyenns>
+    <FormID>dmdieuchuyenns</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dmdieuchuyenns>
+</NewDataSet>

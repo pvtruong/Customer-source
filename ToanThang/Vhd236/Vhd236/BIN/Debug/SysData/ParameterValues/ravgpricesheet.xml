@@ -1,0 +1,92 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="ravgpricesheet" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="ravgpricesheet">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <ravgpricesheet>
+    <Code>ravgpricesheet</Code>
+    <Name>c_dvt</Name>
+    <Type>C</Type>
+    <Value>Đơn vị tính</Value>
+    <Value2>Unit</Value2>
+  </ravgpricesheet>
+  <ravgpricesheet>
+    <Code>ravgpricesheet</Code>
+    <Name>c_ghi_so</Name>
+    <Type>C</Type>
+    <Value>Người ghi sổ</Value>
+    <Value2>Booked Persons</Value2>
+  </ravgpricesheet>
+  <ravgpricesheet>
+    <Code>ravgpricesheet</Code>
+    <Name>c_gia</Name>
+    <Type>C</Type>
+    <Value>Giá trung bình</Value>
+    <Value2>Average</Value2>
+  </ravgpricesheet>
+  <ravgpricesheet>
+    <Code>ravgpricesheet</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên)</Value>
+    <Value2>Sign., (Full Name)</Value2>
+  </ravgpricesheet>
+  <ravgpricesheet>
+    <Code>ravgpricesheet</Code>
+    <Name>c_ma_kho</Name>
+    <Type>C</Type>
+    <Value>Mã kho</Value>
+    <Value2>Site ID</Value2>
+  </ravgpricesheet>
+  <ravgpricesheet>
+    <Code>ravgpricesheet</Code>
+    <Name>c_ma_vt</Name>
+    <Type>C</Type>
+    <Value>Mã vật tư</Value>
+    <Value2>Item Code</Value2>
+  </ravgpricesheet>
+  <ravgpricesheet>
+    <Code>ravgpricesheet</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>Ngày. . . Tháng . . . Năm . . . .</Value>
+    <Value2>Date. . . Month . . . Year . . . .</Value2>
+  </ravgpricesheet>
+  <ravgpricesheet>
+    <Code>ravgpricesheet</Code>
+    <Name>c_ten_kho</Name>
+    <Type>C</Type>
+    <Value>Tên kho</Value>
+    <Value2>Site Name</Value2>
+  </ravgpricesheet>
+  <ravgpricesheet>
+    <Code>ravgpricesheet</Code>
+    <Name>c_ten_vt</Name>
+    <Type>C</Type>
+    <Value>Tên vật tư</Value>
+    <Value2>Item Name</Value2>
+  </ravgpricesheet>
+  <ravgpricesheet>
+    <Code>ravgpricesheet</Code>
+    <Name>c_thang</Name>
+    <Type>C</Type>
+    <Value>Tháng</Value>
+    <Value2>Month</Value2>
+  </ravgpricesheet>
+</NewDataSet>

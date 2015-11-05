@@ -1,0 +1,117 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="hdloaiqd" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="hdloaiqd">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <hdloaiqd>
+    <FormID>hdloaiqd</FormID>
+    <TextID>000</TextID>
+    <TextV>Danh mục loại quyết định</TextV>
+    <TextE>Danh mục loại quyết định</TextE>
+  </hdloaiqd>
+  <hdloaiqd>
+    <FormID>hdloaiqd</FormID>
+    <TextID>001</TextID>
+    <TextV>Mã loại quyết định</TextV>
+    <TextE>Mã loại quyết định</TextE>
+  </hdloaiqd>
+  <hdloaiqd>
+    <FormID>hdloaiqd</FormID>
+    <TextID>002</TextID>
+    <TextV>Tên loại quyết định</TextV>
+    <TextE>Tên loại quyết định</TextE>
+  </hdloaiqd>
+  <hdloaiqd>
+    <FormID>hdloaiqd</FormID>
+    <TextID>003</TextID>
+    <TextV>Tên loại quyết định 2</TextV>
+    <TextE>Tên loại quyết định 2</TextE>
+  </hdloaiqd>
+  <hdloaiqd>
+    <FormID>hdloaiqd</FormID>
+    <TextID>089</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Status</TextE>
+  </hdloaiqd>
+  <hdloaiqd>
+    <FormID>hdloaiqd</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Người tạo</TextE>
+  </hdloaiqd>
+  <hdloaiqd>
+    <FormID>hdloaiqd</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Người sửa</TextE>
+  </hdloaiqd>
+  <hdloaiqd>
+    <FormID>hdloaiqd</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Ngày tạo</TextE>
+  </hdloaiqd>
+  <hdloaiqd>
+    <FormID>hdloaiqd</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Ngày sửa</TextE>
+  </hdloaiqd>
+  <hdloaiqd>
+    <FormID>hdloaiqd</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </hdloaiqd>
+  <hdloaiqd>
+    <FormID>hdloaiqd</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </hdloaiqd>
+  <hdloaiqd>
+    <FormID>hdloaiqd</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </hdloaiqd>
+  <hdloaiqd>
+    <FormID>hdloaiqd</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </hdloaiqd>
+  <hdloaiqd>
+    <FormID>hdloaiqd</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </hdloaiqd>
+  <hdloaiqd>
+    <FormID>hdloaiqd</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </hdloaiqd>
+  <hdloaiqd>
+    <FormID>hdloaiqd</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </hdloaiqd>
+</NewDataSet>

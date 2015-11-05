@@ -1,0 +1,162 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rsothcnkh" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rsothcnkh">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rsothcnkh>
+    <Code>rsothcnkh</Code>
+    <Name>c_ck</Name>
+    <Type>C</Type>
+    <Value>SỐ DƯ CUỐI KỲ</Value>
+    <Value2>SỐ DƯ CUỐI KỲ</Value2>
+  </rsothcnkh>
+  <rsothcnkh>
+    <Code>rsothcnkh</Code>
+    <Name>c_co</Name>
+    <Type>C</Type>
+    <Value>Có</Value>
+    <Value2>Có</Value2>
+  </rsothcnkh>
+  <rsothcnkh>
+    <Code>rsothcnkh</Code>
+    <Name>c_den_ngay</Name>
+    <Type>C</Type>
+    <Value>đến ngày:</Value>
+    <Value2>đến ngày:</Value2>
+  </rsothcnkh>
+  <rsothcnkh>
+    <Code>rsothcnkh</Code>
+    <Name>c_kh</Name>
+    <Type>C</Type>
+    <Value>Khách hàng</Value>
+    <Value2>Khách hàng</Value2>
+  </rsothcnkh>
+  <rsothcnkh>
+    <Code>rsothcnkh</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên)</Value>
+    <Value2>(Ký, họ tên)</Value2>
+  </rsothcnkh>
+  <rsothcnkh>
+    <Code>rsothcnkh</Code>
+    <Name>c_ngay_in</Name>
+    <Type>C</Type>
+    <Value>Ngày in:</Value>
+    <Value2>Ngày in:</Value2>
+  </rsothcnkh>
+  <rsothcnkh>
+    <Code>rsothcnkh</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>Ngày . . . . . tháng . . . . . năm . . . . . . . .</Value>
+    <Value2>Ngày . . . . . tháng . . . . . năm . . . . . . . .</Value2>
+  </rsothcnkh>
+  <rsothcnkh>
+    <Code>rsothcnkh</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Người lập</Value>
+    <Value2>Người lập</Value2>
+  </rsothcnkh>
+  <rsothcnkh>
+    <Code>rsothcnkh</Code>
+    <Name>c_no</Name>
+    <Type>C</Type>
+    <Value>Nợ</Value>
+    <Value2>Nợ</Value2>
+  </rsothcnkh>
+  <rsothcnkh>
+    <Code>rsothcnkh</Code>
+    <Name>c_ps</Name>
+    <Type>C</Type>
+    <Value>Số phát sinh</Value>
+    <Value2>Số phát sinh</Value2>
+  </rsothcnkh>
+  <rsothcnkh>
+    <Code>rsothcnkh</Code>
+    <Name>c_ps_nt</Name>
+    <Type>C</Type>
+    <Value>Số phát sinh ngoại tệ</Value>
+    <Value2>Số phát sinh ngoại tệ</Value2>
+  </rsothcnkh>
+  <rsothcnkh>
+    <Code>rsothcnkh</Code>
+    <Name>c_ps_vnd</Name>
+    <Type>C</Type>
+    <Value>Số phát sinh VND</Value>
+    <Value2>Số phát sinh VND</Value2>
+  </rsothcnkh>
+  <rsothcnkh>
+    <Code>rsothcnkh</Code>
+    <Name>c_ten_tk_du</Name>
+    <Type>C</Type>
+    <Value>Tên tài khoản đối ứng</Value>
+    <Value2>Tên tài khoản đối ứng</Value2>
+  </rsothcnkh>
+  <rsothcnkh>
+    <Code>rsothcnkh</Code>
+    <Name>c_ten_vv</Name>
+    <Type>C</Type>
+    <Value>Tên vụ việc</Value>
+    <Value2>Tên vụ việc</Value2>
+  </rsothcnkh>
+  <rsothcnkh>
+    <Code>rsothcnkh</Code>
+    <Name>c_tk</Name>
+    <Type>C</Type>
+    <Value>Tài khoản</Value>
+    <Value2>Tài khoản</Value2>
+  </rsothcnkh>
+  <rsothcnkh>
+    <Code>rsothcnkh</Code>
+    <Name>c_tk_du</Name>
+    <Type>C</Type>
+    <Value>Tài khoản đối ứng</Value>
+    <Value2>Tài khoản đối ứng</Value2>
+  </rsothcnkh>
+  <rsothcnkh>
+    <Code>rsothcnkh</Code>
+    <Name>c_tong_cong</Name>
+    <Type>C</Type>
+    <Value>Tổng cộng</Value>
+    <Value2>Tổng cộng</Value2>
+  </rsothcnkh>
+  <rsothcnkh>
+    <Code>rsothcnkh</Code>
+    <Name>c_tong_ps</Name>
+    <Type>C</Type>
+    <Value>TỔNG PHÁT SINH TRONG KỲ</Value>
+    <Value2>TỔNG PHÁT SINH TRONG KỲ</Value2>
+  </rsothcnkh>
+  <rsothcnkh>
+    <Code>rsothcnkh</Code>
+    <Name>c_trang</Name>
+    <Type>C</Type>
+    <Value>Trang:</Value>
+    <Value2>Trang:</Value2>
+  </rsothcnkh>
+  <rsothcnkh>
+    <Code>rsothcnkh</Code>
+    <Name>c_tu_ngay</Name>
+    <Type>C</Type>
+    <Value>Từ ngày:</Value>
+    <Value2>Từ ngày:</Value2>
+  </rsothcnkh>
+</NewDataSet>

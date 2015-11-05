@@ -1,0 +1,134 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="HrCongPhep" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="HrCongPhep">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <HrCongPhep>
+    <Code>HrCongPhep</Code>
+    <Name>c_dia_chi</Name>
+    <Type>C</Type>
+    <Value>Địa chỉ:</Value>
+    <Value2>Địa chỉ:</Value2>
+  </HrCongPhep>
+  <HrCongPhep>
+    <Code>HrCongPhep</Code>
+    <Name>c_gd</Name>
+    <Type>C</Type>
+    <Value>Giám đốc</Value>
+    <Value2>Giám đốc</Value2>
+  </HrCongPhep>
+  <HrCongPhep>
+    <Code>HrCongPhep</Code>
+    <Name>c_ho_ten</Name>
+    <Type>C</Type>
+    <Value>Họ &amp; tên</Value>
+    <Value2>Họ &amp; tên</Value2>
+  </HrCongPhep>
+  <HrCongPhep>
+    <Code>HrCongPhep</Code>
+    <Name>c_ktt</Name>
+    <Type>C</Type>
+    <Value>Kế toán trưởng</Value>
+    <Value2>Kế toán trưởng</Value2>
+  </HrCongPhep>
+  <HrCongPhep>
+    <Code>HrCongPhep</Code>
+    <Name>c_ky_nhan</Name>
+    <Type>C</Type>
+    <Value>Ký nhận</Value>
+    <Value2>Ký nhận</Value2>
+  </HrCongPhep>
+  <HrCongPhep>
+    <Code>HrCongPhep</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>( Ký, họ tên)</Value>
+    <Value2>( Ký, họ tên)</Value2>
+  </HrCongPhep>
+  <HrCongPhep>
+    <Code>HrCongPhep</Code>
+    <Name>c_ky_ten_dd</Name>
+    <Type>C</Type>
+    <Value>( Ký, họ tên, đóng dấu)</Value>
+    <Value2>( Ký, họ tên, đóng dấu)</Value2>
+  </HrCongPhep>
+  <HrCongPhep>
+    <Code>HrCongPhep</Code>
+    <Name>c_ma_nv</Name>
+    <Type>C</Type>
+    <Value>Mã</Value>
+    <Value2>Mã</Value2>
+  </HrCongPhep>
+  <HrCongPhep>
+    <Code>HrCongPhep</Code>
+    <Name>c_mst</Name>
+    <Type>C</Type>
+    <Value>Mã số thuế:</Value>
+    <Value2>Mã số thuế:</Value2>
+  </HrCongPhep>
+  <HrCongPhep>
+    <Code>HrCongPhep</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>Ngày........tháng....... năm............</Value>
+    <Value2>Ngày........tháng....... năm............</Value2>
+  </HrCongPhep>
+  <HrCongPhep>
+    <Code>HrCongPhep</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Người lập bảng</Value>
+    <Value2>Người lập bảng</Value2>
+  </HrCongPhep>
+  <HrCongPhep>
+    <Code>HrCongPhep</Code>
+    <Name>c_stt</Name>
+    <Type>C</Type>
+    <Value>STT</Value>
+    <Value2>STT</Value2>
+  </HrCongPhep>
+  <HrCongPhep>
+    <Code>HrCongPhep</Code>
+    <Name>c_thang_nam</Name>
+    <Type>C</Type>
+    <Value>Tháng %m năm %y</Value>
+    <Value2>Tháng %m năm %y</Value2>
+  </HrCongPhep>
+  <HrCongPhep>
+    <Code>HrCongPhep</Code>
+    <Name>c_tong</Name>
+    <Type>C</Type>
+    <Value>TỔNG</Value>
+    <Value2>TỔNG</Value2>
+  </HrCongPhep>
+  <HrCongPhep>
+    <Code>HrCongPhep</Code>
+    <Name>c_tong_cong</Name>
+    <Type>C</Type>
+    <Value>TỔNG CỘNG</Value>
+    <Value2>TỔNG CỘNG</Value2>
+  </HrCongPhep>
+  <HrCongPhep>
+    <Code>HrCongPhep</Code>
+    <Name>ten_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Lê Thị Hương</Value>
+    <Value2>Lê Thị Hương</Value2>
+  </HrCongPhep>
+</NewDataSet>

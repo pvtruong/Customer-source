@@ -1,0 +1,129 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Frestoredata" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Frestoredata">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Frestoredata>
+    <FormID>Frestoredata</FormID>
+    <TextID>000</TextID>
+    <TextV>Khôi phục database</TextV>
+    <TextE>Restore database</TextE>
+  </Frestoredata>
+  <Frestoredata>
+    <FormID>Frestoredata</FormID>
+    <TextID>001</TextID>
+    <TextV>Từ ngày</TextV>
+    <TextE>From date</TextE>
+  </Frestoredata>
+  <Frestoredata>
+    <FormID>Frestoredata</FormID>
+    <TextID>002</TextID>
+    <TextV>Đến ngày</TextV>
+    <TextE>To date</TextE>
+  </Frestoredata>
+  <Frestoredata>
+    <FormID>Frestoredata</FormID>
+    <TextID>003</TextID>
+    <TextV>Các danh mục</TextV>
+    <TextE>Lists</TextE>
+  </Frestoredata>
+  <Frestoredata>
+    <FormID>Frestoredata</FormID>
+    <TextID>004</TextID>
+    <TextV>Các chứng từ</TextV>
+    <TextE>Vouchers</TextE>
+  </Frestoredata>
+  <Frestoredata>
+    <FormID>Frestoredata</FormID>
+    <TextID>005</TextID>
+    <TextV>Đơn vị cơ sở</TextV>
+    <TextE>Units</TextE>
+  </Frestoredata>
+  <Frestoredata>
+    <FormID>Frestoredata</FormID>
+    <TextID>006</TextID>
+    <TextV>Lưu vào file</TextV>
+    <TextE>File name</TextE>
+  </Frestoredata>
+  <Frestoredata>
+    <FormID>Frestoredata</FormID>
+    <TextID>007</TextID>
+    <TextV>Tập dữ liệu</TextV>
+    <TextE>File</TextE>
+  </Frestoredata>
+  <Frestoredata>
+    <FormID>Frestoredata</FormID>
+    <TextID>008</TextID>
+    <TextV>Tùy chọn sao chép</TextV>
+    <TextE>Options</TextE>
+  </Frestoredata>
+  <Frestoredata>
+    <FormID>Frestoredata</FormID>
+    <TextID>011</TextID>
+    <TextV>Tên database</TextV>
+    <TextE>Database name</TextE>
+  </Frestoredata>
+  <Frestoredata>
+    <FormID>Frestoredata</FormID>
+    <TextID>012</TextID>
+    <TextV>Không thể khôi phục dữ liệu</TextV>
+    <TextE>Không thể thực hiện</TextE>
+  </Frestoredata>
+  <Frestoredata>
+    <FormID>Frestoredata</FormID>
+    <TextID>013</TextID>
+    <TextV>Database này đã tồn tại</TextV>
+    <TextE>Database này đã tồn tại</TextE>
+  </Frestoredata>
+  <Frestoredata>
+    <FormID>Frestoredata</FormID>
+    <TextID>800</TextID>
+    <TextV>Database của bạn đã được khôi phục</TextV>
+    <TextE>Process finished</TextE>
+  </Frestoredata>
+  <Frestoredata>
+    <FormID>Frestoredata</FormID>
+    <TextID>801</TextID>
+    <TextV>Thư mục chứa file không tồn tại</TextV>
+    <TextE>Thư mục chứa file không tồn tại</TextE>
+  </Frestoredata>
+  <Frestoredata>
+    <FormID>Frestoredata</FormID>
+    <TextID>802</TextID>
+    <TextV>C2,STP</TextV>
+    <TextE>C2,STP</TextE>
+  </Frestoredata>
+  <Frestoredata>
+    <FormID>Frestoredata</FormID>
+    <TextID>803</TextID>
+    <TextV>C2,STP</TextV>
+    <TextE>C2,STP</TextE>
+  </Frestoredata>
+  <Frestoredata>
+    <FormID>Frestoredata</FormID>
+    <TextID>900</TextID>
+    <TextV>Lưu</TextV>
+    <TextE>Ok</TextE>
+  </Frestoredata>
+  <Frestoredata>
+    <FormID>Frestoredata</FormID>
+    <TextID>901</TextID>
+    <TextV>Hủy</TextV>
+    <TextE>Cancel</TextE>
+  </Frestoredata>
+</NewDataSet>

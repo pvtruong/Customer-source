@@ -1,0 +1,155 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="bckdtheovt" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="bckdtheovt">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <bckdtheovt>
+    <Code>bckdtheovt</Code>
+    <Name>c_ck</Name>
+    <Type>C</Type>
+    <Value>Chiết khấu/ Trả lại</Value>
+    <Value2>Chiết khấu/ Trả lại</Value2>
+  </bckdtheovt>
+  <bckdtheovt>
+    <Code>bckdtheovt</Code>
+    <Name>c_cp_bh</Name>
+    <Type>C</Type>
+    <Value>Chi phí bán hàng</Value>
+    <Value2>Chi phí bán hàng</Value2>
+  </bckdtheovt>
+  <bckdtheovt>
+    <Code>bckdtheovt</Code>
+    <Name>c_cp_ql</Name>
+    <Type>C</Type>
+    <Value>Chi phí quản lý</Value>
+    <Value2>Chi phí quản lý</Value2>
+  </bckdtheovt>
+  <bckdtheovt>
+    <Code>bckdtheovt</Code>
+    <Name>c_den_ngay</Name>
+    <Type>C</Type>
+    <Value>Đến ngày:</Value>
+    <Value2>Đến ngày:</Value2>
+  </bckdtheovt>
+  <bckdtheovt>
+    <Code>bckdtheovt</Code>
+    <Name>c_dien_giai</Name>
+    <Type>C</Type>
+    <Value>Diễn giải</Value>
+    <Value2>Diễn giải</Value2>
+  </bckdtheovt>
+  <bckdtheovt>
+    <Code>bckdtheovt</Code>
+    <Name>c_doanh_thu</Name>
+    <Type>C</Type>
+    <Value>Doanh thu</Value>
+    <Value2>Doanh thu</Value2>
+  </bckdtheovt>
+  <bckdtheovt>
+    <Code>bckdtheovt</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên)</Value>
+    <Value2>(Ký, họ tên)</Value2>
+  </bckdtheovt>
+  <bckdtheovt>
+    <Code>bckdtheovt</Code>
+    <Name>c_lai_gop</Name>
+    <Type>C</Type>
+    <Value>Lãi gộp</Value>
+    <Value2>Lãi gộp</Value2>
+  </bckdtheovt>
+  <bckdtheovt>
+    <Code>bckdtheovt</Code>
+    <Name>c_lai_lo</Name>
+    <Type>C</Type>
+    <Value>Lãi/ Lỗ</Value>
+    <Value2>Lãi/ Lỗ</Value2>
+  </bckdtheovt>
+  <bckdtheovt>
+    <Code>bckdtheovt</Code>
+    <Name>c_ma_hang</Name>
+    <Type>C</Type>
+    <Value>Mã hàng</Value>
+    <Value2>Mã hàng</Value2>
+  </bckdtheovt>
+  <bckdtheovt>
+    <Code>bckdtheovt</Code>
+    <Name>c_ngay_in</Name>
+    <Type>C</Type>
+    <Value>Ngày in:</Value>
+    <Value2>Ngày in:</Value2>
+  </bckdtheovt>
+  <bckdtheovt>
+    <Code>bckdtheovt</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>Ngày . . . .tháng . . . .năm . . . . .  . . .</Value>
+    <Value2>Ngày . . . .tháng . . . .năm . . . . .  . . .</Value2>
+  </bckdtheovt>
+  <bckdtheovt>
+    <Code>bckdtheovt</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Người lập</Value>
+    <Value2>Người lập</Value2>
+  </bckdtheovt>
+  <bckdtheovt>
+    <Code>bckdtheovt</Code>
+    <Name>c_sl</Name>
+    <Type>C</Type>
+    <Value>Số lượng</Value>
+    <Value2>Số lượng</Value2>
+  </bckdtheovt>
+  <bckdtheovt>
+    <Code>bckdtheovt</Code>
+    <Name>c_stt</Name>
+    <Type>C</Type>
+    <Value>STT</Value>
+    <Value2>STT</Value2>
+  </bckdtheovt>
+  <bckdtheovt>
+    <Code>bckdtheovt</Code>
+    <Name>c_tien_von</Name>
+    <Type>C</Type>
+    <Value>Tiền vốn</Value>
+    <Value2>Tiền vốn</Value2>
+  </bckdtheovt>
+  <bckdtheovt>
+    <Code>bckdtheovt</Code>
+    <Name>c_tong_cong</Name>
+    <Type>C</Type>
+    <Value>Tổng cộng</Value>
+    <Value2>Tổng cộng</Value2>
+  </bckdtheovt>
+  <bckdtheovt>
+    <Code>bckdtheovt</Code>
+    <Name>c_trang</Name>
+    <Type>C</Type>
+    <Value>Trang:</Value>
+    <Value2>Trang:</Value2>
+  </bckdtheovt>
+  <bckdtheovt>
+    <Code>bckdtheovt</Code>
+    <Name>c_tu_ngay</Name>
+    <Type>C</Type>
+    <Value>Từ ngày:</Value>
+    <Value2>Từ ngày:</Value2>
+  </bckdtheovt>
+</NewDataSet>

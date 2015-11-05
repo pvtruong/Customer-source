@@ -1,0 +1,129 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dmqtdong_bhxh" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dmqtdong_bhxh">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dmqtdong_bhxh>
+    <FormID>dmqtdong_bhxh</FormID>
+    <TextID>000</TextID>
+    <TextV>Quá trình đóng BHXH</TextV>
+    <TextE>Quá trình đóng BHXH</TextE>
+  </dmqtdong_bhxh>
+  <dmqtdong_bhxh>
+    <FormID>dmqtdong_bhxh</FormID>
+    <TextID>001</TextID>
+    <TextV>Quá trình đóng BHXH</TextV>
+    <TextE>Quá trình đóng BHXH</TextE>
+  </dmqtdong_bhxh>
+  <dmqtdong_bhxh>
+    <FormID>dmqtdong_bhxh</FormID>
+    <TextID>002</TextID>
+    <TextV>Từ ngày</TextV>
+    <TextE>Từ ngày</TextE>
+  </dmqtdong_bhxh>
+  <dmqtdong_bhxh>
+    <FormID>dmqtdong_bhxh</FormID>
+    <TextID>003</TextID>
+    <TextV>Đến ngày</TextV>
+    <TextE>Đến ngày</TextE>
+  </dmqtdong_bhxh>
+  <dmqtdong_bhxh>
+    <FormID>dmqtdong_bhxh</FormID>
+    <TextID>004</TextID>
+    <TextV>Trạng thái đóng BHXH</TextV>
+    <TextE>Trạng thái đóng BHXH</TextE>
+  </dmqtdong_bhxh>
+  <dmqtdong_bhxh>
+    <FormID>dmqtdong_bhxh</FormID>
+    <TextID>005</TextID>
+    <TextV>Ghi chú</TextV>
+    <TextE>Ghi chú</TextE>
+  </dmqtdong_bhxh>
+  <dmqtdong_bhxh>
+    <FormID>dmqtdong_bhxh</FormID>
+    <TextID>089</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Status</TextE>
+  </dmqtdong_bhxh>
+  <dmqtdong_bhxh>
+    <FormID>dmqtdong_bhxh</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Creator</TextE>
+  </dmqtdong_bhxh>
+  <dmqtdong_bhxh>
+    <FormID>dmqtdong_bhxh</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modifỉer</TextE>
+  </dmqtdong_bhxh>
+  <dmqtdong_bhxh>
+    <FormID>dmqtdong_bhxh</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </dmqtdong_bhxh>
+  <dmqtdong_bhxh>
+    <FormID>dmqtdong_bhxh</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </dmqtdong_bhxh>
+  <dmqtdong_bhxh>
+    <FormID>dmqtdong_bhxh</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </dmqtdong_bhxh>
+  <dmqtdong_bhxh>
+    <FormID>dmqtdong_bhxh</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dmqtdong_bhxh>
+  <dmqtdong_bhxh>
+    <FormID>dmqtdong_bhxh</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </dmqtdong_bhxh>
+  <dmqtdong_bhxh>
+    <FormID>dmqtdong_bhxh</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </dmqtdong_bhxh>
+  <dmqtdong_bhxh>
+    <FormID>dmqtdong_bhxh</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </dmqtdong_bhxh>
+  <dmqtdong_bhxh>
+    <FormID>dmqtdong_bhxh</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </dmqtdong_bhxh>
+  <dmqtdong_bhxh>
+    <FormID>dmqtdong_bhxh</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </dmqtdong_bhxh>
+</NewDataSet>

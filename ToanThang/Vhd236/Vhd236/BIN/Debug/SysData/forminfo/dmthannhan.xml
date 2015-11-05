@@ -1,0 +1,141 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dmthannhan" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dmthannhan">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dmthannhan>
+    <FormID>dmthannhan</FormID>
+    <TextID>000</TextID>
+    <TextV>Gia đình</TextV>
+    <TextE>Family</TextE>
+  </dmthannhan>
+  <dmthannhan>
+    <FormID>dmthannhan</FormID>
+    <TextID>001</TextID>
+    <TextV>Mã thân nhân</TextV>
+    <TextE>Dependent ID</TextE>
+  </dmthannhan>
+  <dmthannhan>
+    <FormID>dmthannhan</FormID>
+    <TextID>002</TextID>
+    <TextV>Họ tên thân nhân</TextV>
+    <TextE>Dependent Name</TextE>
+  </dmthannhan>
+  <dmthannhan>
+    <FormID>dmthannhan</FormID>
+    <TextID>003</TextID>
+    <TextV>Quan hệ gia đình</TextV>
+    <TextE>Relation</TextE>
+  </dmthannhan>
+  <dmthannhan>
+    <FormID>dmthannhan</FormID>
+    <TextID>004</TextID>
+    <TextV>Ngày sinh</TextV>
+    <TextE>Birthday</TextE>
+  </dmthannhan>
+  <dmthannhan>
+    <FormID>dmthannhan</FormID>
+    <TextID>005</TextID>
+    <TextV>Giới tính</TextV>
+    <TextE>Male/Female</TextE>
+  </dmthannhan>
+  <dmthannhan>
+    <FormID>dmthannhan</FormID>
+    <TextID>006</TextID>
+    <TextV>Nam</TextV>
+    <TextE>Male</TextE>
+  </dmthannhan>
+  <dmthannhan>
+    <FormID>dmthannhan</FormID>
+    <TextID>007</TextID>
+    <TextV>Nữ</TextV>
+    <TextE>Female</TextE>
+  </dmthannhan>
+  <dmthannhan>
+    <FormID>dmthannhan</FormID>
+    <TextID>008</TextID>
+    <TextV>Địa chỉ</TextV>
+    <TextE>Address</TextE>
+  </dmthannhan>
+  <dmthannhan>
+    <FormID>dmthannhan</FormID>
+    <TextID>009</TextID>
+    <TextV>Điện thoại</TextV>
+    <TextE>Telephone</TextE>
+  </dmthannhan>
+  <dmthannhan>
+    <FormID>dmthannhan</FormID>
+    <TextID>010</TextID>
+    <TextV>Email</TextV>
+    <TextE>Email</TextE>
+  </dmthannhan>
+  <dmthannhan>
+    <FormID>dmthannhan</FormID>
+    <TextID>011</TextID>
+    <TextV>Nghề nghiệp</TextV>
+    <TextE>Profession</TextE>
+  </dmthannhan>
+  <dmthannhan>
+    <FormID>dmthannhan</FormID>
+    <TextID>012</TextID>
+    <TextV>Nơi làm việc</TextV>
+    <TextE>Workplace</TextE>
+  </dmthannhan>
+  <dmthannhan>
+    <FormID>dmthannhan</FormID>
+    <TextID>013</TextID>
+    <TextV>Giảm trừ gia cảnh</TextV>
+    <TextE>Family situation deduction</TextE>
+  </dmthannhan>
+  <dmthannhan>
+    <FormID>dmthannhan</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Created</TextE>
+  </dmthannhan>
+  <dmthannhan>
+    <FormID>dmthannhan</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modify</TextE>
+  </dmthannhan>
+  <dmthannhan>
+    <FormID>dmthannhan</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </dmthannhan>
+  <dmthannhan>
+    <FormID>dmthannhan</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </dmthannhan>
+  <dmthannhan>
+    <FormID>dmthannhan</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </dmthannhan>
+  <dmthannhan>
+    <FormID>dmthannhan</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dmthannhan>
+</NewDataSet>

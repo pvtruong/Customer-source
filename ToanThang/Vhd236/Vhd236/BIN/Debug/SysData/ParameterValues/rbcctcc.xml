@@ -1,0 +1,148 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rbcctcc" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rbcctcc">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rbcctcc>
+    <Code>rbcctcc</Code>
+    <Name>c_cong</Name>
+    <Type>C</Type>
+    <Value>TỔNG CỘNG:</Value>
+    <Value2>TOTAL:</Value2>
+  </rbcctcc>
+  <rbcctcc>
+    <Code>rbcctcc</Code>
+    <Name>c_cuoi</Name>
+    <Type>C</Type>
+    <Value>Cuối</Value>
+    <Value2>End</Value2>
+  </rbcctcc>
+  <rbcctcc>
+    <Code>rbcctcc</Code>
+    <Name>c_dau</Name>
+    <Type>C</Type>
+    <Value>Đầu</Value>
+    <Value2>Top</Value2>
+  </rbcctcc>
+  <rbcctcc>
+    <Code>rbcctcc</Code>
+    <Name>c_gt_cl</Name>
+    <Type>C</Type>
+    <Value>Giá trị còn lại</Value>
+    <Value2>Current Value</Value2>
+  </rbcctcc>
+  <rbcctcc>
+    <Code>rbcctcc</Code>
+    <Name>c_gt_da_kh</Name>
+    <Type>C</Type>
+    <Value>Giá trị đã KH</Value>
+    <Value2>Depreciated Value</Value2>
+  </rbcctcc>
+  <rbcctcc>
+    <Code>rbcctcc</Code>
+    <Name>c_ktt</Name>
+    <Type>C</Type>
+    <Value>Kế toán trưởng</Value>
+    <Value2>Chief Accountant</Value2>
+  </rbcctcc>
+  <rbcctcc>
+    <Code>rbcctcc</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>Ký, họ tên</Value>
+    <Value2>Signature, Full Name</Value2>
+  </rbcctcc>
+  <rbcctcc>
+    <Code>rbcctcc</Code>
+    <Name>c_ky_ten_dd</Name>
+    <Type>C</Type>
+    <Value>Ký, họ tên, đóng dấu</Value>
+    <Value2>Signature, Full Name ,Position</Value2>
+  </rbcctcc>
+  <rbcctcc>
+    <Code>rbcctcc</Code>
+    <Name>c_nam</Name>
+    <Type>C</Type>
+    <Value>Năm</Value>
+    <Value2>Year</Value2>
+  </rbcctcc>
+  <rbcctcc>
+    <Code>rbcctcc</Code>
+    <Name>c_ngay_tang</Name>
+    <Type>C</Type>
+    <Value>Ngày tăng</Value>
+    <Value2>Increase Date</Value2>
+  </rbcctcc>
+  <rbcctcc>
+    <Code>rbcctcc</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>..............., ngày......... tháng........... năm..........</Value>
+    <Value2>..............., date......... month........... year..........</Value2>
+  </rbcctcc>
+  <rbcctcc>
+    <Code>rbcctcc</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Người lập biểu</Value>
+    <Value2>Persons scheduling</Value2>
+  </rbcctcc>
+  <rbcctcc>
+    <Code>rbcctcc</Code>
+    <Name>c_nguyen_gia</Name>
+    <Type>C</Type>
+    <Value>Nguyên giá</Value>
+    <Value2>Original price</Value2>
+  </rbcctcc>
+  <rbcctcc>
+    <Code>rbcctcc</Code>
+    <Name>c_so_ky</Name>
+    <Type>C</Type>
+    <Value>Số kỳ KH</Value>
+    <Value2>Depr. Period</Value2>
+  </rbcctcc>
+  <rbcctcc>
+    <Code>rbcctcc</Code>
+    <Name>c_so_the_ts</Name>
+    <Type>C</Type>
+    <Value>Số thẻ CCDC</Value>
+    <Value2>T&amp;S Card No.</Value2>
+  </rbcctcc>
+  <rbcctcc>
+    <Code>rbcctcc</Code>
+    <Name>c_stt</Name>
+    <Type>C</Type>
+    <Value>STT</Value>
+    <Value2>NO.</Value2>
+  </rbcctcc>
+  <rbcctcc>
+    <Code>rbcctcc</Code>
+    <Name>c_ten_ts</Name>
+    <Type>C</Type>
+    <Value>Tên CCDC</Value>
+    <Value2>T&amp;S Name</Value2>
+  </rbcctcc>
+  <rbcctcc>
+    <Code>rbcctcc</Code>
+    <Name>c_thang</Name>
+    <Type>C</Type>
+    <Value>Tháng</Value>
+    <Value2>Month</Value2>
+  </rbcctcc>
+</NewDataSet>

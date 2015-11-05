@@ -1,0 +1,141 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="hrnv_lam_viec" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="hrnv_lam_viec">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <hrnv_lam_viec>
+    <FormID>hrnv_lam_viec</FormID>
+    <TextID>000</TextID>
+    <TextV>Danh sách nhân viên thực tế làm việc</TextV>
+    <TextE>Danh sách nhân viên thực tế làm việc</TextE>
+  </hrnv_lam_viec>
+  <hrnv_lam_viec>
+    <FormID>hrnv_lam_viec</FormID>
+    <TextID>001</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Filter Condition</TextE>
+  </hrnv_lam_viec>
+  <hrnv_lam_viec>
+    <FormID>hrnv_lam_viec</FormID>
+    <TextID>009</TextID>
+    <TextV>Đơn vị</TextV>
+    <TextE>Unit</TextE>
+  </hrnv_lam_viec>
+  <hrnv_lam_viec>
+    <FormID>hrnv_lam_viec</FormID>
+    <TextID>011</TextID>
+    <TextV>Mẫu báo cáo</TextV>
+    <TextE>Report Form</TextE>
+  </hrnv_lam_viec>
+  <hrnv_lam_viec>
+    <FormID>hrnv_lam_viec</FormID>
+    <TextID>012</TextID>
+    <TextV>Tiêu đề</TextV>
+    <TextE>Title</TextE>
+  </hrnv_lam_viec>
+  <hrnv_lam_viec>
+    <FormID>hrnv_lam_viec</FormID>
+    <TextID>200</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </hrnv_lam_viec>
+  <hrnv_lam_viec>
+    <FormID>hrnv_lam_viec</FormID>
+    <TextID>201</TextID>
+    <TextV>&amp;In</TextV>
+    <TextE>&amp;Print</TextE>
+  </hrnv_lam_viec>
+  <hrnv_lam_viec>
+    <FormID>hrnv_lam_viec</FormID>
+    <TextID>202</TextID>
+    <TextV>&amp;Xem</TextV>
+    <TextE>&amp;View</TextE>
+  </hrnv_lam_viec>
+  <hrnv_lam_viec>
+    <FormID>hrnv_lam_viec</FormID>
+    <TextID>203</TextID>
+    <TextV>Làm tươi</TextV>
+    <TextE>Refresh</TextE>
+  </hrnv_lam_viec>
+  <hrnv_lam_viec>
+    <FormID>hrnv_lam_viec</FormID>
+    <TextID>900</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>&amp;OK</TextE>
+  </hrnv_lam_viec>
+  <hrnv_lam_viec>
+    <FormID>hrnv_lam_viec</FormID>
+    <TextID>901</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </hrnv_lam_viec>
+  <hrnv_lam_viec>
+    <FormID>hrnv_lam_viec</FormID>
+    <TextID>999</TextID>
+    <TextV>Thoát</TextV>
+    <TextE>Close</TextE>
+  </hrnv_lam_viec>
+  <hrnv_lam_viec>
+    <FormID>hrnv_lam_viec</FormID>
+    <TextID>d01</TextID>
+    <TextV>Từ ngày/ Đến ngày</TextV>
+    <TextE>From Date/ To date</TextE>
+  </hrnv_lam_viec>
+  <hrnv_lam_viec>
+    <FormID>hrnv_lam_viec</FormID>
+    <TextID>d02</TextID>
+    <TextV>Mã nhân viên</TextV>
+    <TextE>Employee</TextE>
+  </hrnv_lam_viec>
+  <hrnv_lam_viec>
+    <FormID>hrnv_lam_viec</FormID>
+    <TextID>d03</TextID>
+    <TextV>Mã bộ phận</TextV>
+    <TextE>Department</TextE>
+  </hrnv_lam_viec>
+  <hrnv_lam_viec>
+    <FormID>hrnv_lam_viec</FormID>
+    <TextID>d04</TextID>
+    <TextV>Mã loại nhân viên</TextV>
+    <TextE>Mã loại nhân viên</TextE>
+  </hrnv_lam_viec>
+  <hrnv_lam_viec>
+    <FormID>hrnv_lam_viec</FormID>
+    <TextID>d05</TextID>
+    <TextV>Mã chức vụ</TextV>
+    <TextE>Mã chức vụ</TextE>
+  </hrnv_lam_viec>
+  <hrnv_lam_viec>
+    <FormID>hrnv_lam_viec</FormID>
+    <TextID>d06</TextID>
+    <TextV>Mã công việc</TextV>
+    <TextE>Mã công việc</TextE>
+  </hrnv_lam_viec>
+  <hrnv_lam_viec>
+    <FormID>hrnv_lam_viec</FormID>
+    <TextID>d07</TextID>
+    <TextV>Loại hợp đồng</TextV>
+    <TextE>Loại hợp đồng</TextE>
+  </hrnv_lam_viec>
+  <hrnv_lam_viec>
+    <FormID>hrnv_lam_viec</FormID>
+    <TextID>d09</TextID>
+    <TextV>Nhóm theo</TextV>
+    <TextE>Nhóm theo</TextE>
+  </hrnv_lam_viec>
+</NewDataSet>

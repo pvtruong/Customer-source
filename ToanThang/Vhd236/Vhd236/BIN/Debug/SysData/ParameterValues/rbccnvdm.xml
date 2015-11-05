@@ -1,0 +1,106 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rbccnvdm" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rbccnvdm">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rbccnvdm>
+    <Code>rbccnvdm</Code>
+    <Name>c_den_ngay</Name>
+    <Type>C</Type>
+    <Value>Đến ngày:</Value>
+    <Value2>Đến ngày:</Value2>
+  </rbccnvdm>
+  <rbccnvdm>
+    <Code>rbccnvdm</Code>
+    <Name>c_dinh_muc</Name>
+    <Type>C</Type>
+    <Value>Định mức</Value>
+    <Value2>Định mức</Value2>
+  </rbccnvdm>
+  <rbccnvdm>
+    <Code>rbccnvdm</Code>
+    <Name>c_dm_con_lai</Name>
+    <Type>C</Type>
+    <Value>Định mức còn lại</Value>
+    <Value2>Định mức còn lại</Value2>
+  </rbccnvdm>
+  <rbccnvdm>
+    <Code>rbccnvdm</Code>
+    <Name>c_du_co</Name>
+    <Type>C</Type>
+    <Value>Dư có</Value>
+    <Value2>Dư có</Value2>
+  </rbccnvdm>
+  <rbccnvdm>
+    <Code>rbccnvdm</Code>
+    <Name>c_du_no</Name>
+    <Type>C</Type>
+    <Value>Dư nợ</Value>
+    <Value2>Dư nợ</Value2>
+  </rbccnvdm>
+  <rbccnvdm>
+    <Code>rbccnvdm</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký và ghi rõ họ tên)</Value>
+    <Value2>(Ký và ghi rõ họ tên)</Value2>
+  </rbccnvdm>
+  <rbccnvdm>
+    <Code>rbccnvdm</Code>
+    <Name>c_ma_kh</Name>
+    <Type>C</Type>
+    <Value>Mã KH</Value>
+    <Value2>Mã KH</Value2>
+  </rbccnvdm>
+  <rbccnvdm>
+    <Code>rbccnvdm</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>.................,ngày.........tháng.......năm.............</Value>
+    <Value2>.................,ngày.........tháng.......năm.............</Value2>
+  </rbccnvdm>
+  <rbccnvdm>
+    <Code>rbccnvdm</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Người lập</Value>
+    <Value2>Người lập</Value2>
+  </rbccnvdm>
+  <rbccnvdm>
+    <Code>rbccnvdm</Code>
+    <Name>c_stt</Name>
+    <Type>C</Type>
+    <Value>STT</Value>
+    <Value2>STT</Value2>
+  </rbccnvdm>
+  <rbccnvdm>
+    <Code>rbccnvdm</Code>
+    <Name>c_tai_khoan</Name>
+    <Type>C</Type>
+    <Value>Tài khoản</Value>
+    <Value2>Tài khoản</Value2>
+  </rbccnvdm>
+  <rbccnvdm>
+    <Code>rbccnvdm</Code>
+    <Name>c_ten_kh</Name>
+    <Type>C</Type>
+    <Value>Tên KH</Value>
+    <Value2>Tên KH</Value2>
+  </rbccnvdm>
+</NewDataSet>

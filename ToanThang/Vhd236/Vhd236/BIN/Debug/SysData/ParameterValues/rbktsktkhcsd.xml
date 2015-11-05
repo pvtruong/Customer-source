@@ -1,0 +1,162 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rbktsktkhcsd" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rbktsktkhcsd">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rbktsktkhcsd>
+    <Code>rbktsktkhcsd</Code>
+    <Name>c_den_ky</Name>
+    <Type>C</Type>
+    <Value>Đến tháng</Value>
+    <Value2>To Month</Value2>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <Code>rbktsktkhcsd</Code>
+    <Name>c_den_ngay</Name>
+    <Type>C</Type>
+    <Value>Đến ngày</Value>
+    <Value2>To date:</Value2>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <Code>rbktsktkhcsd</Code>
+    <Name>c_gt_da_kh</Name>
+    <Type>C</Type>
+    <Value>Giá trị đã KH</Value>
+    <Value2>Giá trị đã KH</Value2>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <Code>rbktsktkhcsd</Code>
+    <Name>c_gtdkh</Name>
+    <Type>C</Type>
+    <Value>Giá trị đã KH</Value>
+    <Value2>Giá trị đã KH</Value2>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <Code>rbktsktkhcsd</Code>
+    <Name>c_ktt</Name>
+    <Type>C</Type>
+    <Value>Kế toán trưởng</Value>
+    <Value2>Chief Accountant</Value2>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <Code>rbktsktkhcsd</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>Ký, họ tên</Value>
+    <Value2>Signature, Full Name</Value2>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <Code>rbktsktkhcsd</Code>
+    <Name>c_ma_bp</Name>
+    <Type>C</Type>
+    <Value>Bộ phận</Value>
+    <Value2>Bộ phận</Value2>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <Code>rbktsktkhcsd</Code>
+    <Name>c_ma_tscd</Name>
+    <Type>C</Type>
+    <Value>Mã TSCĐ</Value>
+    <Value2>Mã TSCĐ</Value2>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <Code>rbktsktkhcsd</Code>
+    <Name>c_nam</Name>
+    <Type>C</Type>
+    <Value>năm</Value>
+    <Value2>Year</Value2>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <Code>rbktsktkhcsd</Code>
+    <Name>c_ngay_kt</Name>
+    <Type>C</Type>
+    <Value>Ngày KT</Value>
+    <Value2>Ngày KT</Value2>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <Code>rbktsktkhcsd</Code>
+    <Name>c_ngay_mua</Name>
+    <Type>C</Type>
+    <Value>Ngày mua</Value>
+    <Value2>Ngày mua</Value2>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <Code>rbktsktkhcsd</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>..............., ngày......... tháng........... năm..........</Value>
+    <Value2>..............., date......... month........... year..........</Value2>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <Code>rbktsktkhcsd</Code>
+    <Name>c_ngay_tinh</Name>
+    <Type>C</Type>
+    <Value>Ngày tính</Value>
+    <Value2>Ngày tính</Value2>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <Code>rbktsktkhcsd</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Người lập biểu</Value>
+    <Value2>Persons scheduling</Value2>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <Code>rbktsktkhcsd</Code>
+    <Name>c_nguyen_gia</Name>
+    <Type>C</Type>
+    <Value>Nguyên giá</Value>
+    <Value2>Nguyên giá</Value2>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <Code>rbktsktkhcsd</Code>
+    <Name>c_so_ky</Name>
+    <Type>C</Type>
+    <Value>Số kỳ</Value>
+    <Value2>Số kỳ</Value2>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <Code>rbktsktkhcsd</Code>
+    <Name>c_stt</Name>
+    <Type>C</Type>
+    <Value>STT</Value>
+    <Value2>STT</Value2>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <Code>rbktsktkhcsd</Code>
+    <Name>c_ten_tscd</Name>
+    <Type>C</Type>
+    <Value>Tên TSCĐ</Value>
+    <Value2>Tên TSCĐ</Value2>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <Code>rbktsktkhcsd</Code>
+    <Name>c_tong_trang1</Name>
+    <Type>C</Type>
+    <Value>Sổ này có:</Value>
+    <Value2>This book has</Value2>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <Code>rbktsktkhcsd</Code>
+    <Name>c_tong_trang2</Name>
+    <Type>C</Type>
+    <Value>trang, đánh số từ trang số 1 đến trang</Value>
+    <Value2>pages, is numbered from 1 to</Value2>
+  </rbktsktkhcsd>
+</NewDataSet>

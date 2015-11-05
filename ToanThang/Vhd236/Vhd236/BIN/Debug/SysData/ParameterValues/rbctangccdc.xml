@@ -1,0 +1,169 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rbctangccdc" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rbctangccdc">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rbctangccdc>
+    <Code>rbctangccdc</Code>
+    <Name>c_cong</Name>
+    <Type>C</Type>
+    <Value>Tổng cộng:</Value>
+    <Value2>TOTAL:</Value2>
+  </rbctangccdc>
+  <rbctangccdc>
+    <Code>rbctangccdc</Code>
+    <Name>c_den_ky</Name>
+    <Type>C</Type>
+    <Value>đến tháng</Value>
+    <Value2>To Month</Value2>
+  </rbctangccdc>
+  <rbctangccdc>
+    <Code>rbctangccdc</Code>
+    <Name>c_gt_cl</Name>
+    <Type>C</Type>
+    <Value>Giá trị còn lại</Value>
+    <Value2>Current Value</Value2>
+  </rbctangccdc>
+  <rbctangccdc>
+    <Code>rbctangccdc</Code>
+    <Name>c_gt_da_kh</Name>
+    <Type>C</Type>
+    <Value>Giá trị đã KH</Value>
+    <Value2>Depreciated Value</Value2>
+  </rbctangccdc>
+  <rbctangccdc>
+    <Code>rbctangccdc</Code>
+    <Name>c_gt_kh_ky</Name>
+    <Type>C</Type>
+    <Value>Giá trị KH kỳ này</Value>
+    <Value2>The value of this depreciation period</Value2>
+  </rbctangccdc>
+  <rbctangccdc>
+    <Code>rbctangccdc</Code>
+    <Name>c_ktt</Name>
+    <Type>C</Type>
+    <Value>Kế toán trưởng</Value>
+    <Value2>Chief Accountant</Value2>
+  </rbctangccdc>
+  <rbctangccdc>
+    <Code>rbctangccdc</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>Ký, họ tên</Value>
+    <Value2>Signature, Full Name</Value2>
+  </rbctangccdc>
+  <rbctangccdc>
+    <Code>rbctangccdc</Code>
+    <Name>c_ky_ten_dd</Name>
+    <Type>C</Type>
+    <Value>Ký, họ tên , đón dấu</Value>
+    <Value2>Signature, Full Name , đón dấu</Value2>
+  </rbctangccdc>
+  <rbctangccdc>
+    <Code>rbctangccdc</Code>
+    <Name>c_ly_do</Name>
+    <Type>C</Type>
+    <Value>Lý do</Value>
+    <Value2>Reason</Value2>
+  </rbctangccdc>
+  <rbctangccdc>
+    <Code>rbctangccdc</Code>
+    <Name>c_nam</Name>
+    <Type>C</Type>
+    <Value>năm</Value>
+    <Value2>Year</Value2>
+  </rbctangccdc>
+  <rbctangccdc>
+    <Code>rbctangccdc</Code>
+    <Name>c_ngay_tang</Name>
+    <Type>C</Type>
+    <Value>Ngày tăng</Value>
+    <Value2>Date up</Value2>
+  </rbctangccdc>
+  <rbctangccdc>
+    <Code>rbctangccdc</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>..............., ngày......... tháng........... năm..........</Value>
+    <Value2>..............., date......... month........... year..........</Value2>
+  </rbctangccdc>
+  <rbctangccdc>
+    <Code>rbctangccdc</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Người lập biểu</Value>
+    <Value2>Persons scheduling</Value2>
+  </rbctangccdc>
+  <rbctangccdc>
+    <Code>rbctangccdc</Code>
+    <Name>c_nguyen_gia</Name>
+    <Type>C</Type>
+    <Value>Nguyên giá</Value>
+    <Value2>Original price</Value2>
+  </rbctangccdc>
+  <rbctangccdc>
+    <Code>rbctangccdc</Code>
+    <Name>c_so_ky</Name>
+    <Type>C</Type>
+    <Value>Số kỳ KH (tháng)</Value>
+    <Value2>Depr. Period (month)</Value2>
+  </rbctangccdc>
+  <rbctangccdc>
+    <Code>rbctangccdc</Code>
+    <Name>c_so_the_ts</Name>
+    <Type>C</Type>
+    <Value>Mã ccdc</Value>
+    <Value2>T&amp;S Code</Value2>
+  </rbctangccdc>
+  <rbctangccdc>
+    <Code>rbctangccdc</Code>
+    <Name>c_stt</Name>
+    <Type>C</Type>
+    <Value>STT</Value>
+    <Value2>NO.</Value2>
+  </rbctangccdc>
+  <rbctangccdc>
+    <Code>rbctangccdc</Code>
+    <Name>c_ten_ts</Name>
+    <Type>C</Type>
+    <Value>Tên ccdc</Value>
+    <Value2>T&amp;S Name</Value2>
+  </rbctangccdc>
+  <rbctangccdc>
+    <Code>rbctangccdc</Code>
+    <Name>c_tong_trang1</Name>
+    <Type>C</Type>
+    <Value>Sổ này có:</Value>
+    <Value2>This book has</Value2>
+  </rbctangccdc>
+  <rbctangccdc>
+    <Code>rbctangccdc</Code>
+    <Name>c_tong_trang2</Name>
+    <Type>C</Type>
+    <Value>trang, đánh số từ trang số 1 đến trang</Value>
+    <Value2>pages, is numbered from 1 to</Value2>
+  </rbctangccdc>
+  <rbctangccdc>
+    <Code>rbctangccdc</Code>
+    <Name>c_tu_ky</Name>
+    <Type>C</Type>
+    <Value>Từ tháng</Value>
+    <Value2>From Month</Value2>
+  </rbctangccdc>
+</NewDataSet>

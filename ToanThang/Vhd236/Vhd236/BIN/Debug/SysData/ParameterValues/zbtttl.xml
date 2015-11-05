@@ -1,0 +1,274 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="zbtttl" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="zbtttl">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_bang_chu</Name>
+    <Type>C</Type>
+    <Value>Tổng số tiền (viết bằng chữ ):</Value>
+    <Value2>Tổng số tiền (viết bằng chữ ):</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_bhtn</Name>
+    <Type>C</Type>
+    <Value>1% BH T.Nghiệp</Value>
+    <Value2>1% BH T.Nghiệp</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_bhxh</Name>
+    <Type>C</Type>
+    <Value>6% BHXH</Value>
+    <Value2>6% BHXH</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_bhyt</Name>
+    <Type>C</Type>
+    <Value>1.5% BHYT</Value>
+    <Value2>1.5% BHYT</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_ck_khau_tru</Name>
+    <Type>C</Type>
+    <Value>Các khoản khấu trừ vào lương</Value>
+    <Value2>Các khoản khấu trừ vào lương</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_cong</Name>
+    <Type>C</Type>
+    <Value>Cộng</Value>
+    <Value2>Cộng</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_cv</Name>
+    <Type>C</Type>
+    <Value>Chức danh</Value>
+    <Value2>Chức danh</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_dia_chi</Name>
+    <Type>C</Type>
+    <Value>Địa chỉ:</Value>
+    <Value2>Địa chỉ:</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_doan_phi</Name>
+    <Type>C</Type>
+    <Value>1% Đoàn phí</Value>
+    <Value2>1% Đoàn phí</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_dvtien</Name>
+    <Type>C</Type>
+    <Value>đồng chẵn.</Value>
+    <Value2>đồng chẵn.</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_gd</Name>
+    <Type>C</Type>
+    <Value>Giám đốc</Value>
+    <Value2>Giám đốc</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_ho_ten</Name>
+    <Type>C</Type>
+    <Value>Họ &amp; tên</Value>
+    <Value2>Họ &amp; tên</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_khac</Name>
+    <Type>C</Type>
+    <Value>Khác</Value>
+    <Value2>Khác</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_ktt</Name>
+    <Type>C</Type>
+    <Value>Kế toán trưởng</Value>
+    <Value2>Kế toán trưởng</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_ky_nhan</Name>
+    <Type>C</Type>
+    <Value>Ký nhận</Value>
+    <Value2>Ký nhận</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>( Ký, họ tên)</Value>
+    <Value2>( Ký, họ tên)</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_ky_ten_dd</Name>
+    <Type>C</Type>
+    <Value>( Ký, họ tên, đóng dấu)</Value>
+    <Value2>( Ký, họ tên, đóng dấu)</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_luong_cb</Name>
+    <Type>C</Type>
+    <Value>Lương cơ bản theo thang bảng lương</Value>
+    <Value2>Lương cơ bản theo thang bảng lương</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_luong_phep</Name>
+    <Type>C</Type>
+    <Value>Lương nghỉ phép</Value>
+    <Value2>Lương nghỉ phép</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_luong_them</Name>
+    <Type>C</Type>
+    <Value>Lương làm thêm</Value>
+    <Value2>Lương làm thêm</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_luong_thuc</Name>
+    <Type>C</Type>
+    <Value>Lương thực lĩnh</Value>
+    <Value2>Lương thực lĩnh</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_luong_thuong</Name>
+    <Type>C</Type>
+    <Value>Lương thưởng</Value>
+    <Value2>Lương thưởng</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_mst</Name>
+    <Type>C</Type>
+    <Value>Mã số thuế:</Value>
+    <Value2>Mã số thuế:</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>Ngày........tháng....... năm............</Value>
+    <Value2>Ngày........tháng....... năm............</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Người lập bảng</Value>
+    <Value2>Người lập bảng</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_pc_bh_tra</Name>
+    <Type>C</Type>
+    <Value>Phụ cấp CQ bảo hiểm trả</Value>
+    <Value2>Phụ cấp CQ bảo hiểm trả</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_so_tien</Name>
+    <Type>C</Type>
+    <Value>Số tiền</Value>
+    <Value2>Số tiền</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_stt</Name>
+    <Type>C</Type>
+    <Value>STT</Value>
+    <Value2>STT</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_tam_ung</Name>
+    <Type>C</Type>
+    <Value>Tạm ứng</Value>
+    <Value2>Tạm ứng</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_thang_nam</Name>
+    <Type>C</Type>
+    <Value>Tháng %m năm %y</Value>
+    <Value2>Tháng %m năm %y</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_thue_tncn</Name>
+    <Type>C</Type>
+    <Value>Thuế TNCN</Value>
+    <Value2>Thuế TNCN</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_tien_an</Name>
+    <Type>C</Type>
+    <Value>Tiền ăn</Value>
+    <Value2>Tiền ăn</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_tong</Name>
+    <Type>C</Type>
+    <Value>TỔNG</Value>
+    <Value2>TỔNG</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_tong_cong</Name>
+    <Type>C</Type>
+    <Value>TỔNG CỘNG</Value>
+    <Value2>TỔNG CỘNG</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>c_tong_so</Name>
+    <Type>C</Type>
+    <Value>Tổng số</Value>
+    <Value2>Tổng số</Value2>
+  </zbtttl>
+  <zbtttl>
+    <Code>zbtttl</Code>
+    <Name>docso</Name>
+    <Type>W</Type>
+    <Value>tong_luong</Value>
+    <Value2>tong_luong</Value2>
+  </zbtttl>
+</NewDataSet>

@@ -1,0 +1,169 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rbcctcp" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rbcctcp">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rbcctcp>
+    <Code>rbcctcp</Code>
+    <Name>c_den_ngay</Name>
+    <Type>C</Type>
+    <Value>đến ngày</Value>
+    <Value2>To Date</Value2>
+  </rbcctcp>
+  <rbcctcp>
+    <Code>rbcctcp</Code>
+    <Name>c_dvt</Name>
+    <Type>C</Type>
+    <Value>Đơn vị tính:</Value>
+    <Value2>Unit:</Value2>
+  </rbcctcp>
+  <rbcctcp>
+    <Code>rbcctcp</Code>
+    <Name>c_gd</Name>
+    <Type>C</Type>
+    <Value>Giám đốc</Value>
+    <Value2>Director</Value2>
+  </rbcctcp>
+  <rbcctcp>
+    <Code>rbcctcp</Code>
+    <Name>c_ktt</Name>
+    <Type>C</Type>
+    <Value>Kế toán trưởng</Value>
+    <Value2>Chief Accountant</Value2>
+  </rbcctcp>
+  <rbcctcp>
+    <Code>rbcctcp</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên)</Value>
+    <Value2>Sign., (Full Name)</Value2>
+  </rbcctcp>
+  <rbcctcp>
+    <Code>rbcctcp</Code>
+    <Name>c_ky_ten_dd</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên , đón dấu)</Value>
+    <Value2>Sign., Seal (Full Name and Position)</Value2>
+  </rbcctcp>
+  <rbcctcp>
+    <Code>rbcctcp</Code>
+    <Name>c_ma_dvt</Name>
+    <Type>C</Type>
+    <Value>ĐVT</Value>
+    <Value2>Unit</Value2>
+  </rbcctcp>
+  <rbcctcp>
+    <Code>rbcctcp</Code>
+    <Name>c_ngay_ms</Name>
+    <Type>C</Type>
+    <Value>Ngày mở sổ . . . .</Value>
+    <Value2>On open books . . . .</Value2>
+  </rbcctcp>
+  <rbcctcp>
+    <Code>rbcctcp</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>..............., ngày......... tháng........... năm..........</Value>
+    <Value2>..............., date......... month........... year..........</Value2>
+  </rbcctcp>
+  <rbcctcp>
+    <Code>rbcctcp</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Người lập</Value>
+    <Value2>Founder</Value2>
+  </rbcctcp>
+  <rbcctcp>
+    <Code>rbcctcp</Code>
+    <Name>c_tk</Name>
+    <Type>C</Type>
+    <Value>Tài khoản</Value>
+    <Value2>Account</Value2>
+  </rbcctcp>
+  <rbcctcp>
+    <Code>rbcctcp</Code>
+    <Name>c_tu_ngay</Name>
+    <Type>C</Type>
+    <Value>Từ ngày</Value>
+    <Value2>From Date</Value2>
+  </rbcctcp>
+  <rbcctcp>
+    <Code>rbcctcp</Code>
+    <Name>dien_giai</Name>
+    <Type>C</Type>
+    <Value>Diễn giải</Value>
+    <Value2>Memo</Value2>
+  </rbcctcp>
+  <rbcctcp>
+    <Code>rbcctcp</Code>
+    <Name>ma_bp</Name>
+    <Type>C</Type>
+    <Value>Mã bộ phận</Value>
+    <Value2>Dept.</Value2>
+  </rbcctcp>
+  <rbcctcp>
+    <Code>rbcctcp</Code>
+    <Name>ma_phi</Name>
+    <Type>C</Type>
+    <Value>Mã phí</Value>
+    <Value2>Fee Code</Value2>
+  </rbcctcp>
+  <rbcctcp>
+    <Code>rbcctcp</Code>
+    <Name>ngay_ct</Name>
+    <Type>C</Type>
+    <Value>Ngày chứng từ</Value>
+    <Value2>Voucher Date</Value2>
+  </rbcctcp>
+  <rbcctcp>
+    <Code>rbcctcp</Code>
+    <Name>so_ct</Name>
+    <Type>C</Type>
+    <Value>Số chứng từ</Value>
+    <Value2>Voucher No.</Value2>
+  </rbcctcp>
+  <rbcctcp>
+    <Code>rbcctcp</Code>
+    <Name>stt</Name>
+    <Type>C</Type>
+    <Value>Số thứ tự</Value>
+    <Value2>Order No.</Value2>
+  </rbcctcp>
+  <rbcctcp>
+    <Code>rbcctcp</Code>
+    <Name>tien</Name>
+    <Type>C</Type>
+    <Value>Tiền</Value>
+    <Value2>Amount</Value2>
+  </rbcctcp>
+  <rbcctcp>
+    <Code>rbcctcp</Code>
+    <Name>tk</Name>
+    <Type>C</Type>
+    <Value>Tài khoản</Value>
+    <Value2>Account</Value2>
+  </rbcctcp>
+  <rbcctcp>
+    <Code>rbcctcp</Code>
+    <Name>tk_du</Name>
+    <Type>C</Type>
+    <Value>Tài khoản đối ứng</Value>
+    <Value2>Ref. Acct.</Value2>
+  </rbcctcp>
+</NewDataSet>

@@ -1,0 +1,123 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="hdchucvu" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="hdchucvu">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <hdchucvu>
+    <FormID>hdchucvu</FormID>
+    <TextID>000</TextID>
+    <TextV>Danh mục chức vụ</TextV>
+    <TextE>Danh mục chức vụ</TextE>
+  </hdchucvu>
+  <hdchucvu>
+    <FormID>hdchucvu</FormID>
+    <TextID>001</TextID>
+    <TextV>Mã chức vụ</TextV>
+    <TextE>Group Code Employees</TextE>
+  </hdchucvu>
+  <hdchucvu>
+    <FormID>hdchucvu</FormID>
+    <TextID>002</TextID>
+    <TextV>Tên chức vụ</TextV>
+    <TextE>Group Name Employees</TextE>
+  </hdchucvu>
+  <hdchucvu>
+    <FormID>hdchucvu</FormID>
+    <TextID>003</TextID>
+    <TextV>Tên 2</TextV>
+    <TextE>Tên 2</TextE>
+  </hdchucvu>
+  <hdchucvu>
+    <FormID>hdchucvu</FormID>
+    <TextID>004</TextID>
+    <TextV>Danh mục chức vụ</TextV>
+    <TextE>Danh mục chức vụ</TextE>
+  </hdchucvu>
+  <hdchucvu>
+    <FormID>hdchucvu</FormID>
+    <TextID>089</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Status</TextE>
+  </hdchucvu>
+  <hdchucvu>
+    <FormID>hdchucvu</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Created</TextE>
+  </hdchucvu>
+  <hdchucvu>
+    <FormID>hdchucvu</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modify</TextE>
+  </hdchucvu>
+  <hdchucvu>
+    <FormID>hdchucvu</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </hdchucvu>
+  <hdchucvu>
+    <FormID>hdchucvu</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </hdchucvu>
+  <hdchucvu>
+    <FormID>hdchucvu</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </hdchucvu>
+  <hdchucvu>
+    <FormID>hdchucvu</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </hdchucvu>
+  <hdchucvu>
+    <FormID>hdchucvu</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </hdchucvu>
+  <hdchucvu>
+    <FormID>hdchucvu</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </hdchucvu>
+  <hdchucvu>
+    <FormID>hdchucvu</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </hdchucvu>
+  <hdchucvu>
+    <FormID>hdchucvu</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </hdchucvu>
+  <hdchucvu>
+    <FormID>hdchucvu</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </hdchucvu>
+</NewDataSet>

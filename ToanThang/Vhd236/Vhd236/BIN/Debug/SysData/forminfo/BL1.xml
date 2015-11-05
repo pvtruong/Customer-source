@@ -1,0 +1,309 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="BL1" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="BL1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>000</TextID>
+    <TextV>Hạnh toán lương và các khoản trích</TextV>
+    <TextE>Hạnh toán lương và các khoản trích</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>003</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Status</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>016</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Filter Condition</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>017</TextID>
+    <TextV>Tìm</TextV>
+    <TextE>Sea&amp;rch</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>032</TextID>
+    <TextV>Chi tiết</TextV>
+    <TextE>Details</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Created</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modify</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>204</TextID>
+    <TextV>Số liên</TextV>
+    <TextE>No. of Copies</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>209</TextID>
+    <TextV>Hãy chọn 1 phiếu</TextV>
+    <TextE>Select at least one voucher</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>215</TextID>
+    <TextV>Ngoại tệ</TextV>
+    <TextE>Foreign Currency</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>219</TextID>
+    <TextV>Lưu và thêm mới</TextV>
+    <TextE>Save and Append</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>220</TextID>
+    <TextV>Số chứng từ</TextV>
+    <TextE>Voucher No.</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>221</TextID>
+    <TextV>Ngày chứng từ</TextV>
+    <TextE>Voucher Date</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>227</TextID>
+    <TextV>&amp;In</TextV>
+    <TextE>&amp;Print</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>228</TextID>
+    <TextV>&amp;Xem</TextV>
+    <TextE>&amp;View</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>229</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>230</TextID>
+    <TextV>Tiêu đề</TextV>
+    <TextE>Title</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>231</TextID>
+    <TextV>Mẫu báo cáo</TextV>
+    <TextE>Report Form</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>233</TextID>
+    <TextV>&amp;Tìm</TextV>
+    <TextE>Sea&amp;rch</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>234</TextID>
+    <TextV>Tìm</TextV>
+    <TextE>Sea&amp;rch</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>303</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Status</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>407</TextID>
+    <TextV>Chưa nhập chi tiết</TextV>
+    <TextE>Detail Not Entered</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>409</TextID>
+    <TextV>Tổng tiền lương</TextV>
+    <TextE>Total</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>411</TextID>
+    <TextV>Tổng tiền</TextV>
+    <TextE>Total Amt</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>416</TextID>
+    <TextV>Hoá đơn đã được thanh toán,không thể xóa</TextV>
+    <TextE>Invoice has been paid, Can't delete</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>F00</TextID>
+    <TextV>Lấy dữ liệu từ bảng lương</TextV>
+    <TextE>Lấy dữ liệu từ bảng lương</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>F01</TextID>
+    <TextV>Mã kỳ lương</TextV>
+    <TextE>Mã kỳ lương</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>F02</TextID>
+    <TextV>Từ/đến ngày</TextV>
+    <TextE>Date from/to</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>F03</TextID>
+    <TextV>Bộ phận</TextV>
+    <TextE>Dept.</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>F04</TextID>
+    <TextV>Nhân viên</TextV>
+    <TextE>Nhân viên</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>F90</TextID>
+    <TextV>Lấy dữ liệu</TextV>
+    <TextE>Lấy dữ liệu</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>F91</TextID>
+    <TextV>Từ bảng lương</TextV>
+    <TextE>Từ bảng lương</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>L00</TextID>
+    <TextV>Chương trình đã thực hiện xong. Bạn muốn làm gì tiếp?</TextV>
+    <TextE>The program has done. You want to do next?</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>L01</TextID>
+    <TextV>Thêm &amp;mới</TextV>
+    <TextE>&amp;New</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>L02</TextID>
+    <TextV>Sao &amp;chép</TextV>
+    <TextE>&amp;Copy</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>L03</TextID>
+    <TextV>&amp;In phiếu</TextV>
+    <TextE>&amp;Print</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>L04</TextID>
+    <TextV>&amp;Quay ra</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>L05</TextID>
+    <TextV>Không hiện màn hình này lần sau</TextV>
+    <TextE>This is not the next screen</TextE>
+  </BL1>
+  <BL1>
+    <FormID>BL1</FormID>
+    <TextID>P01</TextID>
+    <TextV>THUONG,TA,BHTRA,KHAC</TextV>
+    <TextE>THUONG,TA,BHTRA,KHAC</TextE>
+  </BL1>
+</NewDataSet>

@@ -1,0 +1,225 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dsctgs" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dsctgs">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>000</TextID>
+    <TextV>Sổ đăng ký chứng từ ghi sổ</TextV>
+    <TextE>Đăng ký chứng từ ghi sổ</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>001</TextID>
+    <TextV>Số thứ tự</TextV>
+    <TextE>Số thứ tự</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>002</TextID>
+    <TextV>Từ/đến ngày</TextV>
+    <TextE>Từ/đến ngày</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>003</TextID>
+    <TextV>Số c.từ ghi sổ</TextV>
+    <TextE>Số c.từ ghi sổ</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>004</TextID>
+    <TextV>Ngày c.từ ghi sổ</TextV>
+    <TextE>Ngày c.từ ghi sổ</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>005</TextID>
+    <TextV>Mã chứng từ</TextV>
+    <TextE>Mã chứng từ</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>006</TextID>
+    <TextV>Diễn giải</TextV>
+    <TextE>Diễn giải</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>007</TextID>
+    <TextV>Tài khoản nợ</TextV>
+    <TextE>Tài khoản nợ</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>008</TextID>
+    <TextV>Ghi nợ/có</TextV>
+    <TextE>Ghi nợ/có</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>009</TextID>
+    <TextV>Tài khoản có</TextV>
+    <TextE>Tài khoản có</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>010</TextID>
+    <TextV>Bộ phận hạch toán</TextV>
+    <TextE>Bộ phận hạch toán</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>011</TextID>
+    <TextV>Vụ việc</TextV>
+    <TextE>Vụ việc</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>012</TextID>
+    <TextV>Lọc</TextV>
+    <TextE>Lọc</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>013</TextID>
+    <TextV>Mã đơn vị</TextV>
+    <TextE>Mã đơn vị</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>014</TextID>
+    <TextV>1 - Ghi nợ, 2 - Ghi có,3 - Cả ghi nợ và ghi có</TextV>
+    <TextE>1 - Ghi nợ, 2 - Ghi có,3 - Cả ghi nợ và ghi có</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>015</TextID>
+    <TextV>1 - Tất cả, 2 - Chứng từ chưa đánh số, 3 - Chứng từ đã đánh số</TextV>
+    <TextE>1 - Tất cả, 2 - Chứng từ chưa đánh số, 3 - Chứng từ đã đánh số</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>089</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Status</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Creator</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modifỉer</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>200</TextID>
+    <TextV>&amp;Đang ký</TextV>
+    <TextE>&amp;Reg</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>201</TextID>
+    <TextV>Chương trình đã thực hiện xong</TextV>
+    <TextE>Finish</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>202</TextID>
+    <TextV>&amp;Hủy đang ký</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>203</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Filter</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>204</TextID>
+    <TextV>Nhận</TextV>
+    <TextE>Ok</TextE>
+  </dsctgs>
+  <dsctgs>
+    <FormID>dsctgs</FormID>
+    <TextID>205</TextID>
+    <TextV>Thoát</TextV>
+    <TextE>Exit</TextE>
+  </dsctgs>
+</NewDataSet>

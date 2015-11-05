@@ -1,0 +1,273 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="gt_dmyt" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="gt_dmyt">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>000</TextID>
+    <TextV>Danh mục yếu tố</TextV>
+    <TextE>Factor List</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>001</TextID>
+    <TextV>Mã yếu tố</TextV>
+    <TextE>Factor Code</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>002</TextID>
+    <TextV>Tên yếu tố</TextV>
+    <TextE>Factor NAme</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>003</TextID>
+    <TextV>Tên yếu tố 2</TextV>
+    <TextE>Factor NAme 2</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>004</TextID>
+    <TextV>Loại yếu tố</TextV>
+    <TextE>Factor Type</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>005</TextID>
+    <TextV>Nhóm yếu tố</TextV>
+    <TextE>Factor Group</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>006</TextID>
+    <TextV>Kiểu yếu tố</TextV>
+    <TextE>Factor Style</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>007</TextID>
+    <TextV>Cộng/trừ</TextV>
+    <TextE>Plus/Sub</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>008</TextID>
+    <TextV>DS tài khoản nợ</TextV>
+    <TextE>List of Dr. Account</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>009</TextID>
+    <TextV>DS tài khoản có</TextV>
+    <TextE>List of Cr. Account</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>010</TextID>
+    <TextV>Tài khoản dở dang</TextV>
+    <TextE>WIP Account</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>011</TextID>
+    <TextV>Tập hợp chi phí theo</TextV>
+    <TextE>Gather cost by</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>012</TextID>
+    <TextV>Sản phẩm</TextV>
+    <TextE>Product</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>013</TextID>
+    <TextV>Bộ phận trung gian</TextV>
+    <TextE>Dept.</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>014</TextID>
+    <TextV>Lệnh sản xuất</TextV>
+    <TextE>Manufacturing Order</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>015</TextID>
+    <TextV>Công đoạn</TextV>
+    <TextE>Section</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>016</TextID>
+    <TextV>Nguyên vật liệu</TextV>
+    <TextE>Material</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>017</TextID>
+    <TextV>DS yếu tố tính hệ số</TextV>
+    <TextE>Factor calculation coefficients list</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>018</TextID>
+    <TextV>Tính hệ số theo</TextV>
+    <TextE>Calculated coefficients by</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>019</TextID>
+    <TextV>1-Phát sinh trong kỳ,2-Giá thành</TextV>
+    <TextE>1 - Arising, 2 - Cost</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>020</TextID>
+    <TextV>1-Cộng thêm,2-Giảm trừ</TextV>
+    <TextE>1 - Add, 2 - Subtract</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>021</TextID>
+    <TextV>Có dở dang cuối kỳ</TextV>
+    <TextE>Có dở dang cuối kỳ</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>022</TextID>
+    <TextV>Phân bổ theo số lượng</TextV>
+    <TextE>Allocate by Quantity</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>080</TextID>
+    <TextV>Công đoạn</TextV>
+    <TextE>Công đoạn</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>081</TextID>
+    <TextV>Phương thức tập hợp chi phí</TextV>
+    <TextE>Phương thức tập hợp chi phí</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>085</TextID>
+    <TextV>Khác</TextV>
+    <TextE>Khác</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>086</TextID>
+    <TextV>Phương thức phân bổ</TextV>
+    <TextE>Phương thức phân bổ</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>087</TextID>
+    <TextV>Không theo bộ phận</TextV>
+    <TextE>Không theo bộ phận</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>088</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Status</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>089</TextID>
+    <TextV>Phân bổ theo ytcp</TextV>
+    <TextE>Phân bổ theo ytcp</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Created</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modify</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </gt_dmyt>
+  <gt_dmyt>
+    <FormID>gt_dmyt</FormID>
+    <TextID>811</TextID>
+    <TextV>Yếu tố trung gian</TextV>
+    <TextE>Yếu tố trung gian</TextE>
+  </gt_dmyt>
+</NewDataSet>

@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rthcpsxdoituong" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rthcpsxdoituong">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rthcpsxdoituong>
+    <Code>rthcpsxdoituong</Code>
+    <Name>c_chi_tieu</Name>
+    <Type>C</Type>
+    <Value>Chi tiêu</Value>
+    <Value2>Article</Value2>
+  </rthcpsxdoituong>
+  <rthcpsxdoituong>
+    <Code>rthcpsxdoituong</Code>
+    <Name>c_den_ngay</Name>
+    <Type>C</Type>
+    <Value>đến ngày</Value>
+    <Value2>To Date</Value2>
+  </rthcpsxdoituong>
+  <rthcpsxdoituong>
+    <Code>rthcpsxdoituong</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên)</Value>
+    <Value2>Sign., (Full Name)</Value2>
+  </rthcpsxdoituong>
+  <rthcpsxdoituong>
+    <Code>rthcpsxdoituong</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>..............., ngày......... tháng........... năm..........</Value>
+    <Value2>..............., date......... month........... year..........</Value2>
+  </rthcpsxdoituong>
+  <rthcpsxdoituong>
+    <Code>rthcpsxdoituong</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Người lập</Value>
+    <Value2>Founder</Value2>
+  </rthcpsxdoituong>
+  <rthcpsxdoituong>
+    <Code>rthcpsxdoituong</Code>
+    <Name>c_tu_ngay</Name>
+    <Type>C</Type>
+    <Value>Từ ngày</Value>
+    <Value2>From Date</Value2>
+  </rthcpsxdoituong>
+  <rthcpsxdoituong>
+    <Code>rthcpsxdoituong</Code>
+    <Name>du_an</Name>
+    <Type>C</Type>
+    <Value>Dự án</Value>
+    <Value2>Project</Value2>
+  </rthcpsxdoituong>
+  <rthcpsxdoituong>
+    <Code>rthcpsxdoituong</Code>
+    <Name>stt</Name>
+    <Type>C</Type>
+    <Value>Số thứ tự</Value>
+    <Value2>Order No.</Value2>
+  </rthcpsxdoituong>
+  <rthcpsxdoituong>
+    <Code>rthcpsxdoituong</Code>
+    <Name>vu_viec</Name>
+    <Type>C</Type>
+    <Value>Vụ việc</Value>
+    <Value2>Job ID</Value2>
+  </rthcpsxdoituong>
+</NewDataSet>

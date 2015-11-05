@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="gt_ctgtsp" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="gt_ctgtsp">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsv" type="xs:string" minOccurs="0" />
+                <xs:element name="columnse" type="xs:string" minOccurs="0" />
+                <xs:element name="headersv" type="xs:string" minOccurs="0" />
+                <xs:element name="headerse" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <gt_ctgtsp>
+    <gridid>gt_ctgtsp</gridid>
+    <columnsv>ma_sp,ma_bp,so_lsx,sl_tp,gia,tien,gia_dc,tien_dc</columnsv>
+    <columnse>ma_sp,ma_bp,so_lsx,sl_tp,gia,tien,gia_dc,tien_dc</columnse>
+    <headersv>Mã sản phẩm,Mã bộ phận,Số LSX,SL thành phẩm,Giá,Tiền,Giá điều chỉnh,Tiền điều chỉnh</headersv>
+    <headerse>Product Code ,Dept. ID,Manufacturing Order No. ,SL thành phẩm,Price,Amount,Ajd. Price  ,Ajd. Amount</headerse>
+    <widths>100,100,100,100,100,100,100,100</widths>
+    <formats>,,,,,,,</formats>
+    <readonlys>1,1,1,1,1,1,1,1</readonlys>
+    <hides>0,0,0,0,0,0,0,0</hides>
+    <defaultvalues>,,,,,,,</defaultvalues>
+    <carrys>0,0,0,0,0,0,0,0</carrys>
+  </gt_ctgtsp>
+</NewDataSet>

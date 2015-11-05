@@ -1,0 +1,33 @@
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Debug\rptV51_bcpt.exe
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Debug\rptV51_bcpt.pdb
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Debug\rptV51_bcpt.xml
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Debug\ClsVno.dll
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Debug\office.dll
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Debug\Ionic.Zip.dll
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Debug\clsab.dll
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Debug\DriveInfoEx.dll
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Debug\clsPopUp.dll
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Debug\ClsPilot.dll
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Debug\clsPermit4Field.dll
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Debug\ClsRight.dll
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Debug\Interop.Excel.dll
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Debug\ClsSqlRemoting.dll
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Debug\ClsMath.dll
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Debug\office.xml
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Debug\ResolveAssemblyReference.cache
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Debug\rptV51_bcpt.frmfilter.resources
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Debug\rptV51_bcpt.frminput.resources
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Debug\rptV51_bcpt.frmkbmau.resources
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Debug\rptV51_bcpt.MainForm.resources
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Debug\rptV51_bcpt.Resources.resources
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Debug\rptV51_bcpt.vbproj.GenerateResource.Cache
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Debug\rptV51_bcpt.exe
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Debug\rptV51_bcpt.xml
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Debug\rptV51_bcpt.pdb
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Debug\rptV51_bcpt.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Debug\rptV51_bcpt.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Debug\rptV51_bcpt.pdb
+H:\info_company\source_customers\ToanThang\bcssttdt\bcssttdt\obj\Debug\rptV51_bcpt.exe
+H:\info_company\source_customers\ToanThang\bcssttdt\bcssttdt\obj\Debug\rptV51_bcpt.xml
+H:\info_company\source_customers\ToanThang\bcssttdt\bcssttdt\obj\Debug\rptV51_bcpt.pdb

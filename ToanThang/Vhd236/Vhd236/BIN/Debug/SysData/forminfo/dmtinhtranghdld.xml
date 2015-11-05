@@ -1,0 +1,117 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dmtinhtranghdld" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dmtinhtranghdld">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dmtinhtranghdld>
+    <FormID>dmtinhtranghdld</FormID>
+    <TextID>000</TextID>
+    <TextV>Danh Mục Tình Trạng Hợp Đồng Lao Động</TextV>
+    <TextE>The list status of labor contract</TextE>
+  </dmtinhtranghdld>
+  <dmtinhtranghdld>
+    <FormID>dmtinhtranghdld</FormID>
+    <TextID>001</TextID>
+    <TextV>Mã tình trạng</TextV>
+    <TextE>Code status</TextE>
+  </dmtinhtranghdld>
+  <dmtinhtranghdld>
+    <FormID>dmtinhtranghdld</FormID>
+    <TextID>002</TextID>
+    <TextV>Tình trạng HĐLĐ</TextV>
+    <TextE>the status of labor contract</TextE>
+  </dmtinhtranghdld>
+  <dmtinhtranghdld>
+    <FormID>dmtinhtranghdld</FormID>
+    <TextID>003</TextID>
+    <TextV>Tình trạng HĐLĐ 2</TextV>
+    <TextE>the status of labor contract 2</TextE>
+  </dmtinhtranghdld>
+  <dmtinhtranghdld>
+    <FormID>dmtinhtranghdld</FormID>
+    <TextID>089</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Status</TextE>
+  </dmtinhtranghdld>
+  <dmtinhtranghdld>
+    <FormID>dmtinhtranghdld</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Creator</TextE>
+  </dmtinhtranghdld>
+  <dmtinhtranghdld>
+    <FormID>dmtinhtranghdld</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modifỉer</TextE>
+  </dmtinhtranghdld>
+  <dmtinhtranghdld>
+    <FormID>dmtinhtranghdld</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </dmtinhtranghdld>
+  <dmtinhtranghdld>
+    <FormID>dmtinhtranghdld</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </dmtinhtranghdld>
+  <dmtinhtranghdld>
+    <FormID>dmtinhtranghdld</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </dmtinhtranghdld>
+  <dmtinhtranghdld>
+    <FormID>dmtinhtranghdld</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dmtinhtranghdld>
+  <dmtinhtranghdld>
+    <FormID>dmtinhtranghdld</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </dmtinhtranghdld>
+  <dmtinhtranghdld>
+    <FormID>dmtinhtranghdld</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </dmtinhtranghdld>
+  <dmtinhtranghdld>
+    <FormID>dmtinhtranghdld</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </dmtinhtranghdld>
+  <dmtinhtranghdld>
+    <FormID>dmtinhtranghdld</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </dmtinhtranghdld>
+  <dmtinhtranghdld>
+    <FormID>dmtinhtranghdld</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </dmtinhtranghdld>
+</NewDataSet>

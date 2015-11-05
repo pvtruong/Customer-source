@@ -1,0 +1,1065 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="options" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="options">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="stt" type="xs:decimal" minOccurs="0" />
+                <xs:element name="name" type="xs:string" minOccurs="0" />
+                <xs:element name="GroupCode" type="xs:string" minOccurs="0" />
+                <xs:element name="GroupTilte1" type="xs:string" minOccurs="0" />
+                <xs:element name="GroupTitle2" type="xs:string" minOccurs="0" />
+                <xs:element name="Title1" type="xs:string" minOccurs="0" />
+                <xs:element name="Title2" type="xs:string" minOccurs="0" />
+                <xs:element name="Value1" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+                <xs:element name="des1" type="xs:string" minOccurs="0" />
+                <xs:element name="des2" type="xs:string" minOccurs="0" />
+                <xs:element name="type" type="xs:string" minOccurs="0" />
+                <xs:element name="reg" type="xs:boolean" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <options>
+    <stt>0</stt>
+    <name>a_dtht</name>
+    <GroupCode>acc</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Đồng tiền hoạch toán</Title1>
+    <Title2>Đồng tiền hoạch toán</Title2>
+    <Value1>VND</Value1>
+    <Value2>VND</Value2>
+    <des1>Mã đồng tiền hạch toán</des1>
+    <des2 />
+    <type />
+    <reg>true</reg>
+  </options>
+  <options>
+    <stt>16</stt>
+    <name>a_tcltg</name>
+    <GroupCode>acc</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Tính chênh lệch tỷ giá tự động</Title1>
+    <Title2>Tính chênh lệch tỷ giá tự động</Title2>
+    <Value1>1</Value1>
+    <Value2>1</Value2>
+    <des1>1- Tính,0 - Không tính</des1>
+    <des2>1- Tính,0 - Không tính</des2>
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>4</stt>
+    <name>ap_cl_pxc</name>
+    <GroupCode>stock</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Áp giá chênh lệch vào phiếu xuất cuối cùng</Title1>
+    <Title2>Áp giá chênh lệch vào phiếu xuất cuối cùng</Title2>
+    <Value1>0</Value1>
+    <Value2>0</Value2>
+    <des1>1- Có, 0- Không</des1>
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>0</stt>
+    <name>aset_tkhtn</name>
+    <GroupCode>aset</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Tính khấu hao theo ngày</Title1>
+    <Title2>Tính khấu hao theo ngày</Title2>
+    <Value1>0</Value1>
+    <Value2>0</Value2>
+    <des1 />
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>1</stt>
+    <name>auto_edit</name>
+    <GroupCode>sys</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Tự động hiện chi tiết khi xem chứng từ</Title1>
+    <Title2>Tự động hiện chi tiết khi xem chứng từ</Title2>
+    <Value1>0</Value1>
+    <Value2>0</Value2>
+    <des1>Tự động hiện chi tiết khi xem chứng từ</des1>
+    <des2>Tự động hiện chi tiết khi xem chứng từ</des2>
+    <type />
+    <reg>true</reg>
+  </options>
+  <options>
+    <stt>1</stt>
+    <name>ccdc_tkhtn</name>
+    <GroupCode>aset</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Phân bổ công cụ dụng theo ngày</Title1>
+    <Title2>Phân bổ công cụ dụng theo ngày</Title2>
+    <Value1>0</Value1>
+    <Value2>0</Value2>
+    <des1 />
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>10</stt>
+    <name>chat_yn</name>
+    <GroupCode>sys</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Cho phép sử dụng hệ thống gửi tin nhắn tức thời</Title1>
+    <Title2>Cho phép sử dụng hệ thống chat</Title2>
+    <Value1>0</Value1>
+    <Value2>0</Value2>
+    <des1 />
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>9</stt>
+    <name>chk_max</name>
+    <GroupCode>stock</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Kiểm tra tồn tối đa</Title1>
+    <Title2>Kiểm tra tồn tối đa</Title2>
+    <Value1>0</Value1>
+    <Value2>0</Value2>
+    <des1 />
+    <des2 />
+    <type />
+    <reg>true</reg>
+  </options>
+  <options>
+    <stt>12</stt>
+    <name>chk_xuat_am</name>
+    <GroupCode>stock</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Không cho phép xuất kho âm</Title1>
+    <Title2>Không cho phép xuất kho âm</Title2>
+    <Value1>0</Value1>
+    <Value2>0</Value2>
+    <des1 />
+    <des2 />
+    <type />
+    <reg>true</reg>
+  </options>
+  <options>
+    <stt>99</stt>
+    <name>chkupdate</name>
+    <GroupCode>sys</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Tự động kiểm tra bản nâng cấp chương trình</Title1>
+    <Title2>Auto check update</Title2>
+    <Value1>0</Value1>
+    <Value2>0</Value2>
+    <des1 />
+    <des2 />
+    <type />
+    <reg>true</reg>
+  </options>
+  <options>
+    <stt>2</stt>
+    <name>cmd_table</name>
+    <GroupCode>other</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Bảng chức năng</Title1>
+    <Title2>function table</Title2>
+    <Value1>command</Value1>
+    <Value2>command</Value2>
+    <des1>Bảng chức năng</des1>
+    <des2 />
+    <type />
+    <reg>true</reg>
+  </options>
+  <options>
+    <stt>1</stt>
+    <name>cty_address</name>
+    <GroupCode>ctyinfo</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Địa chỉ</Title1>
+    <Title2>Address</Title2>
+    <Value1>11B Nguyễn Bỉnh Khiêm, P.Bến Nghé, Quận 1, TP.Hồ Chí Minh</Value1>
+    <Value2 />
+    <des1 />
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>8</stt>
+    <name>cty_dcts</name>
+    <GroupCode>ctyinfo</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Địa chỉ trụ sở</Title1>
+    <Title2>Địa chỉ chủ sở</Title2>
+    <Value1>11B Nguyễn Bỉnh Khiêm, P.Bến Nghé</Value1>
+    <Value2 />
+    <des1 />
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>4</stt>
+    <name>cty_email</name>
+    <GroupCode>ctyinfo</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Email</Title1>
+    <Title2>Email</Title2>
+    <Value1>info@toanthang.vn</Value1>
+    <Value2 />
+    <des1 />
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>3</stt>
+    <name>cty_fax</name>
+    <GroupCode>ctyinfo</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Fax</Title1>
+    <Title2>Fax</Title2>
+    <Value1>08.39115644</Value1>
+    <Value2 />
+    <des1 />
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>12</stt>
+    <name>cty_gd</name>
+    <GroupCode>ctyinfo</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Giám đốc</Title1>
+    <Title2>Giám đốc</Title2>
+    <Value1 />
+    <Value2 />
+    <des1 />
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>12</stt>
+    <name>cty_ktluong</name>
+    <GroupCode>ctyinfo</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Kế toán lương</Title1>
+    <Title2>Accounting salary</Title2>
+    <Value1 />
+    <Value2 />
+    <des1 />
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>11</stt>
+    <name>cty_ktt</name>
+    <GroupCode>ctyinfo</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Kế toán trưởng</Title1>
+    <Title2>Kế toán trưởng</Title2>
+    <Value1 />
+    <Value2 />
+    <des1 />
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>7</stt>
+    <name>cty_mst</name>
+    <GroupCode>ctyinfo</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Mã số thuế</Title1>
+    <Title2>Tax code</Title2>
+    <Value1>0301439464</Value1>
+    <Value2 />
+    <des1 />
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>0</stt>
+    <name>cty_name</name>
+    <GroupCode>ctyinfo</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Tên công ty</Title1>
+    <Title2>Company name</Title2>
+    <Value1>CÔNG TY CỔ PHẦN KỸ THUẬT TOÀN THẮNG</Value1>
+    <Value2 />
+    <des1 />
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>6</stt>
+    <name>cty_nnt</name>
+    <GroupCode>ctyinfo</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Người ký báo cáo thuế</Title1>
+    <Title2>Người ký báo cáo thuế</Title2>
+    <Value1>Hoàng Xuân Lộc</Value1>
+    <Value2 />
+    <des1 />
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>2</stt>
+    <name>cty_phone</name>
+    <GroupCode>ctyinfo</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Điện thoại</Title1>
+    <Title2>Điện thoại</Title2>
+    <Value1>08.39115611</Value1>
+    <Value2 />
+    <des1 />
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>9</stt>
+    <name>cty_qh</name>
+    <GroupCode>ctyinfo</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Quận/huyện</Title1>
+    <Title2>Quận/huyện</Title2>
+    <Value1>1</Value1>
+    <Value2>1</Value2>
+    <des1 />
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>10</stt>
+    <name>cty_tp</name>
+    <GroupCode>ctyinfo</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Tỉnh/Thành phố</Title1>
+    <Title2>Tỉnh/Thành phố</Title2>
+    <Value1>Hồ Chí Minh</Value1>
+    <Value2>Ho Chi Minh</Value2>
+    <des1 />
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>5</stt>
+    <name>cty_website</name>
+    <GroupCode>ctyinfo</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Website</Title1>
+    <Title2>Website</Title2>
+    <Value1>www.toanthang.vn</Value1>
+    <Value2 />
+    <des1 />
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>2</stt>
+    <name>dm_nb</name>
+    <GroupCode>gt</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Tính định mức nhiều bước</Title1>
+    <Title2>Tính định mức nhiều bước</Title2>
+    <Value1>0</Value1>
+    <Value2>0</Value2>
+    <des1>1- Có, 0- Không</des1>
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>46</stt>
+    <name>ds_tk_cn_pthu</name>
+    <GroupCode>acc</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Danh sách tài khoản công nợ phải thu</Title1>
+    <Title2>Danh sách tài khoản công nợ phải thu</Title2>
+    <Value1>131</Value1>
+    <Value2>131</Value2>
+    <des1>Danh sách tài khoản công nợ phải thu</des1>
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>47</stt>
+    <name>ds_tk_cn_ptra</name>
+    <GroupCode>acc</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Danh sách tài khoản công nợ phải trả</Title1>
+    <Title2>Danh sách tài khoản công nợ phải trả</Title2>
+    <Value1>331</Value1>
+    <Value2>331</Value2>
+    <des1>Danh sách tài khoản công nợ phải trả</des1>
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>10</stt>
+    <name>ds_tk_no_bp</name>
+    <GroupCode>acc</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Danh sách tài khoản nợ bắt buộc nhập mã bộ phận</Title1>
+    <Title2>Danh sách tài khoản nợ bắt buộc nhập mã bộ phận</Title2>
+    <Value1 />
+    <Value2 />
+    <des1>Danh sách tài khoản nợ bắt buộc nhập mã bộ phận</des1>
+    <des2 />
+    <type />
+    <reg>true</reg>
+  </options>
+  <options>
+    <stt>9</stt>
+    <name>ds_tk_no_dt</name>
+    <GroupCode>acc</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Danh sách tài khoản nợ bắt buộc nhập mã vụ việc</Title1>
+    <Title2>Danh sách tài khoản nợ bắt buộc nhập mã vụ việc</Title2>
+    <Value1 />
+    <Value2 />
+    <des1>Danh sách tài khoản nợ bắt buộc nhập mã vụ việc</des1>
+    <des2 />
+    <type />
+    <reg>true</reg>
+  </options>
+  <options>
+    <stt>11</stt>
+    <name>ds_tk_no_phi</name>
+    <GroupCode>acc</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Danh sách tài khoản nợ bắt buộc nhập mã phí</Title1>
+    <Title2>Danh sách tài khoản nợ bắt buộc nhập mã phí</Title2>
+    <Value1 />
+    <Value2 />
+    <des1>Danh sách tài khoản nợ bắt buộc nhập mã phí</des1>
+    <des2 />
+    <type />
+    <reg>true</reg>
+  </options>
+  <options>
+    <stt>1</stt>
+    <name>dt_autobackup</name>
+    <GroupCode>dtinfo</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Tự động lưu trữ</Title1>
+    <Title2>Tự động lưu trữ</Title2>
+    <Value1>1</Value1>
+    <Value2>1</Value2>
+    <des1>1 - Có,  0 - Không</des1>
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>0</stt>
+    <name>dt_dirbackup</name>
+    <GroupCode>dtinfo</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Thư mục lưu trữ số liệu trên máy chủ</Title1>
+    <Title2>Thư mục lưu trữ số liệu trên máy chủ</Title2>
+    <Value1>D:\SaoTienPhong\Backup\</Value1>
+    <Value2>D:\SaoTienPhong\Backup\</Value2>
+    <des1>Thư mục backup của chương trinh</des1>
+    <des2 />
+    <type />
+    <reg>true</reg>
+  </options>
+  <options>
+    <stt>2</stt>
+    <name>dt_timebackup</name>
+    <GroupCode>dtinfo</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Thời điểm lưu trữ</Title1>
+    <Title2>Thời điểm lưu trữ</Title2>
+    <Value1>11:20,16:30</Value1>
+    <Value2>11:20,16:30</Value2>
+    <des1>Lư trữ vào thời điểm</des1>
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>1</stt>
+    <name>dv_yn</name>
+    <GroupCode>system</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Xem chi tiết chứng từ trước khi sửa</Title1>
+    <Title2>Xem chi tiết chứng từ trước khi sửa</Title2>
+    <Value1>0</Value1>
+    <Value2>0</Value2>
+    <des1 />
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>9</stt>
+    <name>f_gia</name>
+    <GroupCode>fnumber</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Định dạng trường giá</Title1>
+    <Title2>Định dạng trường giá</Title2>
+    <Value1>0</Value1>
+    <Value2>0</Value2>
+    <des1>Định dang số lẻ</des1>
+    <des2 />
+    <type />
+    <reg>true</reg>
+  </options>
+  <options>
+    <stt>8</stt>
+    <name>f_gia_nt</name>
+    <GroupCode>fnumber</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Định dạng trường giá ngoại tệ</Title1>
+    <Title2>Định dạng trường giá ngoại tệ</Title2>
+    <Value1>0</Value1>
+    <Value2>0</Value2>
+    <des1>Định dang số lẻ</des1>
+    <des2 />
+    <type />
+    <reg>true</reg>
+  </options>
+  <options>
+    <stt>6</stt>
+    <name>f_luong</name>
+    <GroupCode>fnumber</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Định dạng trường tiền lương</Title1>
+    <Title2>Định dạng trường tiền lương</Title2>
+    <Value1>0</Value1>
+    <Value2>0</Value2>
+    <des1>Định dang số lẻ</des1>
+    <des2 />
+    <type />
+    <reg>true</reg>
+  </options>
+  <options>
+    <stt>13</stt>
+    <name>f_pchn</name>
+    <GroupCode>fnumber</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Dấu phân cách hàng nghìn</Title1>
+    <Title2>Dấu phân cách hàng ngàn</Title2>
+    <Value1>.</Value1>
+    <Value2>.</Value2>
+    <des1>Dấu phân cách hàng nghìn khi viết số</des1>
+    <des2 />
+    <type />
+    <reg>true</reg>
+  </options>
+  <options>
+    <stt>14</stt>
+    <name>f_pcta</name>
+    <GroupCode>fnumber</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Phân cách tiếng anh</Title1>
+    <Title2>Phân cách tiếng anh</Title2>
+    <Value1>|</Value1>
+    <Value2>|</Value2>
+    <des1>Dấu phân cách tiếng anh</des1>
+    <des2 />
+    <type />
+    <reg>true</reg>
+  </options>
+  <options>
+    <stt>12</stt>
+    <name>f_pctp</name>
+    <GroupCode>fnumber</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Dấu phân cách thập phân</Title1>
+    <Title2>Dấu phân cách thập phân</Title2>
+    <Value1>,</Value1>
+    <Value2>,</Value2>
+    <des1>Dấu phân cách số thập phân khi viết số</des1>
+    <des2 />
+    <type />
+    <reg>true</reg>
+  </options>
+  <options>
+    <stt>1</stt>
+    <name>f_sl</name>
+    <GroupCode>fnumber</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Định dạng trường số lượng</Title1>
+    <Title2>Định dạng trường số lượng</Title2>
+    <Value1>0</Value1>
+    <Value2>0</Value2>
+    <des1>Định dang số lẻ</des1>
+    <des2 />
+    <type />
+    <reg>true</reg>
+  </options>
+  <options>
+    <stt>9</stt>
+    <name>f_stt</name>
+    <GroupCode>fnumber</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Định dạng trường số thứ tự</Title1>
+    <Title2>Định dạng trường số thứ tự</Title2>
+    <Value1>-1</Value1>
+    <Value2>-1</Value2>
+    <des1>-1 -Không định dạng, 0 -Không có số lẻ</des1>
+    <des2 />
+    <type />
+    <reg>true</reg>
+  </options>
+  <options>
+    <stt>2</stt>
+    <name>f_tien</name>
+    <GroupCode>fnumber</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Định dạng trường tiền</Title1>
+    <Title2>Định dạng trường tiền</Title2>
+    <Value1>0</Value1>
+    <Value2>0</Value2>
+    <des1>Định dang số lẻ</des1>
+    <des2 />
+    <type />
+    <reg>true</reg>
+  </options>
+  <options>
+    <stt>3</stt>
+    <name>f_tien_nt</name>
+    <GroupCode>fnumber</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Định dạng trường tiền ngoại tệ</Title1>
+    <Title2>Định dạng trường tiền ngoại tệ</Title2>
+    <Value1>2</Value1>
+    <Value2>2</Value2>
+    <des1>Định dang số lẻ</des1>
+    <des2 />
+    <type />
+    <reg>true</reg>
+  </options>
+  <options>
+    <stt>5</stt>
+    <name>f_ty_gia</name>
+    <GroupCode>fnumber</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Định dạng trường tỷ giá</Title1>
+    <Title2>Định dạng trường tỷ giá</Title2>
+    <Value1>0</Value1>
+    <Value2>0</Value2>
+    <des1>Định dang số lẻ</des1>
+    <des2 />
+    <type />
+    <reg>true</reg>
+  </options>
+  <options>
+    <stt>0</stt>
+    <name>gt_bp</name>
+    <GroupCode>gt</GroupCode>
+    <GroupTilte1>Giá thành</GroupTilte1>
+    <GroupTitle2>Giá thành</GroupTitle2>
+    <Title1>Tính giá thành theo bộ phận</Title1>
+    <Title2>Tính giá thành theo bộ phận</Title2>
+    <Value1>1</Value1>
+    <Value2>1</Value2>
+    <des1>1- Có, 0- Không</des1>
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>1</stt>
+    <name>gt_lsx</name>
+    <GroupCode>gt</GroupCode>
+    <GroupTilte1>Giá thành</GroupTilte1>
+    <GroupTitle2>Giá thành</GroupTitle2>
+    <Title1>Tính giá thành theo lệnh sản xuất</Title1>
+    <Title2>Tính giá thành theo lệnh sản xuất</Title2>
+    <Value1>0</Value1>
+    <Value2>0</Value2>
+    <des1>1- Có, 0- Không</des1>
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>3</stt>
+    <name>gt_sp</name>
+    <GroupCode>gt</GroupCode>
+    <GroupTilte1>Giá thành</GroupTilte1>
+    <GroupTitle2>Giá thành</GroupTitle2>
+    <Title1>Tính giá thành theo sản phẩm</Title1>
+    <Title2>Tính giá thành theo sản phẩm</Title2>
+    <Value1>1</Value1>
+    <Value2>1</Value2>
+    <des1>1- Có, 0- Không</des1>
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>2</stt>
+    <name>hr_ct_luong</name>
+    <GroupCode>hrminfo</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Cách tính lương tháng</Title1>
+    <Title2>Cách tính lương tháng</Title2>
+    <Value1>1</Value1>
+    <Value2>1</Value2>
+    <des1>1 - theo ngày công chuẩn, 2 - theo ngày thực tế trong tháng</des1>
+    <des2>1 - theo ngày công chuẩn, 2 - theo ngày thực tế trong tháng</des2>
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>3</stt>
+    <name>hr_ngay_chuan</name>
+    <GroupCode>hrminfo</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Số ngày làm việc chuẩn trong tháng</Title1>
+    <Title2>Số ngày làm việc chuẩn trong tháng</Title2>
+    <Value1>24</Value1>
+    <Value2>24</Value2>
+    <des1>Sử dụng để tính lương tháng theo ngày công chuẩn</des1>
+    <des2>Sử dụng để tính lương tháng theo ngày công chuẩn</des2>
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>1</stt>
+    <name>hr_ngay_tuan</name>
+    <GroupCode>hrminfo</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Số ngày làm việc trong tuần</Title1>
+    <Title2>Số ngày làm việc trong tuần</Title2>
+    <Value1>5</Value1>
+    <Value2>5</Value2>
+    <des1 />
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>0</stt>
+    <name>ma_ctpndc</name>
+    <GroupCode>stock</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Mã chứng từ phiếu nhập điều chuyển</Title1>
+    <Title2>Mã chứng từ phiếu nhập dc</Title2>
+    <Value1>PNC</Value1>
+    <Value2>PNC</Value2>
+    <des1>Mã chứng từ phiếu nhập điều chuyển</des1>
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>1</stt>
+    <name>ma_ctPXCL</name>
+    <GroupCode>stock</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Mã chứng từ phiếu xuất chênh lệch</Title1>
+    <Title2>Mã chứng từ phiếu xuất chênh lệch</Title2>
+    <Value1>PXZ</Value1>
+    <Value2>PXZ</Value2>
+    <des1>Mã chứng từ phiếu xuất chênh lệch</des1>
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>8</stt>
+    <name>ntxt_type</name>
+    <GroupCode>stock</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Cách tính giá NTXT</Title1>
+    <Title2>Cách tính giá NTXT</Title2>
+    <Value1>1</Value1>
+    <Value2>1</Value2>
+    <des1>1-Theo ngày, 2-Theo tháng</des1>
+    <des2>1-Theo ngày/2-theo tháng</des2>
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>88</stt>
+    <name>PrintByMsWord</name>
+    <GroupCode>sys</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>In chứng từ thông qua Ms Word</Title1>
+    <Title2>Print by Ms Word</Title2>
+    <Value1>0</Value1>
+    <Value2>0</Value2>
+    <des1>1 - Có, 0- không</des1>
+    <des2 />
+    <type />
+    <reg>true</reg>
+  </options>
+  <options>
+    <stt>5</stt>
+    <name>tao_x0</name>
+    <GroupCode>stock</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Tạo phiếu xuất chênh lệch trong trường hợp vật tư không xuất trong kỳ</Title1>
+    <Title2>Tạo phiếu xuất chênh lệch trong trường hợp vật tư không xuất trong kỳ</Title2>
+    <Value1>1</Value1>
+    <Value2>1</Value2>
+    <des1>1- Có, 0- Không</des1>
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>45</stt>
+    <name>td_cn_vdm</name>
+    <GroupCode>acc</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Theo dõi công nợ vượt định mức</Title1>
+    <Title2>Theo dõi công nợ vượt định mức</Title2>
+    <Value1>1</Value1>
+    <Value2>1</Value2>
+    <des1>Theo dõi công nợ vượt định mức</des1>
+    <des2 />
+    <type />
+    <reg>true</reg>
+  </options>
+  <options>
+    <stt>5</stt>
+    <name>tg_theo_tt</name>
+    <GroupCode>stock</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Tính giá xuất kho theo thuộc tính</Title1>
+    <Title2>Tính giá xuất kho theo thuộc tính</Title2>
+    <Value1>1</Value1>
+    <Value2>1</Value2>
+    <des1 />
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>2</stt>
+    <name>tgchung</name>
+    <GroupCode>stock</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Tính giá chung hay riêng</Title1>
+    <Title2>Tính giá chung hay riêng</Title2>
+    <Value1>2</Value1>
+    <Value2>2</Value2>
+    <des1>1- Giá chung, 2- Giá cho từng kho</des1>
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>3</stt>
+    <name>tgngoaite</name>
+    <GroupCode>stock</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Tính giá trung bình ngoại tệ</Title1>
+    <Title2>Tính giá trung bình ngoại tệ</Title2>
+    <Value1>1</Value1>
+    <Value2>1</Value2>
+    <des1>1- Có, 0- Không</des1>
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>1</stt>
+    <name>timeout</name>
+    <GroupCode>other</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Thời gian sử dụng</Title1>
+    <Title2>Time out</Title2>
+    <Value1>2</Value1>
+    <Value2>2</Value2>
+    <des1 />
+    <des2 />
+    <type />
+    <reg>true</reg>
+  </options>
+  <options>
+    <stt>3</stt>
+    <name>tk_cp_tt</name>
+    <GroupCode>acc</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Tài khoản chi phí tất toán cho các hóa đơn</Title1>
+    <Title2>Tài khoản chi phí tất toán cho các hóa đơn</Title2>
+    <Value1>6351</Value1>
+    <Value2>6351</Value2>
+    <des1>Tài khoản chênh lệch khi tất toán hóa đơn</des1>
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>2</stt>
+    <name>tk_dt_tt</name>
+    <GroupCode>acc</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Tài khoản doanh thu tất toán cho các hóa đơn</Title1>
+    <Title2>Tài khoản doanh thu tất toán cho các hóa đơn</Title2>
+    <Value1>7113</Value1>
+    <Value2>7113</Value2>
+    <des1>Tài khoản chênh lệch khi khách hàng tất toán hóa đơn</des1>
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>4</stt>
+    <name>tk_khu_trung</name>
+    <GroupCode>acc</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Danh sách tài khoản khử trùng</Title1>
+    <Title2>Danh sách tài khoản khử trùng</Title2>
+    <Value1>111,112</Value1>
+    <Value2>111,112</Value2>
+    <des1>Danh sách tài khoản khử trùng</des1>
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>1</stt>
+    <name>tk_kq_kd</name>
+    <GroupCode>acc</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Tài khoản kết quả kinh doanh</Title1>
+    <Title2>Tài khoản kết quả kinh doanh</Title2>
+    <Value1>911</Value1>
+    <Value2>911</Value2>
+    <des1>Tài khoản kết quả kinh doanh</des1>
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>12</stt>
+    <name>tt_thue</name>
+    <GroupCode>acc</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Báo cáo thuế theo thông tư</Title1>
+    <Title2>Báo cáo thuế theo thông tư</Title2>
+    <Value1>TT28</Value1>
+    <Value2>TT28</Value2>
+    <des1>Báo cáo thuế theo thông tư</des1>
+    <des2 />
+    <type />
+    <reg>false</reg>
+  </options>
+  <options>
+    <stt>2</stt>
+    <name>v_orderby</name>
+    <GroupCode>sys</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Sắp xếp chứng từ</Title1>
+    <Title2>Sắp xếp chứng từ</Title2>
+    <Value1>ngay_tao</Value1>
+    <Value2>ngay_tao</Value2>
+    <des1 />
+    <des2 />
+    <type />
+    <reg>true</reg>
+  </options>
+  <options>
+    <stt>0</stt>
+    <name>workstation</name>
+    <GroupCode>acc</GroupCode>
+    <GroupTilte1 />
+    <GroupTitle2 />
+    <Title1>Nhóm dữ liệu</Title1>
+    <Title2>workstation</Title2>
+    <Value1>A</Value1>
+    <Value2>A</Value2>
+    <des1>Phân nhóm dữ liệu khi sao chép dữ liệu</des1>
+    <des2 />
+    <type />
+    <reg>true</reg>
+  </options>
+</NewDataSet>

@@ -1,0 +1,204 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rbkct_cot_tk" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rbkct_cot_tk">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rbkct_cot_tk>
+    <Code>rbkct_cot_tk</Code>
+    <Name>c_chung_tu</Name>
+    <Type>C</Type>
+    <Value>Chứng từ</Value>
+    <Value2>Chứng từ</Value2>
+  </rbkct_cot_tk>
+  <rbkct_cot_tk>
+    <Code>rbkct_cot_tk</Code>
+    <Name>c_den_ngay</Name>
+    <Type>C</Type>
+    <Value>đến ngày:</Value>
+    <Value2>đến ngày:</Value2>
+  </rbkct_cot_tk>
+  <rbkct_cot_tk>
+    <Code>rbkct_cot_tk</Code>
+    <Name>c_dien_giai</Name>
+    <Type>C</Type>
+    <Value>Diễn giải</Value>
+    <Value2>Diễn giải</Value2>
+  </rbkct_cot_tk>
+  <rbkct_cot_tk>
+    <Code>rbkct_cot_tk</Code>
+    <Name>c_ktgs</Name>
+    <Type>C</Type>
+    <Value>KẾ TOÁN GHI SỔ</Value>
+    <Value2>KẾ TOÁN GHI SỔ</Value2>
+  </rbkct_cot_tk>
+  <rbkct_cot_tk>
+    <Code>rbkct_cot_tk</Code>
+    <Name>c_ktt</Name>
+    <Type>C</Type>
+    <Value>KẾ TOÁN TRƯỞNG</Value>
+    <Value2>KẾ TOÁN TRƯỞNG</Value2>
+  </rbkct_cot_tk>
+  <rbkct_cot_tk>
+    <Code>rbkct_cot_tk</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên)</Value>
+    <Value2>(Ký, họ tên)</Value2>
+  </rbkct_cot_tk>
+  <rbkct_cot_tk>
+    <Code>rbkct_cot_tk</Code>
+    <Name>c_ky_ten_dd</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên, đóng dấu)</Value>
+    <Value2>(Ký, họ tên, đóng dấu)</Value2>
+  </rbkct_cot_tk>
+  <rbkct_cot_tk>
+    <Code>rbkct_cot_tk</Code>
+    <Name>c_ma_kh</Name>
+    <Type>C</Type>
+    <Value>Mã khách hàng</Value>
+    <Value2>Mã khách hàng</Value2>
+  </rbkct_cot_tk>
+  <rbkct_cot_tk>
+    <Code>rbkct_cot_tk</Code>
+    <Name>c_ma_nt</Name>
+    <Type>C</Type>
+    <Value>Mã ngoại tệ</Value>
+    <Value2>Mã ngoại tệ</Value2>
+  </rbkct_cot_tk>
+  <rbkct_cot_tk>
+    <Code>rbkct_cot_tk</Code>
+    <Name>c_ngay</Name>
+    <Type>C</Type>
+    <Value>Ngày</Value>
+    <Value2>Ngày</Value2>
+  </rbkct_cot_tk>
+  <rbkct_cot_tk>
+    <Code>rbkct_cot_tk</Code>
+    <Name>c_ngay_in</Name>
+    <Type>C</Type>
+    <Value>Ngày in:</Value>
+    <Value2>Ngày in:</Value2>
+  </rbkct_cot_tk>
+  <rbkct_cot_tk>
+    <Code>rbkct_cot_tk</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>Ngày . . . . tháng . . . . . năm . . . . . . . . .</Value>
+    <Value2>Ngày . . . . tháng . . . . . năm . . . . . . . . .</Value2>
+  </rbkct_cot_tk>
+  <rbkct_cot_tk>
+    <Code>rbkct_cot_tk</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Ngưới lập</Value>
+    <Value2>Ngưới lập</Value2>
+  </rbkct_cot_tk>
+  <rbkct_cot_tk>
+    <Code>rbkct_cot_tk</Code>
+    <Name>c_ps_co</Name>
+    <Type>C</Type>
+    <Value>Phát sinh có</Value>
+    <Value2>Phát sinh có</Value2>
+  </rbkct_cot_tk>
+  <rbkct_cot_tk>
+    <Code>rbkct_cot_tk</Code>
+    <Name>c_ps_co_nt</Name>
+    <Type>C</Type>
+    <Value>Phát sinh có ngoại tệ</Value>
+    <Value2>Phát sinh có ngoại tệ</Value2>
+  </rbkct_cot_tk>
+  <rbkct_cot_tk>
+    <Code>rbkct_cot_tk</Code>
+    <Name>c_ps_co_vnd</Name>
+    <Type>C</Type>
+    <Value>Phát sinh có VND</Value>
+    <Value2>Phát sinh có VND</Value2>
+  </rbkct_cot_tk>
+  <rbkct_cot_tk>
+    <Code>rbkct_cot_tk</Code>
+    <Name>c_ps_no</Name>
+    <Type>C</Type>
+    <Value>Phát sinh nợ</Value>
+    <Value2>Phát sinh nợ</Value2>
+  </rbkct_cot_tk>
+  <rbkct_cot_tk>
+    <Code>rbkct_cot_tk</Code>
+    <Name>c_ps_no_nt</Name>
+    <Type>C</Type>
+    <Value>Phát sinh nợ ngoại tệ</Value>
+    <Value2>Phát sinh nợ ngoại tệ</Value2>
+  </rbkct_cot_tk>
+  <rbkct_cot_tk>
+    <Code>rbkct_cot_tk</Code>
+    <Name>c_ps_no_vnd</Name>
+    <Type>C</Type>
+    <Value>Phát sinh nợ VND</Value>
+    <Value2>Phát sinh nợ VND</Value2>
+  </rbkct_cot_tk>
+  <rbkct_cot_tk>
+    <Code>rbkct_cot_tk</Code>
+    <Name>c_so</Name>
+    <Type>C</Type>
+    <Value>Số</Value>
+    <Value2>Số</Value2>
+  </rbkct_cot_tk>
+  <rbkct_cot_tk>
+    <Code>rbkct_cot_tk</Code>
+    <Name>c_ten_kh</Name>
+    <Type>C</Type>
+    <Value>Tên khách hàng</Value>
+    <Value2>Tên khách hàng</Value2>
+  </rbkct_cot_tk>
+  <rbkct_cot_tk>
+    <Code>rbkct_cot_tk</Code>
+    <Name>c_tk</Name>
+    <Type>C</Type>
+    <Value>Tài khoản</Value>
+    <Value2>Tài khoản</Value2>
+  </rbkct_cot_tk>
+  <rbkct_cot_tk>
+    <Code>rbkct_cot_tk</Code>
+    <Name>c_tk_du</Name>
+    <Type>C</Type>
+    <Value>Tài khoản đối ứng</Value>
+    <Value2>Tài khoản đối ứng</Value2>
+  </rbkct_cot_tk>
+  <rbkct_cot_tk>
+    <Code>rbkct_cot_tk</Code>
+    <Name>c_tong_cong</Name>
+    <Type>C</Type>
+    <Value>Tổng cộng</Value>
+    <Value2>Tổng cộng</Value2>
+  </rbkct_cot_tk>
+  <rbkct_cot_tk>
+    <Code>rbkct_cot_tk</Code>
+    <Name>c_tu_ngay</Name>
+    <Type>C</Type>
+    <Value>Từ ngày:</Value>
+    <Value2>Từ ngày:</Value2>
+  </rbkct_cot_tk>
+  <rbkct_cot_tk>
+    <Code>rbkct_cot_tk</Code>
+    <Name>c_ty_gia</Name>
+    <Type>C</Type>
+    <Value>Tỷ giá</Value>
+    <Value2>Tỷ giá</Value2>
+  </rbkct_cot_tk>
+</NewDataSet>

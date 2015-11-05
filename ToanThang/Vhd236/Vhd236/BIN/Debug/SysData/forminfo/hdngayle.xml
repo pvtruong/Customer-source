@@ -1,0 +1,123 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="hdngayle" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="hdngayle">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <hdngayle>
+    <FormID>hdngayle</FormID>
+    <TextID>000</TextID>
+    <TextV>Danh mục ngày lễ, tết được nghỉ</TextV>
+    <TextE>Danh mục ngày lễ, tết được nghỉ</TextE>
+  </hdngayle>
+  <hdngayle>
+    <FormID>hdngayle</FormID>
+    <TextID>089</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Status</TextE>
+  </hdngayle>
+  <hdngayle>
+    <FormID>hdngayle</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Creator</TextE>
+  </hdngayle>
+  <hdngayle>
+    <FormID>hdngayle</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modifỉer</TextE>
+  </hdngayle>
+  <hdngayle>
+    <FormID>hdngayle</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </hdngayle>
+  <hdngayle>
+    <FormID>hdngayle</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </hdngayle>
+  <hdngayle>
+    <FormID>hdngayle</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </hdngayle>
+  <hdngayle>
+    <FormID>hdngayle</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </hdngayle>
+  <hdngayle>
+    <FormID>hdngayle</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </hdngayle>
+  <hdngayle>
+    <FormID>hdngayle</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </hdngayle>
+  <hdngayle>
+    <FormID>hdngayle</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </hdngayle>
+  <hdngayle>
+    <FormID>hdngayle</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </hdngayle>
+  <hdngayle>
+    <FormID>hdngayle</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </hdngayle>
+  <hdngayle>
+    <FormID>hdngayle</FormID>
+    <TextID>d01</TextID>
+    <TextV>Ngày</TextV>
+    <TextE>Ngày</TextE>
+  </hdngayle>
+  <hdngayle>
+    <FormID>hdngayle</FormID>
+    <TextID>d02</TextID>
+    <TextV>Năm</TextV>
+    <TextE>Năm</TextE>
+  </hdngayle>
+  <hdngayle>
+    <FormID>hdngayle</FormID>
+    <TextID>d03</TextID>
+    <TextV>Ý nghĩa</TextV>
+    <TextE>Ý nghĩa</TextE>
+  </hdngayle>
+  <hdngayle>
+    <FormID>hdngayle</FormID>
+    <TextID>d90</TextID>
+    <TextV>Tạo các ngày nghỉ trong năm (chưa tính nghỉ bù)</TextV>
+    <TextE>Tạo các ngày nghỉ dương lịch</TextE>
+  </hdngayle>
+</NewDataSet>

@@ -1,0 +1,171 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="nkcv" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="nkcv">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <nkcv>
+    <FormID>nkcv</FormID>
+    <TextID>000</TextID>
+    <TextV>Kế hoạch làm việc</TextV>
+    <TextE>Kế hoạch làm việc</TextE>
+  </nkcv>
+  <nkcv>
+    <FormID>nkcv</FormID>
+    <TextID>001</TextID>
+    <TextV>Nơi làm việc</TextV>
+    <TextE>Nơi làm việc</TextE>
+  </nkcv>
+  <nkcv>
+    <FormID>nkcv</FormID>
+    <TextID>002</TextID>
+    <TextV>Từ giờ</TextV>
+    <TextE>Từ giờ</TextE>
+  </nkcv>
+  <nkcv>
+    <FormID>nkcv</FormID>
+    <TextID>003</TextID>
+    <TextV>Đến giờ</TextV>
+    <TextE>Đến giờ</TextE>
+  </nkcv>
+  <nkcv>
+    <FormID>nkcv</FormID>
+    <TextID>004</TextID>
+    <TextV>Giờ</TextV>
+    <TextE>Giờ</TextE>
+  </nkcv>
+  <nkcv>
+    <FormID>nkcv</FormID>
+    <TextID>005</TextID>
+    <TextV>Phút</TextV>
+    <TextE>Phút</TextE>
+  </nkcv>
+  <nkcv>
+    <FormID>nkcv</FormID>
+    <TextID>006</TextID>
+    <TextV>Loại công việc</TextV>
+    <TextE>Loại công việc</TextE>
+  </nkcv>
+  <nkcv>
+    <FormID>nkcv</FormID>
+    <TextID>007</TextID>
+    <TextV>Tiến độ</TextV>
+    <TextE>Tiến độ</TextE>
+  </nkcv>
+  <nkcv>
+    <FormID>nkcv</FormID>
+    <TextID>008</TextID>
+    <TextV>Chi tiết công việc</TextV>
+    <TextE>Chi tiết công việc</TextE>
+  </nkcv>
+  <nkcv>
+    <FormID>nkcv</FormID>
+    <TextID>009</TextID>
+    <TextV>Khách hàng</TextV>
+    <TextE>customers</TextE>
+  </nkcv>
+  <nkcv>
+    <FormID>nkcv</FormID>
+    <TextID>010</TextID>
+    <TextV>Ghi chú</TextV>
+    <TextE>Ghi chú</TextE>
+  </nkcv>
+  <nkcv>
+    <FormID>nkcv</FormID>
+    <TextID>011</TextID>
+    <TextV>Nhân viên</TextV>
+    <TextE>Nhân viên</TextE>
+  </nkcv>
+  <nkcv>
+    <FormID>nkcv</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Người tạo</TextE>
+  </nkcv>
+  <nkcv>
+    <FormID>nkcv</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Người sửa</TextE>
+  </nkcv>
+  <nkcv>
+    <FormID>nkcv</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Ngày tạo</TextE>
+  </nkcv>
+  <nkcv>
+    <FormID>nkcv</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Ngày sửa</TextE>
+  </nkcv>
+  <nkcv>
+    <FormID>nkcv</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>&amp;Ok</TextE>
+  </nkcv>
+  <nkcv>
+    <FormID>nkcv</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </nkcv>
+  <nkcv>
+    <FormID>nkcv</FormID>
+    <TextID>100</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>Chức năng</TextE>
+  </nkcv>
+  <nkcv>
+    <FormID>nkcv</FormID>
+    <TextID>101</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </nkcv>
+  <nkcv>
+    <FormID>nkcv</FormID>
+    <TextID>102</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </nkcv>
+  <nkcv>
+    <FormID>nkcv</FormID>
+    <TextID>103</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </nkcv>
+  <nkcv>
+    <FormID>nkcv</FormID>
+    <TextID>104</TextID>
+    <TextV>&amp;Đóng</TextV>
+    <TextE>&amp;Close</TextE>
+  </nkcv>
+  <nkcv>
+    <FormID>nkcv</FormID>
+    <TextID>105</TextID>
+    <TextV>Ngày</TextV>
+    <TextE>Date</TextE>
+  </nkcv>
+  <nkcv>
+    <FormID>nkcv</FormID>
+    <TextID>106</TextID>
+    <TextV>Tên người liên hệ</TextV>
+    <TextE>Tên người liên hệ</TextE>
+  </nkcv>
+</NewDataSet>

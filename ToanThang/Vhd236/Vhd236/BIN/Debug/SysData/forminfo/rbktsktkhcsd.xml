@@ -1,0 +1,147 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rbktsktkhcsd" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rbktsktkhcsd">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rbktsktkhcsd>
+    <FormID>rbktsktkhcsd</FormID>
+    <TextID>000</TextID>
+    <TextV>Bảng kê TSCĐ hết khấu hao còn sử dụng</TextV>
+    <TextE>Bảng kê TSCĐ hết khấu hao còn sử dụng</TextE>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <FormID>rbktsktkhcsd</FormID>
+    <TextID>001</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Filter Condition</TextE>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <FormID>rbktsktkhcsd</FormID>
+    <TextID>002</TextID>
+    <TextV>Đến ngày</TextV>
+    <TextE>To Date</TextE>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <FormID>rbktsktkhcsd</FormID>
+    <TextID>003</TextID>
+    <TextV>Loại tài sản</TextV>
+    <TextE>Loại tài sản</TextE>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <FormID>rbktsktkhcsd</FormID>
+    <TextID>004</TextID>
+    <TextV>Mã bộ phận</TextV>
+    <TextE>Mã bộ phận</TextE>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <FormID>rbktsktkhcsd</FormID>
+    <TextID>006</TextID>
+    <TextV>Mã nhóm 1</TextV>
+    <TextE>Mã nhóm 1</TextE>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <FormID>rbktsktkhcsd</FormID>
+    <TextID>007</TextID>
+    <TextV>Mã nhóm 2</TextV>
+    <TextE>Mã nhóm 2</TextE>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <FormID>rbktsktkhcsd</FormID>
+    <TextID>008</TextID>
+    <TextV>Mã nhóm 3</TextV>
+    <TextE>Mã nhóm 3</TextE>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <FormID>rbktsktkhcsd</FormID>
+    <TextID>009</TextID>
+    <TextV>Nhóm theo</TextV>
+    <TextE>Nhóm theo</TextE>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <FormID>rbktsktkhcsd</FormID>
+    <TextID>011</TextID>
+    <TextV>Mẫu báo cáo</TextV>
+    <TextE>Report Form</TextE>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <FormID>rbktsktkhcsd</FormID>
+    <TextID>012</TextID>
+    <TextV>Tiêu đề</TextV>
+    <TextE>Title</TextE>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <FormID>rbktsktkhcsd</FormID>
+    <TextID>016</TextID>
+    <TextV>Đơn vị</TextV>
+    <TextE>Unit</TextE>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <FormID>rbktsktkhcsd</FormID>
+    <TextID>017</TextID>
+    <TextV>Nội dung</TextV>
+    <TextE>Content</TextE>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <FormID>rbktsktkhcsd</FormID>
+    <TextID>018</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>&amp;OK</TextE>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <FormID>rbktsktkhcsd</FormID>
+    <TextID>019</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <FormID>rbktsktkhcsd</FormID>
+    <TextID>200</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <FormID>rbktsktkhcsd</FormID>
+    <TextID>201</TextID>
+    <TextV>In</TextV>
+    <TextE>Print</TextE>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <FormID>rbktsktkhcsd</FormID>
+    <TextID>202</TextID>
+    <TextV>Xem</TextV>
+    <TextE>View</TextE>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <FormID>rbktsktkhcsd</FormID>
+    <TextID>203</TextID>
+    <TextV>Làm tươi</TextV>
+    <TextE>Refresh</TextE>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <FormID>rbktsktkhcsd</FormID>
+    <TextID>206</TextID>
+    <TextV>Xem file</TextV>
+    <TextE>View File</TextE>
+  </rbktsktkhcsd>
+  <rbktsktkhcsd>
+    <FormID>rbktsktkhcsd</FormID>
+    <TextID>999</TextID>
+    <TextV>Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </rbktsktkhcsd>
+</NewDataSet>

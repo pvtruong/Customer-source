@@ -1,0 +1,99 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rptnkinhd" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rptnkinhd">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rptnkinhd>
+    <Code>rptnkinhd</Code>
+    <Name>c_den_ngay</Name>
+    <Type>C</Type>
+    <Value>đến ngày</Value>
+    <Value2>To Date</Value2>
+  </rptnkinhd>
+  <rptnkinhd>
+    <Code>rptnkinhd</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên)</Value>
+    <Value2>Sign., (Full Name)</Value2>
+  </rptnkinhd>
+  <rptnkinhd>
+    <Code>rptnkinhd</Code>
+    <Name>c_lan_in</Name>
+    <Type>C</Type>
+    <Value>Lần in</Value>
+    <Value2>Last Printed</Value2>
+  </rptnkinhd>
+  <rptnkinhd>
+    <Code>rptnkinhd</Code>
+    <Name>c_ngay_ct</Name>
+    <Type>C</Type>
+    <Value>Ngày chứng từ</Value>
+    <Value2>Voucher date</Value2>
+  </rptnkinhd>
+  <rptnkinhd>
+    <Code>rptnkinhd</Code>
+    <Name>c_ngay_hd</Name>
+    <Type>C</Type>
+    <Value>Ngày hóa đơn</Value>
+    <Value2>Invoice date</Value2>
+  </rptnkinhd>
+  <rptnkinhd>
+    <Code>rptnkinhd</Code>
+    <Name>c_ngay_in</Name>
+    <Type>C</Type>
+    <Value>Ngày in</Value>
+    <Value2>Print date</Value2>
+  </rptnkinhd>
+  <rptnkinhd>
+    <Code>rptnkinhd</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>..............., ngày......... tháng........... năm..........</Value>
+    <Value2>..............., date......... month........... year..........</Value2>
+  </rptnkinhd>
+  <rptnkinhd>
+    <Code>rptnkinhd</Code>
+    <Name>c_nguoi_in</Name>
+    <Type>C</Type>
+    <Value>Người in</Value>
+    <Value2>Printer</Value2>
+  </rptnkinhd>
+  <rptnkinhd>
+    <Code>rptnkinhd</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Người lập</Value>
+    <Value2>Founder</Value2>
+  </rptnkinhd>
+  <rptnkinhd>
+    <Code>rptnkinhd</Code>
+    <Name>c_so_hd</Name>
+    <Type>C</Type>
+    <Value>Số hóa đơn</Value>
+    <Value2>Invoice No.</Value2>
+  </rptnkinhd>
+  <rptnkinhd>
+    <Code>rptnkinhd</Code>
+    <Name>c_tu_ngay</Name>
+    <Type>C</Type>
+    <Value>Từ ngày</Value>
+    <Value2>From Date</Value2>
+  </rptnkinhd>
+</NewDataSet>

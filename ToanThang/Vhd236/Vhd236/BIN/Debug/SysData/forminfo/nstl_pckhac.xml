@@ -1,0 +1,135 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="nstl_pckhac" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="nstl_pckhac">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <nstl_pckhac>
+    <FormID>nstl_pckhac</FormID>
+    <TextID>000</TextID>
+    <TextV>Phụ Cấp Khác</TextV>
+    <TextE>Allowances</TextE>
+  </nstl_pckhac>
+  <nstl_pckhac>
+    <FormID>nstl_pckhac</FormID>
+    <TextID>001</TextID>
+    <TextV>Kỳ</TextV>
+    <TextE>Period</TextE>
+  </nstl_pckhac>
+  <nstl_pckhac>
+    <FormID>nstl_pckhac</FormID>
+    <TextID>002</TextID>
+    <TextV>Năm</TextV>
+    <TextE>Year</TextE>
+  </nstl_pckhac>
+  <nstl_pckhac>
+    <FormID>nstl_pckhac</FormID>
+    <TextID>003</TextID>
+    <TextV>Mã nhân viên</TextV>
+    <TextE>Employee Code</TextE>
+  </nstl_pckhac>
+  <nstl_pckhac>
+    <FormID>nstl_pckhac</FormID>
+    <TextID>004</TextID>
+    <TextV>Diễn giải</TextV>
+    <TextE>Description</TextE>
+  </nstl_pckhac>
+  <nstl_pckhac>
+    <FormID>nstl_pckhac</FormID>
+    <TextID>005</TextID>
+    <TextV>Tiền ngoại tệ</TextV>
+    <TextE>FC Amount</TextE>
+  </nstl_pckhac>
+  <nstl_pckhac>
+    <FormID>nstl_pckhac</FormID>
+    <TextID>006</TextID>
+    <TextV>Tiền</TextV>
+    <TextE>Amount</TextE>
+  </nstl_pckhac>
+  <nstl_pckhac>
+    <FormID>nstl_pckhac</FormID>
+    <TextID>089</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Status</TextE>
+  </nstl_pckhac>
+  <nstl_pckhac>
+    <FormID>nstl_pckhac</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Creator</TextE>
+  </nstl_pckhac>
+  <nstl_pckhac>
+    <FormID>nstl_pckhac</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modifỉer</TextE>
+  </nstl_pckhac>
+  <nstl_pckhac>
+    <FormID>nstl_pckhac</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </nstl_pckhac>
+  <nstl_pckhac>
+    <FormID>nstl_pckhac</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </nstl_pckhac>
+  <nstl_pckhac>
+    <FormID>nstl_pckhac</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </nstl_pckhac>
+  <nstl_pckhac>
+    <FormID>nstl_pckhac</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </nstl_pckhac>
+  <nstl_pckhac>
+    <FormID>nstl_pckhac</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </nstl_pckhac>
+  <nstl_pckhac>
+    <FormID>nstl_pckhac</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </nstl_pckhac>
+  <nstl_pckhac>
+    <FormID>nstl_pckhac</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </nstl_pckhac>
+  <nstl_pckhac>
+    <FormID>nstl_pckhac</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </nstl_pckhac>
+  <nstl_pckhac>
+    <FormID>nstl_pckhac</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </nstl_pckhac>
+</NewDataSet>

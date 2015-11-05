@@ -1,0 +1,33 @@
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Release\ResolveAssemblyReference.cache
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Release\rptV51_bcpt.frmfilter.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Release\rptV51_bcpt.frminput.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Release\rptV51_bcpt.frmkbmau.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Release\rptV51_bcpt.MainForm.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Release\rptV51_bcpt.Resources.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Release\rptV51_bcpt.vbproj.GenerateResource.Cache
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Release\rptV51_bcpt.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Release\rptV51_bcpt.pdb
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Release\rptV51_bcpt.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Release\ClPrint.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Release\ClsControl2.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Release\ClsList.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Release\ClsLookup.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Release\Clsql.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Release\ClsRpt.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Release\clsViDe.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Release\ClsMath.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Release\Ionic.Zip.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Release\clsab.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Release\clsPopUp.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Release\ClsPilot.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Release\clsPermit4Field.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\bin\Release\ClsRight.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Release\rptV51_bcpt.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Release\rptV51_bcpt.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Release\rptV51_bcpt.pdb
+D:\Source\acc\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Release\rptV51_bcpt.exe
+D:\Source\acc\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Release\rptV51_bcpt.xml
+D:\Source\acc\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Release\rptV51_bcpt.pdb
+H:\info_company\source_customers\ToanThang\rptv51_bcpt\rptv51_bcpt\obj\Release\rptV51_bcpt.exe
+H:\info_company\source_customers\ToanThang\rptv51_bcpt\rptv51_bcpt\obj\Release\rptV51_bcpt.xml
+H:\info_company\source_customers\ToanThang\rptv51_bcpt\rptv51_bcpt\obj\Release\rptV51_bcpt.pdb

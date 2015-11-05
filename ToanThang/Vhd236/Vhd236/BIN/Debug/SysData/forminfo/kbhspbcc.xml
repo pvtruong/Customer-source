@@ -1,0 +1,183 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="kbhspbcc" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="kbhspbcc">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <kbhspbcc>
+    <FormID>kbhspbcc</FormID>
+    <TextID>000</TextID>
+    <TextV>Khai báo hệ số phân bổ công cụ</TextV>
+    <TextE>Tools and Supplies Allocation Coefcient Definition</TextE>
+  </kbhspbcc>
+  <kbhspbcc>
+    <FormID>kbhspbcc</FormID>
+    <TextID>001</TextID>
+    <TextV>Số thẻ</TextV>
+    <TextE>T&amp;S Card No.</TextE>
+  </kbhspbcc>
+  <kbhspbcc>
+    <FormID>kbhspbcc</FormID>
+    <TextID>002</TextID>
+    <TextV>TK phân bổ</TextV>
+    <TextE>Dis. Acct.</TextE>
+  </kbhspbcc>
+  <kbhspbcc>
+    <FormID>kbhspbcc</FormID>
+    <TextID>003</TextID>
+    <TextV>TK chi phí</TextV>
+    <TextE>Expense Account List</TextE>
+  </kbhspbcc>
+  <kbhspbcc>
+    <FormID>kbhspbcc</FormID>
+    <TextID>004</TextID>
+    <TextV>Bộ phận</TextV>
+    <TextE>Dept.</TextE>
+  </kbhspbcc>
+  <kbhspbcc>
+    <FormID>kbhspbcc</FormID>
+    <TextID>005</TextID>
+    <TextV>Mã phí</TextV>
+    <TextE>Fee Code</TextE>
+  </kbhspbcc>
+  <kbhspbcc>
+    <FormID>kbhspbcc</FormID>
+    <TextID>006</TextID>
+    <TextV>Mã vụ việc, dự án</TextV>
+    <TextE>Object ID</TextE>
+  </kbhspbcc>
+  <kbhspbcc>
+    <FormID>kbhspbcc</FormID>
+    <TextID>007</TextID>
+    <TextV>Mã sp</TextV>
+    <TextE>Product Code</TextE>
+  </kbhspbcc>
+  <kbhspbcc>
+    <FormID>kbhspbcc</FormID>
+    <TextID>008</TextID>
+    <TextV>Mã hợp đồng</TextV>
+    <TextE>Contract Code</TextE>
+  </kbhspbcc>
+  <kbhspbcc>
+    <FormID>kbhspbcc</FormID>
+    <TextID>009</TextID>
+    <TextV>Sao chép từ kỳ trước</TextV>
+    <TextE>Copy</TextE>
+  </kbhspbcc>
+  <kbhspbcc>
+    <FormID>kbhspbcc</FormID>
+    <TextID>020</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Filter Condition</TextE>
+  </kbhspbcc>
+  <kbhspbcc>
+    <FormID>kbhspbcc</FormID>
+    <TextID>021</TextID>
+    <TextV>Kỳ</TextV>
+    <TextE>Period</TextE>
+  </kbhspbcc>
+  <kbhspbcc>
+    <FormID>kbhspbcc</FormID>
+    <TextID>022</TextID>
+    <TextV>Năm</TextV>
+    <TextE>Year</TextE>
+  </kbhspbcc>
+  <kbhspbcc>
+    <FormID>kbhspbcc</FormID>
+    <TextID>023</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>OK</TextE>
+  </kbhspbcc>
+  <kbhspbcc>
+    <FormID>kbhspbcc</FormID>
+    <TextID>024</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </kbhspbcc>
+  <kbhspbcc>
+    <FormID>kbhspbcc</FormID>
+    <TextID>080</TextID>
+    <TextV>Hệ số</TextV>
+    <TextE>Rate</TextE>
+  </kbhspbcc>
+  <kbhspbcc>
+    <FormID>kbhspbcc</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Created</TextE>
+  </kbhspbcc>
+  <kbhspbcc>
+    <FormID>kbhspbcc</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modify</TextE>
+  </kbhspbcc>
+  <kbhspbcc>
+    <FormID>kbhspbcc</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </kbhspbcc>
+  <kbhspbcc>
+    <FormID>kbhspbcc</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </kbhspbcc>
+  <kbhspbcc>
+    <FormID>kbhspbcc</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </kbhspbcc>
+  <kbhspbcc>
+    <FormID>kbhspbcc</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </kbhspbcc>
+  <kbhspbcc>
+    <FormID>kbhspbcc</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </kbhspbcc>
+  <kbhspbcc>
+    <FormID>kbhspbcc</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </kbhspbcc>
+  <kbhspbcc>
+    <FormID>kbhspbcc</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </kbhspbcc>
+  <kbhspbcc>
+    <FormID>kbhspbcc</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </kbhspbcc>
+  <kbhspbcc>
+    <FormID>kbhspbcc</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </kbhspbcc>
+</NewDataSet>

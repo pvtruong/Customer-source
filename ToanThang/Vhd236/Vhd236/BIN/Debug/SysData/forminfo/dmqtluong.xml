@@ -1,0 +1,195 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dmqtluong" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dmqtluong">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>000</TextID>
+    <TextV>Quá trình lương</TextV>
+    <TextE>Quá trình lương</TextE>
+  </dmqtluong>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>001</TextID>
+    <TextV>Quá trình lương</TextV>
+    <TextE>Quá trình lương</TextE>
+  </dmqtluong>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>002</TextID>
+    <TextV>Ngày</TextV>
+    <TextE>Ngày</TextE>
+  </dmqtluong>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>003</TextID>
+    <TextV>NĐCP</TextV>
+    <TextE>NĐCP</TextE>
+  </dmqtluong>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>004</TextID>
+    <TextV>Thay đổi lương nghị định</TextV>
+    <TextE>Thay đổi lương nghị định</TextE>
+  </dmqtluong>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>005</TextID>
+    <TextV>Lương nghị định</TextV>
+    <TextE>Lương nghị định</TextE>
+  </dmqtluong>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>006</TextID>
+    <TextV>DN</TextV>
+    <TextE>DN</TextE>
+  </dmqtluong>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>007</TextID>
+    <TextV>Thay đổi lương thực nhận</TextV>
+    <TextE>Thay đổi lương thực nhận</TextE>
+  </dmqtluong>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>008</TextID>
+    <TextV>Lương thực nhận</TextV>
+    <TextE>Lương thực nhận</TextE>
+  </dmqtluong>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>009</TextID>
+    <TextV>Thay đổi hệ số lương cơ bản</TextV>
+    <TextE>Thay đổi hệ số lương cơ bản</TextE>
+  </dmqtluong>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>010</TextID>
+    <TextV>Hệ số lương cơ bản</TextV>
+    <TextE>Hệ số lương cơ bản</TextE>
+  </dmqtluong>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>011</TextID>
+    <TextV>Mức lương làm thêm</TextV>
+    <TextE>Mức lương làm thêm</TextE>
+  </dmqtluong>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>012</TextID>
+    <TextV>Phụ cấp lương</TextV>
+    <TextE>Phụ cấp lương</TextE>
+  </dmqtluong>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>013</TextID>
+    <TextV>Số phụ lục</TextV>
+    <TextE>Số phụ lục</TextE>
+  </dmqtluong>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>014</TextID>
+    <TextV>Nội dung phụ lục</TextV>
+    <TextE>Nội dung phụ lục</TextE>
+  </dmqtluong>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>089</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Status</TextE>
+  </dmqtluong>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Creator</TextE>
+  </dmqtluong>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modifỉer</TextE>
+  </dmqtluong>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </dmqtluong>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </dmqtluong>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </dmqtluong>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dmqtluong>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </dmqtluong>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </dmqtluong>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </dmqtluong>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </dmqtluong>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </dmqtluong>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>d50</TextID>
+    <TextV>Lương theo ngày</TextV>
+    <TextE>Lương theo ngày</TextE>
+  </dmqtluong>
+  <dmqtluong>
+    <FormID>dmqtluong</FormID>
+    <TextID>d51</TextID>
+    <TextV>Lương theo tháng</TextV>
+    <TextE>Lương theo tháng</TextE>
+  </dmqtluong>
+</NewDataSet>

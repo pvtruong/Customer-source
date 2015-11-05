@@ -1,0 +1,99 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dmhoso" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dmhoso">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dmhoso>
+    <FormID>dmhoso</FormID>
+    <TextID>000</TextID>
+    <TextV>Danh mục hồ sơ nhân viên</TextV>
+    <TextE>List of employee profile</TextE>
+  </dmhoso>
+  <dmhoso>
+    <FormID>dmhoso</FormID>
+    <TextID>001</TextID>
+    <TextV>Tên hồ sơ</TextV>
+    <TextE>Profile  name</TextE>
+  </dmhoso>
+  <dmhoso>
+    <FormID>dmhoso</FormID>
+    <TextID>002</TextID>
+    <TextV>Loại</TextV>
+    <TextE>Type</TextE>
+  </dmhoso>
+  <dmhoso>
+    <FormID>dmhoso</FormID>
+    <TextID>003</TextID>
+    <TextV>Số lượng</TextV>
+    <TextE>Quantity</TextE>
+  </dmhoso>
+  <dmhoso>
+    <FormID>dmhoso</FormID>
+    <TextID>004</TextID>
+    <TextV>File đính kèm</TextV>
+    <TextE>Attach file</TextE>
+  </dmhoso>
+  <dmhoso>
+    <FormID>dmhoso</FormID>
+    <TextID>005</TextID>
+    <TextV>Đã nộp</TextV>
+    <TextE>Đã nộp</TextE>
+  </dmhoso>
+  <dmhoso>
+    <FormID>dmhoso</FormID>
+    <TextID>010</TextID>
+    <TextV>Xem File đính kèm</TextV>
+    <TextE>View attachments</TextE>
+  </dmhoso>
+  <dmhoso>
+    <FormID>dmhoso</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Created</TextE>
+  </dmhoso>
+  <dmhoso>
+    <FormID>dmhoso</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modify</TextE>
+  </dmhoso>
+  <dmhoso>
+    <FormID>dmhoso</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </dmhoso>
+  <dmhoso>
+    <FormID>dmhoso</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </dmhoso>
+  <dmhoso>
+    <FormID>dmhoso</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </dmhoso>
+  <dmhoso>
+    <FormID>dmhoso</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dmhoso>
+</NewDataSet>

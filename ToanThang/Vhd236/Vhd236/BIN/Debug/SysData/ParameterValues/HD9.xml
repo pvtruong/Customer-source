@@ -1,0 +1,225 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="HD9" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="HD9">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>c_dia_chi</Name>
+    <Type>C</Type>
+    <Value>Địa chỉ</Value>
+    <Value2>Address:</Value2>
+  </HD9>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>c_dien_thoai</Name>
+    <Type>C</Type>
+    <Value>Điện thoại</Value>
+    <Value2>Phone number:</Value2>
+  </HD9>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>c_don_gia</Name>
+    <Type>C</Type>
+    <Value>Đơn giá</Value>
+    <Value2>Đơn gia:</Value2>
+  </HD9>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>c_don_vi_vchuyen</Name>
+    <Type>C</Type>
+    <Value>Tên đơn vị vận chuyển</Value>
+    <Value2>Shipping unit name:</Value2>
+  </HD9>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>c_dvt</Name>
+    <Type>C</Type>
+    <Value>Đơn vị tính</Value>
+    <Value2>DVT</Value2>
+  </HD9>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>c_hinh_thuc_tt</Name>
+    <Type>C</Type>
+    <Value>Hình thức thanh toán</Value>
+    <Value2>Forms of payment:</Value2>
+  </HD9>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>c_ky_hieu</Name>
+    <Type>C</Type>
+    <Value>Ký hiệu</Value>
+    <Value2>Ký hiệu</Value2>
+  </HD9>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>c_ma_so_thue</Name>
+    <Type>C</Type>
+    <Value>Mã số thuế</Value>
+    <Value2>Tax code:</Value2>
+  </HD9>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>c_mau_so</Name>
+    <Type>C</Type>
+    <Value>Mẫu số</Value>
+    <Value2>Mẫu số</Value2>
+  </HD9>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>c_ngay_dop_dong</Name>
+    <Type>C</Type>
+    <Value>Ngày hợp đồng</Value>
+    <Value2>Contract day:</Value2>
+  </HD9>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>c_noi_giao_hang</Name>
+    <Type>C</Type>
+    <Value>Địa điểm giao hàng</Value>
+    <Value2>Delivery locations:</Value2>
+  </HD9>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>c_noi_nhan_hang</Name>
+    <Type>C</Type>
+    <Value>Địa điểm nhận hàng</Value>
+    <Value2>Pickup locations:</Value2>
+  </HD9>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>c_so_cont</Name>
+    <Type>C</Type>
+    <Value>Số container</Value>
+    <Value2>Number of container:</Value2>
+  </HD9>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>c_so_hd</Name>
+    <Type>C</Type>
+    <Value>Số</Value>
+    <Value2>Số</Value2>
+  </HD9>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>c_so_hop_dong</Name>
+    <Type>C</Type>
+    <Value>Số hợp đồng</Value>
+    <Value2>Of the contract:</Value2>
+  </HD9>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>c_so_luong</Name>
+    <Type>C</Type>
+    <Value>Số lượng</Value>
+    <Value2>Số lượng:</Value2>
+  </HD9>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>c_so_tai_khoan</Name>
+    <Type>C</Type>
+    <Value>Số tài khoản</Value>
+    <Value2>Account number:</Value2>
+  </HD9>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>c_so_tien</Name>
+    <Type>C</Type>
+    <Value>Số tiền viết bằng chữ</Value>
+    <Value2>Số tiền viết bằng chữ:</Value2>
+  </HD9>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>c_so_van_don</Name>
+    <Type>C</Type>
+    <Value>Số vận đơn</Value>
+    <Value2>Tracking numbers:</Value2>
+  </HD9>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>c_stt</Name>
+    <Type>C</Type>
+    <Value>STT</Value>
+    <Value2>STT</Value2>
+  </HD9>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>c_ten_don_vi_nk</Name>
+    <Type>C</Type>
+    <Value>Tên đơn vị nhập khẩu</Value>
+    <Value2>Ten dv nk</Value2>
+  </HD9>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>c_ten_don_vi_xk</Name>
+    <Type>C</Type>
+    <Value>Tên đơn vị xuất khẩu</Value>
+    <Value2>Export unit name:</Value2>
+  </HD9>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>c_ten_hh</Name>
+    <Type>C</Type>
+    <Value>Tên hàng hóa dịch vụ</Value>
+    <Value2>Tên hàng hóa dịch vụ:</Value2>
+  </HD9>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>c_thanh_tien</Name>
+    <Type>C</Type>
+    <Value>Thành tiền</Value>
+    <Value2>Thành tiền:</Value2>
+  </HD9>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>c_tong_tt</Name>
+    <Type>C</Type>
+    <Value>Tổng thanh toán</Value>
+    <Value2>Tổng thanh toán:</Value2>
+  </HD9>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>docso</Name>
+    <Type>W</Type>
+    <Value>t_tt</Value>
+    <Value2>t_tt</Value2>
+  </HD9>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>dvtien</Name>
+    <Type>C</Type>
+    <Value>đồng chẵn.</Value>
+    <Value2>đồng chẵn.</Value2>
+  </HD9>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>v_dt_kh</Name>
+    <Type>V</Type>
+    <Value>select dien_thoai from dkh where ma_kh='[ma_kh]'</Value>
+    <Value2>select dien_thoai from dkh where ma_kh='[ma_kh]'</Value2>
+  </HD9>
+  <HD9>
+    <Code>HD9</Code>
+    <Name>v_tk_kh</Name>
+    <Type>V</Type>
+    <Value>select tk_nh from dkh where ma_kh='[ma_kh]'</Value>
+    <Value2>select tk_nh from dkh where ma_kh='[ma_kh]'</Value2>
+  </HD9>
+</NewDataSet>

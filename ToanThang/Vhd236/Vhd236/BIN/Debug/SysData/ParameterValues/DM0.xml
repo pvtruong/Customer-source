@@ -1,0 +1,120 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="DM0" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="DM0">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <DM0>
+    <Code>DM0</Code>
+    <Name>c_bp</Name>
+    <Type>C</Type>
+    <Value>Bộ phận</Value>
+    <Value2>Bộ phận</Value2>
+  </DM0>
+  <DM0>
+    <Code>DM0</Code>
+    <Name>c_dien_giai</Name>
+    <Type>C</Type>
+    <Value>Diễn giải</Value>
+    <Value2>Diễn giải</Value2>
+  </DM0>
+  <DM0>
+    <Code>DM0</Code>
+    <Name>c_dvt</Name>
+    <Type>C</Type>
+    <Value>ĐVT</Value>
+    <Value2>ĐVT</Value2>
+  </DM0>
+  <DM0>
+    <Code>DM0</Code>
+    <Name>c_hl_den_ngay</Name>
+    <Type>C</Type>
+    <Value>Hiệu lực đến ngày</Value>
+    <Value2>Hiệu lực đến ngày</Value2>
+  </DM0>
+  <DM0>
+    <Code>DM0</Code>
+    <Name>c_hl_tu_ngay</Name>
+    <Type>C</Type>
+    <Value>Hiệu lực từ ngày</Value>
+    <Value2>Hiệu lực từ ngày</Value2>
+  </DM0>
+  <DM0>
+    <Code>DM0</Code>
+    <Name>c_ma_sp</Name>
+    <Type>C</Type>
+    <Value>Mã sản phẩm</Value>
+    <Value2>Mã sản phẩm</Value2>
+  </DM0>
+  <DM0>
+    <Code>DM0</Code>
+    <Name>c_ma_vt</Name>
+    <Type>C</Type>
+    <Value>Mã vật tư</Value>
+    <Value2>Mã vật tư</Value2>
+  </DM0>
+  <DM0>
+    <Code>DM0</Code>
+    <Name>c_sl</Name>
+    <Type>C</Type>
+    <Value>Số lượng</Value>
+    <Value2>Số lượng</Value2>
+  </DM0>
+  <DM0>
+    <Code>DM0</Code>
+    <Name>c_stt</Name>
+    <Type>C</Type>
+    <Value>STT</Value>
+    <Value2>STT</Value2>
+  </DM0>
+  <DM0>
+    <Code>DM0</Code>
+    <Name>c_ten_sp</Name>
+    <Type>C</Type>
+    <Value>Tên sản phẩm</Value>
+    <Value2>Tên sản phẩm</Value2>
+  </DM0>
+  <DM0>
+    <Code>DM0</Code>
+    <Name>c_ten_vt</Name>
+    <Type>C</Type>
+    <Value>Tên vật tư</Value>
+    <Value2>Tên vật tư</Value2>
+  </DM0>
+  <DM0>
+    <Code>DM0</Code>
+    <Name>c_tg_thuc_hien</Name>
+    <Type>C</Type>
+    <Value>Thời gian thực hiện</Value>
+    <Value2>Thời gian thực hiện</Value2>
+  </DM0>
+  <DM0>
+    <Code>DM0</Code>
+    <Name>c_ty_le_hh</Name>
+    <Type>C</Type>
+    <Value>Tỷ lệ hao hụt</Value>
+    <Value2>Tỷ lệ hao hụt</Value2>
+  </DM0>
+  <DM0>
+    <Code>DM0</Code>
+    <Name>c_ty_le_pb</Name>
+    <Type>C</Type>
+    <Value>Tỷ lệ phân bổ</Value>
+    <Value2>Tỷ lệ phân bổ</Value2>
+  </DM0>
+</NewDataSet>

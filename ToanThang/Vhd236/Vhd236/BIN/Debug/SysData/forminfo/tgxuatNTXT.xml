@@ -1,0 +1,147 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="tgxuatNTXT" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="tgxuatNTXT">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <tgxuatNTXT>
+    <FormID>tgxuatNTXT</FormID>
+    <TextID>000</TextID>
+    <TextV>Tính giá nhập trước xuất trước</TextV>
+    <TextE>Calculate FIFO Cost</TextE>
+  </tgxuatNTXT>
+  <tgxuatNTXT>
+    <FormID>tgxuatNTXT</FormID>
+    <TextID>001</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Filter Condition</TextE>
+  </tgxuatNTXT>
+  <tgxuatNTXT>
+    <FormID>tgxuatNTXT</FormID>
+    <TextID>002</TextID>
+    <TextV>Từ kỳ/Đến kỳ</TextV>
+    <TextE>From/to Period</TextE>
+  </tgxuatNTXT>
+  <tgxuatNTXT>
+    <FormID>tgxuatNTXT</FormID>
+    <TextID>003</TextID>
+    <TextV>Năm</TextV>
+    <TextE>Year</TextE>
+  </tgxuatNTXT>
+  <tgxuatNTXT>
+    <FormID>tgxuatNTXT</FormID>
+    <TextID>004</TextID>
+    <TextV>Mã vật tư</TextV>
+    <TextE>Item code</TextE>
+  </tgxuatNTXT>
+  <tgxuatNTXT>
+    <FormID>tgxuatNTXT</FormID>
+    <TextID>005</TextID>
+    <TextV>Mã kho</TextV>
+    <TextE>Site ID</TextE>
+  </tgxuatNTXT>
+  <tgxuatNTXT>
+    <FormID>tgxuatNTXT</FormID>
+    <TextID>006</TextID>
+    <TextV>Nhóm vật tư</TextV>
+    <TextE>Item Group</TextE>
+  </tgxuatNTXT>
+  <tgxuatNTXT>
+    <FormID>tgxuatNTXT</FormID>
+    <TextID>007</TextID>
+    <TextV>Loại vật tư</TextV>
+    <TextE>Item Type</TextE>
+  </tgxuatNTXT>
+  <tgxuatNTXT>
+    <FormID>tgxuatNTXT</FormID>
+    <TextID>008</TextID>
+    <TextV>Tạo phiếu xuất chênh lệch</TextV>
+    <TextE>Tạo phiếu xuất chênh lệch</TextE>
+  </tgxuatNTXT>
+  <tgxuatNTXT>
+    <FormID>tgxuatNTXT</FormID>
+    <TextID>009</TextID>
+    <TextV>Tài khoản chênh lệch</TextV>
+    <TextE>Imbalance Account</TextE>
+  </tgxuatNTXT>
+  <tgxuatNTXT>
+    <FormID>tgxuatNTXT</FormID>
+    <TextID>010</TextID>
+    <TextV>0-Không tính,1:tính khi sl=0 và tiền &lt;&gt;0</TextV>
+    <TextE>0 - None, 1 - Quantity = 0 and Amount &lt;&gt; 0</TextE>
+  </tgxuatNTXT>
+  <tgxuatNTXT>
+    <FormID>tgxuatNTXT</FormID>
+    <TextID>011</TextID>
+    <TextV>Mẫu báo cáo</TextV>
+    <TextE>Report form</TextE>
+  </tgxuatNTXT>
+  <tgxuatNTXT>
+    <FormID>tgxuatNTXT</FormID>
+    <TextID>012</TextID>
+    <TextV>Tiêu đề</TextV>
+    <TextE>Title</TextE>
+  </tgxuatNTXT>
+  <tgxuatNTXT>
+    <FormID>tgxuatNTXT</FormID>
+    <TextID>013</TextID>
+    <TextV>Sản phẩm</TextV>
+    <TextE>Product</TextE>
+  </tgxuatNTXT>
+  <tgxuatNTXT>
+    <FormID>tgxuatNTXT</FormID>
+    <TextID>200</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </tgxuatNTXT>
+  <tgxuatNTXT>
+    <FormID>tgxuatNTXT</FormID>
+    <TextID>201</TextID>
+    <TextV>&amp;In</TextV>
+    <TextE>&amp;Print</TextE>
+  </tgxuatNTXT>
+  <tgxuatNTXT>
+    <FormID>tgxuatNTXT</FormID>
+    <TextID>202</TextID>
+    <TextV>&amp;Xem</TextV>
+    <TextE>&amp;View</TextE>
+  </tgxuatNTXT>
+  <tgxuatNTXT>
+    <FormID>tgxuatNTXT</FormID>
+    <TextID>203</TextID>
+    <TextV>Làm tươi</TextV>
+    <TextE>Refresh</TextE>
+  </tgxuatNTXT>
+  <tgxuatNTXT>
+    <FormID>tgxuatNTXT</FormID>
+    <TextID>800</TextID>
+    <TextV>Chương trình đã thực hiện xong</TextV>
+    <TextE>The program has done</TextE>
+  </tgxuatNTXT>
+  <tgxuatNTXT>
+    <FormID>tgxuatNTXT</FormID>
+    <TextID>900</TextID>
+    <TextV>&amp;Tính</TextV>
+    <TextE>&amp;Exec</TextE>
+  </tgxuatNTXT>
+  <tgxuatNTXT>
+    <FormID>tgxuatNTXT</FormID>
+    <TextID>901</TextID>
+    <TextV>Thoát</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </tgxuatNTXT>
+</NewDataSet>

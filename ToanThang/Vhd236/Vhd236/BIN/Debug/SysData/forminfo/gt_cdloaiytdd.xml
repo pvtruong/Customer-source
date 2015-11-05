@@ -1,0 +1,141 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="gt_cdloaiytdd" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="gt_cdloaiytdd">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <gt_cdloaiytdd>
+    <FormID>gt_cdloaiytdd</FormID>
+    <TextID>000</TextID>
+    <TextV>Cập nhật sản phẩm dở dang đầu kỳ</TextV>
+    <TextE>WIP Opening Balance by Product</TextE>
+  </gt_cdloaiytdd>
+  <gt_cdloaiytdd>
+    <FormID>gt_cdloaiytdd</FormID>
+    <TextID>001</TextID>
+    <TextV>Loại yếu tố</TextV>
+    <TextE>Factor Type</TextE>
+  </gt_cdloaiytdd>
+  <gt_cdloaiytdd>
+    <FormID>gt_cdloaiytdd</FormID>
+    <TextID>002</TextID>
+    <TextV>Sản phẩm</TextV>
+    <TextE>Product</TextE>
+  </gt_cdloaiytdd>
+  <gt_cdloaiytdd>
+    <FormID>gt_cdloaiytdd</FormID>
+    <TextID>003</TextID>
+    <TextV>Bộ phận</TextV>
+    <TextE>Dept.</TextE>
+  </gt_cdloaiytdd>
+  <gt_cdloaiytdd>
+    <FormID>gt_cdloaiytdd</FormID>
+    <TextID>004</TextID>
+    <TextV>Lệnh sản xuất</TextV>
+    <TextE>MO No.</TextE>
+  </gt_cdloaiytdd>
+  <gt_cdloaiytdd>
+    <FormID>gt_cdloaiytdd</FormID>
+    <TextID>005</TextID>
+    <TextV>SL dở dang dầu kỳ</TextV>
+    <TextE>Quantity of Work in process Opening</TextE>
+  </gt_cdloaiytdd>
+  <gt_cdloaiytdd>
+    <FormID>gt_cdloaiytdd</FormID>
+    <TextID>006</TextID>
+    <TextV>Tỷ lệ hoàn thành(%)</TextV>
+    <TextE>Completion Rate</TextE>
+  </gt_cdloaiytdd>
+  <gt_cdloaiytdd>
+    <FormID>gt_cdloaiytdd</FormID>
+    <TextID>007</TextID>
+    <TextV>Số lượng quy đổi</TextV>
+    <TextE>Ex. Q'ty</TextE>
+  </gt_cdloaiytdd>
+  <gt_cdloaiytdd>
+    <FormID>gt_cdloaiytdd</FormID>
+    <TextID>088</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Status</TextE>
+  </gt_cdloaiytdd>
+  <gt_cdloaiytdd>
+    <FormID>gt_cdloaiytdd</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Created</TextE>
+  </gt_cdloaiytdd>
+  <gt_cdloaiytdd>
+    <FormID>gt_cdloaiytdd</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modify</TextE>
+  </gt_cdloaiytdd>
+  <gt_cdloaiytdd>
+    <FormID>gt_cdloaiytdd</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </gt_cdloaiytdd>
+  <gt_cdloaiytdd>
+    <FormID>gt_cdloaiytdd</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </gt_cdloaiytdd>
+  <gt_cdloaiytdd>
+    <FormID>gt_cdloaiytdd</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </gt_cdloaiytdd>
+  <gt_cdloaiytdd>
+    <FormID>gt_cdloaiytdd</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </gt_cdloaiytdd>
+  <gt_cdloaiytdd>
+    <FormID>gt_cdloaiytdd</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </gt_cdloaiytdd>
+  <gt_cdloaiytdd>
+    <FormID>gt_cdloaiytdd</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </gt_cdloaiytdd>
+  <gt_cdloaiytdd>
+    <FormID>gt_cdloaiytdd</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </gt_cdloaiytdd>
+  <gt_cdloaiytdd>
+    <FormID>gt_cdloaiytdd</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </gt_cdloaiytdd>
+  <gt_cdloaiytdd>
+    <FormID>gt_cdloaiytdd</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </gt_cdloaiytdd>
+</NewDataSet>

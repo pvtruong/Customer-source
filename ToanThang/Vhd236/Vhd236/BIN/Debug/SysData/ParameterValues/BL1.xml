@@ -1,0 +1,526 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="BL1" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="BL1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_bang_chu</Name>
+    <Type>C</Type>
+    <Value>Tổng số tiền (viết bằng chữ ):</Value>
+    <Value2>Tổng số tiền (viết bằng chữ ):</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_bao_hiem_tn</Name>
+    <Type>C</Type>
+    <Value>BẢO HIỂM THẤT NGHIỆP</Value>
+    <Value2>BẢO HIỂM THẤT NGHIỆP</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_bao_hiem_xh</Name>
+    <Type>C</Type>
+    <Value>BẢO HIỂM XÃ HỘI</Value>
+    <Value2>BẢO HIỂM XÃ HỘI</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_bao_hiem_yt</Name>
+    <Type>C</Type>
+    <Value>BẢO HIỂM Y TẾ</Value>
+    <Value2>BẢO HIỂM Y TẾ</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_bhtn</Name>
+    <Type>C</Type>
+    <Value>1% BH T.Nghiệp</Value>
+    <Value2>1% BH T.Nghiệp</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_bhxh</Name>
+    <Type>C</Type>
+    <Value>7% BHXH</Value>
+    <Value2>6% BHXH</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_bhyt</Name>
+    <Type>C</Type>
+    <Value>1.5% BHYT</Value>
+    <Value2>1.5% BHYT</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_bp</Name>
+    <Type>C</Type>
+    <Value>BỘ PHẬN</Value>
+    <Value2>BỘ PHẬN</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_ck_khau_tru</Name>
+    <Type>C</Type>
+    <Value>Các khoản khấu trừ vào lương</Value>
+    <Value2>Các khoản khấu trừ vào lương</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_cong</Name>
+    <Type>C</Type>
+    <Value>Cộng</Value>
+    <Value2>Cộng</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_cong_co_334</Name>
+    <Type>C</Type>
+    <Value>Cộng có TK 334</Value>
+    <Value2>Cộng có TK 334</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_cong_co_338</Name>
+    <Type>C</Type>
+    <Value>Cộng có TK 338</Value>
+    <Value2>Cộng có TK 338</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_cong_tk</Name>
+    <Type>C</Type>
+    <Value>Tổng cộng</Value>
+    <Value2>Tổng cộng</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_cty_bhtn</Name>
+    <Type>C</Type>
+    <Value>1% BHTN</Value>
+    <Value2>1% BHTN</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_cty_bhxh</Name>
+    <Type>C</Type>
+    <Value>17% BHXH</Value>
+    <Value2>16% BHXH</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_cty_bhyt</Name>
+    <Type>C</Type>
+    <Value>3% BHYT</Value>
+    <Value2>3% BHYT</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_cty_kpcd</Name>
+    <Type>C</Type>
+    <Value>2% KPCĐ</Value>
+    <Value2>2% KPCĐ</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_cv</Name>
+    <Type>C</Type>
+    <Value>Chức danh</Value>
+    <Value2>Chức danh</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_de_lai_chi</Name>
+    <Type>C</Type>
+    <Value>Số được để lại chi tại đơn vị</Value>
+    <Value2>Số được để lại chi tại đơn vị</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_dia_chi</Name>
+    <Type>C</Type>
+    <Value>Địa chỉ:</Value>
+    <Value2>Địa chỉ:</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_doan_phi</Name>
+    <Type>C</Type>
+    <Value>1% Đoàn phí</Value>
+    <Value2>1% Đoàn phí</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_don_vi_tien</Name>
+    <Type>C</Type>
+    <Value>ĐVT: VNĐ</Value>
+    <Value2>ĐVT: VNĐ</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_dt_sd</Name>
+    <Type>C</Type>
+    <Value>ĐỐI TƯỢNG SỬ DỤNG</Value>
+    <Value2>ĐỐI TƯỢNG SỬ DỤNG</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_dvtien</Name>
+    <Type>C</Type>
+    <Value>đồng chẵn.</Value>
+    <Value2>đồng chẵn.</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_gd</Name>
+    <Type>C</Type>
+    <Value>Giám đốc</Value>
+    <Value2>Giám đốc</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_ghi_co_tk</Name>
+    <Type>C</Type>
+    <Value>GHI CÓ TÀI KHOẢN</Value>
+    <Value2>GHI CÓ TÀI KHOẢN</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_ghi_no_tk</Name>
+    <Type>C</Type>
+    <Value>(Ghi nợ tài khoản)</Value>
+    <Value2>(Ghi nợ tài khoản)</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_ho_ten</Name>
+    <Type>C</Type>
+    <Value>Họ &amp; tên</Value>
+    <Value2>Họ &amp; tên</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_khac</Name>
+    <Type>C</Type>
+    <Value>Khác</Value>
+    <Value2>Khác</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_khoan_khac</Name>
+    <Type>C</Type>
+    <Value>Các khoản khác</Value>
+    <Value2>Các khoản khác</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_kpcd_dp</Name>
+    <Type>C</Type>
+    <Value>KPCĐ + ĐOÀN PHÍ</Value>
+    <Value2>KPCĐ + ĐOÀN PHÍ</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_ktt</Name>
+    <Type>C</Type>
+    <Value>Kế toán trưởng</Value>
+    <Value2>Kế toán trưởng</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_ky_nhan</Name>
+    <Type>C</Type>
+    <Value>Ký nhận</Value>
+    <Value2>Ký nhận</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>( Ký, họ tên)</Value>
+    <Value2>( Ký, họ tên)</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_ky_ten_dd</Name>
+    <Type>C</Type>
+    <Value>( Ký, họ tên, đóng dấu)</Value>
+    <Value2>( Ký, họ tên, đóng dấu)</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_luong</Name>
+    <Type>C</Type>
+    <Value>Lương</Value>
+    <Value2>Lương</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_luong_cb</Name>
+    <Type>C</Type>
+    <Value>Lương cơ bản theo thang bảng lương</Value>
+    <Value2>Lương cơ bản theo thang bảng lương</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_luong_phep</Name>
+    <Type>C</Type>
+    <Value>Lương nghỉ phép</Value>
+    <Value2>Lương nghỉ phép</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_luong_them</Name>
+    <Type>C</Type>
+    <Value>Lương làm thêm</Value>
+    <Value2>Lương làm thêm</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_luong_thuc</Name>
+    <Type>C</Type>
+    <Value>Lương thực lĩnh</Value>
+    <Value2>Lương thực lĩnh</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_luong_thuong</Name>
+    <Type>C</Type>
+    <Value>Lương thưởng</Value>
+    <Value2>Lương thưởng</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_mst</Name>
+    <Type>C</Type>
+    <Value>Mã số thuế:</Value>
+    <Value2>Mã số thuế:</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_ngay_ky</Name>
+    <Type>C</Type>
+    <Value>Ngày  %d  tháng  %m  năm  %y</Value>
+    <Value2>Ngày  %d  tháng  %m  năm  %y</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>Ngày........tháng....... năm............</Value>
+    <Value2>Ngày........tháng....... năm............</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Người lập bảng</Value>
+    <Value2>Người lập bảng</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_nop_cd_tren</Name>
+    <Type>C</Type>
+    <Value>Số phải nộp CĐ cấp trên</Value>
+    <Value2>Số phải nộp CĐ cấp trên</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_pc_bh_tra</Name>
+    <Type>C</Type>
+    <Value>Phụ cấp CQ bảo hiểm trả</Value>
+    <Value2>Phụ cấp CQ bảo hiểm trả</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_so_tien</Name>
+    <Type>C</Type>
+    <Value>Số tiền</Value>
+    <Value2>Số tiền</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_stt</Name>
+    <Type>C</Type>
+    <Value>STT</Value>
+    <Value2>STT</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_tam_ung</Name>
+    <Type>C</Type>
+    <Value>Tạm ứng</Value>
+    <Value2>Tạm ứng</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_thang_nam</Name>
+    <Type>C</Type>
+    <Value>Tháng %m năm %y</Value>
+    <Value2>Tháng %m năm %y</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_thue_tncn</Name>
+    <Type>C</Type>
+    <Value>Thuế TNCN</Value>
+    <Value2>Thuế TNCN</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_tien_an</Name>
+    <Type>C</Type>
+    <Value>Tiền ăn</Value>
+    <Value2>Tiền ăn</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_tk_334</Name>
+    <Type>C</Type>
+    <Value>TK 334 - Phải trả người lao động</Value>
+    <Value2>TK 334 - Phải trả người lao động</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_tk_335</Name>
+    <Type>C</Type>
+    <Value>TK 335 - Chi phí phải trả</Value>
+    <Value2>TK 335 Chi phí phải trả</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_tk_338</Name>
+    <Type>C</Type>
+    <Value>TK 338 - Phải trả, phải nộp khác</Value>
+    <Value2>TK 338 - Phải trả, phải nộp khác</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_tong</Name>
+    <Type>C</Type>
+    <Value>TỔNG</Value>
+    <Value2>TỔNG</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_tong_cong</Name>
+    <Type>C</Type>
+    <Value>TỔNG CỘNG</Value>
+    <Value2>TỔNG CỘNG</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_tong_quy_luong</Name>
+    <Type>C</Type>
+    <Value>Tổng quỹ lương trích BHXH BHYT BHTN KPCĐ</Value>
+    <Value2>Tổng quỹ lương trích BHXH BHYT BHTN KPCĐ</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_tong_so</Name>
+    <Type>C</Type>
+    <Value>Tổng số</Value>
+    <Value2>Tổng số</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_trich_cp_1</Name>
+    <Type>C</Type>
+    <Value>Trích vào chi phí (1%)</Value>
+    <Value2>Trích vào chi phí (1%)</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_trich_cp_16</Name>
+    <Type>C</Type>
+    <Value>Trích vào chi phí (17%)</Value>
+    <Value2>Trích vào chi phí (16%)</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_trich_cp_2</Name>
+    <Type>C</Type>
+    <Value>Trích vào chi phí (2%)</Value>
+    <Value2>Trích vào chi phí (2%)</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_trich_cp_3</Name>
+    <Type>C</Type>
+    <Value>Trích vào chi phí (3%)</Value>
+    <Value2>Trích vào chi phí (3%)</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_trong_do</Name>
+    <Type>C</Type>
+    <Value>Trong đó</Value>
+    <Value2>Trong đó</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_tru_luong_1</Name>
+    <Type>C</Type>
+    <Value>Trừ vào lương (1%)</Value>
+    <Value2>Trừ vào lương (1%)</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_tru_luong_1_5</Name>
+    <Type>C</Type>
+    <Value>Trừ vào lương (1.5%)</Value>
+    <Value2>Trừ vào lương (1.5%)</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_tru_luong_6</Name>
+    <Type>C</Type>
+    <Value>Trừ vào lương (7%)</Value>
+    <Value2>Trừ vào lương (6%)</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>c_tru_luong_dp</Name>
+    <Type>C</Type>
+    <Value>Trừ vào lương (đoàn phí)</Value>
+    <Value2>Trừ vào lương (đoàn phí)</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>docso</Name>
+    <Type>W</Type>
+    <Value>t_tien</Value>
+    <Value2>t_tien</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>ngay_ct</Name>
+    <Type>V</Type>
+    <Value>ngay_ct</Value>
+    <Value2>ngay_ct</Value2>
+  </BL1>
+  <BL1>
+    <Code>BL1</Code>
+    <Name>ten_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Lê Thị Hương</Value>
+    <Value2>Lê Thị Hương</Value2>
+  </BL1>
+</NewDataSet>

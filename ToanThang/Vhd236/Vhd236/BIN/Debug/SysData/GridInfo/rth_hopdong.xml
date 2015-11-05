@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rth_hopdong" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rth_hopdong">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsv" type="xs:string" minOccurs="0" />
+                <xs:element name="columnse" type="xs:string" minOccurs="0" />
+                <xs:element name="headersv" type="xs:string" minOccurs="0" />
+                <xs:element name="headerse" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rth_hopdong>
+    <gridid>rth_hopdong</gridid>
+    <columnsv>stt,ma_kh,ten_kh,ma_dt,so_hop_dong,so_hd,ngay_hd,doanh_thu_th,chi_phi,lai_gop_th,margin_tt,margin_dt,he_so_p</columnsv>
+    <columnse>stt,ma_kh,ten_kh2,ma_dt,so_hop_dong,so_hd,ngay_hd,doanh_thu_th,chi_phi,lai_gop_th,margin_tt,margin_dt,he_so_p</columnse>
+    <headersv>STT,Mã khách hàng,Tên khách hàng,Mã hợp đồng,Số hợp đồng,Số hóa đơn,Ngày hóa đơn,Doanh thu thực hiện,Tổng chi phí,Lãi gộp,Margin thực tế (%),Margin dự toán (%),Hệ số P (%)</headersv>
+    <headerse>STT,Mã khách hàng,Tên khách hàng,Mã hợp đồng,Số hợp đồng,Số hóa đơn,Ngày hóa đơn,Doanh thu thực hiện,Tổng chi phí,Lãi gộp,Margin thực tế (%),Margin dự toán (%),Hệ số P (%)</headerse>
+    <widths>60,100,250,100,100,100,100,100,100,100,100,100,100</widths>
+    <formats>f_stt,,,,,,,f_tien,f_tien,f_tien,,,</formats>
+    <readonlys>1,1,1,1,1,1,1,1,1,1,1,1,1</readonlys>
+    <hides>0,0,0,0,0,0,0,0,0,0,0,0,0</hides>
+    <defaultvalues>,,,,,,,,,,,,</defaultvalues>
+    <carrys>0,0,0,0,0,0,0,0,0,0,0,0,0</carrys>
+  </rth_hopdong>
+</NewDataSet>

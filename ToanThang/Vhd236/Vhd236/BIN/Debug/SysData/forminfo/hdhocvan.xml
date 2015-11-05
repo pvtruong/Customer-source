@@ -1,0 +1,117 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="hdhocvan" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="hdhocvan">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <hdhocvan>
+    <FormID>hdhocvan</FormID>
+    <TextID>000</TextID>
+    <TextV>Danh mục trình độ học vấn</TextV>
+    <TextE>Danh mục trình độ học vấn</TextE>
+  </hdhocvan>
+  <hdhocvan>
+    <FormID>hdhocvan</FormID>
+    <TextID>001</TextID>
+    <TextV>Mã loại bằng</TextV>
+    <TextE>Mã loại bằng</TextE>
+  </hdhocvan>
+  <hdhocvan>
+    <FormID>hdhocvan</FormID>
+    <TextID>002</TextID>
+    <TextV>Tên loại bằng</TextV>
+    <TextE>Tên loại bằng</TextE>
+  </hdhocvan>
+  <hdhocvan>
+    <FormID>hdhocvan</FormID>
+    <TextID>003</TextID>
+    <TextV>Tên loại bằng 2</TextV>
+    <TextE>Tên loại bằng 2</TextE>
+  </hdhocvan>
+  <hdhocvan>
+    <FormID>hdhocvan</FormID>
+    <TextID>089</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Status</TextE>
+  </hdhocvan>
+  <hdhocvan>
+    <FormID>hdhocvan</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Creator</TextE>
+  </hdhocvan>
+  <hdhocvan>
+    <FormID>hdhocvan</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modifỉer</TextE>
+  </hdhocvan>
+  <hdhocvan>
+    <FormID>hdhocvan</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </hdhocvan>
+  <hdhocvan>
+    <FormID>hdhocvan</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </hdhocvan>
+  <hdhocvan>
+    <FormID>hdhocvan</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </hdhocvan>
+  <hdhocvan>
+    <FormID>hdhocvan</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </hdhocvan>
+  <hdhocvan>
+    <FormID>hdhocvan</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </hdhocvan>
+  <hdhocvan>
+    <FormID>hdhocvan</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </hdhocvan>
+  <hdhocvan>
+    <FormID>hdhocvan</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </hdhocvan>
+  <hdhocvan>
+    <FormID>hdhocvan</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </hdhocvan>
+  <hdhocvan>
+    <FormID>hdhocvan</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </hdhocvan>
+</NewDataSet>

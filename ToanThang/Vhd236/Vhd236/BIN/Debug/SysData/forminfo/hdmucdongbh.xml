@@ -1,0 +1,147 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="hdmucdongbh" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="hdmucdongbh">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <hdmucdongbh>
+    <FormID>hdmucdongbh</FormID>
+    <TextID>000</TextID>
+    <TextV>Danh mục mức đóng bảo hiểm, công đoàn, tiền quỹ</TextV>
+    <TextE>Danh mục mức đóng bảo hiểm, công đoàn, tiền quỹ</TextE>
+  </hdmucdongbh>
+  <hdmucdongbh>
+    <FormID>hdmucdongbh</FormID>
+    <TextID>001</TextID>
+    <TextV>Ngày hiệu lực</TextV>
+    <TextE>Ngày hiệu lực</TextE>
+  </hdmucdongbh>
+  <hdmucdongbh>
+    <FormID>hdmucdongbh</FormID>
+    <TextID>002</TextID>
+    <TextV>Công ty đóng</TextV>
+    <TextE>Công ty đóng</TextE>
+  </hdmucdongbh>
+  <hdmucdongbh>
+    <FormID>hdmucdongbh</FormID>
+    <TextID>003</TextID>
+    <TextV>Nhân viên đóng</TextV>
+    <TextE>Nhân viên đóng</TextE>
+  </hdmucdongbh>
+  <hdmucdongbh>
+    <FormID>hdmucdongbh</FormID>
+    <TextID>004</TextID>
+    <TextV>BHXH</TextV>
+    <TextE>BHXH</TextE>
+  </hdmucdongbh>
+  <hdmucdongbh>
+    <FormID>hdmucdongbh</FormID>
+    <TextID>005</TextID>
+    <TextV>BHYT</TextV>
+    <TextE>BHYT</TextE>
+  </hdmucdongbh>
+  <hdmucdongbh>
+    <FormID>hdmucdongbh</FormID>
+    <TextID>006</TextID>
+    <TextV>BHTN</TextV>
+    <TextE>BHTN</TextE>
+  </hdmucdongbh>
+  <hdmucdongbh>
+    <FormID>hdmucdongbh</FormID>
+    <TextID>007</TextID>
+    <TextV>Công đoàn</TextV>
+    <TextE>Công đoàn</TextE>
+  </hdmucdongbh>
+  <hdmucdongbh>
+    <FormID>hdmucdongbh</FormID>
+    <TextID>008</TextID>
+    <TextV>Tiền quỹ</TextV>
+    <TextE>Tiền quỹ</TextE>
+  </hdmucdongbh>
+  <hdmucdongbh>
+    <FormID>hdmucdongbh</FormID>
+    <TextID>089</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Status</TextE>
+  </hdmucdongbh>
+  <hdmucdongbh>
+    <FormID>hdmucdongbh</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Creator</TextE>
+  </hdmucdongbh>
+  <hdmucdongbh>
+    <FormID>hdmucdongbh</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modifỉer</TextE>
+  </hdmucdongbh>
+  <hdmucdongbh>
+    <FormID>hdmucdongbh</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </hdmucdongbh>
+  <hdmucdongbh>
+    <FormID>hdmucdongbh</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </hdmucdongbh>
+  <hdmucdongbh>
+    <FormID>hdmucdongbh</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </hdmucdongbh>
+  <hdmucdongbh>
+    <FormID>hdmucdongbh</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </hdmucdongbh>
+  <hdmucdongbh>
+    <FormID>hdmucdongbh</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </hdmucdongbh>
+  <hdmucdongbh>
+    <FormID>hdmucdongbh</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </hdmucdongbh>
+  <hdmucdongbh>
+    <FormID>hdmucdongbh</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </hdmucdongbh>
+  <hdmucdongbh>
+    <FormID>hdmucdongbh</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </hdmucdongbh>
+  <hdmucdongbh>
+    <FormID>hdmucdongbh</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </hdmucdongbh>
+</NewDataSet>

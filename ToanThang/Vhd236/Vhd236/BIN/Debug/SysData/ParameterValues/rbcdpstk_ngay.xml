@@ -1,0 +1,183 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rbcdpstk_ngay" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rbcdpstk_ngay">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rbcdpstk_ngay>
+    <Code>rbcdpstk_ngay</Code>
+    <Name>c_co</Name>
+    <Type>C</Type>
+    <Value>Có</Value>
+    <Value2>Có</Value2>
+  </rbcdpstk_ngay>
+  <rbcdpstk_ngay>
+    <Code>rbcdpstk_ngay</Code>
+    <Name>c_den_ngay</Name>
+    <Type>C</Type>
+    <Value>đến ngày:</Value>
+    <Value2>đến ngày:</Value2>
+  </rbcdpstk_ngay>
+  <rbcdpstk_ngay>
+    <Code>rbcdpstk_ngay</Code>
+    <Name>c_du_ck</Name>
+    <Type>C</Type>
+    <Value>Dư cuối kỳ:</Value>
+    <Value2>Dư cuối kỳ:</Value2>
+  </rbcdpstk_ngay>
+  <rbcdpstk_ngay>
+    <Code>rbcdpstk_ngay</Code>
+    <Name>c_du_cuoi</Name>
+    <Type>C</Type>
+    <Value>Dư cuối</Value>
+    <Value2>Dư cuối</Value2>
+  </rbcdpstk_ngay>
+  <rbcdpstk_ngay>
+    <Code>rbcdpstk_ngay</Code>
+    <Name>c_du_dau</Name>
+    <Type>C</Type>
+    <Value>Dư đầu</Value>
+    <Value2>Dư đầu</Value2>
+  </rbcdpstk_ngay>
+  <rbcdpstk_ngay>
+    <Code>rbcdpstk_ngay</Code>
+    <Name>c_du_dk</Name>
+    <Type>C</Type>
+    <Value>Dư đầu kỳ:</Value>
+    <Value2>Dư đầu kỳ:</Value2>
+  </rbcdpstk_ngay>
+  <rbcdpstk_ngay>
+    <Code>rbcdpstk_ngay</Code>
+    <Name>c_ktt</Name>
+    <Type>C</Type>
+    <Value>KẾ TOÁN TRƯỞNG</Value>
+    <Value2>KẾ TOÁN TRƯỞNG</Value2>
+  </rbcdpstk_ngay>
+  <rbcdpstk_ngay>
+    <Code>rbcdpstk_ngay</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên)</Value>
+    <Value2>(Ký, họ tên)</Value2>
+  </rbcdpstk_ngay>
+  <rbcdpstk_ngay>
+    <Code>rbcdpstk_ngay</Code>
+    <Name>c_ngay_ct</Name>
+    <Type>C</Type>
+    <Value>Ngày</Value>
+    <Value2>Ngày</Value2>
+  </rbcdpstk_ngay>
+  <rbcdpstk_ngay>
+    <Code>rbcdpstk_ngay</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>Ngày. . . . . tháng . . . . . năm . . . . . . . .</Value>
+    <Value2>Ngày. . . . . tháng . . . . . năm . . . . . . . .</Value2>
+  </rbcdpstk_ngay>
+  <rbcdpstk_ngay>
+    <Code>rbcdpstk_ngay</Code>
+    <Name>c_ngoai_te</Name>
+    <Type>C</Type>
+    <Value>Ngoại tệ</Value>
+    <Value2>Ngoại tệ</Value2>
+  </rbcdpstk_ngay>
+  <rbcdpstk_ngay>
+    <Code>rbcdpstk_ngay</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>NGƯỜI LẬP PHIẾU</Value>
+    <Value2>NGƯỜI LẬP PHIẾU</Value2>
+  </rbcdpstk_ngay>
+  <rbcdpstk_ngay>
+    <Code>rbcdpstk_ngay</Code>
+    <Name>c_no</Name>
+    <Type>C</Type>
+    <Value>Nợ</Value>
+    <Value2>Nợ</Value2>
+  </rbcdpstk_ngay>
+  <rbcdpstk_ngay>
+    <Code>rbcdpstk_ngay</Code>
+    <Name>c_so_ps</Name>
+    <Type>C</Type>
+    <Value>Số phát sinh</Value>
+    <Value2>Số phát sinh</Value2>
+  </rbcdpstk_ngay>
+  <rbcdpstk_ngay>
+    <Code>rbcdpstk_ngay</Code>
+    <Name>c_so_ps_co</Name>
+    <Type>C</Type>
+    <Value>Số phát sinh có</Value>
+    <Value2>Số phát sinh có</Value2>
+  </rbcdpstk_ngay>
+  <rbcdpstk_ngay>
+    <Code>rbcdpstk_ngay</Code>
+    <Name>c_so_ps_no</Name>
+    <Type>C</Type>
+    <Value>Số phát sinh nợ</Value>
+    <Value2>Số phát sinh nợ</Value2>
+  </rbcdpstk_ngay>
+  <rbcdpstk_ngay>
+    <Code>rbcdpstk_ngay</Code>
+    <Name>c_ten_tk</Name>
+    <Type>C</Type>
+    <Value>Tên tài khoản</Value>
+    <Value2>Tên tài khoản</Value2>
+  </rbcdpstk_ngay>
+  <rbcdpstk_ngay>
+    <Code>rbcdpstk_ngay</Code>
+    <Name>c_tk</Name>
+    <Type>C</Type>
+    <Value>Tài khoản</Value>
+    <Value2>Tài khoản</Value2>
+  </rbcdpstk_ngay>
+  <rbcdpstk_ngay>
+    <Code>rbcdpstk_ngay</Code>
+    <Name>c_tong_cong</Name>
+    <Type>C</Type>
+    <Value>Tổng cộng:</Value>
+    <Value2>Tổng cộng:</Value2>
+  </rbcdpstk_ngay>
+  <rbcdpstk_ngay>
+    <Code>rbcdpstk_ngay</Code>
+    <Name>c_tong_ps_co</Name>
+    <Type>C</Type>
+    <Value>Tổng phát sinh có:</Value>
+    <Value2>Tổng phát sinh có:</Value2>
+  </rbcdpstk_ngay>
+  <rbcdpstk_ngay>
+    <Code>rbcdpstk_ngay</Code>
+    <Name>c_tong_ps_no</Name>
+    <Type>C</Type>
+    <Value>Tổng phát sinh nợ:</Value>
+    <Value2>Tổng phát sinh nợ:</Value2>
+  </rbcdpstk_ngay>
+  <rbcdpstk_ngay>
+    <Code>rbcdpstk_ngay</Code>
+    <Name>c_tu_ngay</Name>
+    <Type>C</Type>
+    <Value>Từ ngày:</Value>
+    <Value2>Từ ngày:</Value2>
+  </rbcdpstk_ngay>
+  <rbcdpstk_ngay>
+    <Code>rbcdpstk_ngay</Code>
+    <Name>c_vnd</Name>
+    <Type>C</Type>
+    <Value>VND</Value>
+    <Value2>VND</Value2>
+  </rbcdpstk_ngay>
+</NewDataSet>

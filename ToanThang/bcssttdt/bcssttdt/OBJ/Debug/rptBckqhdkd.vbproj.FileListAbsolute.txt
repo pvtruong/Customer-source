@@ -1,0 +1,70 @@
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\rptBckqhdkd.exe
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\rptBckqhdkd.pdb
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\rptBckqhdkd.xml
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\ClPrint.dll
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\ClsControl2.dll
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\ClsList.dll
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\ClsLookup.dll
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\Clsql.dll
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\ClsRpt.dll
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\clsViDe.dll
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\ClsMath.dll
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\Form.dll
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\Control.dll
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\clsPopUp.dll
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\ClsPilot.dll
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\clsPermit4Field.dll
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\ClsMsg.dll
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\ClsRight.dll
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\Interop.Excel.dll
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\obj\Debug\rptBckqhdkd.frmfilter.resources
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\obj\Debug\rptBckqhdkd.frminput.resources
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\obj\Debug\rptBckqhdkd.frmkbmau.resources
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\obj\Debug\rptBckqhdkd.MainForm.resources
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\obj\Debug\rptBckqhdkd.Resources.resources
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\obj\Debug\rptBckqhdkd.vbproj.GenerateResource.Cache
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\obj\Debug\rptBckqhdkd.exe
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\obj\Debug\rptBckqhdkd.xml
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\obj\Debug\rptBckqhdkd.pdb
+D:\SOURCE\CRM\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\clsab.dll
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\obj\Debug\rptBckqhdkd.exe
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\obj\Debug\rptBckqhdkd.xml
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\obj\Debug\rptBckqhdkd.pdb
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\rptBckqhdkd.exe
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\rptBckqhdkd.pdb
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\rptBckqhdkd.xml
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\ClPrint.dll
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\ClsControl2.dll
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\ClsList.dll
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\ClsLookup.dll
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\Clsql.dll
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\ClsRpt.dll
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\clsViDe.dll
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\ClsVno.dll
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\clsab.dll
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\clsPopUp.dll
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\ClsPilot.dll
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\clsPermit4Field.dll
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\ClsRight.dll
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\Interop.Excel.dll
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\bin\Debug\ClsMath.dll
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\obj\Debug\rptBckqhdkd.frmfilter.resources
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\obj\Debug\rptBckqhdkd.frminput.resources
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\obj\Debug\rptBckqhdkd.frmkbmau.resources
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\obj\Debug\rptBckqhdkd.MainForm.resources
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\obj\Debug\rptBckqhdkd.Resources.resources
+D:\SOURCE\ACC\Rpt\rptBckqhdkd\rptBckqhdkd\obj\Debug\rptBckqhdkd.vbproj.GenerateResource.Cache
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptBckqhdkd\rptBckqhdkd\obj\Debug\rptBckqhdkd.exe
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptBckqhdkd\rptBckqhdkd\obj\Debug\rptBckqhdkd.xml
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptBckqhdkd\rptBckqhdkd\obj\Debug\rptBckqhdkd.pdb
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Debug\rptBckqhdkd.exe
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Debug\rptBckqhdkd.xml
+F:\STP01\E\STP SOURCE\ACC\5.0\rpt\rptv51_bcpt\rptv51_bcpt\obj\Debug\rptBckqhdkd.pdb

@@ -1,0 +1,117 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="CreateRPT" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="CreateRPT">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <CreateRPT>
+    <FormID>CreateRPT</FormID>
+    <TextID>000</TextID>
+    <TextV>Tạo báo cáo</TextV>
+    <TextE>Create Report</TextE>
+  </CreateRPT>
+  <CreateRPT>
+    <FormID>CreateRPT</FormID>
+    <TextID>001</TextID>
+    <TextV>Chọn báo cáo</TextV>
+    <TextE>Choose Report</TextE>
+  </CreateRPT>
+  <CreateRPT>
+    <FormID>CreateRPT</FormID>
+    <TextID>002</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Filter Condition</TextE>
+  </CreateRPT>
+  <CreateRPT>
+    <FormID>CreateRPT</FormID>
+    <TextID>003</TextID>
+    <TextV>Thêm mới</TextV>
+    <TextE>New</TextE>
+  </CreateRPT>
+  <CreateRPT>
+    <FormID>CreateRPT</FormID>
+    <TextID>004</TextID>
+    <TextV>Xoá</TextV>
+    <TextE>Delete</TextE>
+  </CreateRPT>
+  <CreateRPT>
+    <FormID>CreateRPT</FormID>
+    <TextID>005</TextID>
+    <TextV>&amp;Xem</TextV>
+    <TextE>&amp;View</TextE>
+  </CreateRPT>
+  <CreateRPT>
+    <FormID>CreateRPT</FormID>
+    <TextID>006</TextID>
+    <TextV>Thoát</TextV>
+    <TextE>Exit</TextE>
+  </CreateRPT>
+  <CreateRPT>
+    <FormID>CreateRPT</FormID>
+    <TextID>007</TextID>
+    <TextV>Quay lại</TextV>
+    <TextE>Back</TextE>
+  </CreateRPT>
+  <CreateRPT>
+    <FormID>CreateRPT</FormID>
+    <TextID>008</TextID>
+    <TextV>Tiếp theo</TextV>
+    <TextE>Next</TextE>
+  </CreateRPT>
+  <CreateRPT>
+    <FormID>CreateRPT</FormID>
+    <TextID>009</TextID>
+    <TextV>Hoàn thành</TextV>
+    <TextE>Finish</TextE>
+  </CreateRPT>
+  <CreateRPT>
+    <FormID>CreateRPT</FormID>
+    <TextID>010</TextID>
+    <TextV>Huỷ bỏ</TextV>
+    <TextE>Cancel</TextE>
+  </CreateRPT>
+  <CreateRPT>
+    <FormID>CreateRPT</FormID>
+    <TextID>800</TextID>
+    <TextV>Làm tươi</TextV>
+    <TextE>Refresh</TextE>
+  </CreateRPT>
+  <CreateRPT>
+    <FormID>CreateRPT</FormID>
+    <TextID>801</TextID>
+    <TextV>Xuất Excel</TextV>
+    <TextE>Export to Excel</TextE>
+  </CreateRPT>
+  <CreateRPT>
+    <FormID>CreateRPT</FormID>
+    <TextID>802</TextID>
+    <TextV>&amp;In</TextV>
+    <TextE>&amp;Print</TextE>
+  </CreateRPT>
+  <CreateRPT>
+    <FormID>CreateRPT</FormID>
+    <TextID>803</TextID>
+    <TextV>Xem trước</TextV>
+    <TextE>Preview</TextE>
+  </CreateRPT>
+  <CreateRPT>
+    <FormID>CreateRPT</FormID>
+    <TextID>900</TextID>
+    <TextV>Bạn có chắc chắn muốn xoá không?</TextV>
+    <TextE>Do you want to delete this report?</TextE>
+  </CreateRPT>
+</NewDataSet>

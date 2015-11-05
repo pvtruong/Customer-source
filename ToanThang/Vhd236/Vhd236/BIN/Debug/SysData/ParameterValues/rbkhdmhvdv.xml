@@ -1,0 +1,148 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rbkhdmhvdv" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rbkhdmhvdv">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rbkhdmhvdv>
+    <Code>rbkhdmhvdv</Code>
+    <Name>c_cong</Name>
+    <Type>C</Type>
+    <Value>TỔNG CỘNG:</Value>
+    <Value2>TOTAL:</Value2>
+  </rbkhdmhvdv>
+  <rbkhdmhvdv>
+    <Code>rbkhdmhvdv</Code>
+    <Name>c_den_ngay</Name>
+    <Type>C</Type>
+    <Value>đến ngày</Value>
+    <Value2>To Date</Value2>
+  </rbkhdmhvdv>
+  <rbkhdmhvdv>
+    <Code>rbkhdmhvdv</Code>
+    <Name>c_dvt</Name>
+    <Type>C</Type>
+    <Value>Đơn vị tính:</Value>
+    <Value2>Unit:</Value2>
+  </rbkhdmhvdv>
+  <rbkhdmhvdv>
+    <Code>rbkhdmhvdv</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên)</Value>
+    <Value2>Sign., (Full Name)</Value2>
+  </rbkhdmhvdv>
+  <rbkhdmhvdv>
+    <Code>rbkhdmhvdv</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>..............., ngày......... tháng........... năm..........</Value>
+    <Value2>..............., date......... month........... year..........</Value2>
+  </rbkhdmhvdv>
+  <rbkhdmhvdv>
+    <Code>rbkhdmhvdv</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Người lập</Value>
+    <Value2>Founder</Value2>
+  </rbkhdmhvdv>
+  <rbkhdmhvdv>
+    <Code>rbkhdmhvdv</Code>
+    <Name>c_tu_ngay</Name>
+    <Type>C</Type>
+    <Value>Từ ngày</Value>
+    <Value2>From Date</Value2>
+  </rbkhdmhvdv>
+  <rbkhdmhvdv>
+    <Code>rbkhdmhvdv</Code>
+    <Name>ct</Name>
+    <Type>C</Type>
+    <Value>Chứng từ</Value>
+    <Value2>Voucher</Value2>
+  </rbkhdmhvdv>
+  <rbkhdmhvdv>
+    <Code>rbkhdmhvdv</Code>
+    <Name>dien_giai</Name>
+    <Type>C</Type>
+    <Value>Diễn giải</Value>
+    <Value2>Memo</Value2>
+  </rbkhdmhvdv>
+  <rbkhdmhvdv>
+    <Code>rbkhdmhvdv</Code>
+    <Name>ngay_hd</Name>
+    <Type>C</Type>
+    <Value>Ngày hóa đơn</Value>
+    <Value2>Invoice Date</Value2>
+  </rbkhdmhvdv>
+  <rbkhdmhvdv>
+    <Code>rbkhdmhvdv</Code>
+    <Name>phai_tra</Name>
+    <Type>C</Type>
+    <Value>Phải trả</Value>
+    <Value2>Payable</Value2>
+  </rbkhdmhvdv>
+  <rbkhdmhvdv>
+    <Code>rbkhdmhvdv</Code>
+    <Name>phai_tra_nt</Name>
+    <Type>C</Type>
+    <Value>Phải trả nt</Value>
+    <Value2>Payable nt</Value2>
+  </rbkhdmhvdv>
+  <rbkhdmhvdv>
+    <Code>rbkhdmhvdv</Code>
+    <Name>so_hd</Name>
+    <Type>C</Type>
+    <Value>Số hóa đơn</Value>
+    <Value2>Inv. No.</Value2>
+  </rbkhdmhvdv>
+  <rbkhdmhvdv>
+    <Code>rbkhdmhvdv</Code>
+    <Name>tien_hang</Name>
+    <Type>C</Type>
+    <Value>Tiền hàng</Value>
+    <Value2>Amount</Value2>
+  </rbkhdmhvdv>
+  <rbkhdmhvdv>
+    <Code>rbkhdmhvdv</Code>
+    <Name>tien_hang_nt</Name>
+    <Type>C</Type>
+    <Value>Tiền hàng nt</Value>
+    <Value2>FC Amount</Value2>
+  </rbkhdmhvdv>
+  <rbkhdmhvdv>
+    <Code>rbkhdmhvdv</Code>
+    <Name>tien_thue</Name>
+    <Type>C</Type>
+    <Value>Tiền thuế</Value>
+    <Value2>Tax Amt.</Value2>
+  </rbkhdmhvdv>
+  <rbkhdmhvdv>
+    <Code>rbkhdmhvdv</Code>
+    <Name>tien_thue_nt</Name>
+    <Type>C</Type>
+    <Value>Tiền thuế nt</Value>
+    <Value2>FC Tax Amt.</Value2>
+  </rbkhdmhvdv>
+  <rbkhdmhvdv>
+    <Code>rbkhdmhvdv</Code>
+    <Name>tong_tien</Name>
+    <Type>C</Type>
+    <Value>Tổng tiền</Value>
+    <Value2>Total Amount</Value2>
+  </rbkhdmhvdv>
+</NewDataSet>

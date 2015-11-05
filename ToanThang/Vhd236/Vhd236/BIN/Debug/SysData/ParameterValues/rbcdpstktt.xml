@@ -1,0 +1,148 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rbcdpstktt" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rbcdpstktt">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rbcdpstktt>
+    <Code>rbcdpstktt</Code>
+    <Name>c_co_ck</Name>
+    <Type>C</Type>
+    <Value>Có cuối kỳ</Value>
+    <Value2>Cr.Closing Balance</Value2>
+  </rbcdpstktt>
+  <rbcdpstktt>
+    <Code>rbcdpstktt</Code>
+    <Name>c_co_ck_nt</Name>
+    <Type>C</Type>
+    <Value>Có cuối kỳ nt</Value>
+    <Value2>FC Cr.Closing Balance</Value2>
+  </rbcdpstktt>
+  <rbcdpstktt>
+    <Code>rbcdpstktt</Code>
+    <Name>c_co_dk</Name>
+    <Type>C</Type>
+    <Value>Có đầu kỳ</Value>
+    <Value2>Cr. Opening Bal.</Value2>
+  </rbcdpstktt>
+  <rbcdpstktt>
+    <Code>rbcdpstktt</Code>
+    <Name>c_co_dk_nt</Name>
+    <Type>C</Type>
+    <Value>Có đầu kỳ nt</Value>
+    <Value2>FC Cr. Opening Bal.</Value2>
+  </rbcdpstktt>
+  <rbcdpstktt>
+    <Code>rbcdpstktt</Code>
+    <Name>c_ktt</Name>
+    <Type>C</Type>
+    <Value>Kế toán trưởng</Value>
+    <Value2>Chief Accountant</Value2>
+  </rbcdpstktt>
+  <rbcdpstktt>
+    <Code>rbcdpstktt</Code>
+    <Name>c_ky</Name>
+    <Type>C</Type>
+    <Value>Kỳ</Value>
+    <Value2>Period</Value2>
+  </rbcdpstktt>
+  <rbcdpstktt>
+    <Code>rbcdpstktt</Code>
+    <Name>c_ky_nam</Name>
+    <Type>C</Type>
+    <Value>Kỳ/năm</Value>
+    <Value2>Period/Year</Value2>
+  </rbcdpstktt>
+  <rbcdpstktt>
+    <Code>rbcdpstktt</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên)</Value>
+    <Value2>Sign., (Full Name)</Value2>
+  </rbcdpstktt>
+  <rbcdpstktt>
+    <Code>rbcdpstktt</Code>
+    <Name>c_nam</Name>
+    <Type>C</Type>
+    <Value>Năm</Value>
+    <Value2>Year</Value2>
+  </rbcdpstktt>
+  <rbcdpstktt>
+    <Code>rbcdpstktt</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>..............., ngày......... tháng........... năm..........</Value>
+    <Value2>..............., date......... month........... year..........</Value2>
+  </rbcdpstktt>
+  <rbcdpstktt>
+    <Code>rbcdpstktt</Code>
+    <Name>c_no_ck</Name>
+    <Type>C</Type>
+    <Value>Nợ cuối kỳ</Value>
+    <Value2>Dr.Closing Balance</Value2>
+  </rbcdpstktt>
+  <rbcdpstktt>
+    <Code>rbcdpstktt</Code>
+    <Name>c_no_ck_nt</Name>
+    <Type>C</Type>
+    <Value>Nợ cuối kỳ nt</Value>
+    <Value2>FC Dr.Closing Balance</Value2>
+  </rbcdpstktt>
+  <rbcdpstktt>
+    <Code>rbcdpstktt</Code>
+    <Name>c_no_dk</Name>
+    <Type>C</Type>
+    <Value>Nợ đầu kỳ</Value>
+    <Value2>Dr. Opening Bal.</Value2>
+  </rbcdpstktt>
+  <rbcdpstktt>
+    <Code>rbcdpstktt</Code>
+    <Name>c_no_dk_nt</Name>
+    <Type>C</Type>
+    <Value>Nợ đầu kỳ nt</Value>
+    <Value2>FC Dr. Opening Bal.</Value2>
+  </rbcdpstktt>
+  <rbcdpstktt>
+    <Code>rbcdpstktt</Code>
+    <Name>c_ps_co</Name>
+    <Type>C</Type>
+    <Value>Phát sinh có</Value>
+    <Value2>Credit</Value2>
+  </rbcdpstktt>
+  <rbcdpstktt>
+    <Code>rbcdpstktt</Code>
+    <Name>c_ps_co_nt</Name>
+    <Type>C</Type>
+    <Value>Phát sinh có nt</Value>
+    <Value2>FC Credit</Value2>
+  </rbcdpstktt>
+  <rbcdpstktt>
+    <Code>rbcdpstktt</Code>
+    <Name>c_ps_no</Name>
+    <Type>C</Type>
+    <Value>Phát sinh nợ</Value>
+    <Value2>Debit</Value2>
+  </rbcdpstktt>
+  <rbcdpstktt>
+    <Code>rbcdpstktt</Code>
+    <Name>c_ps_no_nt</Name>
+    <Type>C</Type>
+    <Value>Phát sinh nợ nt</Value>
+    <Value2>FC Debit</Value2>
+  </rbcdpstktt>
+</NewDataSet>

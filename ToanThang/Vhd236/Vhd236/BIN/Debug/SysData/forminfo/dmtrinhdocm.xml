@@ -1,0 +1,105 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dmtrinhdocm" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dmtrinhdocm">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dmtrinhdocm>
+    <FormID>dmtrinhdocm</FormID>
+    <TextID>000</TextID>
+    <TextV>Trình độ chuyên môn</TextV>
+    <TextE>Qualifications</TextE>
+  </dmtrinhdocm>
+  <dmtrinhdocm>
+    <FormID>dmtrinhdocm</FormID>
+    <TextID>001</TextID>
+    <TextV>Trình độ</TextV>
+    <TextE>Education Level</TextE>
+  </dmtrinhdocm>
+  <dmtrinhdocm>
+    <FormID>dmtrinhdocm</FormID>
+    <TextID>002</TextID>
+    <TextV>Chuyên ngành</TextV>
+    <TextE>Specialization</TextE>
+  </dmtrinhdocm>
+  <dmtrinhdocm>
+    <FormID>dmtrinhdocm</FormID>
+    <TextID>003</TextID>
+    <TextV>Xếp loại</TextV>
+    <TextE>Type of degree</TextE>
+  </dmtrinhdocm>
+  <dmtrinhdocm>
+    <FormID>dmtrinhdocm</FormID>
+    <TextID>004</TextID>
+    <TextV>Năm tốt nghiệp</TextV>
+    <TextE>Year of graduation</TextE>
+  </dmtrinhdocm>
+  <dmtrinhdocm>
+    <FormID>dmtrinhdocm</FormID>
+    <TextID>005</TextID>
+    <TextV>Tại trường</TextV>
+    <TextE>At school</TextE>
+  </dmtrinhdocm>
+  <dmtrinhdocm>
+    <FormID>dmtrinhdocm</FormID>
+    <TextID>006</TextID>
+    <TextV>Địa chỉ</TextV>
+    <TextE>Address</TextE>
+  </dmtrinhdocm>
+  <dmtrinhdocm>
+    <FormID>dmtrinhdocm</FormID>
+    <TextID>007</TextID>
+    <TextV>Thông tin thêm</TextV>
+    <TextE>More information</TextE>
+  </dmtrinhdocm>
+  <dmtrinhdocm>
+    <FormID>dmtrinhdocm</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Created</TextE>
+  </dmtrinhdocm>
+  <dmtrinhdocm>
+    <FormID>dmtrinhdocm</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modify</TextE>
+  </dmtrinhdocm>
+  <dmtrinhdocm>
+    <FormID>dmtrinhdocm</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </dmtrinhdocm>
+  <dmtrinhdocm>
+    <FormID>dmtrinhdocm</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </dmtrinhdocm>
+  <dmtrinhdocm>
+    <FormID>dmtrinhdocm</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </dmtrinhdocm>
+  <dmtrinhdocm>
+    <FormID>dmtrinhdocm</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dmtrinhdocm>
+</NewDataSet>

@@ -1,0 +1,159 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Fpbtdcchdpthu" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Fpbtdcchdpthu">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Fpbtdcchdpthu>
+    <FormID>Fpbtdcchdpthu</FormID>
+    <TextID>000</TextID>
+    <TextV>Phân bổ tiền cho các hóa đơn phải thu</TextV>
+    <TextE>Cash Receipt Allocation to Invoices</TextE>
+  </Fpbtdcchdpthu>
+  <Fpbtdcchdpthu>
+    <FormID>Fpbtdcchdpthu</FormID>
+    <TextID>001</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Filter Condition</TextE>
+  </Fpbtdcchdpthu>
+  <Fpbtdcchdpthu>
+    <FormID>Fpbtdcchdpthu</FormID>
+    <TextID>002</TextID>
+    <TextV>Từ/Đến ngày</TextV>
+    <TextE>Date from/to</TextE>
+  </Fpbtdcchdpthu>
+  <Fpbtdcchdpthu>
+    <FormID>Fpbtdcchdpthu</FormID>
+    <TextID>003</TextID>
+    <TextV>Tài khoản</TextV>
+    <TextE>Account</TextE>
+  </Fpbtdcchdpthu>
+  <Fpbtdcchdpthu>
+    <FormID>Fpbtdcchdpthu</FormID>
+    <TextID>004</TextID>
+    <TextV>Mã khách</TextV>
+    <TextE>Cust.ID</TextE>
+  </Fpbtdcchdpthu>
+  <Fpbtdcchdpthu>
+    <FormID>Fpbtdcchdpthu</FormID>
+    <TextID>005</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>&amp;Ok</TextE>
+  </Fpbtdcchdpthu>
+  <Fpbtdcchdpthu>
+    <FormID>Fpbtdcchdpthu</FormID>
+    <TextID>006</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </Fpbtdcchdpthu>
+  <Fpbtdcchdpthu>
+    <FormID>Fpbtdcchdpthu</FormID>
+    <TextID>007</TextID>
+    <TextV>Phân bổ</TextV>
+    <TextE>Distribute</TextE>
+  </Fpbtdcchdpthu>
+  <Fpbtdcchdpthu>
+    <FormID>Fpbtdcchdpthu</FormID>
+    <TextID>008</TextID>
+    <TextV>Lưu</TextV>
+    <TextE>Save</TextE>
+  </Fpbtdcchdpthu>
+  <Fpbtdcchdpthu>
+    <FormID>Fpbtdcchdpthu</FormID>
+    <TextID>009</TextID>
+    <TextV>Xóa phân bổ</TextV>
+    <TextE>&amp;Delete</TextE>
+  </Fpbtdcchdpthu>
+  <Fpbtdcchdpthu>
+    <FormID>Fpbtdcchdpthu</FormID>
+    <TextID>010</TextID>
+    <TextV>Kiểu phân bổ</TextV>
+    <TextE>Type</TextE>
+  </Fpbtdcchdpthu>
+  <Fpbtdcchdpthu>
+    <FormID>Fpbtdcchdpthu</FormID>
+    <TextID>011</TextID>
+    <TextV>Mẫu báo cáo</TextV>
+    <TextE>Report Form</TextE>
+  </Fpbtdcchdpthu>
+  <Fpbtdcchdpthu>
+    <FormID>Fpbtdcchdpthu</FormID>
+    <TextID>012</TextID>
+    <TextV>Tiêu đề</TextV>
+    <TextE>Title</TextE>
+  </Fpbtdcchdpthu>
+  <Fpbtdcchdpthu>
+    <FormID>Fpbtdcchdpthu</FormID>
+    <TextID>013</TextID>
+    <TextV>Sản phẩm</TextV>
+    <TextE>Product</TextE>
+  </Fpbtdcchdpthu>
+  <Fpbtdcchdpthu>
+    <FormID>Fpbtdcchdpthu</FormID>
+    <TextID>200</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </Fpbtdcchdpthu>
+  <Fpbtdcchdpthu>
+    <FormID>Fpbtdcchdpthu</FormID>
+    <TextID>201</TextID>
+    <TextV>&amp;In</TextV>
+    <TextE>&amp;Print</TextE>
+  </Fpbtdcchdpthu>
+  <Fpbtdcchdpthu>
+    <FormID>Fpbtdcchdpthu</FormID>
+    <TextID>202</TextID>
+    <TextV>&amp;Xem</TextV>
+    <TextE>&amp;View</TextE>
+  </Fpbtdcchdpthu>
+  <Fpbtdcchdpthu>
+    <FormID>Fpbtdcchdpthu</FormID>
+    <TextID>203</TextID>
+    <TextV>Làm tươi</TextV>
+    <TextE>Refresh</TextE>
+  </Fpbtdcchdpthu>
+  <Fpbtdcchdpthu>
+    <FormID>Fpbtdcchdpthu</FormID>
+    <TextID>204</TextID>
+    <TextV>Xem chứng từ</TextV>
+    <TextE>View Voucher</TextE>
+  </Fpbtdcchdpthu>
+  <Fpbtdcchdpthu>
+    <FormID>Fpbtdcchdpthu</FormID>
+    <TextID>777</TextID>
+    <TextV>Phân bổ này chưa được lưu,bạn có muốn lưu không?</TextV>
+    <TextE>Allocation was not saved, You do not want to save?</TextE>
+  </Fpbtdcchdpthu>
+  <Fpbtdcchdpthu>
+    <FormID>Fpbtdcchdpthu</FormID>
+    <TextID>888</TextID>
+    <TextV>Không thể lưu vì tổng tiền phân bổ&gt;tổng tiền trên phiếu chi</TextV>
+    <TextE>Can not save because total allocation amount &gt; Total cash on hand disbursement</TextE>
+  </Fpbtdcchdpthu>
+  <Fpbtdcchdpthu>
+    <FormID>Fpbtdcchdpthu</FormID>
+    <TextID>998</TextID>
+    <TextV>Đơn vị cơ sở</TextV>
+    <TextE>Unit</TextE>
+  </Fpbtdcchdpthu>
+  <Fpbtdcchdpthu>
+    <FormID>Fpbtdcchdpthu</FormID>
+    <TextID>999</TextID>
+    <TextV>Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </Fpbtdcchdpthu>
+</NewDataSet>

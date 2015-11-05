@@ -1,0 +1,129 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="hrbangluong" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="hrbangluong">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <hrbangluong>
+    <FormID>hrbangluong</FormID>
+    <TextID>000</TextID>
+    <TextV>Bảng tính lương</TextV>
+    <TextE>Bảng tính lương</TextE>
+  </hrbangluong>
+  <hrbangluong>
+    <FormID>hrbangluong</FormID>
+    <TextID>001</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Filter Condition</TextE>
+  </hrbangluong>
+  <hrbangluong>
+    <FormID>hrbangluong</FormID>
+    <TextID>002</TextID>
+    <TextV>Kỳ lương</TextV>
+    <TextE>Kỳ lương</TextE>
+  </hrbangluong>
+  <hrbangluong>
+    <FormID>hrbangluong</FormID>
+    <TextID>003</TextID>
+    <TextV>từ ngày</TextV>
+    <TextE>từ ngày</TextE>
+  </hrbangluong>
+  <hrbangluong>
+    <FormID>hrbangluong</FormID>
+    <TextID>004</TextID>
+    <TextV>- đến ngày</TextV>
+    <TextE>- đến ngày</TextE>
+  </hrbangluong>
+  <hrbangluong>
+    <FormID>hrbangluong</FormID>
+    <TextID>005</TextID>
+    <TextV>Mã nhân viên</TextV>
+    <TextE>Employee</TextE>
+  </hrbangluong>
+  <hrbangluong>
+    <FormID>hrbangluong</FormID>
+    <TextID>006</TextID>
+    <TextV>Mã bộ phận</TextV>
+    <TextE>Department</TextE>
+  </hrbangluong>
+  <hrbangluong>
+    <FormID>hrbangluong</FormID>
+    <TextID>007</TextID>
+    <TextV>Nhóm lương</TextV>
+    <TextE>Nhóm lương</TextE>
+  </hrbangluong>
+  <hrbangluong>
+    <FormID>hrbangluong</FormID>
+    <TextID>010</TextID>
+    <TextV>Đơn vị</TextV>
+    <TextE>Đơn vị</TextE>
+  </hrbangluong>
+  <hrbangluong>
+    <FormID>hrbangluong</FormID>
+    <TextID>011</TextID>
+    <TextV>Mẫu báo cáo</TextV>
+    <TextE>Mẫu báo cáo</TextE>
+  </hrbangluong>
+  <hrbangluong>
+    <FormID>hrbangluong</FormID>
+    <TextID>012</TextID>
+    <TextV>Tiêu đề</TextV>
+    <TextE>Tiêu đề</TextE>
+  </hrbangluong>
+  <hrbangluong>
+    <FormID>hrbangluong</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>&amp;OK</TextE>
+  </hrbangluong>
+  <hrbangluong>
+    <FormID>hrbangluong</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </hrbangluong>
+  <hrbangluong>
+    <FormID>hrbangluong</FormID>
+    <TextID>200</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>Function</TextE>
+  </hrbangluong>
+  <hrbangluong>
+    <FormID>hrbangluong</FormID>
+    <TextID>201</TextID>
+    <TextV>&amp;In</TextV>
+    <TextE>&amp;Print</TextE>
+  </hrbangluong>
+  <hrbangluong>
+    <FormID>hrbangluong</FormID>
+    <TextID>202</TextID>
+    <TextV>&amp;Xem</TextV>
+    <TextE>&amp;View</TextE>
+  </hrbangluong>
+  <hrbangluong>
+    <FormID>hrbangluong</FormID>
+    <TextID>203</TextID>
+    <TextV>Làm tươi</TextV>
+    <TextE>Refresh</TextE>
+  </hrbangluong>
+  <hrbangluong>
+    <FormID>hrbangluong</FormID>
+    <TextID>900</TextID>
+    <TextV>Đã khóa sổ tính lương đến ngày %d. Không được tính lương lại!</TextV>
+    <TextE>Đã khóa sổ tính lương đến ngày %d. Không được tính lương lại!</TextE>
+  </hrbangluong>
+</NewDataSet>

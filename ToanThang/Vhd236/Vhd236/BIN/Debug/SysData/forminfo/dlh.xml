@@ -1,0 +1,129 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dlh" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dlh">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dlh>
+    <FormID>dlh</FormID>
+    <TextID>000</TextID>
+    <TextV>Thông tin liên hệ</TextV>
+    <TextE>Thông tin liên hệ</TextE>
+  </dlh>
+  <dlh>
+    <FormID>dlh</FormID>
+    <TextID>001</TextID>
+    <TextV>Người liên hệ</TextV>
+    <TextE>Người liên hệ</TextE>
+  </dlh>
+  <dlh>
+    <FormID>dlh</FormID>
+    <TextID>002</TextID>
+    <TextV>Giới tính</TextV>
+    <TextE>Giới tính</TextE>
+  </dlh>
+  <dlh>
+    <FormID>dlh</FormID>
+    <TextID>003</TextID>
+    <TextV>Ngày sinh</TextV>
+    <TextE>Ngày sinh</TextE>
+  </dlh>
+  <dlh>
+    <FormID>dlh</FormID>
+    <TextID>004</TextID>
+    <TextV>Chức vụ</TextV>
+    <TextE>Chức vụ</TextE>
+  </dlh>
+  <dlh>
+    <FormID>dlh</FormID>
+    <TextID>005</TextID>
+    <TextV>Điện thoại cơ quan</TextV>
+    <TextE>Điện thoại cơ quan</TextE>
+  </dlh>
+  <dlh>
+    <FormID>dlh</FormID>
+    <TextID>006</TextID>
+    <TextV>Điện thọa di động</TextV>
+    <TextE>Mobile phone</TextE>
+  </dlh>
+  <dlh>
+    <FormID>dlh</FormID>
+    <TextID>007</TextID>
+    <TextV>Thư điện tử</TextV>
+    <TextE>Email</TextE>
+  </dlh>
+  <dlh>
+    <FormID>dlh</FormID>
+    <TextID>008</TextID>
+    <TextV>Điện thoại nhà riêng</TextV>
+    <TextE>Home phone</TextE>
+  </dlh>
+  <dlh>
+    <FormID>dlh</FormID>
+    <TextID>009</TextID>
+    <TextV>Địa chỉ</TextV>
+    <TextE>Address</TextE>
+  </dlh>
+  <dlh>
+    <FormID>dlh</FormID>
+    <TextID>010</TextID>
+    <TextV>Ghi chú</TextV>
+    <TextE>Note</TextE>
+  </dlh>
+  <dlh>
+    <FormID>dlh</FormID>
+    <TextID>011</TextID>
+    <TextV>0-Nam/1-Nữ</TextV>
+    <TextE>0-Nam/1-Nữa</TextE>
+  </dlh>
+  <dlh>
+    <FormID>dlh</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Người tạo</TextE>
+  </dlh>
+  <dlh>
+    <FormID>dlh</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Người sửa</TextE>
+  </dlh>
+  <dlh>
+    <FormID>dlh</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Ngày tạo</TextE>
+  </dlh>
+  <dlh>
+    <FormID>dlh</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Ngày sửa</TextE>
+  </dlh>
+  <dlh>
+    <FormID>dlh</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </dlh>
+  <dlh>
+    <FormID>dlh</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dlh>
+</NewDataSet>

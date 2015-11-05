@@ -1,0 +1,113 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="kehoachthuhd" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="kehoachthuhd">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <kehoachthuhd>
+    <Code>kehoachthuhd</Code>
+    <Name>c_da_tt</Name>
+    <Type>C</Type>
+    <Value>Đã thanh toán</Value>
+    <Value2>Đã thanh toán</Value2>
+  </kehoachthuhd>
+  <kehoachthuhd>
+    <Code>kehoachthuhd</Code>
+    <Name>c_den_ngay</Name>
+    <Type>C</Type>
+    <Value>Đến ngày:</Value>
+    <Value2>Đến ngày:</Value2>
+  </kehoachthuhd>
+  <kehoachthuhd>
+    <Code>kehoachthuhd</Code>
+    <Name>c_ma_kh</Name>
+    <Type>C</Type>
+    <Value>Mã khách hàng</Value>
+    <Value2>Mã khách hàng</Value2>
+  </kehoachthuhd>
+  <kehoachthuhd>
+    <Code>kehoachthuhd</Code>
+    <Name>c_ngay</Name>
+    <Type>C</Type>
+    <Value>Ngày thu tiền</Value>
+    <Value2>Ngày thu tiền</Value2>
+  </kehoachthuhd>
+  <kehoachthuhd>
+    <Code>kehoachthuhd</Code>
+    <Name>c_ngay_hd</Name>
+    <Type>C</Type>
+    <Value>Ngày hóa đơn</Value>
+    <Value2>Ngày hóa đơn</Value2>
+  </kehoachthuhd>
+  <kehoachthuhd>
+    <Code>kehoachthuhd</Code>
+    <Name>c_ngay_in</Name>
+    <Type>C</Type>
+    <Value>Ngày in:</Value>
+    <Value2>Ngày in:</Value2>
+  </kehoachthuhd>
+  <kehoachthuhd>
+    <Code>kehoachthuhd</Code>
+    <Name>c_so_hd</Name>
+    <Type>C</Type>
+    <Value>Số hóa đơn</Value>
+    <Value2>Số hóa đơn</Value2>
+  </kehoachthuhd>
+  <kehoachthuhd>
+    <Code>kehoachthuhd</Code>
+    <Name>c_so_tien</Name>
+    <Type>C</Type>
+    <Value>Số tiền phải thu trong kỳ</Value>
+    <Value2>Số tiền phải thu trong kỳ</Value2>
+  </kehoachthuhd>
+  <kehoachthuhd>
+    <Code>kehoachthuhd</Code>
+    <Name>c_stt</Name>
+    <Type>C</Type>
+    <Value>STT</Value>
+    <Value2>STT</Value2>
+  </kehoachthuhd>
+  <kehoachthuhd>
+    <Code>kehoachthuhd</Code>
+    <Name>c_ten_kh</Name>
+    <Type>C</Type>
+    <Value>Tên khách hàng</Value>
+    <Value2>Tên khách hàng</Value2>
+  </kehoachthuhd>
+  <kehoachthuhd>
+    <Code>kehoachthuhd</Code>
+    <Name>c_tong_tien_hd</Name>
+    <Type>C</Type>
+    <Value>Tổng tiền hóa đơn</Value>
+    <Value2>Tổng tiền hóa đơn</Value2>
+  </kehoachthuhd>
+  <kehoachthuhd>
+    <Code>kehoachthuhd</Code>
+    <Name>c_trang</Name>
+    <Type>C</Type>
+    <Value>Trang in:</Value>
+    <Value2>Trang in:</Value2>
+  </kehoachthuhd>
+  <kehoachthuhd>
+    <Code>kehoachthuhd</Code>
+    <Name>c_tu_ngay</Name>
+    <Type>C</Type>
+    <Value>Từ ngày:</Value>
+    <Value2>Từ ngày:</Value2>
+  </kehoachthuhd>
+</NewDataSet>

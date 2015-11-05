@@ -1,0 +1,147 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="hrnvmoi" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="hrnvmoi">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <hrnvmoi>
+    <FormID>hrnvmoi</FormID>
+    <TextID>000</TextID>
+    <TextV>Danh sách nhân viên mới vào làm</TextV>
+    <TextE>Danh sách nhân viên mới vào làm</TextE>
+  </hrnvmoi>
+  <hrnvmoi>
+    <FormID>hrnvmoi</FormID>
+    <TextID>001</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Filter Condition</TextE>
+  </hrnvmoi>
+  <hrnvmoi>
+    <FormID>hrnvmoi</FormID>
+    <TextID>009</TextID>
+    <TextV>Đơn vị</TextV>
+    <TextE>Unit</TextE>
+  </hrnvmoi>
+  <hrnvmoi>
+    <FormID>hrnvmoi</FormID>
+    <TextID>011</TextID>
+    <TextV>Mẫu báo cáo</TextV>
+    <TextE>Report Form</TextE>
+  </hrnvmoi>
+  <hrnvmoi>
+    <FormID>hrnvmoi</FormID>
+    <TextID>012</TextID>
+    <TextV>Tiêu đề</TextV>
+    <TextE>Title</TextE>
+  </hrnvmoi>
+  <hrnvmoi>
+    <FormID>hrnvmoi</FormID>
+    <TextID>200</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </hrnvmoi>
+  <hrnvmoi>
+    <FormID>hrnvmoi</FormID>
+    <TextID>201</TextID>
+    <TextV>&amp;In</TextV>
+    <TextE>&amp;Print</TextE>
+  </hrnvmoi>
+  <hrnvmoi>
+    <FormID>hrnvmoi</FormID>
+    <TextID>202</TextID>
+    <TextV>&amp;Xem</TextV>
+    <TextE>&amp;View</TextE>
+  </hrnvmoi>
+  <hrnvmoi>
+    <FormID>hrnvmoi</FormID>
+    <TextID>203</TextID>
+    <TextV>Làm tươi</TextV>
+    <TextE>Refresh</TextE>
+  </hrnvmoi>
+  <hrnvmoi>
+    <FormID>hrnvmoi</FormID>
+    <TextID>900</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>&amp;OK</TextE>
+  </hrnvmoi>
+  <hrnvmoi>
+    <FormID>hrnvmoi</FormID>
+    <TextID>901</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </hrnvmoi>
+  <hrnvmoi>
+    <FormID>hrnvmoi</FormID>
+    <TextID>999</TextID>
+    <TextV>Thoát</TextV>
+    <TextE>Close</TextE>
+  </hrnvmoi>
+  <hrnvmoi>
+    <FormID>hrnvmoi</FormID>
+    <TextID>d01</TextID>
+    <TextV>Ngày vào từ/đến</TextV>
+    <TextE>Ngày vào từ/đến</TextE>
+  </hrnvmoi>
+  <hrnvmoi>
+    <FormID>hrnvmoi</FormID>
+    <TextID>d02</TextID>
+    <TextV>Mã nhân viên</TextV>
+    <TextE>Ngày vào từ/đến</TextE>
+  </hrnvmoi>
+  <hrnvmoi>
+    <FormID>hrnvmoi</FormID>
+    <TextID>d03</TextID>
+    <TextV>Mã bộ phận</TextV>
+    <TextE>Department</TextE>
+  </hrnvmoi>
+  <hrnvmoi>
+    <FormID>hrnvmoi</FormID>
+    <TextID>d04</TextID>
+    <TextV>Mã loại nhân viên</TextV>
+    <TextE>Mã loại nhân viên</TextE>
+  </hrnvmoi>
+  <hrnvmoi>
+    <FormID>hrnvmoi</FormID>
+    <TextID>d05</TextID>
+    <TextV>Mã chức vụ</TextV>
+    <TextE>Mã chức vụ</TextE>
+  </hrnvmoi>
+  <hrnvmoi>
+    <FormID>hrnvmoi</FormID>
+    <TextID>d06</TextID>
+    <TextV>Mã công việc</TextV>
+    <TextE>Mã công việc</TextE>
+  </hrnvmoi>
+  <hrnvmoi>
+    <FormID>hrnvmoi</FormID>
+    <TextID>d07</TextID>
+    <TextV>Loại hợp đồng</TextV>
+    <TextE>Loại hợp đồng</TextE>
+  </hrnvmoi>
+  <hrnvmoi>
+    <FormID>hrnvmoi</FormID>
+    <TextID>d08</TextID>
+    <TextV>Trạng thái BHXH</TextV>
+    <TextE>Trạng thái BHXH</TextE>
+  </hrnvmoi>
+  <hrnvmoi>
+    <FormID>hrnvmoi</FormID>
+    <TextID>d09</TextID>
+    <TextV>Nhóm theo</TextV>
+    <TextE>Nhóm theo</TextE>
+  </hrnvmoi>
+</NewDataSet>

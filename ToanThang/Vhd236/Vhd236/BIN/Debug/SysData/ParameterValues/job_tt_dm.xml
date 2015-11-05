@@ -1,0 +1,106 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="job_tt_dm" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="job_tt_dm">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <job_tt_dm>
+    <Code>job_tt_dm</Code>
+    <Name>c_chenh_lech</Name>
+    <Type>C</Type>
+    <Value>Chênh lệch</Value>
+    <Value2>Chênh lệch</Value2>
+  </job_tt_dm>
+  <job_tt_dm>
+    <Code>job_tt_dm</Code>
+    <Name>c_den_ngay</Name>
+    <Type>C</Type>
+    <Value>đến ngày</Value>
+    <Value2>To Date</Value2>
+  </job_tt_dm>
+  <job_tt_dm>
+    <Code>job_tt_dm</Code>
+    <Name>c_dinh_muc</Name>
+    <Type>C</Type>
+    <Value>Định mức</Value>
+    <Value2>Định mức</Value2>
+  </job_tt_dm>
+  <job_tt_dm>
+    <Code>job_tt_dm</Code>
+    <Name>c_ktt</Name>
+    <Type>C</Type>
+    <Value>Kế toán trưởng</Value>
+    <Value2>Chief Accountant</Value2>
+  </job_tt_dm>
+  <job_tt_dm>
+    <Code>job_tt_dm</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên)</Value>
+    <Value2>Sign., (Full Name)</Value2>
+  </job_tt_dm>
+  <job_tt_dm>
+    <Code>job_tt_dm</Code>
+    <Name>c_ma_vt</Name>
+    <Type>C</Type>
+    <Value>Mã vật tư</Value>
+    <Value2>Mã vật tư</Value2>
+  </job_tt_dm>
+  <job_tt_dm>
+    <Code>job_tt_dm</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>..............., ngày......... tháng........... năm..........</Value>
+    <Value2>..............., date......... month........... year..........</Value2>
+  </job_tt_dm>
+  <job_tt_dm>
+    <Code>job_tt_dm</Code>
+    <Name>c_stt</Name>
+    <Type>C</Type>
+    <Value>STT</Value>
+    <Value2>STT</Value2>
+  </job_tt_dm>
+  <job_tt_dm>
+    <Code>job_tt_dm</Code>
+    <Name>c_ten_vt</Name>
+    <Type>C</Type>
+    <Value>Tên vật tư</Value>
+    <Value2>Tên vật tư</Value2>
+  </job_tt_dm>
+  <job_tt_dm>
+    <Code>job_tt_dm</Code>
+    <Name>c_trong_ky</Name>
+    <Type>C</Type>
+    <Value>Trong kỳ</Value>
+    <Value2>Trong kỳ</Value2>
+  </job_tt_dm>
+  <job_tt_dm>
+    <Code>job_tt_dm</Code>
+    <Name>c_tu_ngay</Name>
+    <Type>C</Type>
+    <Value>Từ ngày</Value>
+    <Value2>From Date</Value2>
+  </job_tt_dm>
+  <job_tt_dm>
+    <Code>job_tt_dm</Code>
+    <Name>c_ty_le</Name>
+    <Type>C</Type>
+    <Value>Tỷ lệ %</Value>
+    <Value2>Tỷ lệ %</Value2>
+  </job_tt_dm>
+</NewDataSet>

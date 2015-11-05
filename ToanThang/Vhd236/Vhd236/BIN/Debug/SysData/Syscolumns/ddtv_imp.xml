@@ -1,0 +1,91 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="ddtv_imp" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="ddtv_imp">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="name" type="xs:string" minOccurs="0" />
+                <xs:element name="prec" type="xs:short" minOccurs="0" />
+                <xs:element name="scale" type="xs:int" minOccurs="0" />
+                <xs:element name="isnullable" type="xs:int" minOccurs="0" />
+                <xs:element name="tablename" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <ddtv_imp>
+    <name>stt_rec</name>
+    <prec>13</prec>
+    <isnullable>0</isnullable>
+    <tablename>ddtv_imp</tablename>
+  </ddtv_imp>
+  <ddtv_imp>
+    <name>ma_dt</name>
+    <prec>32</prec>
+    <isnullable>0</isnullable>
+    <tablename>ddtv_imp</tablename>
+  </ddtv_imp>
+  <ddtv_imp>
+    <name>ten_dt</name>
+    <prec>64</prec>
+    <isnullable>0</isnullable>
+    <tablename>ddtv_imp</tablename>
+  </ddtv_imp>
+  <ddtv_imp>
+    <name>ma_bp</name>
+    <prec>16</prec>
+    <isnullable>1</isnullable>
+    <tablename>ddtv_imp</tablename>
+  </ddtv_imp>
+  <ddtv_imp>
+    <name>ten_bp</name>
+    <prec>64</prec>
+    <isnullable>1</isnullable>
+    <tablename>ddtv_imp</tablename>
+  </ddtv_imp>
+  <ddtv_imp>
+    <name>ma_nt</name>
+    <prec>3</prec>
+    <isnullable>1</isnullable>
+    <tablename>ddtv_imp</tablename>
+  </ddtv_imp>
+  <ddtv_imp>
+    <name>ty_gia</name>
+    <prec>18</prec>
+    <scale>5</scale>
+    <isnullable>1</isnullable>
+    <tablename>ddtv_imp</tablename>
+  </ddtv_imp>
+  <ddtv_imp>
+    <name>ma_phi</name>
+    <prec>16</prec>
+    <isnullable>0</isnullable>
+    <tablename>ddtv_imp</tablename>
+  </ddtv_imp>
+  <ddtv_imp>
+    <name>ten_phi</name>
+    <prec>64</prec>
+    <isnullable>0</isnullable>
+    <tablename>ddtv_imp</tablename>
+  </ddtv_imp>
+  <ddtv_imp>
+    <name>tien_nt</name>
+    <prec>18</prec>
+    <scale>5</scale>
+    <isnullable>1</isnullable>
+    <tablename>ddtv_imp</tablename>
+  </ddtv_imp>
+  <ddtv_imp>
+    <name>tien</name>
+    <prec>18</prec>
+    <scale>5</scale>
+    <isnullable>1</isnullable>
+    <tablename>ddtv_imp</tablename>
+  </ddtv_imp>
+</NewDataSet>

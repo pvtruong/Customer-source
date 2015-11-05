@@ -1,0 +1,111 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="backup" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="backup">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <backup>
+    <FormID>backup</FormID>
+    <TextID>000</TextID>
+    <TextV>Lưu trữ dữ liệu</TextV>
+    <TextE>Backup data</TextE>
+  </backup>
+  <backup>
+    <FormID>backup</FormID>
+    <TextID>001</TextID>
+    <TextV>Thoát</TextV>
+    <TextE>Quit</TextE>
+  </backup>
+  <backup>
+    <FormID>backup</FormID>
+    <TextID>002</TextID>
+    <TextV>Thử lại</TextV>
+    <TextE>Try again</TextE>
+  </backup>
+  <backup>
+    <FormID>backup</FormID>
+    <TextID>003</TextID>
+    <TextV>Tải file về</TextV>
+    <TextE>Download</TextE>
+  </backup>
+  <backup>
+    <FormID>backup</FormID>
+    <TextID>100</TextID>
+    <TextV>Chuẩn bị lưu trữ</TextV>
+    <TextE>Chuẩn bị lưu trữ</TextE>
+  </backup>
+  <backup>
+    <FormID>backup</FormID>
+    <TextID>101</TextID>
+    <TextV>Đang lưu trữ</TextV>
+    <TextE>Đang lưu trữ</TextE>
+  </backup>
+  <backup>
+    <FormID>backup</FormID>
+    <TextID>102</TextID>
+    <TextV>Đang nén dữ liệu</TextV>
+    <TextE>Đang nén dữ liệu</TextE>
+  </backup>
+  <backup>
+    <FormID>backup</FormID>
+    <TextID>103</TextID>
+    <TextV>Hoàn thành lưu trữ dữ liệu</TextV>
+    <TextE>Hoàn thành lưu trữ dữ liệu</TextE>
+  </backup>
+  <backup>
+    <FormID>backup</FormID>
+    <TextID>104</TextID>
+    <TextV>Không thể lưu trữ dữ liệu</TextV>
+    <TextE>Can't backup database</TextE>
+  </backup>
+  <backup>
+    <FormID>backup</FormID>
+    <TextID>105</TextID>
+    <TextV>File lưu trữ: %c</TextV>
+    <TextE>File backup: %c</TextE>
+  </backup>
+  <backup>
+    <FormID>backup</FormID>
+    <TextID>106</TextID>
+    <TextV>Không thể nén dữ liệu</TextV>
+    <TextE>Không thể nén dữ liệu</TextE>
+  </backup>
+  <backup>
+    <FormID>backup</FormID>
+    <TextID>109</TextID>
+    <TextV>Đang tải dữ liệu</TextV>
+    <TextE>Downloading</TextE>
+  </backup>
+  <backup>
+    <FormID>backup</FormID>
+    <TextID>110</TextID>
+    <TextV>Tải file thành công</TextV>
+    <TextE>Finished download</TextE>
+  </backup>
+  <backup>
+    <FormID>backup</FormID>
+    <TextID>200</TextID>
+    <TextV>Thư mục %c không tồn tại</TextV>
+    <TextE>Thư mục %c không tồn tại</TextE>
+  </backup>
+  <backup>
+    <FormID>backup</FormID>
+    <TextID>201</TextID>
+    <TextV>Bạn có muốn lưu vào ổ C:\ không?</TextV>
+    <TextE>Bạn có muốn lưu vào ổ C:\ không?</TextE>
+  </backup>
+</NewDataSet>

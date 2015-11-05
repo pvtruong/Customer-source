@@ -1,0 +1,147 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="hrthcong" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="hrthcong">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <hrthcong>
+    <FormID>hrthcong</FormID>
+    <TextID>000</TextID>
+    <TextV>Báo cáo tổng hợp công</TextV>
+    <TextE>Báo cáo tổng hợp công</TextE>
+  </hrthcong>
+  <hrthcong>
+    <FormID>hrthcong</FormID>
+    <TextID>001</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Filter Condition</TextE>
+  </hrthcong>
+  <hrthcong>
+    <FormID>hrthcong</FormID>
+    <TextID>009</TextID>
+    <TextV>Đơn vị</TextV>
+    <TextE>Unit</TextE>
+  </hrthcong>
+  <hrthcong>
+    <FormID>hrthcong</FormID>
+    <TextID>011</TextID>
+    <TextV>Mẫu báo cáo</TextV>
+    <TextE>Report Form</TextE>
+  </hrthcong>
+  <hrthcong>
+    <FormID>hrthcong</FormID>
+    <TextID>012</TextID>
+    <TextV>Tiêu đề</TextV>
+    <TextE>Title</TextE>
+  </hrthcong>
+  <hrthcong>
+    <FormID>hrthcong</FormID>
+    <TextID>200</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </hrthcong>
+  <hrthcong>
+    <FormID>hrthcong</FormID>
+    <TextID>201</TextID>
+    <TextV>&amp;In</TextV>
+    <TextE>&amp;Print</TextE>
+  </hrthcong>
+  <hrthcong>
+    <FormID>hrthcong</FormID>
+    <TextID>202</TextID>
+    <TextV>&amp;Xem</TextV>
+    <TextE>&amp;View</TextE>
+  </hrthcong>
+  <hrthcong>
+    <FormID>hrthcong</FormID>
+    <TextID>203</TextID>
+    <TextV>Làm tươi</TextV>
+    <TextE>Refresh</TextE>
+  </hrthcong>
+  <hrthcong>
+    <FormID>hrthcong</FormID>
+    <TextID>900</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>&amp;OK</TextE>
+  </hrthcong>
+  <hrthcong>
+    <FormID>hrthcong</FormID>
+    <TextID>901</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </hrthcong>
+  <hrthcong>
+    <FormID>hrthcong</FormID>
+    <TextID>999</TextID>
+    <TextV>Thoát</TextV>
+    <TextE>Close</TextE>
+  </hrthcong>
+  <hrthcong>
+    <FormID>hrthcong</FormID>
+    <TextID>d01</TextID>
+    <TextV>Từ ngày/ Đến ngày</TextV>
+    <TextE>From Date/ To date</TextE>
+  </hrthcong>
+  <hrthcong>
+    <FormID>hrthcong</FormID>
+    <TextID>d02</TextID>
+    <TextV>Mã nhân viên</TextV>
+    <TextE>Employee</TextE>
+  </hrthcong>
+  <hrthcong>
+    <FormID>hrthcong</FormID>
+    <TextID>d03</TextID>
+    <TextV>Mã bộ phận</TextV>
+    <TextE>Department</TextE>
+  </hrthcong>
+  <hrthcong>
+    <FormID>hrthcong</FormID>
+    <TextID>d04</TextID>
+    <TextV>Mã loại nhân viên</TextV>
+    <TextE>Mã loại nhân viên</TextE>
+  </hrthcong>
+  <hrthcong>
+    <FormID>hrthcong</FormID>
+    <TextID>d05</TextID>
+    <TextV>Mã chức vụ</TextV>
+    <TextE>Mã chức vụ</TextE>
+  </hrthcong>
+  <hrthcong>
+    <FormID>hrthcong</FormID>
+    <TextID>d06</TextID>
+    <TextV>Mã công việc</TextV>
+    <TextE>Mã công việc</TextE>
+  </hrthcong>
+  <hrthcong>
+    <FormID>hrthcong</FormID>
+    <TextID>d07</TextID>
+    <TextV>Loại hợp đồng</TextV>
+    <TextE>Loại hợp đồng</TextE>
+  </hrthcong>
+  <hrthcong>
+    <FormID>hrthcong</FormID>
+    <TextID>d08</TextID>
+    <TextV>Trạng thái BHXH</TextV>
+    <TextE>Trạng thái BHXH</TextE>
+  </hrthcong>
+  <hrthcong>
+    <FormID>hrthcong</FormID>
+    <TextID>d09</TextID>
+    <TextV>Nhóm theo</TextV>
+    <TextE>Nhóm theo</TextE>
+  </hrthcong>
+</NewDataSet>

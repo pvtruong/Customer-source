@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="ftinhlaitonkho" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="ftinhlaitonkho">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <ftinhlaitonkho>
+    <FormID>ftinhlaitonkho</FormID>
+    <TextID>000</TextID>
+    <TextV>Tính lại tồn kho tức thời</TextV>
+    <TextE>Recalculate Quantity on Hand</TextE>
+  </ftinhlaitonkho>
+  <ftinhlaitonkho>
+    <FormID>ftinhlaitonkho</FormID>
+    <TextID>002</TextID>
+    <TextV>Năm</TextV>
+    <TextE>Year</TextE>
+  </ftinhlaitonkho>
+  <ftinhlaitonkho>
+    <FormID>ftinhlaitonkho</FormID>
+    <TextID>003</TextID>
+    <TextV>Mã kho</TextV>
+    <TextE>Site ID</TextE>
+  </ftinhlaitonkho>
+  <ftinhlaitonkho>
+    <FormID>ftinhlaitonkho</FormID>
+    <TextID>004</TextID>
+    <TextV>Mã vật tư</TextV>
+    <TextE>Item Code</TextE>
+  </ftinhlaitonkho>
+  <ftinhlaitonkho>
+    <FormID>ftinhlaitonkho</FormID>
+    <TextID>800</TextID>
+    <TextV>Đã thực hiện xong</TextV>
+    <TextE>Đã thực hiện xong</TextE>
+  </ftinhlaitonkho>
+  <ftinhlaitonkho>
+    <FormID>ftinhlaitonkho</FormID>
+    <TextID>900</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>&amp;Ok</TextE>
+  </ftinhlaitonkho>
+  <ftinhlaitonkho>
+    <FormID>ftinhlaitonkho</FormID>
+    <TextID>901</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </ftinhlaitonkho>
+  <ftinhlaitonkho>
+    <FormID>ftinhlaitonkho</FormID>
+    <TextID>STO</TextID>
+    <TextV>TinhLaiTonKHoTucThoi</TextV>
+    <TextE>Recalculate Quantity on Hand</TextE>
+  </ftinhlaitonkho>
+</NewDataSet>

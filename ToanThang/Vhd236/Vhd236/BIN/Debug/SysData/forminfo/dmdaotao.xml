@@ -1,0 +1,117 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dmdaotao" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dmdaotao">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dmdaotao>
+    <FormID>dmdaotao</FormID>
+    <TextID>000</TextID>
+    <TextV>Các khóa đào tạo</TextV>
+    <TextE>Training courses</TextE>
+  </dmdaotao>
+  <dmdaotao>
+    <FormID>dmdaotao</FormID>
+    <TextID>066</TextID>
+    <TextV>Tên khóa đào tạo</TextV>
+    <TextE>Name of training</TextE>
+  </dmdaotao>
+  <dmdaotao>
+    <FormID>dmdaotao</FormID>
+    <TextID>067</TextID>
+    <TextV>Chi phí đào tạo</TextV>
+    <TextE>Training costs</TextE>
+  </dmdaotao>
+  <dmdaotao>
+    <FormID>dmdaotao</FormID>
+    <TextID>068</TextID>
+    <TextV>Ngày bắt đầu</TextV>
+    <TextE>Start Date</TextE>
+  </dmdaotao>
+  <dmdaotao>
+    <FormID>dmdaotao</FormID>
+    <TextID>069</TextID>
+    <TextV>Ngày kết thúc</TextV>
+    <TextE>End date</TextE>
+  </dmdaotao>
+  <dmdaotao>
+    <FormID>dmdaotao</FormID>
+    <TextID>070</TextID>
+    <TextV>Kết quả</TextV>
+    <TextE>Results</TextE>
+  </dmdaotao>
+  <dmdaotao>
+    <FormID>dmdaotao</FormID>
+    <TextID>071</TextID>
+    <TextV>Tên chứng chỉ</TextV>
+    <TextE>Certificate Name</TextE>
+  </dmdaotao>
+  <dmdaotao>
+    <FormID>dmdaotao</FormID>
+    <TextID>072</TextID>
+    <TextV>Nơi cấp bằng</TextV>
+    <TextE>Nơi cấp bằng</TextE>
+  </dmdaotao>
+  <dmdaotao>
+    <FormID>dmdaotao</FormID>
+    <TextID>073</TextID>
+    <TextV>Nơi cử đi đào tạo</TextV>
+    <TextE>Nơi cử đi đào tạo</TextE>
+  </dmdaotao>
+  <dmdaotao>
+    <FormID>dmdaotao</FormID>
+    <TextID>074</TextID>
+    <TextV>Thông tin thêm</TextV>
+    <TextE>More information</TextE>
+  </dmdaotao>
+  <dmdaotao>
+    <FormID>dmdaotao</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Created</TextE>
+  </dmdaotao>
+  <dmdaotao>
+    <FormID>dmdaotao</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modify</TextE>
+  </dmdaotao>
+  <dmdaotao>
+    <FormID>dmdaotao</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </dmdaotao>
+  <dmdaotao>
+    <FormID>dmdaotao</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </dmdaotao>
+  <dmdaotao>
+    <FormID>dmdaotao</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </dmdaotao>
+  <dmdaotao>
+    <FormID>dmdaotao</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dmdaotao>
+</NewDataSet>

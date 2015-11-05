@@ -1,0 +1,111 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dmktkl" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dmktkl">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dmktkl>
+    <FormID>dmktkl</FormID>
+    <TextID>000</TextID>
+    <TextV>Khen thưởng &amp; Kỷ luật</TextV>
+    <TextE>Rewards &amp; Discipline</TextE>
+  </dmktkl>
+  <dmktkl>
+    <FormID>dmktkl</FormID>
+    <TextID>001</TextID>
+    <TextV>Số quyết định</TextV>
+    <TextE>Number of decisions</TextE>
+  </dmktkl>
+  <dmktkl>
+    <FormID>dmktkl</FormID>
+    <TextID>002</TextID>
+    <TextV>Loại quyết định</TextV>
+    <TextE>Type of decision</TextE>
+  </dmktkl>
+  <dmktkl>
+    <FormID>dmktkl</FormID>
+    <TextID>003</TextID>
+    <TextV>Số tiền</TextV>
+    <TextE>Amount</TextE>
+  </dmktkl>
+  <dmktkl>
+    <FormID>dmktkl</FormID>
+    <TextID>004</TextID>
+    <TextV>Đơn vị tiền tệ</TextV>
+    <TextE>Đơn vị tiền tệ</TextE>
+  </dmktkl>
+  <dmktkl>
+    <FormID>dmktkl</FormID>
+    <TextID>005</TextID>
+    <TextV>Ngày ký</TextV>
+    <TextE>Date signed</TextE>
+  </dmktkl>
+  <dmktkl>
+    <FormID>dmktkl</FormID>
+    <TextID>006</TextID>
+    <TextV>Ngày có hiệu lực</TextV>
+    <TextE>Effective Date</TextE>
+  </dmktkl>
+  <dmktkl>
+    <FormID>dmktkl</FormID>
+    <TextID>007</TextID>
+    <TextV>Người ký quyết định</TextV>
+    <TextE>Người ký quyết định</TextE>
+  </dmktkl>
+  <dmktkl>
+    <FormID>dmktkl</FormID>
+    <TextID>008</TextID>
+    <TextV>Ghi chú</TextV>
+    <TextE>Notes.</TextE>
+  </dmktkl>
+  <dmktkl>
+    <FormID>dmktkl</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Created</TextE>
+  </dmktkl>
+  <dmktkl>
+    <FormID>dmktkl</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modify</TextE>
+  </dmktkl>
+  <dmktkl>
+    <FormID>dmktkl</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </dmktkl>
+  <dmktkl>
+    <FormID>dmktkl</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </dmktkl>
+  <dmktkl>
+    <FormID>dmktkl</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </dmktkl>
+  <dmktkl>
+    <FormID>dmktkl</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dmktkl>
+</NewDataSet>

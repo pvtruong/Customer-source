@@ -1,0 +1,526 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="PO1" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="PO1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>a_1</Name>
+    <Type>C</Type>
+    <Value>This order number must appear on all invoices packages, delivery orders and corresspondence</Value>
+    <Value2>This order number must appear on all invoices packages, delivery orders and corresspondence</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>a_2</Name>
+    <Type>C</Type>
+    <Value>Acknowledgement copy of  this purchase order must be chooped, signed and returned to us for confirmation of acceprance forthwith</Value>
+    <Value2>Acknowledgement copy of  this purchase order must be chooped, signed and returned to us for confirmation of acceprance forthwith</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>a_3</Name>
+    <Type>C</Type>
+    <Value>VAT invoice must be submitted</Value>
+    <Value2>VAT invoice must be submitted</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>a_4</Name>
+    <Type>C</Type>
+    <Value>A higher price than shown on the purchase order must not be charged without our authority</Value>
+    <Value2>A higher price than shown on the purchase order must not be charged without our authority</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>a_5</Name>
+    <Type>C</Type>
+    <Value>Please execute our order for good lissted above forthwith</Value>
+    <Value2>Please execute our order for good lissted above forthwith</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>a_chitiet</Name>
+    <Type>C</Type>
+    <Value>Description</Value>
+    <Value2>Description</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>a_dia_chi</Name>
+    <Type>C</Type>
+    <Value>Address:</Value>
+    <Value2>Address:</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>a_dien_th</Name>
+    <Type>C</Type>
+    <Value>Telephone:</Value>
+    <Value2>Telephone:</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>a_dongia</Name>
+    <Type>C</Type>
+    <Value>Unit price</Value>
+    <Value2>Unit price</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>a_du</Name>
+    <Type>C</Type>
+    <Value>Project No:</Value>
+    <Value2>Project No:</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>a_dv</Name>
+    <Type>C</Type>
+    <Value>Unit</Value>
+    <Value2>Unit</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>a_fax</Name>
+    <Type>C</Type>
+    <Value>Fax:</Value>
+    <Value2>Fax:</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>a_hd</Name>
+    <Type>C</Type>
+    <Value>Contract No:</Value>
+    <Value2>Contract No:</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>a_httt</Name>
+    <Type>C</Type>
+    <Value>Payment terms:</Value>
+    <Value2>Payment terms:</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>a_ng_dh</Name>
+    <Type>C</Type>
+    <Value>Order date:</Value>
+    <Value2>Order date:</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>a_ng_gh</Name>
+    <Type>C</Type>
+    <Value>Delivery to:</Value>
+    <Value2>Delivery to:</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>a_ng_lien_he</Name>
+    <Type>C</Type>
+    <Value>Attention:</Value>
+    <Value2>Attention:</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>a_nha_cu</Name>
+    <Type>C</Type>
+    <Value>Supplier:</Value>
+    <Value2>Supplier:</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>a_noi_giao</Name>
+    <Type>C</Type>
+    <Value>Delivery to:</Value>
+    <Value2>Delivery to:</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>a_sl</Name>
+    <Type>C</Type>
+    <Value>Qty</Value>
+    <Value2>Qty</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>a_stt</Name>
+    <Type>C</Type>
+    <Value>Item</Value>
+    <Value2>Item</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>a_tc</Name>
+    <Type>C</Type>
+    <Value>Total</Value>
+    <Value2>Total</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_1</Name>
+    <Type>C</Type>
+    <Value>(Số đơn hàng phải thể hiện trên tất cả Hóa đơn, Giấy Giao Nhận hàng, và các giấy tờ liên quan)</Value>
+    <Value2>(Số đơn hàng phải thể hiện trên tất cả Hóa đơn, Giấy Giao Nhận hàng, và các giấy tờ liên quan)</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_2</Name>
+    <Type>C</Type>
+    <Value>(Nhà cung cấp phải gửi lại đơn hàng cho chúng tôi bản copy phải có đóng dấu, chữ ký xác nhận những chi tiết trên đơn hàng)</Value>
+    <Value2>(Nhà cung cấp phải gửi lại đơn hàng cho chúng tôi bản copy phải có đóng dấu, chữ ký xác nhận những chi tiết trên đơn hàng)</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_3</Name>
+    <Type>C</Type>
+    <Value>(Hóa đơn VAT)</Value>
+    <Value2>(Hóa đơn VAT)</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_4</Name>
+    <Type>C</Type>
+    <Value>(Nếu có thay đổi đơn giá trên đơn hàng phải được sự chấp nhận của chúng tôi)</Value>
+    <Value2>(Nếu có thay đổi đơn giá trên đơn hàng phải được sự chấp nhận của chúng tôi)</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_5</Name>
+    <Type>C</Type>
+    <Value>(Thực hiện các chi tiết của đơn hàng một cách nhanh chóng)</Value>
+    <Value2>(Thực hiện các chi tiết của đơn hàng một cách nhanh chóng)</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_6</Name>
+    <Type>C</Type>
+    <Value>(Hàng hóa được cung cấp không theo đúng các thông số yêu cầu sẽ được trả lại)</Value>
+    <Value2>(Hàng hóa được cung cấp không theo đúng các thông số yêu cầu sẽ được trả lại)</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_acc</Name>
+    <Type>C</Type>
+    <Value>Acc No.</Value>
+    <Value2>Acc No.</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_add</Name>
+    <Type>C</Type>
+    <Value>Add</Value>
+    <Value2>Add</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_app</Name>
+    <Type>C</Type>
+    <Value>APPROVED BY</Value>
+    <Value2>APPROVED BY</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_chitiet</Name>
+    <Type>C</Type>
+    <Value>Chi tiết</Value>
+    <Value2>Chi tiết</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_co_name</Name>
+    <Type>C</Type>
+    <Value>Co's name</Value>
+    <Value2>Co's name         :</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_confir</Name>
+    <Type>C</Type>
+    <Value>CONFIRMED BY</Value>
+    <Value2>CONFIRMED BY</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_contact</Name>
+    <Type>C</Type>
+    <Value>Name contact</Value>
+    <Value2>Name contact    :</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_dia_chi</Name>
+    <Type>C</Type>
+    <Value>(Đia chỉ)</Value>
+    <Value2>(Địa chỉ)</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_dien_th</Name>
+    <Type>C</Type>
+    <Value>(Số điện thoại)</Value>
+    <Value2>(Số điện thoại)</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_dk</Name>
+    <Type>C</Type>
+    <Value>Conditions/Các điều kiện:</Value>
+    <Value2>Conditions/Các điều kiện:</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_dongia</Name>
+    <Type>C</Type>
+    <Value>Đơn giá</Value>
+    <Value2>Đơn giá</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_du</Name>
+    <Type>C</Type>
+    <Value>(Dự án)</Value>
+    <Value2>(Dự án)</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_dv</Name>
+    <Type>C</Type>
+    <Value>Đơn vị</Value>
+    <Value2>Đơn vị</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_fax</Name>
+    <Type>C</Type>
+    <Value>(Số Fax)</Value>
+    <Value2>(Số Fax)</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_ghi_chu</Name>
+    <Type>C</Type>
+    <Value>Note/ Ghi chú:</Value>
+    <Value2>Note/ Ghi chú:</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_hand_phone</Name>
+    <Type>V</Type>
+    <Value>select dien_thoai from dnv where ma_nv='[ma_nv]'</Value>
+    <Value2>select dien_thoai from dnv where ma_nv='[ma_nv]'</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_hd</Name>
+    <Type>C</Type>
+    <Value>(Hợp đồng)</Value>
+    <Value2>(Hợp đồng)</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_httt</Name>
+    <Type>C</Type>
+    <Value>(Hình thức thanh toán)</Value>
+    <Value2>(Hình thức thanh toán)</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_lien_he</Name>
+    <Type>C</Type>
+    <Value>Further information, please contact:</Value>
+    <Value2>Further information, please contact:</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_ng_dh</Name>
+    <Type>C</Type>
+    <Value>(Ngày đặt hàng)</Value>
+    <Value2>(Ngày đặt hàng)</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_ng_gh</Name>
+    <Type>C</Type>
+    <Value>(Ngày giao hàng)</Value>
+    <Value2>(Ngày giao hàng)</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_ng_lien_he</Name>
+    <Type>C</Type>
+    <Value>(Người liên hệ)</Value>
+    <Value2>(Người liên hệ)</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_nha_cu</Name>
+    <Type>C</Type>
+    <Value>(Nhà cung ứng)</Value>
+    <Value2>(Nhà cung ứng)</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_nhan_vien</Name>
+    <Type>V</Type>
+    <Value>select ten_nv from dnv where ma_nv='[ma_nv]'</Value>
+    <Value2>select ten_nv2 from dnv where ma_nv='[ma_nv]'</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_o</Name>
+    <Type>C</Type>
+    <Value>0</Value>
+    <Value2>0</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_phone</Name>
+    <Type>C</Type>
+    <Value>Hand phone:</Value>
+    <Value2>Hand phone:</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_pre</Name>
+    <Type>C</Type>
+    <Value>PREPARED BY</Value>
+    <Value2>PREPARED BY</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_req</Name>
+    <Type>C</Type>
+    <Value>Req No..</Value>
+    <Value2>Req No..</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_sl</Name>
+    <Type>C</Type>
+    <Value>S. lượng</Value>
+    <Value2>Số.lượng</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_so_po</Name>
+    <Type>C</Type>
+    <Value>P.O No:</Value>
+    <Value2>P.O No:</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_stt</Name>
+    <Type>C</Type>
+    <Value>Stt</Value>
+    <Value2>Stt</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_sub</Name>
+    <Type>C</Type>
+    <Value>Sub total</Value>
+    <Value2>Sub total</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_sup</Name>
+    <Type>C</Type>
+    <Value>SUPPERVISED BY</Value>
+    <Value2>SUPPERVISED BY</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_tax_code</Name>
+    <Type>C</Type>
+    <Value>Tax code</Value>
+    <Value2>Tax code       :</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_tc</Name>
+    <Type>C</Type>
+    <Value>Tổng cộng</Value>
+    <Value2>Tổng cộng</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_tel</Name>
+    <Type>C</Type>
+    <Value>Tel/Fax</Value>
+    <Value2>Tel/Fax</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_to</Name>
+    <Type>C</Type>
+    <Value>TOTAL</Value>
+    <Value2>TOTAL</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_va</Name>
+    <Type>C</Type>
+    <Value>VAT (%)</Value>
+    <Value2>VAT (%)</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_vat</Name>
+    <Type>C</Type>
+    <Value>VAT</Value>
+    <Value2>VAT</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>c_vnd</Name>
+    <Type>C</Type>
+    <Value>(VND)</Value>
+    <Value2>(VND)</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>v_dia_chi</Name>
+    <Type>V</Type>
+    <Value>select dia_chi from dkh where ma_kh='[ma_kh]'</Value>
+    <Value2>select dia_chi from dkh where ma_kh='[ma_kh]'</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>v_dien_thoai</Name>
+    <Type>V</Type>
+    <Value>select dien_thoai from dkh where ma_kh='[ma_kh]'</Value>
+    <Value2>select dien_thoai from dkh where ma_kh='[ma_kh]'</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>v_fax</Name>
+    <Type>V</Type>
+    <Value>select fax from dkh where ma_kh='[ma_kh]'</Value>
+    <Value2>select fax from dkh where ma_kh='[ma_kh]'</Value2>
+  </PO1>
+  <PO1>
+    <Code>PO1</Code>
+    <Name>v_httt</Name>
+    <Type>V</Type>
+    <Value>select ten_ht from dmhttt where ma_ht='[ma_tt]'</Value>
+    <Value2>select ten_ht2 from dmhttt where ma_ht='[ma_tt]'</Value2>
+  </PO1>
+</NewDataSet>

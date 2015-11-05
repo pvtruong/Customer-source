@@ -1,0 +1,135 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dmnhomchiphi" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dmnhomchiphi">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dmnhomchiphi>
+    <FormID>dmnhomchiphi</FormID>
+    <TextID>000</TextID>
+    <TextV>Danh mục nhóm Doanh thu/Chi phí</TextV>
+    <TextE>Danh mục nhóm Doanh thu/Chi phí</TextE>
+  </dmnhomchiphi>
+  <dmnhomchiphi>
+    <FormID>dmnhomchiphi</FormID>
+    <TextID>001</TextID>
+    <TextV>Mã nhóm</TextV>
+    <TextE>Group Code</TextE>
+  </dmnhomchiphi>
+  <dmnhomchiphi>
+    <FormID>dmnhomchiphi</FormID>
+    <TextID>002</TextID>
+    <TextV>Tên nhóm</TextV>
+    <TextE>Group Name</TextE>
+  </dmnhomchiphi>
+  <dmnhomchiphi>
+    <FormID>dmnhomchiphi</FormID>
+    <TextID>003</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Status</TextE>
+  </dmnhomchiphi>
+  <dmnhomchiphi>
+    <FormID>dmnhomchiphi</FormID>
+    <TextID>004</TextID>
+    <TextV>Đơn vị</TextV>
+    <TextE>Unit</TextE>
+  </dmnhomchiphi>
+  <dmnhomchiphi>
+    <FormID>dmnhomchiphi</FormID>
+    <TextID>005</TextID>
+    <TextV>Tên nhóm 2</TextV>
+    <TextE>Group Name 2</TextE>
+  </dmnhomchiphi>
+  <dmnhomchiphi>
+    <FormID>dmnhomchiphi</FormID>
+    <TextID>008</TextID>
+    <TextV>Ghi chú</TextV>
+    <TextE>Note</TextE>
+  </dmnhomchiphi>
+  <dmnhomchiphi>
+    <FormID>dmnhomchiphi</FormID>
+    <TextID>010</TextID>
+    <TextV>Loại nhóm</TextV>
+    <TextE>Group Type</TextE>
+  </dmnhomchiphi>
+  <dmnhomchiphi>
+    <FormID>dmnhomchiphi</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Created</TextE>
+  </dmnhomchiphi>
+  <dmnhomchiphi>
+    <FormID>dmnhomchiphi</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modify</TextE>
+  </dmnhomchiphi>
+  <dmnhomchiphi>
+    <FormID>dmnhomchiphi</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </dmnhomchiphi>
+  <dmnhomchiphi>
+    <FormID>dmnhomchiphi</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </dmnhomchiphi>
+  <dmnhomchiphi>
+    <FormID>dmnhomchiphi</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </dmnhomchiphi>
+  <dmnhomchiphi>
+    <FormID>dmnhomchiphi</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dmnhomchiphi>
+  <dmnhomchiphi>
+    <FormID>dmnhomchiphi</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </dmnhomchiphi>
+  <dmnhomchiphi>
+    <FormID>dmnhomchiphi</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </dmnhomchiphi>
+  <dmnhomchiphi>
+    <FormID>dmnhomchiphi</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </dmnhomchiphi>
+  <dmnhomchiphi>
+    <FormID>dmnhomchiphi</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </dmnhomchiphi>
+  <dmnhomchiphi>
+    <FormID>dmnhomchiphi</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </dmnhomchiphi>
+</NewDataSet>

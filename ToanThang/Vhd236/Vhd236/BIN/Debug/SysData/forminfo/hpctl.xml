@@ -1,0 +1,129 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="hpctl" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="hpctl">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <hpctl>
+    <FormID>hpctl</FormID>
+    <TextID>000</TextID>
+    <TextV>Phụ Cấp Theo Lương</TextV>
+    <TextE>Phụ Cấp Theo Lương</TextE>
+  </hpctl>
+  <hpctl>
+    <FormID>hpctl</FormID>
+    <TextID>089</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Status</TextE>
+  </hpctl>
+  <hpctl>
+    <FormID>hpctl</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Creator</TextE>
+  </hpctl>
+  <hpctl>
+    <FormID>hpctl</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modifỉer</TextE>
+  </hpctl>
+  <hpctl>
+    <FormID>hpctl</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </hpctl>
+  <hpctl>
+    <FormID>hpctl</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </hpctl>
+  <hpctl>
+    <FormID>hpctl</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </hpctl>
+  <hpctl>
+    <FormID>hpctl</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </hpctl>
+  <hpctl>
+    <FormID>hpctl</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </hpctl>
+  <hpctl>
+    <FormID>hpctl</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </hpctl>
+  <hpctl>
+    <FormID>hpctl</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </hpctl>
+  <hpctl>
+    <FormID>hpctl</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </hpctl>
+  <hpctl>
+    <FormID>hpctl</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </hpctl>
+  <hpctl>
+    <FormID>hpctl</FormID>
+    <TextID>d01</TextID>
+    <TextV>Mã kỳ lương</TextV>
+    <TextE>Mã kỳ lương</TextE>
+  </hpctl>
+  <hpctl>
+    <FormID>hpctl</FormID>
+    <TextID>d02</TextID>
+    <TextV>Mã nhân viên</TextV>
+    <TextE>Mã nhân viên</TextE>
+  </hpctl>
+  <hpctl>
+    <FormID>hpctl</FormID>
+    <TextID>d03</TextID>
+    <TextV>Mã phụ cấp</TextV>
+    <TextE>Mã phụ cấp</TextE>
+  </hpctl>
+  <hpctl>
+    <FormID>hpctl</FormID>
+    <TextID>d04</TextID>
+    <TextV>Diễn giải</TextV>
+    <TextE>Tên</TextE>
+  </hpctl>
+  <hpctl>
+    <FormID>hpctl</FormID>
+    <TextID>d05</TextID>
+    <TextV>Tiền</TextV>
+    <TextE>Tiền</TextE>
+  </hpctl>
+</NewDataSet>

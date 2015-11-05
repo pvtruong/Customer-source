@@ -1,0 +1,237 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="hrbangcc" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="hrbangcc">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>000</TextID>
+    <TextV>Chi tiết chấm công</TextV>
+    <TextE>Chi tiết chấm công</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>001</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Filter Condition</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>002</TextID>
+    <TextV>Mã kỳ lương</TextV>
+    <TextE>Mã kỳ lương</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>003</TextID>
+    <TextV>từ ngày</TextV>
+    <TextE>từ ngày</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>004</TextID>
+    <TextV>- đến ngày</TextV>
+    <TextE>- đến ngày</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>005</TextID>
+    <TextV>Chấm công ngày</TextV>
+    <TextE>Chấm công ngày</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>006</TextID>
+    <TextV>Mã nhân viên</TextV>
+    <TextE>Employee</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>007</TextID>
+    <TextV>Mã bộ phận</TextV>
+    <TextE>Department</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>008</TextID>
+    <TextV>Đơn vị</TextV>
+    <TextE>Unit</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>010</TextID>
+    <TextV>Lưu</TextV>
+    <TextE>Save</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>011</TextID>
+    <TextV>Mẫu báo cáo</TextV>
+    <TextE>Report Form</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>012</TextID>
+    <TextV>Tiêu đề</TextV>
+    <TextE>Title</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>014</TextID>
+    <TextV>Chương trình đã lưu xong</TextV>
+    <TextE>Chương trình đã lưu xong</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>&amp;OK</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>200</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>Function</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>201</TextID>
+    <TextV>&amp;In</TextV>
+    <TextE>&amp;Print</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>202</TextID>
+    <TextV>&amp;Xem</TextV>
+    <TextE>&amp;View</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>203</TextID>
+    <TextV>Làm tươi</TextV>
+    <TextE>Refresh</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>204</TextID>
+    <TextV>Xem chứng từ</TextV>
+    <TextE>View Voucher</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>210</TextID>
+    <TextV>Update công</TextV>
+    <TextE>Update công</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>211</TextID>
+    <TextV>Update công làm việc = ngày công</TextV>
+    <TextE>Update công làm việc = số ngày</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>212</TextID>
+    <TextV>Update công chủ nhật, lễ, tết = ngày công</TextV>
+    <TextE>Update công chủ nhật, lễ, tết = số ngày</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>213</TextID>
+    <TextV>Update công xưởng nghỉ = ngày công</TextV>
+    <TextE>Update công xưởng nghỉ = số ngày</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>214</TextID>
+    <TextV>Update tất cả = 0</TextV>
+    <TextE>Update tất cả = 0</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>215</TextID>
+    <TextV>Xóa chấm công</TextV>
+    <TextE>Xóa chấm công</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>900</TextID>
+    <TextV>Chưa nhập mã công việc: %s1</TextV>
+    <TextE>Kiểm tra chấm công sai: %s1</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>901</TextID>
+    <TextV>Kiểm tra chấm công sai: %s1</TextV>
+    <TextE>Kiểm tra chấm công sai: %s1</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>902</TextID>
+    <TextV>Có thay đổi dữ liệu nhưng chưa lưu, có lưu trước khi đóng không? YES - lưu &amp; đóng, NO - không lưu &amp; đóng, CANCEL - không đóng.</TextV>
+    <TextE>Có thay đổi dữ liệu nhưng chưa lưu, có lưu trước khi đóng không? YES - lưu &amp; đóng, NO - không lưu &amp; đóng, CANCEL - không đóng.</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>903</TextID>
+    <TextV>Không cần lưu chưa có thay đổi.</TextV>
+    <TextE>Không cần lưu chưa có thay đổi.</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>904</TextID>
+    <TextV>Đã khóa sổ đến ngày %d. Không được chấm công lại.</TextV>
+    <TextE>Đã khóa sổ đến ngày %d. Không được chấm công lại.</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>905</TextID>
+    <TextV>Xóa số liệu chấm công theo điều kiện lọc đã chọn?</TextV>
+    <TextE>Xóa số liệu chấm công theo điều kiện lọc đã chọn?</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>906</TextID>
+    <TextV>Đã xóa số liệu xong</TextV>
+    <TextE>Đã xóa số liệu xong</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>907</TextID>
+    <TextV>Đã lưu xong.</TextV>
+    <TextE>Đã lưu xong.</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>999</TextID>
+    <TextV>Thoát</TextV>
+    <TextE>Close</TextE>
+  </hrbangcc>
+  <hrbangcc>
+    <FormID>hrbangcc</FormID>
+    <TextID>R01</TextID>
+    <TextV>500</TextV>
+    <TextE>500</TextE>
+  </hrbangcc>
+</NewDataSet>

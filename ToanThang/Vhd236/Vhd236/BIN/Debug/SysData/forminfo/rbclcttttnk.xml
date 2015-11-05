@@ -1,0 +1,141 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rbclcttttnk" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rbclcttttnk">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rbclcttttnk>
+    <FormID>rbclcttttnk</FormID>
+    <TextID>000</TextID>
+    <TextV>Báo cáo lưu chuyển tiền tệ trực tiếp nhiều kỳ</TextV>
+    <TextE>Báo cáo lưu chuyển tiền tệ trực tiếp nhiều kỳ</TextE>
+  </rbclcttttnk>
+  <rbclcttttnk>
+    <FormID>rbclcttttnk</FormID>
+    <TextID>001</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Filter Condition</TextE>
+  </rbclcttttnk>
+  <rbclcttttnk>
+    <FormID>rbclcttttnk</FormID>
+    <TextID>002</TextID>
+    <TextV>Kiểu</TextV>
+    <TextE>Type</TextE>
+  </rbclcttttnk>
+  <rbclcttttnk>
+    <FormID>rbclcttttnk</FormID>
+    <TextID>003</TextID>
+    <TextV>Số kỳ</TextV>
+    <TextE>No. Period</TextE>
+  </rbclcttttnk>
+  <rbclcttttnk>
+    <FormID>rbclcttttnk</FormID>
+    <TextID>004</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>&amp;OK</TextE>
+  </rbclcttttnk>
+  <rbclcttttnk>
+    <FormID>rbclcttttnk</FormID>
+    <TextID>005</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </rbclcttttnk>
+  <rbclcttttnk>
+    <FormID>rbclcttttnk</FormID>
+    <TextID>006</TextID>
+    <TextV>Từ ngày</TextV>
+    <TextE>From date</TextE>
+  </rbclcttttnk>
+  <rbclcttttnk>
+    <FormID>rbclcttttnk</FormID>
+    <TextID>007</TextID>
+    <TextV>Năm</TextV>
+    <TextE>Year</TextE>
+  </rbclcttttnk>
+  <rbclcttttnk>
+    <FormID>rbclcttttnk</FormID>
+    <TextID>008</TextID>
+    <TextV>1: ngày,2: tuần,3: tháng, 4: quí, 5: nửa năm, 6: năm</TextV>
+    <TextE>1: ngày,2: tuần,3: tháng, 4: quí, 5: nửa năm, 6: năm</TextE>
+  </rbclcttttnk>
+  <rbclcttttnk>
+    <FormID>rbclcttttnk</FormID>
+    <TextID>009</TextID>
+    <TextV>Đơn vị</TextV>
+    <TextE>Unit</TextE>
+  </rbclcttttnk>
+  <rbclcttttnk>
+    <FormID>rbclcttttnk</FormID>
+    <TextID>010</TextID>
+    <TextV>Nhóm theo</TextV>
+    <TextE>Group by</TextE>
+  </rbclcttttnk>
+  <rbclcttttnk>
+    <FormID>rbclcttttnk</FormID>
+    <TextID>011</TextID>
+    <TextV>Mẫu báo cáo</TextV>
+    <TextE>Report Form</TextE>
+  </rbclcttttnk>
+  <rbclcttttnk>
+    <FormID>rbclcttttnk</FormID>
+    <TextID>012</TextID>
+    <TextV>Tiêu đề</TextV>
+    <TextE>Title</TextE>
+  </rbclcttttnk>
+  <rbclcttttnk>
+    <FormID>rbclcttttnk</FormID>
+    <TextID>013</TextID>
+    <TextV>Sản phẩm</TextV>
+    <TextE>Product</TextE>
+  </rbclcttttnk>
+  <rbclcttttnk>
+    <FormID>rbclcttttnk</FormID>
+    <TextID>200</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>Function</TextE>
+  </rbclcttttnk>
+  <rbclcttttnk>
+    <FormID>rbclcttttnk</FormID>
+    <TextID>201</TextID>
+    <TextV>&amp;In</TextV>
+    <TextE>&amp;Print</TextE>
+  </rbclcttttnk>
+  <rbclcttttnk>
+    <FormID>rbclcttttnk</FormID>
+    <TextID>202</TextID>
+    <TextV>&amp;Xem</TextV>
+    <TextE>&amp;View</TextE>
+  </rbclcttttnk>
+  <rbclcttttnk>
+    <FormID>rbclcttttnk</FormID>
+    <TextID>203</TextID>
+    <TextV>Làm tươi</TextV>
+    <TextE>Refresh</TextE>
+  </rbclcttttnk>
+  <rbclcttttnk>
+    <FormID>rbclcttttnk</FormID>
+    <TextID>204</TextID>
+    <TextV>Xem chứng từ</TextV>
+    <TextE>View Voucher</TextE>
+  </rbclcttttnk>
+  <rbclcttttnk>
+    <FormID>rbclcttttnk</FormID>
+    <TextID>999</TextID>
+    <TextV>Thoát</TextV>
+    <TextE>Close</TextE>
+  </rbclcttttnk>
+</NewDataSet>

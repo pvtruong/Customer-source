@@ -1,0 +1,423 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="KHC" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="KHC">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>000</TextID>
+    <TextV>Phiếu phân bổ</TextV>
+    <TextE>Tools and Supplies Distribution Allocation Entry</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>001</TextID>
+    <TextV>Mã khách hàng</TextV>
+    <TextE>Cust.ID</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>002</TextID>
+    <TextV>Tên khách hàng</TextV>
+    <TextE>Customer Name</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>003</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Status</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>016</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Filter Condition</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>017</TextID>
+    <TextV>Tìm</TextV>
+    <TextE>Sea&amp;rch</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>032</TextID>
+    <TextV>Chi tiết</TextV>
+    <TextE>Detail</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Created</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modify</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>203</TextID>
+    <TextV>Mã số thuế</TextV>
+    <TextE>Cust. Tax Code</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>204</TextID>
+    <TextV>Số liên</TextV>
+    <TextE>No. of Copies</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>214</TextID>
+    <TextV>Diễn giải</TextV>
+    <TextE>Memo</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>215</TextID>
+    <TextV>Ngoại tệ</TextV>
+    <TextE>Foreign Currency</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>218</TextID>
+    <TextV>Tên người giao dịch</TextV>
+    <TextE>Trading name</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>219</TextID>
+    <TextV>Lưu và thêm mới</TextV>
+    <TextE>Save and Append</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>220</TextID>
+    <TextV>Số chứng từ</TextV>
+    <TextE>Voucher No.</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>221</TextID>
+    <TextV>Ngày chứng từ</TextV>
+    <TextE>Voucher Date.</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>222</TextID>
+    <TextV>Tiền ngoại tệ</TextV>
+    <TextE>FC Amount</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>223</TextID>
+    <TextV>Mã thuế</TextV>
+    <TextE>Tax Code</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>224</TextID>
+    <TextV>Thuế suất</TextV>
+    <TextE>Tax Rate</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>225</TextID>
+    <TextV>Tiền hoạch toán</TextV>
+    <TextE>Base Curr.</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>226</TextID>
+    <TextV>Tiền hoạch toán</TextV>
+    <TextE>Base Curr.</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>227</TextID>
+    <TextV>&amp;In</TextV>
+    <TextE>&amp;Print</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>228</TextID>
+    <TextV>&amp;Xem</TextV>
+    <TextE>&amp;View</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>229</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>230</TextID>
+    <TextV>Tiêu đề</TextV>
+    <TextE>Title</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>231</TextID>
+    <TextV>Mẫu báo cáo</TextV>
+    <TextE>Report Form</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>232</TextID>
+    <TextV>Từ/đến ngày</TextV>
+    <TextE>Date from/to</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>233</TextID>
+    <TextV>&amp;Tìm</TextV>
+    <TextE>Sea&amp;rch</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>234</TextID>
+    <TextV>Tìm</TextV>
+    <TextE>Sea&amp;rch</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>300</TextID>
+    <TextV>Tên khách hàng</TextV>
+    <TextE>Customer Name</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>301</TextID>
+    <TextV>Địa chỉ</TextV>
+    <TextE>Address</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>302</TextID>
+    <TextV>Liên hệ</TextV>
+    <TextE>Contact</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>303</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Status</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>400</TextID>
+    <TextV>Thông tin chung</TextV>
+    <TextE>Master</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>401</TextID>
+    <TextV>Thông tin phân tích</TextV>
+    <TextE>Information Analysis</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>402</TextID>
+    <TextV>Tên hợp đồng</TextV>
+    <TextE>Description</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>406</TextID>
+    <TextV>Thanh toán</TextV>
+    <TextE>Payment</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>407</TextID>
+    <TextV>Chưa nhập chi tiết</TextV>
+    <TextE>Details not Entered</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>408</TextID>
+    <TextV>Thuế VAT</TextV>
+    <TextE>VAT</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>409</TextID>
+    <TextV>Tiền hàng</TextV>
+    <TextE>Amount</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>410</TextID>
+    <TextV>Tiền thuế</TextV>
+    <TextE>Tax</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>411</TextID>
+    <TextV>Tổng tiền</TextV>
+    <TextE>Total Amount</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>420</TextID>
+    <TextV>Tk nợ</TextV>
+    <TextE>Dr. Account</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>421</TextID>
+    <TextV>Tk có</TextV>
+    <TextE>Cr. Account</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>K01</TextID>
+    <TextV>Phải tính phân bổ trước khi tạo bút toán</TextV>
+    <TextE>Distribution Must Be Made Before Entry</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>K02</TextID>
+    <TextV>Đã có bút toán phân bổ cho kỳ này.</TextV>
+    <TextE>Distribution has entries for this period</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>K03</TextID>
+    <TextV>Tạo bút toán phân bổ</TextV>
+    <TextE>Create Automatic Entry Distribution</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>K04</TextID>
+    <TextV>Từ kỳ</TextV>
+    <TextE>From Period</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>K05</TextID>
+    <TextV>Đến kỳ</TextV>
+    <TextE>To Period</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>K06</TextID>
+    <TextV>Tạo</TextV>
+    <TextE>Created</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>K07</TextID>
+    <TextV>Tính phân bổ</TextV>
+    <TextE>Calculate Tools and Supplies Distribution</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>K08</TextID>
+    <TextV>Năm</TextV>
+    <TextE>Year</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>L00</TextID>
+    <TextV>Chương trình đã thực hiện xong. Bạn muốn làm gì tiếp?</TextV>
+    <TextE>The program hasdone. You want to do next?</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>L01</TextID>
+    <TextV>Thêm &amp;mới</TextV>
+    <TextE>&amp;New</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>L02</TextID>
+    <TextV>Sao &amp;chép</TextV>
+    <TextE>&amp;Copy</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>L03</TextID>
+    <TextV>&amp;In phiếu</TextV>
+    <TextE>&amp;Print</TextE>
+  </KHC>
+  <KHC>
+    <FormID>KHC</FormID>
+    <TextID>L04</TextID>
+    <TextV>&amp;Quay ra</TextV>
+    <TextE>&amp;Exit</TextE>
+  </KHC>
+</NewDataSet>

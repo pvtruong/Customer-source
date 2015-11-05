@@ -1,0 +1,162 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dsctgs" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dsctgs">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dsctgs>
+    <Code>dsctgs</Code>
+    <Name>c_cong</Name>
+    <Type>C</Type>
+    <Value>Cộng tháng</Value>
+    <Value2>Cộng tháng</Value2>
+  </dsctgs>
+  <dsctgs>
+    <Code>dsctgs</Code>
+    <Name>c_cong_lk</Name>
+    <Type>C</Type>
+    <Value>Cộng lũy kế từ đầu quý</Value>
+    <Value2>Cộng lũy kế từ đầu quý</Value2>
+  </dsctgs>
+  <dsctgs>
+    <Code>dsctgs</Code>
+    <Name>c_ctgs</Name>
+    <Type>C</Type>
+    <Value>Chứng từ ghi sổ</Value>
+    <Value2>Chứng từ ghi sổ</Value2>
+  </dsctgs>
+  <dsctgs>
+    <Code>dsctgs</Code>
+    <Name>c_dien_giai</Name>
+    <Type>C</Type>
+    <Value>Diễn giải</Value>
+    <Value2>Diễn giải</Value2>
+  </dsctgs>
+  <dsctgs>
+    <Code>dsctgs</Code>
+    <Name>c_gd</Name>
+    <Type>C</Type>
+    <Value>Giám đốc</Value>
+    <Value2>Director</Value2>
+  </dsctgs>
+  <dsctgs>
+    <Code>dsctgs</Code>
+    <Name>c_ktt</Name>
+    <Type>C</Type>
+    <Value>Kế toán trưởng</Value>
+    <Value2>Chief Accountant</Value2>
+  </dsctgs>
+  <dsctgs>
+    <Code>dsctgs</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên)</Value>
+    <Value2>Sign., (Full Name)</Value2>
+  </dsctgs>
+  <dsctgs>
+    <Code>dsctgs</Code>
+    <Name>c_ky_ten_dd</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên, đóng dấu)</Value>
+    <Value2>Sign., Seal (Full Name and Position)</Value2>
+  </dsctgs>
+  <dsctgs>
+    <Code>dsctgs</Code>
+    <Name>c_mau_so</Name>
+    <Type>C</Type>
+    <Value>Mẫu số S02b-DN</Value>
+    <Value2>Form No. S02b1-DN</Value2>
+  </dsctgs>
+  <dsctgs>
+    <Code>dsctgs</Code>
+    <Name>c_mau_tt</Name>
+    <Type>C</Type>
+    <Value>(Ban hành theo QĐ số: 15/2006/QĐ-BTC ngày 20/03/2006 của Bộ trưởng BTC)</Value>
+    <Value2>(According to Decision No. 15/2006/QD-BTC dated 20 March 2006 of the Ministry of Finance)</Value2>
+  </dsctgs>
+  <dsctgs>
+    <Code>dsctgs</Code>
+    <Name>c_nam</Name>
+    <Type>C</Type>
+    <Value>Năm....</Value>
+    <Value2>Năm....</Value2>
+  </dsctgs>
+  <dsctgs>
+    <Code>dsctgs</Code>
+    <Name>c_ngay_ms</Name>
+    <Type>C</Type>
+    <Value>Ngày mở sổ . . . . . . . . . .</Value>
+    <Value2>On open books. . . . . . . . . .</Value2>
+  </dsctgs>
+  <dsctgs>
+    <Code>dsctgs</Code>
+    <Name>c_ngay_thang</Name>
+    <Type>C</Type>
+    <Value>Ngày, tháng</Value>
+    <Value2>Ngày, tháng</Value2>
+  </dsctgs>
+  <dsctgs>
+    <Code>dsctgs</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>Ngày . . . tháng . . . năm . . .</Value>
+    <Value2>Date . . . Month . . . Year . . .</Value2>
+  </dsctgs>
+  <dsctgs>
+    <Code>dsctgs</Code>
+    <Name>c_nguoi_gs</Name>
+    <Type>c</Type>
+    <Value>Người ghi sổ</Value>
+    <Value2>Booked Persons</Value2>
+  </dsctgs>
+  <dsctgs>
+    <Code>dsctgs</Code>
+    <Name>c_so_hieu</Name>
+    <Type>C</Type>
+    <Value>Số hiệu</Value>
+    <Value2>Số hiệu</Value2>
+  </dsctgs>
+  <dsctgs>
+    <Code>dsctgs</Code>
+    <Name>c_tien</Name>
+    <Type>C</Type>
+    <Value>Số tiền</Value>
+    <Value2>Số tiền</Value2>
+  </dsctgs>
+  <dsctgs>
+    <Code>dsctgs</Code>
+    <Name>c_tien_nt</Name>
+    <Type>C</Type>
+    <Value>Số tiền ngoại tệ</Value>
+    <Value2>Số tiền ngoại tệ</Value2>
+  </dsctgs>
+  <dsctgs>
+    <Code>dsctgs</Code>
+    <Name>c_tong_trang1</Name>
+    <Type>C</Type>
+    <Value>Sổ này có:</Value>
+    <Value2>This book has</Value2>
+  </dsctgs>
+  <dsctgs>
+    <Code>dsctgs</Code>
+    <Name>c_tong_trang2</Name>
+    <Type>C</Type>
+    <Value>trang, đánh số từ trang số 1 đến trang</Value>
+    <Value2>pages, is numbered from 1 to</Value2>
+  </dsctgs>
+</NewDataSet>

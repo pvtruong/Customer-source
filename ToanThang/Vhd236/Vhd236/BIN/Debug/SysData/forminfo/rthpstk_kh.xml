@@ -1,0 +1,147 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rthpstk_kh" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rthpstk_kh">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rthpstk_kh>
+    <FormID>rthpstk_kh</FormID>
+    <TextID>000</TextID>
+    <TextV>Tổng hợp phát sinh của một tài khoản - theo khách hàng</TextV>
+    <TextE>Tổng hợp phát sinh của một tài khoản - theo khách hàng</TextE>
+  </rthpstk_kh>
+  <rthpstk_kh>
+    <FormID>rthpstk_kh</FormID>
+    <TextID>001</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Filter Condition</TextE>
+  </rthpstk_kh>
+  <rthpstk_kh>
+    <FormID>rthpstk_kh</FormID>
+    <TextID>002</TextID>
+    <TextV>Từ ngày/ Đến ngày</TextV>
+    <TextE>From Date/ To date</TextE>
+  </rthpstk_kh>
+  <rthpstk_kh>
+    <FormID>rthpstk_kh</FormID>
+    <TextID>003</TextID>
+    <TextV>Tài khoản</TextV>
+    <TextE>Tài khoản</TextE>
+  </rthpstk_kh>
+  <rthpstk_kh>
+    <FormID>rthpstk_kh</FormID>
+    <TextID>004</TextID>
+    <TextV>Tài khoản đối ứng</TextV>
+    <TextE>Tài khoản đối ứng</TextE>
+  </rthpstk_kh>
+  <rthpstk_kh>
+    <FormID>rthpstk_kh</FormID>
+    <TextID>005</TextID>
+    <TextV>Khách hàng</TextV>
+    <TextE>Customer</TextE>
+  </rthpstk_kh>
+  <rthpstk_kh>
+    <FormID>rthpstk_kh</FormID>
+    <TextID>006</TextID>
+    <TextV>Vụ việc</TextV>
+    <TextE>Vụ việc</TextE>
+  </rthpstk_kh>
+  <rthpstk_kh>
+    <FormID>rthpstk_kh</FormID>
+    <TextID>008</TextID>
+    <TextV>Mã chứng từ</TextV>
+    <TextE>Mã chứng từ</TextE>
+  </rthpstk_kh>
+  <rthpstk_kh>
+    <FormID>rthpstk_kh</FormID>
+    <TextID>009</TextID>
+    <TextV>Đơn vị</TextV>
+    <TextE>Unit</TextE>
+  </rthpstk_kh>
+  <rthpstk_kh>
+    <FormID>rthpstk_kh</FormID>
+    <TextID>011</TextID>
+    <TextV>Mẫu báo cáo</TextV>
+    <TextE>Report Form</TextE>
+  </rthpstk_kh>
+  <rthpstk_kh>
+    <FormID>rthpstk_kh</FormID>
+    <TextID>012</TextID>
+    <TextV>Tiêu đề</TextV>
+    <TextE>Title</TextE>
+  </rthpstk_kh>
+  <rthpstk_kh>
+    <FormID>rthpstk_kh</FormID>
+    <TextID>014</TextID>
+    <TextV>Xem phát sinh nợ</TextV>
+    <TextE>Xem phát sinh nợ</TextE>
+  </rthpstk_kh>
+  <rthpstk_kh>
+    <FormID>rthpstk_kh</FormID>
+    <TextID>015</TextID>
+    <TextV>Xem phát sinh có</TextV>
+    <TextE>Xem phát sinh có</TextE>
+  </rthpstk_kh>
+  <rthpstk_kh>
+    <FormID>rthpstk_kh</FormID>
+    <TextID>200</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </rthpstk_kh>
+  <rthpstk_kh>
+    <FormID>rthpstk_kh</FormID>
+    <TextID>201</TextID>
+    <TextV>&amp;In</TextV>
+    <TextE>&amp;Print</TextE>
+  </rthpstk_kh>
+  <rthpstk_kh>
+    <FormID>rthpstk_kh</FormID>
+    <TextID>202</TextID>
+    <TextV>&amp;Xem</TextV>
+    <TextE>&amp;View</TextE>
+  </rthpstk_kh>
+  <rthpstk_kh>
+    <FormID>rthpstk_kh</FormID>
+    <TextID>203</TextID>
+    <TextV>Làm tươi</TextV>
+    <TextE>Refresh</TextE>
+  </rthpstk_kh>
+  <rthpstk_kh>
+    <FormID>rthpstk_kh</FormID>
+    <TextID>204</TextID>
+    <TextV>Xem chứng từ</TextV>
+    <TextE>View Voucher</TextE>
+  </rthpstk_kh>
+  <rthpstk_kh>
+    <FormID>rthpstk_kh</FormID>
+    <TextID>900</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>&amp;OK</TextE>
+  </rthpstk_kh>
+  <rthpstk_kh>
+    <FormID>rthpstk_kh</FormID>
+    <TextID>901</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </rthpstk_kh>
+  <rthpstk_kh>
+    <FormID>rthpstk_kh</FormID>
+    <TextID>999</TextID>
+    <TextV>Thoát</TextV>
+    <TextE>Close</TextE>
+  </rthpstk_kh>
+</NewDataSet>

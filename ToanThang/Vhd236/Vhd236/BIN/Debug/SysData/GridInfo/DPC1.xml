@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="DPC1" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="DPC1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsv" type="xs:string" minOccurs="0" />
+                <xs:element name="columnse" type="xs:string" minOccurs="0" />
+                <xs:element name="headersv" type="xs:string" minOccurs="0" />
+                <xs:element name="headerse" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <DPC1>
+    <gridid>DPC1</gridid>
+    <columnsv>tk_co,ten_tk_co,tk_no,ten_tk_no,ma_kh_no,ten_kh,ty_gia_gs_no,ty_gia_gs_co,tien_nt,tien,so_hd,dien_giai,ma_nv</columnsv>
+    <columnse>tk_co,ten_tk_co2,tk_no,ten_tk_no2,ma_kh_mo,ten_kh,ty_gia_gs_no,ty_gia_gs_co,tien_nt,tien,so_hd,dien_giai,ma_nv</columnse>
+    <headersv>Tk có,Tên Tk có,TK nợ,Tên TK nợ,Mã khách nợ,Tên khách nợ,Tỷ giá H.Toán,Tỷ giá T.Tế,Tiền nt,Tiền,Số hóa đơn,Diễn giải,Nhân viên</headersv>
+    <headerse>Cr. Account                     ,Cr. Account Name,Dr. Account                     ,Dr. Account Name,Cust. ID                        ,Customer Name                   ,Book Ex. Rate Debt,Book Ex. Rate Credt,FC Amount                       ,Amount                          ,Inv. No.,Description,Nhân viên</headerse>
+    <widths>100,200,100,200,100,200,100,100,100,100,100,200,100</widths>
+    <formats>,,,,,,f_tien,f_tien,f_tien_nt,f_tien,,,</formats>
+    <readonlys>0,1,0,1,0,1,0,0,0,0,0,0,0</readonlys>
+    <hides>0,0,0,0,0,0,0,0,0,0,0,0,0</hides>
+    <defaultvalues>,,,,=M[ma_kh],,,,,=exec pc_tinhtienht @M[ma_nt]%pM[ty_gia]%p[ty_gia_gs_co]%p[tien_nt],,=M[dien_giai],</defaultvalues>
+    <carrys>1,1,0,0,1,1,0,0,0,0,1,1,0</carrys>
+  </DPC1>
+</NewDataSet>

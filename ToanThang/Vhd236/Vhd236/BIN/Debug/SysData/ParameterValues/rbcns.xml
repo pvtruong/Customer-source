@@ -1,0 +1,113 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rbcns" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rbcns">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rbcns>
+    <Code>rbcns</Code>
+    <Name>c_dvt</Name>
+    <Type>C</Type>
+    <Value>Đơn vị tính:</Value>
+    <Value2>Unit:</Value2>
+  </rbcns>
+  <rbcns>
+    <Code>rbcns</Code>
+    <Name>c_ky</Name>
+    <Type>C</Type>
+    <Value>Kỳ</Value>
+    <Value2>Period</Value2>
+  </rbcns>
+  <rbcns>
+    <Code>rbcns</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên)</Value>
+    <Value2>Sign., (Full Name)</Value2>
+  </rbcns>
+  <rbcns>
+    <Code>rbcns</Code>
+    <Name>c_nam</Name>
+    <Type>C</Type>
+    <Value>Năm</Value>
+    <Value2>Year</Value2>
+  </rbcns>
+  <rbcns>
+    <Code>rbcns</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>..............., ngày......... tháng........... năm..........</Value>
+    <Value2>..............., date......... month........... year..........</Value2>
+  </rbcns>
+  <rbcns>
+    <Code>rbcns</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Người lập</Value>
+    <Value2>Founder</Value2>
+  </rbcns>
+  <rbcns>
+    <Code>rbcns</Code>
+    <Name>chenh_lech</Name>
+    <Type>C</Type>
+    <Value>Chênh lệch</Value>
+    <Value2>Difference</Value2>
+  </rbcns>
+  <rbcns>
+    <Code>rbcns</Code>
+    <Name>lk_dn</Name>
+    <Type>C</Type>
+    <Value>Lũy kế đầu năm</Value>
+    <Value2>Year-to-date Amount</Value2>
+  </rbcns>
+  <rbcns>
+    <Code>rbcns</Code>
+    <Name>ngan_sach</Name>
+    <Type>C</Type>
+    <Value>Ngân sách</Value>
+    <Value2>Budget</Value2>
+  </rbcns>
+  <rbcns>
+    <Code>rbcns</Code>
+    <Name>ns_nam</Name>
+    <Type>C</Type>
+    <Value>Ngân sách năm</Value>
+    <Value2>The budget of the year</Value2>
+  </rbcns>
+  <rbcns>
+    <Code>rbcns</Code>
+    <Name>stt</Name>
+    <Type>C</Type>
+    <Value>Số thứ tự</Value>
+    <Value2>Order No.</Value2>
+  </rbcns>
+  <rbcns>
+    <Code>rbcns</Code>
+    <Name>trong_ky</Name>
+    <Type>C</Type>
+    <Value>Trong kỳ</Value>
+    <Value2>In period</Value2>
+  </rbcns>
+  <rbcns>
+    <Code>rbcns</Code>
+    <Name>ty_le</Name>
+    <Type>C</Type>
+    <Value>Tỷ lệ</Value>
+    <Value2>Rate</Value2>
+  </rbcns>
+</NewDataSet>

@@ -1,0 +1,153 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dmnhccdc" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dmnhccdc">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dmnhccdc>
+    <FormID>dmnhccdc</FormID>
+    <TextID>000</TextID>
+    <TextV>Danh mục nhóm công cụ dụng cụ</TextV>
+    <TextE>Small tools Group List</TextE>
+  </dmnhccdc>
+  <dmnhccdc>
+    <FormID>dmnhccdc</FormID>
+    <TextID>001</TextID>
+    <TextV>Mã nhóm CCDC</TextV>
+    <TextE>Small Tools Gr. Code</TextE>
+  </dmnhccdc>
+  <dmnhccdc>
+    <FormID>dmnhccdc</FormID>
+    <TextID>002</TextID>
+    <TextV>Tên nhóm CCDC</TextV>
+    <TextE>Small Tools Gr. Name</TextE>
+  </dmnhccdc>
+  <dmnhccdc>
+    <FormID>dmnhccdc</FormID>
+    <TextID>003</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Status</TextE>
+  </dmnhccdc>
+  <dmnhccdc>
+    <FormID>dmnhccdc</FormID>
+    <TextID>004</TextID>
+    <TextV>Đơn vị</TextV>
+    <TextE>Unit</TextE>
+  </dmnhccdc>
+  <dmnhccdc>
+    <FormID>dmnhccdc</FormID>
+    <TextID>005</TextID>
+    <TextV>Tên nhóm CCDC 2</TextV>
+    <TextE>Small Tools Gr. Name 2</TextE>
+  </dmnhccdc>
+  <dmnhccdc>
+    <FormID>dmnhccdc</FormID>
+    <TextID>006</TextID>
+    <TextV>Tiền nt</TextV>
+    <TextE>FC Amount</TextE>
+  </dmnhccdc>
+  <dmnhccdc>
+    <FormID>dmnhccdc</FormID>
+    <TextID>007</TextID>
+    <TextV>Tiền</TextV>
+    <TextE>Amount</TextE>
+  </dmnhccdc>
+  <dmnhccdc>
+    <FormID>dmnhccdc</FormID>
+    <TextID>008</TextID>
+    <TextV>Ghi chú</TextV>
+    <TextE>Note</TextE>
+  </dmnhccdc>
+  <dmnhccdc>
+    <FormID>dmnhccdc</FormID>
+    <TextID>009</TextID>
+    <TextV>Là nhóm CCDC đại lý</TextV>
+    <TextE>Small Tools Gr. Agent</TextE>
+  </dmnhccdc>
+  <dmnhccdc>
+    <FormID>dmnhccdc</FormID>
+    <TextID>010</TextID>
+    <TextV>Loại nhóm</TextV>
+    <TextE>Group Type</TextE>
+  </dmnhccdc>
+  <dmnhccdc>
+    <FormID>dmnhccdc</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Created</TextE>
+  </dmnhccdc>
+  <dmnhccdc>
+    <FormID>dmnhccdc</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modify</TextE>
+  </dmnhccdc>
+  <dmnhccdc>
+    <FormID>dmnhccdc</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </dmnhccdc>
+  <dmnhccdc>
+    <FormID>dmnhccdc</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </dmnhccdc>
+  <dmnhccdc>
+    <FormID>dmnhccdc</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </dmnhccdc>
+  <dmnhccdc>
+    <FormID>dmnhccdc</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dmnhccdc>
+  <dmnhccdc>
+    <FormID>dmnhccdc</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </dmnhccdc>
+  <dmnhccdc>
+    <FormID>dmnhccdc</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </dmnhccdc>
+  <dmnhccdc>
+    <FormID>dmnhccdc</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </dmnhccdc>
+  <dmnhccdc>
+    <FormID>dmnhccdc</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </dmnhccdc>
+  <dmnhccdc>
+    <FormID>dmnhccdc</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </dmnhccdc>
+</NewDataSet>

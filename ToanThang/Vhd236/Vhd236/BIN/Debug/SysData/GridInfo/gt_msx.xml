@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="gt_msx" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="gt_msx">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsv" type="xs:string" minOccurs="0" />
+                <xs:element name="columnse" type="xs:string" minOccurs="0" />
+                <xs:element name="headersv" type="xs:string" minOccurs="0" />
+                <xs:element name="headerse" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <gt_msx>
+    <gridid>gt_msx</gridid>
+    <columnsv>so_ct,ngay_ct,ngay_kh1,ngay_kh2,ngay_th1,ngay_th2</columnsv>
+    <columnse>so_ct,ngay_ct,ngay_kh1,ngay_kh2,ngay_th1,ngay_th2</columnse>
+    <headersv>Số LSX,Ngày lập,Kế hoạch từ ngày,Kế hoạch đến ngày,Thực hiện từ ngày,Thực hiện đến ngày</headersv>
+    <headerse>Manufacturing Order No.,Voucher Date   ,Plan from date. ,Plan to date. ,Implementation from date,Implementation to date</headerse>
+    <widths>100,100,100,100,100,100</widths>
+    <formats>,,,,,</formats>
+    <readonlys>1,1,1,1,1,1</readonlys>
+    <hides>0,0,0,0,0,0</hides>
+    <defaultvalues>,,,,,</defaultvalues>
+    <carrys>0,0,0,0,0,0</carrys>
+  </gt_msx>
+</NewDataSet>

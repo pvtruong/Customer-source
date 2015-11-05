@@ -1,0 +1,141 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="PN6" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="PN6">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <PN6>
+    <Code>PN6</Code>
+    <Name>c_co</Name>
+    <Type>C</Type>
+    <Value>Có</Value>
+    <Value2>Có</Value2>
+  </PN6>
+  <PN6>
+    <Code>PN6</Code>
+    <Name>c_don_vi</Name>
+    <Type>C</Type>
+    <Value>Đơn vị:</Value>
+    <Value2>Đơn vị:</Value2>
+  </PN6>
+  <PN6>
+    <Code>PN6</Code>
+    <Name>c_ho_ten</Name>
+    <Type>C</Type>
+    <Value>Họ và tên:</Value>
+    <Value2>Họ và tên:</Value2>
+  </PN6>
+  <PN6>
+    <Code>PN6</Code>
+    <Name>c_ma_ytcp</Name>
+    <Type>C</Type>
+    <Value>Mã YTCP</Value>
+    <Value2>Mã YTCP</Value2>
+  </PN6>
+  <PN6>
+    <Code>PN6</Code>
+    <Name>c_no</Name>
+    <Type>C</Type>
+    <Value>Nợ</Value>
+    <Value2>Nợ</Value2>
+  </PN6>
+  <PN6>
+    <Code>PN6</Code>
+    <Name>c_noidung</Name>
+    <Type>C</Type>
+    <Value>Nội dung</Value>
+    <Value2>Nội dung</Value2>
+  </PN6>
+  <PN6>
+    <Code>PN6</Code>
+    <Name>c_stt</Name>
+    <Type>C</Type>
+    <Value>Số TT</Value>
+    <Value2>Số TT</Value2>
+  </PN6>
+  <PN6>
+    <Code>PN6</Code>
+    <Name>c_thanh_tien</Name>
+    <Type>C</Type>
+    <Value>Thành tiền</Value>
+    <Value2>Thành tiền</Value2>
+  </PN6>
+  <PN6>
+    <Code>PN6</Code>
+    <Name>c_tk</Name>
+    <Type>C</Type>
+    <Value>Tài khoản</Value>
+    <Value2>Tài khoản</Value2>
+  </PN6>
+  <PN6>
+    <Code>PN6</Code>
+    <Name>c_tong_cong</Name>
+    <Type>C</Type>
+    <Value>Tổng cộng</Value>
+    <Value2>Tổng cộng</Value2>
+  </PN6>
+  <PN6>
+    <Code>PN6</Code>
+    <Name>dia_chi</Name>
+    <Type>V</Type>
+    <Value>dia_chi</Value>
+    <Value2>dia_chi</Value2>
+  </PN6>
+  <PN6>
+    <Code>PN6</Code>
+    <Name>dien_giai</Name>
+    <Type>V</Type>
+    <Value>dien_giai</Value>
+    <Value2>dien_giai</Value2>
+  </PN6>
+  <PN6>
+    <Code>PN6</Code>
+    <Name>ma_kh</Name>
+    <Type>V</Type>
+    <Value>ma_kh</Value>
+    <Value2>ma_kh</Value2>
+  </PN6>
+  <PN6>
+    <Code>PN6</Code>
+    <Name>ngay_ct</Name>
+    <Type>V</Type>
+    <Value>ngay_ct</Value>
+    <Value2>ngay_ct</Value2>
+  </PN6>
+  <PN6>
+    <Code>PN6</Code>
+    <Name>ong_ba</Name>
+    <Type>V</Type>
+    <Value>ong_ba</Value>
+    <Value2>ong_ba</Value2>
+  </PN6>
+  <PN6>
+    <Code>PN6</Code>
+    <Name>so_ct</Name>
+    <Type>V</Type>
+    <Value>so_ct</Value>
+    <Value2>so_ct</Value2>
+  </PN6>
+  <PN6>
+    <Code>PN6</Code>
+    <Name>ten_kh</Name>
+    <Type>V</Type>
+    <Value>ten_kh</Value>
+    <Value2>ten_kh</Value2>
+  </PN6>
+</NewDataSet>

@@ -1,0 +1,189 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dmpb" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dmpb">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dmpb>
+    <FormID>dmpb</FormID>
+    <TextID>000</TextID>
+    <TextV>Khai báo bút toán phân bổ tự động</TextV>
+    <TextE>Allocation transaction list</TextE>
+  </dmpb>
+  <dmpb>
+    <FormID>dmpb</FormID>
+    <TextID>001</TextID>
+    <TextV>Stt</TextV>
+    <TextE>No.</TextE>
+  </dmpb>
+  <dmpb>
+    <FormID>dmpb</FormID>
+    <TextID>002</TextID>
+    <TextV>Tên bút toán</TextV>
+    <TextE>Description</TextE>
+  </dmpb>
+  <dmpb>
+    <FormID>dmpb</FormID>
+    <TextID>003</TextID>
+    <TextV>Tài khoản ghi có</TextV>
+    <TextE>Credit Account</TextE>
+  </dmpb>
+  <dmpb>
+    <FormID>dmpb</FormID>
+    <TextID>004</TextID>
+    <TextV>Phân bổ cho các tài khoản</TextV>
+    <TextE>Account Allocation</TextE>
+  </dmpb>
+  <dmpb>
+    <FormID>dmpb</FormID>
+    <TextID>005</TextID>
+    <TextV>Loại Phân bổ</TextV>
+    <TextE>Type</TextE>
+  </dmpb>
+  <dmpb>
+    <FormID>dmpb</FormID>
+    <TextID>006</TextID>
+    <TextV>Phân bổ theo kh</TextV>
+    <TextE>By Customer</TextE>
+  </dmpb>
+  <dmpb>
+    <FormID>dmpb</FormID>
+    <TextID>007</TextID>
+    <TextV>Phân bổ theo bộ phận</TextV>
+    <TextE>By Department</TextE>
+  </dmpb>
+  <dmpb>
+    <FormID>dmpb</FormID>
+    <TextID>008</TextID>
+    <TextV>Phân bổ theo chi phí</TextV>
+    <TextE>Allocation by Cost</TextE>
+  </dmpb>
+  <dmpb>
+    <FormID>dmpb</FormID>
+    <TextID>009</TextID>
+    <TextV>Phân bổ theo đối tượng(vv)</TextV>
+    <TextE>Allocation by Object(vv)</TextE>
+  </dmpb>
+  <dmpb>
+    <FormID>dmpb</FormID>
+    <TextID>010</TextID>
+    <TextV>Phân bổ theo sản phẩm</TextV>
+    <TextE>By Product</TextE>
+  </dmpb>
+  <dmpb>
+    <FormID>dmpb</FormID>
+    <TextID>011</TextID>
+    <TextV>Phân bổ theo hợp đồng</TextV>
+    <TextE>By Contract</TextE>
+  </dmpb>
+  <dmpb>
+    <FormID>dmpb</FormID>
+    <TextID>012</TextID>
+    <TextV>Chỉ Phân bổ khi có ps</TextV>
+    <TextE>Allocation if arise only</TextE>
+  </dmpb>
+  <dmpb>
+    <FormID>dmpb</FormID>
+    <TextID>020</TextID>
+    <TextV>Phân bổ chi tiết theo:</TextV>
+    <TextE>Allocation details by:</TextE>
+  </dmpb>
+  <dmpb>
+    <FormID>dmpb</FormID>
+    <TextID>021</TextID>
+    <TextV>Chưa khai báo tài khoản được phân bổ</TextV>
+    <TextE>Not declare the allocated account</TextE>
+  </dmpb>
+  <dmpb>
+    <FormID>dmpb</FormID>
+    <TextID>022</TextID>
+    <TextV>Không thể xoá vì đã được phân bổ</TextV>
+    <TextE>Can not delete because of created allocation transaction</TextE>
+  </dmpb>
+  <dmpb>
+    <FormID>dmpb</FormID>
+    <TextID>050</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Status</TextE>
+  </dmpb>
+  <dmpb>
+    <FormID>dmpb</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Created</TextE>
+  </dmpb>
+  <dmpb>
+    <FormID>dmpb</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modify</TextE>
+  </dmpb>
+  <dmpb>
+    <FormID>dmpb</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Edit Date</TextE>
+  </dmpb>
+  <dmpb>
+    <FormID>dmpb</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Modification Date</TextE>
+  </dmpb>
+  <dmpb>
+    <FormID>dmpb</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </dmpb>
+  <dmpb>
+    <FormID>dmpb</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dmpb>
+  <dmpb>
+    <FormID>dmpb</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </dmpb>
+  <dmpb>
+    <FormID>dmpb</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </dmpb>
+  <dmpb>
+    <FormID>dmpb</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </dmpb>
+  <dmpb>
+    <FormID>dmpb</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </dmpb>
+  <dmpb>
+    <FormID>dmpb</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </dmpb>
+</NewDataSet>

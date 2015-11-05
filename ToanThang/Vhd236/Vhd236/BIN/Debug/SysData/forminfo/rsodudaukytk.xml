@@ -1,0 +1,123 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rsodudaukytk" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rsodudaukytk">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rsodudaukytk>
+    <FormID>rsodudaukytk</FormID>
+    <TextID>000</TextID>
+    <TextV>Bảng số dư đầu kỳ của các tài khoản</TextV>
+    <TextE>Account Opening Balance</TextE>
+  </rsodudaukytk>
+  <rsodudaukytk>
+    <FormID>rsodudaukytk</FormID>
+    <TextID>001</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Filter Condition</TextE>
+  </rsodudaukytk>
+  <rsodudaukytk>
+    <FormID>rsodudaukytk</FormID>
+    <TextID>002</TextID>
+    <TextV>Tài khoản</TextV>
+    <TextE>Account</TextE>
+  </rsodudaukytk>
+  <rsodudaukytk>
+    <FormID>rsodudaukytk</FormID>
+    <TextID>003</TextID>
+    <TextV>Từ ngày</TextV>
+    <TextE>From Date</TextE>
+  </rsodudaukytk>
+  <rsodudaukytk>
+    <FormID>rsodudaukytk</FormID>
+    <TextID>004</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>&amp;OK</TextE>
+  </rsodudaukytk>
+  <rsodudaukytk>
+    <FormID>rsodudaukytk</FormID>
+    <TextID>005</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </rsodudaukytk>
+  <rsodudaukytk>
+    <FormID>rsodudaukytk</FormID>
+    <TextID>006</TextID>
+    <TextV>Bậc tài khoản</TextV>
+    <TextE>Account Level</TextE>
+  </rsodudaukytk>
+  <rsodudaukytk>
+    <FormID>rsodudaukytk</FormID>
+    <TextID>007</TextID>
+    <TextV>Chỉ xem tài khoản chi tiết</TextV>
+    <TextE>Only Detail Account</TextE>
+  </rsodudaukytk>
+  <rsodudaukytk>
+    <FormID>rsodudaukytk</FormID>
+    <TextID>011</TextID>
+    <TextV>Mẫu báo cáo</TextV>
+    <TextE>Report Form</TextE>
+  </rsodudaukytk>
+  <rsodudaukytk>
+    <FormID>rsodudaukytk</FormID>
+    <TextID>015</TextID>
+    <TextV>Tiêu đề</TextV>
+    <TextE>Title</TextE>
+  </rsodudaukytk>
+  <rsodudaukytk>
+    <FormID>rsodudaukytk</FormID>
+    <TextID>016</TextID>
+    <TextV>Đơn vị</TextV>
+    <TextE>Unit</TextE>
+  </rsodudaukytk>
+  <rsodudaukytk>
+    <FormID>rsodudaukytk</FormID>
+    <TextID>017</TextID>
+    <TextV>Nội dung</TextV>
+    <TextE>Content</TextE>
+  </rsodudaukytk>
+  <rsodudaukytk>
+    <FormID>rsodudaukytk</FormID>
+    <TextID>200</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </rsodudaukytk>
+  <rsodudaukytk>
+    <FormID>rsodudaukytk</FormID>
+    <TextID>201</TextID>
+    <TextV>&amp;In</TextV>
+    <TextE>&amp;Print</TextE>
+  </rsodudaukytk>
+  <rsodudaukytk>
+    <FormID>rsodudaukytk</FormID>
+    <TextID>202</TextID>
+    <TextV>&amp;Xem</TextV>
+    <TextE>&amp;View</TextE>
+  </rsodudaukytk>
+  <rsodudaukytk>
+    <FormID>rsodudaukytk</FormID>
+    <TextID>203</TextID>
+    <TextV>Làm tươi</TextV>
+    <TextE>Refresh</TextE>
+  </rsodudaukytk>
+  <rsodudaukytk>
+    <FormID>rsodudaukytk</FormID>
+    <TextID>999</TextID>
+    <TextV>Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </rsodudaukytk>
+</NewDataSet>

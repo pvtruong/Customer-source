@@ -1,0 +1,261 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dmsp" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dmsp">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>000</TextID>
+    <TextV>Danh mục sản phẩm</TextV>
+    <TextE>Danh mục sản phẩm</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>003</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Trạng thái</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>005</TextID>
+    <TextV>Ngày cập nhật sau cùng</TextV>
+    <TextE>Ngày cập nhật sau cùng</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>006</TextID>
+    <TextV>Mã sản phẩm</TextV>
+    <TextE>Mã sản phẩm</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>007</TextID>
+    <TextV>Tên sản phẩm</TextV>
+    <TextE>Tên sản phẩm</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>008</TextID>
+    <TextV>Diễn giải</TextV>
+    <TextE>Diễn giải</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>009</TextID>
+    <TextV>Đơn vị</TextV>
+    <TextE>Đơn vị</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>010</TextID>
+    <TextV>Mã lô</TextV>
+    <TextE>Mã lô</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>011</TextID>
+    <TextV>Mã dự án</TextV>
+    <TextE>Mã dự án</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>012</TextID>
+    <TextV>Địa chỉ</TextV>
+    <TextE>Địa chỉ</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>013</TextID>
+    <TextV>Mã tỉnh thành</TextV>
+    <TextE>Mã tỉnh thành</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>014</TextID>
+    <TextV>Mã quận huyện</TextV>
+    <TextE>Mã quận huyệ</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>015</TextID>
+    <TextV>Người liên hệ</TextV>
+    <TextE>Người liên hệ</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>016</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Điều kiện lọc</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>017</TextID>
+    <TextV>Tìm</TextV>
+    <TextE>Tìm</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>018</TextID>
+    <TextV>Mã khách</TextV>
+    <TextE>Mã khách</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>020</TextID>
+    <TextV>Giá tham khảo nt</TextV>
+    <TextE>Giá tham khảo nt</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>021</TextID>
+    <TextV>Mã nt</TextV>
+    <TextE>Mã nt</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>022</TextID>
+    <TextV>Tỷ giá</TextV>
+    <TextE>Tỷ giá</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>023</TextID>
+    <TextV>Giá tham khảo</TextV>
+    <TextE>Giá tham khảo</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>030</TextID>
+    <TextV>Từ/đến ngày</TextV>
+    <TextE>Từ/đến ngày</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>031</TextID>
+    <TextV>Mã khách</TextV>
+    <TextE>Mã khách</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>032</TextID>
+    <TextV>Chi tiết giao dịch</TextV>
+    <TextE>Chi tiết giao dịch</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Người tạo</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Người sửa</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Ngày tạo</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Ngày sửa</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Lưu</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Hủy</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;Mới</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Sửa</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Xóa</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>099</TextID>
+    <TextV>Thoát</TextV>
+    <TextE>Thoát</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Chức năng</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>102</TextID>
+    <TextV>Thông tin chung</TextV>
+    <TextE>Thông tin chung</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>103</TextID>
+    <TextV>Khác</TextV>
+    <TextE>Khác</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>200</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>Chức năng</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>203</TextID>
+    <TextV>Thông tin giao dịch</TextV>
+    <TextE>Thông tin giao dịch</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>204</TextID>
+    <TextV>Nhân viên phụ trách</TextV>
+    <TextE>Nhân viên phụ trách</TextE>
+  </dmsp>
+  <dmsp>
+    <FormID>dmsp</FormID>
+    <TextID>999</TextID>
+    <TextV>Sản phẩm</TextV>
+    <TextE>Sản phẩm</TextE>
+  </dmsp>
+</NewDataSet>

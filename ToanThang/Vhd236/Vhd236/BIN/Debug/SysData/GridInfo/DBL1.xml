@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="DBL1" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="DBL1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsv" type="xs:string" minOccurs="0" />
+                <xs:element name="columnse" type="xs:string" minOccurs="0" />
+                <xs:element name="headersv" type="xs:string" minOccurs="0" />
+                <xs:element name="headerse" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <DBL1>
+    <gridid>DBL1</gridid>
+    <columnsv>print_pl,ma_nv,ten_nv,ma_bp,ten_bp,ma_cv,ten_cv,luong_cb,luong_nghi_phep,luong_thuong,luong_lam_them,tien_an,pc_bh_tra,luong_khac,tong_luong,tam_ung,trich_luong,bhxh,bhyt,doan_phi,bhtn,thue_tncn,phi_khac,tong_phi,luong_thuc_linh,cty_bhxh,cty_bhyt,cty_doan_phi,cty_bhtn,cty_phi_khac</columnsv>
+    <columnse>print_pl,ma_nv,ten_nv,ma_bp,ten_bp2,ma_cv,ten_cv2,luong_cb,luong_nghi_phep,luong_thuong,luong_lam_them,tien_an,pc_bh_tra,luong_khac,tong_luong,tam_ung,trich_luong,bhxh,bhyt,doan_phi,bhtn,thue_tncn,phi_khac,tong_phi,luong_thuc_linh,cty_bhxh,cty_bhyt,cty_doan_phi,cty_bhtn,cty_phi_khac</columnse>
+    <headersv>In phiếu lương,Mã nhân viên,Tên nhân viên,Mã phòng ban,Tên phòng ban,Mã chức danh,Tên chức danh,Lương cơ bản,Lương nghỉ phép,Lương thưởng,Lương làm thêm,Tiền ăn,Phụ cấp BH trả,Lương khác,Tổng lương,Tạm ứng,Trích lương,BHXH,BHYT,Đoàn phí,BH Thất nghiệp,Thuế TNCN,Phí khác,Tổng phí,Lương thực lĩnh,BHXH (Cty),BHYT (Cty),Đoàn phí (Cty),BH Thất nghiệp (Cty),Phí khác (Cty)</headersv>
+    <headerse>In phiếu lương,Mã nhân viên,Tên nhân viên,Mã bộ phận,Tên phòng ban,Mã chức danh,Tên chức danh,Lương cơ bản,Lương nghỉ phép,Lương thưởng,Lương làm thêm,Tiền ăn,Phụ cấp Bảo hiểm trả,Lương khác,Tổng lương,Tạm ứng,Trích lương,BHXH,BHYT,Đoàn phí,BH Thất nghiệp,Thuế TNCN,Phí khác,Tổng phí,Lương thực lĩnh,BHXH(cty),BHYT(cty),Đoàn phí(cty),BH Thất nghiệp(cty),Phí khác(cty)</headerse>
+    <widths>70,70,120,50,100,80,150,70,60,70,60,60,60,60,70,60,50,60,60,60,60,60,60,60,70,60,60,60,60,60</widths>
+    <formats>,,,,,,,f_luong,f_luong,f_luong,f_luong,f_luong,f_luong,f_luong,f_luong,f_luong,f_luong,f_luong,f_luong,f_luong,f_luong,f_luong,f_luong,f_luong,f_luong,f_luong,f_luong,f_luong,f_luong,f_luong</formats>
+    <readonlys>0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,0,1,1,1,1,1,1,0</readonlys>
+    <hides>1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</hides>
+    <defaultvalues>,,,,,,,,,,,,,,=[luong_cb]+[luong_nghi_phep]+[luong_thuong]+ [luong_lam_them]+[tien_an]+[pc_bh_tra]+[luong_khac],,1,=select case when [trich_luong]=1 then (SELECT nv_bhxh FROM hdmucdongbh WHERE ngay_hl = (SELECT MAX(ngay_hl) FROM hdmucdongbh WHERE ngay_hl &lt;= @M[ngay_ct]))/100 * [luong_cb] END ,=select case when [trich_luong]=1 then (SELECT nv_bhyt FROM hdmucdongbh WHERE ngay_hl = (SELECT MAX(ngay_hl) FROM hdmucdongbh WHERE ngay_hl &lt;= @M[ngay_ct]))/100 * [luong_cb] END ,=select case when [trich_luong]=1 then (SELECT nv_cd FROM hdmucdongbh WHERE ngay_hl = (SELECT MAX(ngay_hl) FROM hdmucdongbh WHERE ngay_hl &lt;= @M[ngay_ct]))/100 * [luong_cb] END ,=select case when [trich_luong]=1 then (SELECT nv_bhtn FROM hdmucdongbh WHERE ngay_hl = (SELECT MAX(ngay_hl) FROM hdmucdongbh WHERE ngay_hl &lt;= @M[ngay_ct]))/100 * [luong_cb] END ,,,=select [bhxh]+[bhyt]+[doan_phi]+[bhtn]+[thue_tncn]+[phi_khac] ![luong_cb] ![trich_luong]!M[],=[tong_luong] - [tam_ung] - [tong_phi] ![luong_cb]![thue_tncn]![phi_khac]![luong_nghi_phep]![luong_thuong]![luong_lam_them]![tien_an]![pc_bh_tra]![luong_khac] ![trich_luong]!M[],=select case when [trich_luong]=1 then (SELECT cty_bhxh FROM hdmucdongbh WHERE ngay_hl = (SELECT MAX(ngay_hl) FROM hdmucdongbh WHERE ngay_hl &lt;= @M[ngay_ct]))/100 * [luong_cb] END ,=select case when [trich_luong]=1 then (SELECT cty_bhyt FROM hdmucdongbh WHERE ngay_hl = (SELECT MAX(ngay_hl) FROM hdmucdongbh WHERE ngay_hl &lt;= @M[ngay_ct]))/100 * [luong_cb] END,=select case when [trich_luong]=1 then (SELECT cty_cd FROM hdmucdongbh WHERE ngay_hl = (SELECT MAX(ngay_hl) FROM hdmucdongbh WHERE ngay_hl &lt;= @M[ngay_ct]))/100 * [luong_cb] END,=select case when [trich_luong]=1 then (SELECT cty_bhtn FROM hdmucdongbh WHERE ngay_hl = (SELECT MAX(ngay_hl) FROM hdmucdongbh WHERE ngay_hl &lt;= @M[ngay_ct]))/100 * [luong_cb] END,</defaultvalues>
+    <carrys>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</carrys>
+  </DBL1>
+</NewDataSet>

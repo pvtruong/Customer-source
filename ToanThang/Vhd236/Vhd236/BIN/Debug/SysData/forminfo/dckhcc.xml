@@ -1,0 +1,189 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dckhcc" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dckhcc">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dckhcc>
+    <FormID>dckhcc</FormID>
+    <TextID>000</TextID>
+    <TextV>Điều chỉnh phân bổ công cụ</TextV>
+    <TextE>Adjust Monthly Distribution</TextE>
+  </dckhcc>
+  <dckhcc>
+    <FormID>dckhcc</FormID>
+    <TextID>001</TextID>
+    <TextV>Số thẻ</TextV>
+    <TextE>T&amp;S Card No.</TextE>
+  </dckhcc>
+  <dckhcc>
+    <FormID>dckhcc</FormID>
+    <TextID>002</TextID>
+    <TextV>Kỳ</TextV>
+    <TextE>Period</TextE>
+  </dckhcc>
+  <dckhcc>
+    <FormID>dckhcc</FormID>
+    <TextID>003</TextID>
+    <TextV>Năm</TextV>
+    <TextE>Year</TextE>
+  </dckhcc>
+  <dckhcc>
+    <FormID>dckhcc</FormID>
+    <TextID>004</TextID>
+    <TextV>Mã nguồn vốn</TextV>
+    <TextE>Capital Code</TextE>
+  </dckhcc>
+  <dckhcc>
+    <FormID>dckhcc</FormID>
+    <TextID>008</TextID>
+    <TextV>Nguyên giá</TextV>
+    <TextE>Original Cost</TextE>
+  </dckhcc>
+  <dckhcc>
+    <FormID>dckhcc</FormID>
+    <TextID>009</TextID>
+    <TextV>Giá trị đã phân bổ</TextV>
+    <TextE>Distributed Value</TextE>
+  </dckhcc>
+  <dckhcc>
+    <FormID>dckhcc</FormID>
+    <TextID>010</TextID>
+    <TextV>Giá trị còn lại</TextV>
+    <TextE>Current Value</TextE>
+  </dckhcc>
+  <dckhcc>
+    <FormID>dckhcc</FormID>
+    <TextID>011</TextID>
+    <TextV>Giá trị phân bổ kỳ</TextV>
+    <TextE>Monthly Distribution</TextE>
+  </dckhcc>
+  <dckhcc>
+    <FormID>dckhcc</FormID>
+    <TextID>020</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Filter Condition</TextE>
+  </dckhcc>
+  <dckhcc>
+    <FormID>dckhcc</FormID>
+    <TextID>021</TextID>
+    <TextV>Kỳ</TextV>
+    <TextE>Period</TextE>
+  </dckhcc>
+  <dckhcc>
+    <FormID>dckhcc</FormID>
+    <TextID>022</TextID>
+    <TextV>Năm</TextV>
+    <TextE>Year</TextE>
+  </dckhcc>
+  <dckhcc>
+    <FormID>dckhcc</FormID>
+    <TextID>023</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>&amp;OK</TextE>
+  </dckhcc>
+  <dckhcc>
+    <FormID>dckhcc</FormID>
+    <TextID>024</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dckhcc>
+  <dckhcc>
+    <FormID>dckhcc</FormID>
+    <TextID>080</TextID>
+    <TextV>Xó&amp;a tất</TextV>
+    <TextE>&amp;Delete</TextE>
+  </dckhcc>
+  <dckhcc>
+    <FormID>dckhcc</FormID>
+    <TextID>081</TextID>
+    <TextV>Bạn có chắc chắn muốn xóa hết không?</TextV>
+    <TextE>Are you sure you want to clear out?</TextE>
+  </dckhcc>
+  <dckhcc>
+    <FormID>dckhcc</FormID>
+    <TextID>082</TextID>
+    <TextV>Không thể xóa vì đã tạo bút toán phân bổ</TextV>
+    <TextE>Can not delete entries made for distribution</TextE>
+  </dckhcc>
+  <dckhcc>
+    <FormID>dckhcc</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Created</TextE>
+  </dckhcc>
+  <dckhcc>
+    <FormID>dckhcc</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modify</TextE>
+  </dckhcc>
+  <dckhcc>
+    <FormID>dckhcc</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </dckhcc>
+  <dckhcc>
+    <FormID>dckhcc</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </dckhcc>
+  <dckhcc>
+    <FormID>dckhcc</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </dckhcc>
+  <dckhcc>
+    <FormID>dckhcc</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dckhcc>
+  <dckhcc>
+    <FormID>dckhcc</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </dckhcc>
+  <dckhcc>
+    <FormID>dckhcc</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </dckhcc>
+  <dckhcc>
+    <FormID>dckhcc</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </dckhcc>
+  <dckhcc>
+    <FormID>dckhcc</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </dckhcc>
+  <dckhcc>
+    <FormID>dckhcc</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </dckhcc>
+</NewDataSet>

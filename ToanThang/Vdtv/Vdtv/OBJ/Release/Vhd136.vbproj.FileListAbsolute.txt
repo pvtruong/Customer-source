@@ -1,0 +1,64 @@
+D:\Source\acc\5.0\voucher\Vhd136\Vhd136\bin\Release\Vhd1.exe
+D:\Source\acc\5.0\voucher\Vhd136\Vhd136\bin\Release\Vhd1.pdb
+D:\Source\acc\5.0\voucher\Vhd136\Vhd136\bin\Release\Vhd1.xml
+D:\Source\acc\5.0\voucher\Vhd136\Vhd136\bin\Release\ClsControl2.dll
+D:\Source\acc\5.0\voucher\Vhd136\Vhd136\bin\Release\ClsLookup.dll
+D:\Source\acc\5.0\voucher\Vhd136\Vhd136\bin\Release\Clsql.dll
+D:\Source\acc\5.0\voucher\Vhd136\Vhd136\bin\Release\ClsRight.dll
+D:\Source\acc\5.0\voucher\Vhd136\Vhd136\bin\Release\ClsStpService.dll
+D:\Source\acc\5.0\voucher\Vhd136\Vhd136\bin\Release\ClsSV31.dll
+D:\Source\acc\5.0\voucher\Vhd136\Vhd136\bin\Release\ClsMath.dll
+D:\Source\acc\5.0\voucher\Vhd136\Vhd136\bin\Release\clsab.dll
+D:\Source\acc\5.0\voucher\Vhd136\Vhd136\bin\Release\clsPopUp.dll
+D:\Source\acc\5.0\voucher\Vhd136\Vhd136\bin\Release\Ionic.Zip.dll
+D:\Source\acc\5.0\voucher\Vhd136\Vhd136\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\5.0\voucher\Vhd136\Vhd136\obj\Release\Vhd1.frmPrint.resources
+D:\Source\acc\5.0\voucher\Vhd136\Vhd136\obj\Release\Vhd1.frmsearch.resources
+D:\Source\acc\5.0\voucher\Vhd136\Vhd136\obj\Release\Vhd1.Frmmain.resources
+D:\Source\acc\5.0\voucher\Vhd136\Vhd136\obj\Release\Vhd1.frminput.resources
+D:\Source\acc\5.0\voucher\Vhd136\Vhd136\obj\Release\Vhd1.Resources.resources
+D:\Source\acc\5.0\voucher\Vhd136\Vhd136\obj\Release\Vhd136.vbproj.GenerateResource.Cache
+D:\Source\acc\5.0\voucher\Vhd136\Vhd136\obj\Release\Vhd1.exe
+D:\Source\acc\5.0\voucher\Vhd136\Vhd136\obj\Release\Vhd1.xml
+D:\Source\acc\5.0\voucher\Vhd136\Vhd136\obj\Release\Vhd1.pdb
+D:\Source\acc\5.0\voucher\Vhd136\Vhd136\bin\Release\Vhd1.exe.config
+D:\Source\acc\5.0\voucher\Vhd136\Vhd136\bin\Release\clsViDe.dll
+D:\Source\acc\5.0\voucher\Vhd136\Vhd136\bin\Release\System.Windows.Forms.DataVisualization.dll
+D:\Source\acc\5.0\voucher\Vhd136\Vhd136\obj\Release\Vhd1.frmThuTien.resources
+E:\Box Sync\acc\7.2\voucher\Vhd136\Vhd136\bin\Release\Vhd1.exe.config
+E:\Box Sync\acc\7.2\voucher\Vhd136\Vhd136\obj\Release\Vhd1.exe
+E:\Box Sync\acc\7.2\voucher\Vhd136\Vhd136\obj\Release\Vhd1.xml
+E:\Box Sync\acc\7.2\voucher\Vhd136\Vhd136\obj\Release\Vhd1.pdb
+E:\Box Sync\acc\7.2\voucher\Vhd136\Vhd136\bin\Release\Vhd1.exe
+E:\Box Sync\acc\7.2\voucher\Vhd136\Vhd136\bin\Release\Vhd1.pdb
+E:\Box Sync\acc\7.2\voucher\Vhd136\Vhd136\bin\Release\Vhd1.xml
+E:\Box Sync\acc\7.2\voucher\Vhd136\Vhd136\bin\Release\Ionic.Zip.dll
+E:\Box Sync\acc\7.2\voucher\Vhd136\Vhd136\bin\Release\clsab.dll
+E:\Box Sync\acc\7.2\voucher\Vhd136\Vhd136\bin\Release\clsViDe.dll
+E:\Box Sync\acc\7.2\voucher\Vhd136\Vhd136\bin\Release\clsPopUp.dll
+E:\Box Sync\acc\7.2\voucher\Vhd136\Vhd136\bin\Release\ClsMath.dll
+E:\Box Sync\acc\7.2\voucher\Vhd136\Vhd136\obj\Release\ResolveAssemblyReference.cache
+E:\Box Sync\acc\7.2\voucher\Vhd136\Vhd136\obj\Release\Vhd1.frmPrint.resources
+E:\Box Sync\acc\7.2\voucher\Vhd136\Vhd136\obj\Release\Vhd1.frmsearch.resources
+E:\Box Sync\acc\7.2\voucher\Vhd136\Vhd136\obj\Release\Vhd1.frmThuTien.resources
+E:\Box Sync\acc\7.2\voucher\Vhd136\Vhd136\obj\Release\Vhd1.Frmmain.resources
+E:\Box Sync\acc\7.2\voucher\Vhd136\Vhd136\obj\Release\Vhd1.frminput.resources
+E:\Box Sync\acc\7.2\voucher\Vhd136\Vhd136\obj\Release\Vhd1.Resources.resources
+E:\Box Sync\acc\7.2\voucher\Vhd136\Vhd136\obj\Release\Vhd136.vbproj.GenerateResource.Cache
+H:\info_company\data-laptrinh\sourc chuan\7.2\voucher\Vhd136\Vhd136\bin\Release\Vhd1.exe.config
+H:\info_company\data-laptrinh\sourc chuan\7.2\voucher\Vhd136\Vhd136\bin\Release\Vhd1.exe
+H:\info_company\data-laptrinh\sourc chuan\7.2\voucher\Vhd136\Vhd136\bin\Release\Vhd1.pdb
+H:\info_company\data-laptrinh\sourc chuan\7.2\voucher\Vhd136\Vhd136\bin\Release\Vhd1.xml
+H:\info_company\data-laptrinh\sourc chuan\7.2\voucher\Vhd136\Vhd136\bin\Release\office.dll
+H:\info_company\data-laptrinh\sourc chuan\7.2\voucher\Vhd136\Vhd136\bin\Release\Microsoft.Office.Interop.Excel.dll
+H:\info_company\data-laptrinh\sourc chuan\7.2\voucher\Vhd136\Vhd136\obj\Release\ResolveAssemblyReference.cache
+H:\info_company\data-laptrinh\sourc chuan\7.2\voucher\Vhd136\Vhd136\obj\Release\Vhd1.frmPrint.resources
+H:\info_company\data-laptrinh\sourc chuan\7.2\voucher\Vhd136\Vhd136\obj\Release\Vhd1.frmsearch.resources
+H:\info_company\data-laptrinh\sourc chuan\7.2\voucher\Vhd136\Vhd136\obj\Release\Vhd1.frmThuTien.resources
+H:\info_company\data-laptrinh\sourc chuan\7.2\voucher\Vhd136\Vhd136\obj\Release\Vhd1.Frmmain.resources
+H:\info_company\data-laptrinh\sourc chuan\7.2\voucher\Vhd136\Vhd136\obj\Release\Vhd1.frminput.resources
+H:\info_company\data-laptrinh\sourc chuan\7.2\voucher\Vhd136\Vhd136\obj\Release\Vhd1.Resources.resources
+H:\info_company\data-laptrinh\sourc chuan\7.2\voucher\Vhd136\Vhd136\obj\Release\Vhd136.vbproj.GenerateResource.Cache
+H:\info_company\data-laptrinh\sourc chuan\7.2\voucher\Vhd136\Vhd136\obj\Release\Vhd1.exe
+H:\info_company\data-laptrinh\sourc chuan\7.2\voucher\Vhd136\Vhd136\obj\Release\Vhd1.xml
+H:\info_company\data-laptrinh\sourc chuan\7.2\voucher\Vhd136\Vhd136\obj\Release\Vhd1.pdb

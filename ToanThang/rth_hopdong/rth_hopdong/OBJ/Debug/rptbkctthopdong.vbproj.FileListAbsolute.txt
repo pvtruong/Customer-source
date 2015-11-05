@@ -1,0 +1,62 @@
+C:\Documents and Settings\CU BIN\Desktop\rptbkctthopdong\rptbkctthopdong\bin\Debug\rptbkctthopdong.exe
+C:\Documents and Settings\CU BIN\Desktop\rptbkctthopdong\rptbkctthopdong\bin\Debug\rptbkctthopdong.pdb
+C:\Documents and Settings\CU BIN\Desktop\rptbkctthopdong\rptbkctthopdong\bin\Debug\rptbkctthopdong.xml
+C:\Documents and Settings\CU BIN\Desktop\rptbkctthopdong\rptbkctthopdong\bin\Debug\ClPrint.dll
+C:\Documents and Settings\CU BIN\Desktop\rptbkctthopdong\rptbkctthopdong\bin\Debug\ClsControl2.dll
+C:\Documents and Settings\CU BIN\Desktop\rptbkctthopdong\rptbkctthopdong\bin\Debug\ClsList.dll
+C:\Documents and Settings\CU BIN\Desktop\rptbkctthopdong\rptbkctthopdong\bin\Debug\ClsLookup.dll
+C:\Documents and Settings\CU BIN\Desktop\rptbkctthopdong\rptbkctthopdong\bin\Debug\Clsql.dll
+C:\Documents and Settings\CU BIN\Desktop\rptbkctthopdong\rptbkctthopdong\bin\Debug\ClsRpt.dll
+C:\Documents and Settings\CU BIN\Desktop\rptbkctthopdong\rptbkctthopdong\bin\Debug\ClsStpService.dll
+C:\Documents and Settings\CU BIN\Desktop\rptbkctthopdong\rptbkctthopdong\bin\Debug\ClsVno.dll
+C:\Documents and Settings\CU BIN\Desktop\rptbkctthopdong\rptbkctthopdong\bin\Debug\ClsMath.dll
+C:\Documents and Settings\CU BIN\Desktop\rptbkctthopdong\rptbkctthopdong\bin\Debug\Ionic.Zip.dll
+C:\Documents and Settings\CU BIN\Desktop\rptbkctthopdong\rptbkctthopdong\bin\Debug\clsab.dll
+C:\Documents and Settings\CU BIN\Desktop\rptbkctthopdong\rptbkctthopdong\bin\Debug\clsViDe.dll
+C:\Documents and Settings\CU BIN\Desktop\rptbkctthopdong\rptbkctthopdong\bin\Debug\clsPopUp.dll
+C:\Documents and Settings\CU BIN\Desktop\rptbkctthopdong\rptbkctthopdong\bin\Debug\ClsPilot.dll
+C:\Documents and Settings\CU BIN\Desktop\rptbkctthopdong\rptbkctthopdong\bin\Debug\clsPermit4Field.dll
+C:\Documents and Settings\CU BIN\Desktop\rptbkctthopdong\rptbkctthopdong\bin\Debug\ClsRight.dll
+C:\Documents and Settings\CU BIN\Desktop\rptbkctthopdong\rptbkctthopdong\bin\Debug\Interop.Excel.dll
+C:\Documents and Settings\CU BIN\Desktop\rptbkctthopdong\rptbkctthopdong\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\CU BIN\Desktop\rptbkctthopdong\rptbkctthopdong\obj\Debug\rptbkctthopdong.frmfilter.resources
+C:\Documents and Settings\CU BIN\Desktop\rptbkctthopdong\rptbkctthopdong\obj\Debug\rptbkctthopdong.MainForm.resources
+C:\Documents and Settings\CU BIN\Desktop\rptbkctthopdong\rptbkctthopdong\obj\Debug\rptbkctthopdong.Resources.resources
+C:\Documents and Settings\CU BIN\Desktop\rptbkctthopdong\rptbkctthopdong\obj\Debug\rptbkctthopdong.vbproj.GenerateResource.Cache
+C:\Documents and Settings\CU BIN\Desktop\rptbkctthopdong\rptbkctthopdong\obj\Debug\rptbkctthopdong.exe
+C:\Documents and Settings\CU BIN\Desktop\rptbkctthopdong\rptbkctthopdong\obj\Debug\rptbkctthopdong.xml
+C:\Documents and Settings\CU BIN\Desktop\rptbkctthopdong\rptbkctthopdong\obj\Debug\rptbkctthopdong.pdb
+C:\Documents and Settings\CU BIN\Desktop\20110118_source\rptbkctthopdong\rptbkctthopdong\obj\Debug\rptbkctthopdong.exe
+C:\Documents and Settings\CU BIN\Desktop\20110118_source\rptbkctthopdong\rptbkctthopdong\obj\Debug\rptbkctthopdong.xml
+C:\Documents and Settings\CU BIN\Desktop\20110118_source\rptbkctthopdong\rptbkctthopdong\obj\Debug\rptbkctthopdong.pdb
+C:\Documents and Settings\CU BIN\Desktop\20110118_source\rptbkctthopdong\rptbkctthopdong\bin\Debug\rptbkctthopdong.exe
+C:\Documents and Settings\CU BIN\Desktop\20110118_source\rptbkctthopdong\rptbkctthopdong\bin\Debug\rptbkctthopdong.pdb
+C:\Documents and Settings\CU BIN\Desktop\20110118_source\rptbkctthopdong\rptbkctthopdong\bin\Debug\rptbkctthopdong.xml
+C:\Documents and Settings\CU BIN\Desktop\20110118_source\rptbkctthopdong\rptbkctthopdong\bin\Debug\ClPrint.dll
+C:\Documents and Settings\CU BIN\Desktop\20110118_source\rptbkctthopdong\rptbkctthopdong\bin\Debug\ClsControl2.dll
+C:\Documents and Settings\CU BIN\Desktop\20110118_source\rptbkctthopdong\rptbkctthopdong\bin\Debug\ClsList.dll
+C:\Documents and Settings\CU BIN\Desktop\20110118_source\rptbkctthopdong\rptbkctthopdong\bin\Debug\ClsLookup.dll
+C:\Documents and Settings\CU BIN\Desktop\20110118_source\rptbkctthopdong\rptbkctthopdong\bin\Debug\Clsql.dll
+C:\Documents and Settings\CU BIN\Desktop\20110118_source\rptbkctthopdong\rptbkctthopdong\bin\Debug\ClsRpt.dll
+C:\Documents and Settings\CU BIN\Desktop\20110118_source\rptbkctthopdong\rptbkctthopdong\bin\Debug\ClsStpService.dll
+C:\Documents and Settings\CU BIN\Desktop\20110118_source\rptbkctthopdong\rptbkctthopdong\bin\Debug\ClsVno.dll
+C:\Documents and Settings\CU BIN\Desktop\20110118_source\rptbkctthopdong\rptbkctthopdong\bin\Debug\ClsMath.dll
+C:\Documents and Settings\CU BIN\Desktop\20110118_source\rptbkctthopdong\rptbkctthopdong\bin\Debug\Ionic.Zip.dll
+C:\Documents and Settings\CU BIN\Desktop\20110118_source\rptbkctthopdong\rptbkctthopdong\bin\Debug\clsab.dll
+C:\Documents and Settings\CU BIN\Desktop\20110118_source\rptbkctthopdong\rptbkctthopdong\bin\Debug\clsViDe.dll
+C:\Documents and Settings\CU BIN\Desktop\20110118_source\rptbkctthopdong\rptbkctthopdong\bin\Debug\clsPopUp.dll
+C:\Documents and Settings\CU BIN\Desktop\20110118_source\rptbkctthopdong\rptbkctthopdong\bin\Debug\ClsPilot.dll
+C:\Documents and Settings\CU BIN\Desktop\20110118_source\rptbkctthopdong\rptbkctthopdong\bin\Debug\clsPermit4Field.dll
+C:\Documents and Settings\CU BIN\Desktop\20110118_source\rptbkctthopdong\rptbkctthopdong\bin\Debug\ClsRight.dll
+C:\Documents and Settings\CU BIN\Desktop\20110118_source\rptbkctthopdong\rptbkctthopdong\bin\Debug\Interop.Excel.dll
+C:\Documents and Settings\CU BIN\Desktop\20110118_source\rptbkctthopdong\rptbkctthopdong\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\CU BIN\Desktop\20110118_source\rptbkctthopdong\rptbkctthopdong\obj\Debug\rptbkctthopdong.frmfilter.resources
+C:\Documents and Settings\CU BIN\Desktop\20110118_source\rptbkctthopdong\rptbkctthopdong\obj\Debug\rptbkctthopdong.MainForm.resources
+C:\Documents and Settings\CU BIN\Desktop\20110118_source\rptbkctthopdong\rptbkctthopdong\obj\Debug\rptbkctthopdong.Resources.resources
+C:\Documents and Settings\CU BIN\Desktop\20110118_source\rptbkctthopdong\rptbkctthopdong\obj\Debug\rptbkctthopdong.vbproj.GenerateResource.Cache
+E:\source_chuan\Source\3.5\Rpt\rptbkctthopdong\rptbkctthopdong\obj\Debug\rptbkctthopdong.exe
+E:\source_chuan\Source\3.5\Rpt\rptbkctthopdong\rptbkctthopdong\obj\Debug\rptbkctthopdong.xml
+E:\source_chuan\Source\3.5\Rpt\rptbkctthopdong\rptbkctthopdong\obj\Debug\rptbkctthopdong.pdb
+D:\0_SON_LAMVIEC\source_kh\ThangLoiMoi\rbcbh_khuyenmai\rbcbh_khuyenmai\obj\Debug\rptbkctthopdong.exe
+D:\0_SON_LAMVIEC\source_kh\ThangLoiMoi\rbcbh_khuyenmai\rbcbh_khuyenmai\obj\Debug\rptbkctthopdong.xml
+D:\0_SON_LAMVIEC\source_kh\ThangLoiMoi\rbcbh_khuyenmai\rbcbh_khuyenmai\obj\Debug\rptbkctthopdong.pdb

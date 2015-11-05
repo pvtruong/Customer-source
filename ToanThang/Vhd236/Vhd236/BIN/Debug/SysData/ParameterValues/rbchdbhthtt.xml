@@ -1,0 +1,162 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rbchdbhthtt" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rbchdbhthtt">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rbchdbhthtt>
+    <Code>rbchdbhthtt</Code>
+    <Name>c_den_ngay</Name>
+    <Type>C</Type>
+    <Value>Đến ngày</Value>
+    <Value2>To Date</Value2>
+  </rbchdbhthtt>
+  <rbchdbhthtt>
+    <Code>rbchdbhthtt</Code>
+    <Name>c_dvt</Name>
+    <Type>C</Type>
+    <Value>Đơn vị tính:</Value>
+    <Value2>Unit:</Value2>
+  </rbchdbhthtt>
+  <rbchdbhthtt>
+    <Code>rbchdbhthtt</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên)</Value>
+    <Value2>Sign., (Full Name)</Value2>
+  </rbchdbhthtt>
+  <rbchdbhthtt>
+    <Code>rbchdbhthtt</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>Ngày . . . tháng . . . năm . . .</Value>
+    <Value2>Date . . . Month . . . Year . . .</Value2>
+  </rbchdbhthtt>
+  <rbchdbhthtt>
+    <Code>rbchdbhthtt</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Người lập</Value>
+    <Value2>Founder</Value2>
+  </rbchdbhthtt>
+  <rbchdbhthtt>
+    <Code>rbchdbhthtt</Code>
+    <Name>con_lai</Name>
+    <Type>C</Type>
+    <Value>Còn lại</Value>
+    <Value2>Current Value</Value2>
+  </rbchdbhthtt>
+  <rbchdbhthtt>
+    <Code>rbchdbhthtt</Code>
+    <Name>da_tt</Name>
+    <Type>C</Type>
+    <Value>Đã thanh toán</Value>
+    <Value2>Paid</Value2>
+  </rbchdbhthtt>
+  <rbchdbhthtt>
+    <Code>rbchdbhthtt</Code>
+    <Name>han_tt</Name>
+    <Type>C</Type>
+    <Value>Hạn thanh toán</Value>
+    <Value2>Day(s) to Pay</Value2>
+  </rbchdbhthtt>
+  <rbchdbhthtt>
+    <Code>rbchdbhthtt</Code>
+    <Name>ma_kh</Name>
+    <Type>C</Type>
+    <Value>Mã khách</Value>
+    <Value2>Cust. ID</Value2>
+  </rbchdbhthtt>
+  <rbchdbhthtt>
+    <Code>rbchdbhthtt</Code>
+    <Name>ma_nt</Name>
+    <Type>C</Type>
+    <Value>Mã ngoại tệ</Value>
+    <Value2>FC Code</Value2>
+  </rbchdbhthtt>
+  <rbchdbhthtt>
+    <Code>rbchdbhthtt</Code>
+    <Name>ngay_ct</Name>
+    <Type>C</Type>
+    <Value>Ngày hóa đơn</Value>
+    <Value2>Invoice Date</Value2>
+  </rbchdbhthtt>
+  <rbchdbhthtt>
+    <Code>rbchdbhthtt</Code>
+    <Name>ngay_ptt</Name>
+    <Type>C</Type>
+    <Value>Ngày phải thanh toán</Value>
+    <Value2>Pay day</Value2>
+  </rbchdbhthtt>
+  <rbchdbhthtt>
+    <Code>rbchdbhthtt</Code>
+    <Name>qua_han1</Name>
+    <Type>C</Type>
+    <Value>Quá hạn 1</Value>
+    <Value2>Overdue 1</Value2>
+  </rbchdbhthtt>
+  <rbchdbhthtt>
+    <Code>rbchdbhthtt</Code>
+    <Name>qua_han2</Name>
+    <Type>C</Type>
+    <Value>Quá hạn 2</Value>
+    <Value2>Overdue 2</Value2>
+  </rbchdbhthtt>
+  <rbchdbhthtt>
+    <Code>rbchdbhthtt</Code>
+    <Name>qua_han3</Name>
+    <Type>C</Type>
+    <Value>Quá hạn 3</Value>
+    <Value2>Overdue 3</Value2>
+  </rbchdbhthtt>
+  <rbchdbhthtt>
+    <Code>rbchdbhthtt</Code>
+    <Name>qua_han4</Name>
+    <Type>C</Type>
+    <Value>Quá hạn 4</Value>
+    <Value2>Overdue 4</Value2>
+  </rbchdbhthtt>
+  <rbchdbhthtt>
+    <Code>rbchdbhthtt</Code>
+    <Name>so_ct</Name>
+    <Type>C</Type>
+    <Value>Số hóa đơn</Value>
+    <Value2>Invoice No.</Value2>
+  </rbchdbhthtt>
+  <rbchdbhthtt>
+    <Code>rbchdbhthtt</Code>
+    <Name>ten_kh</Name>
+    <Type>C</Type>
+    <Value>Tên khách</Value>
+    <Value2>Customer Name</Value2>
+  </rbchdbhthtt>
+  <rbchdbhthtt>
+    <Code>rbchdbhthtt</Code>
+    <Name>tongtien_hd</Name>
+    <Type>C</Type>
+    <Value>Tổng tiền hóa đơn</Value>
+    <Value2>Total cash receipts</Value2>
+  </rbchdbhthtt>
+  <rbchdbhthtt>
+    <Code>rbchdbhthtt</Code>
+    <Name>trong_han</Name>
+    <Type>C</Type>
+    <Value>Trong hạn</Value>
+    <Value2>In maturity</Value2>
+  </rbchdbhthtt>
+</NewDataSet>

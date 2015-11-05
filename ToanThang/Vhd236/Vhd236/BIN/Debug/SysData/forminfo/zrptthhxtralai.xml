@@ -1,0 +1,159 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="zrptthhxtralai" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="zrptthhxtralai">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <zrptthhxtralai>
+    <FormID>zrptthhxtralai</FormID>
+    <TextID>000</TextID>
+    <TextV>Tổng hợp hàng xuất trả lại nhà cung cấp</TextV>
+    <TextE>Synthetic return items to suppliers</TextE>
+  </zrptthhxtralai>
+  <zrptthhxtralai>
+    <FormID>zrptthhxtralai</FormID>
+    <TextID>001</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Filter Condition</TextE>
+  </zrptthhxtralai>
+  <zrptthhxtralai>
+    <FormID>zrptthhxtralai</FormID>
+    <TextID>002</TextID>
+    <TextV>Mã khách</TextV>
+    <TextE>Cust. ID</TextE>
+  </zrptthhxtralai>
+  <zrptthhxtralai>
+    <FormID>zrptthhxtralai</FormID>
+    <TextID>003</TextID>
+    <TextV>Mã kho</TextV>
+    <TextE>Site ID</TextE>
+  </zrptthhxtralai>
+  <zrptthhxtralai>
+    <FormID>zrptthhxtralai</FormID>
+    <TextID>004</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>&amp;OK</TextE>
+  </zrptthhxtralai>
+  <zrptthhxtralai>
+    <FormID>zrptthhxtralai</FormID>
+    <TextID>005</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </zrptthhxtralai>
+  <zrptthhxtralai>
+    <FormID>zrptthhxtralai</FormID>
+    <TextID>008</TextID>
+    <TextV>Nhà cung cấp</TextV>
+    <TextE>Supplier</TextE>
+  </zrptthhxtralai>
+  <zrptthhxtralai>
+    <FormID>zrptthhxtralai</FormID>
+    <TextID>009</TextID>
+    <TextV>Đơn vị</TextV>
+    <TextE>Unit</TextE>
+  </zrptthhxtralai>
+  <zrptthhxtralai>
+    <FormID>zrptthhxtralai</FormID>
+    <TextID>011</TextID>
+    <TextV>Mẫu báo cáo</TextV>
+    <TextE>Report Form</TextE>
+  </zrptthhxtralai>
+  <zrptthhxtralai>
+    <FormID>zrptthhxtralai</FormID>
+    <TextID>012</TextID>
+    <TextV>Tiêu đề</TextV>
+    <TextE>Title</TextE>
+  </zrptthhxtralai>
+  <zrptthhxtralai>
+    <FormID>zrptthhxtralai</FormID>
+    <TextID>014</TextID>
+    <TextV>Số chứng từ</TextV>
+    <TextE>Enclosed Voucher</TextE>
+  </zrptthhxtralai>
+  <zrptthhxtralai>
+    <FormID>zrptthhxtralai</FormID>
+    <TextID>015</TextID>
+    <TextV>Mã vật tư</TextV>
+    <TextE>Item Code</TextE>
+  </zrptthhxtralai>
+  <zrptthhxtralai>
+    <FormID>zrptthhxtralai</FormID>
+    <TextID>016</TextID>
+    <TextV>Loại vật tư</TextV>
+    <TextE>Item Type</TextE>
+  </zrptthhxtralai>
+  <zrptthhxtralai>
+    <FormID>zrptthhxtralai</FormID>
+    <TextID>017</TextID>
+    <TextV>Mã bộ phận</TextV>
+    <TextE>Dept. ID</TextE>
+  </zrptthhxtralai>
+  <zrptthhxtralai>
+    <FormID>zrptthhxtralai</FormID>
+    <TextID>018</TextID>
+    <TextV>Mã đối tượng</TextV>
+    <TextE>Object Code</TextE>
+  </zrptthhxtralai>
+  <zrptthhxtralai>
+    <FormID>zrptthhxtralai</FormID>
+    <TextID>019</TextID>
+    <TextV>Tài khoản vật tư</TextV>
+    <TextE>Inven. Account</TextE>
+  </zrptthhxtralai>
+  <zrptthhxtralai>
+    <FormID>zrptthhxtralai</FormID>
+    <TextID>020</TextID>
+    <TextV>Từ/đến ngày</TextV>
+    <TextE>From/To Date</TextE>
+  </zrptthhxtralai>
+  <zrptthhxtralai>
+    <FormID>zrptthhxtralai</FormID>
+    <TextID>200</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>Function</TextE>
+  </zrptthhxtralai>
+  <zrptthhxtralai>
+    <FormID>zrptthhxtralai</FormID>
+    <TextID>201</TextID>
+    <TextV>&amp;In</TextV>
+    <TextE>&amp;Print</TextE>
+  </zrptthhxtralai>
+  <zrptthhxtralai>
+    <FormID>zrptthhxtralai</FormID>
+    <TextID>202</TextID>
+    <TextV>&amp;Xem</TextV>
+    <TextE>&amp;View</TextE>
+  </zrptthhxtralai>
+  <zrptthhxtralai>
+    <FormID>zrptthhxtralai</FormID>
+    <TextID>203</TextID>
+    <TextV>Làm tươi</TextV>
+    <TextE>Refresh</TextE>
+  </zrptthhxtralai>
+  <zrptthhxtralai>
+    <FormID>zrptthhxtralai</FormID>
+    <TextID>204</TextID>
+    <TextV>Xem chứng từ</TextV>
+    <TextE>View Voucher</TextE>
+  </zrptthhxtralai>
+  <zrptthhxtralai>
+    <FormID>zrptthhxtralai</FormID>
+    <TextID>999</TextID>
+    <TextV>Thoát</TextV>
+    <TextE>Close</TextE>
+  </zrptthhxtralai>
+</NewDataSet>

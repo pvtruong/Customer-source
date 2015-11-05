@@ -1,0 +1,267 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dmmauin" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dmmauin">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>000</TextID>
+    <TextV>Danh mục mẫu in</TextV>
+    <TextE>Report List</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>001</TextID>
+    <TextV>Mã chức năng</TextV>
+    <TextE>Code</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>002</TextID>
+    <TextV>STT</TextV>
+    <TextE>STT</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>003</TextID>
+    <TextV>Tên mẫu in</TextV>
+    <TextE>Tên mẫu in</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>004</TextID>
+    <TextV>Tên mẫu in 2</TextV>
+    <TextE>Tên mẫu in 2</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>005</TextID>
+    <TextV>Tiêu đề in</TextV>
+    <TextE>Tiêu đề in</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>006</TextID>
+    <TextV>Tiêu đề in 2</TextV>
+    <TextE>Tiêu đề in 2</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>007</TextID>
+    <TextV>File report</TextV>
+    <TextE>File report</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>008</TextID>
+    <TextV>File report đồ thị</TextV>
+    <TextE>File report đồ thị</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>009</TextID>
+    <TextV>Store khi in</TextV>
+    <TextE>Store khi in</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>010</TextID>
+    <TextV>Gridid</TextV>
+    <TextE>Gridid</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>011</TextID>
+    <TextV>Số dòng tối thiểu</TextV>
+    <TextE>Số dòng tối thiểu</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>012</TextID>
+    <TextV>Người sử dụng được phép in lần 1</TextV>
+    <TextE>Người sử dụng được phép in lần 1</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>013</TextID>
+    <TextV>Người sử dụng được phép in lần 2 trở đi</TextV>
+    <TextE>Người sử dụng được phép in lần 2 trở đi</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>014</TextID>
+    <TextV>Số liên</TextV>
+    <TextE>Số liên</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>089</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Status</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Creator</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modifỉer</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>200</TextID>
+    <TextV>Tên liên 1</TextV>
+    <TextE>Tên liên 1</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>201</TextID>
+    <TextV>Tên liên 2</TextV>
+    <TextE>Tên liên 2</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>202</TextID>
+    <TextV>Tên liên 3</TextV>
+    <TextE>Tên liên 3</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>203</TextID>
+    <TextV>Tên liên 4</TextV>
+    <TextE>Tên liên 4</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>204</TextID>
+    <TextV>Tên liên 5</TextV>
+    <TextE>Tên liên 5</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>205</TextID>
+    <TextV>Tên liên 6</TextV>
+    <TextE>Tên liên 6</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>206</TextID>
+    <TextV>Tên liên 7</TextV>
+    <TextE>Tên liên 7</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>207</TextID>
+    <TextV>Tên liên 8</TextV>
+    <TextE>Tên liên 8</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>208</TextID>
+    <TextV>Tên liên 9</TextV>
+    <TextE>Tên liên 9</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>300</TextID>
+    <TextV>Thông tin chính</TextV>
+    <TextE>Thông tin chính</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>301</TextID>
+    <TextV>Số liên in</TextV>
+    <TextE>Số liên in</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>302</TextID>
+    <TextV>Thông tin khác</TextV>
+    <TextE>Khác</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>303</TextID>
+    <TextV>Mẫu số</TextV>
+    <TextE>Mẫu số</TextE>
+  </dmmauin>
+  <dmmauin>
+    <FormID>dmmauin</FormID>
+    <TextID>304</TextID>
+    <TextV>Logo</TextV>
+    <TextE>Logo</TextE>
+  </dmmauin>
+</NewDataSet>

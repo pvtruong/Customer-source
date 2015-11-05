@@ -1,0 +1,176 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rbccnthdptra" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rbccnthdptra">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rbccnthdptra>
+    <Code>rbccnthdptra</Code>
+    <Name>c_cl</Name>
+    <Type>C</Type>
+    <Value>Số tiền còn phải trả</Value>
+    <Value2>Amount Payable</Value2>
+  </rbccnthdptra>
+  <rbccnthdptra>
+    <Code>rbccnthdptra</Code>
+    <Name>c_cong</Name>
+    <Type>C</Type>
+    <Value>TỔNG CỘNG:</Value>
+    <Value2>TOTAL:</Value2>
+  </rbccnthdptra>
+  <rbccnthdptra>
+    <Code>rbccnthdptra</Code>
+    <Name>c_ct</Name>
+    <Type>C</Type>
+    <Value>Số chứng từ</Value>
+    <Value2>Voucher No.</Value2>
+  </rbccnthdptra>
+  <rbccnthdptra>
+    <Code>rbccnthdptra</Code>
+    <Name>c_da_tt</Name>
+    <Type>C</Type>
+    <Value>Số tiền đã trả</Value>
+    <Value2>Amount Paid</Value2>
+  </rbccnthdptra>
+  <rbccnthdptra>
+    <Code>rbccnthdptra</Code>
+    <Name>c_den_ngay</Name>
+    <Type>C</Type>
+    <Value>đến ngày</Value>
+    <Value2>To Date</Value2>
+  </rbccnthdptra>
+  <rbccnthdptra>
+    <Code>rbccnthdptra</Code>
+    <Name>c_gd</Name>
+    <Type>C</Type>
+    <Value>Giám đốc</Value>
+    <Value2>Director</Value2>
+  </rbccnthdptra>
+  <rbccnthdptra>
+    <Code>rbccnthdptra</Code>
+    <Name>c_hd</Name>
+    <Type>C</Type>
+    <Value>Số hóa đơn</Value>
+    <Value2>Serial No.</Value2>
+  </rbccnthdptra>
+  <rbccnthdptra>
+    <Code>rbccnthdptra</Code>
+    <Name>c_ktt</Name>
+    <Type>C</Type>
+    <Value>Kế toán trưởng</Value>
+    <Value2>Chief Accountant</Value2>
+  </rbccnthdptra>
+  <rbccnthdptra>
+    <Code>rbccnthdptra</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên)</Value>
+    <Value2>Sign., (Full Name)</Value2>
+  </rbccnthdptra>
+  <rbccnthdptra>
+    <Code>rbccnthdptra</Code>
+    <Name>c_ky_ten_dd</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên , đón dấu)</Value>
+    <Value2>Sign., Seal (Full Name and Position)</Value2>
+  </rbccnthdptra>
+  <rbccnthdptra>
+    <Code>rbccnthdptra</Code>
+    <Name>c_ma_kh</Name>
+    <Type>C</Type>
+    <Value>Mã khách hàng</Value>
+    <Value2>Cust.ID</Value2>
+  </rbccnthdptra>
+  <rbccnthdptra>
+    <Code>rbccnthdptra</Code>
+    <Name>c_ma_nt</Name>
+    <Type>C</Type>
+    <Value>Ngoại tệ</Value>
+    <Value2>Foreign currency</Value2>
+  </rbccnthdptra>
+  <rbccnthdptra>
+    <Code>rbccnthdptra</Code>
+    <Name>c_ngay_ct</Name>
+    <Type>C</Type>
+    <Value>Ngày</Value>
+    <Value2>Date</Value2>
+  </rbccnthdptra>
+  <rbccnthdptra>
+    <Code>rbccnthdptra</Code>
+    <Name>c_ngay_ms</Name>
+    <Type>C</Type>
+    <Value>Ngày mở sổ . . . .</Value>
+    <Value2>On open books . . . .</Value2>
+  </rbccnthdptra>
+  <rbccnthdptra>
+    <Code>rbccnthdptra</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>..............., ngày......... tháng........... năm..........</Value>
+    <Value2>..............., date......... month........... year..........</Value2>
+  </rbccnthdptra>
+  <rbccnthdptra>
+    <Code>rbccnthdptra</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Người lập</Value>
+    <Value2>Founder</Value2>
+  </rbccnthdptra>
+  <rbccnthdptra>
+    <Code>rbccnthdptra</Code>
+    <Name>c_stt</Name>
+    <Type>C</Type>
+    <Value>STT</Value>
+    <Value2>NO.</Value2>
+  </rbccnthdptra>
+  <rbccnthdptra>
+    <Code>rbccnthdptra</Code>
+    <Name>c_ten_kh</Name>
+    <Type>C</Type>
+    <Value>Tên khách hàng</Value>
+    <Value2>Customer Name</Value2>
+  </rbccnthdptra>
+  <rbccnthdptra>
+    <Code>rbccnthdptra</Code>
+    <Name>c_tong_trang1</Name>
+    <Type>C</Type>
+    <Value>Sổ này có:</Value>
+    <Value2>This book has</Value2>
+  </rbccnthdptra>
+  <rbccnthdptra>
+    <Code>rbccnthdptra</Code>
+    <Name>c_tong_trang2</Name>
+    <Type>C</Type>
+    <Value>trang, đánh số từ trang số 1 đến trang</Value>
+    <Value2>pages, is numbered from 1 to</Value2>
+  </rbccnthdptra>
+  <rbccnthdptra>
+    <Code>rbccnthdptra</Code>
+    <Name>c_tt</Name>
+    <Type>C</Type>
+    <Value>Số tiền phải trả</Value>
+    <Value2>Amount Payable</Value2>
+  </rbccnthdptra>
+  <rbccnthdptra>
+    <Code>rbccnthdptra</Code>
+    <Name>c_tu_ngay</Name>
+    <Type>C</Type>
+    <Value>Từ ngày</Value>
+    <Value2>From Date</Value2>
+  </rbccnthdptra>
+</NewDataSet>

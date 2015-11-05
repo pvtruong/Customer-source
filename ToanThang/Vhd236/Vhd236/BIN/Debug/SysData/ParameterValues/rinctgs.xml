@@ -1,0 +1,162 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rinctgs" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rinctgs">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rinctgs>
+    <Code>rinctgs</Code>
+    <Name>c_chung_tu</Name>
+    <Type>C</Type>
+    <Value>Chứng từ</Value>
+    <Value2>Chứng từ</Value2>
+  </rinctgs>
+  <rinctgs>
+    <Code>rinctgs</Code>
+    <Name>c_co</Name>
+    <Type>C</Type>
+    <Value>Có</Value>
+    <Value2>Có</Value2>
+  </rinctgs>
+  <rinctgs>
+    <Code>rinctgs</Code>
+    <Name>c_cong</Name>
+    <Type>C</Type>
+    <Value>Cộng:</Value>
+    <Value2>Total:</Value2>
+  </rinctgs>
+  <rinctgs>
+    <Code>rinctgs</Code>
+    <Name>c_ctg</Name>
+    <Type>C</Type>
+    <Value>chứng từ gốc</Value>
+    <Value2>chứng từ gốc</Value2>
+  </rinctgs>
+  <rinctgs>
+    <Code>rinctgs</Code>
+    <Name>c_day</Name>
+    <Type>C</Type>
+    <Value>Ngày</Value>
+    <Value2>Date</Value2>
+  </rinctgs>
+  <rinctgs>
+    <Code>rinctgs</Code>
+    <Name>c_dien_giai</Name>
+    <Type>C</Type>
+    <Value>Diễn giải</Value>
+    <Value2>Diễn giải</Value2>
+  </rinctgs>
+  <rinctgs>
+    <Code>rinctgs</Code>
+    <Name>c_ghi_chu</Name>
+    <Type>C</Type>
+    <Value>Ghi chú</Value>
+    <Value2>Ghi chú</Value2>
+  </rinctgs>
+  <rinctgs>
+    <Code>rinctgs</Code>
+    <Name>c_ghi_no</Name>
+    <Type>C</Type>
+    <Value>Ghi nợ</Value>
+    <Value2>Ghi nợ</Value2>
+  </rinctgs>
+  <rinctgs>
+    <Code>rinctgs</Code>
+    <Name>c_kem_theo</Name>
+    <Type>C</Type>
+    <Value>Kèm theo</Value>
+    <Value2>Kèm theo</Value2>
+  </rinctgs>
+  <rinctgs>
+    <Code>rinctgs</Code>
+    <Name>c_ktt</Name>
+    <Type>C</Type>
+    <Value>Kế toán trưởng</Value>
+    <Value2>Kế toán trưởng</Value2>
+  </rinctgs>
+  <rinctgs>
+    <Code>rinctgs</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>Ký tên</Value>
+    <Value2>Ký tên</Value2>
+  </rinctgs>
+  <rinctgs>
+    <Code>rinctgs</Code>
+    <Name>c_month</Name>
+    <Type>C</Type>
+    <Value>tháng</Value>
+    <Value2>month</Value2>
+  </rinctgs>
+  <rinctgs>
+    <Code>rinctgs</Code>
+    <Name>c_ngay</Name>
+    <Type>C</Type>
+    <Value>Ngày</Value>
+    <Value2>Ngày</Value2>
+  </rinctgs>
+  <rinctgs>
+    <Code>rinctgs</Code>
+    <Name>c_ngay_ct</Name>
+    <Type>C</Type>
+    <Value>Ngày %d tháng %m năm %y</Value>
+    <Value2>Day %d month %m year %y</Value2>
+  </rinctgs>
+  <rinctgs>
+    <Code>rinctgs</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>Ngày . . . tháng . . . năm . . . . . . .</Value>
+    <Value2>Day . . . month . . . year . . .</Value2>
+  </rinctgs>
+  <rinctgs>
+    <Code>rinctgs</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Người lập biểu</Value>
+    <Value2>Người lập biểu</Value2>
+  </rinctgs>
+  <rinctgs>
+    <Code>rinctgs</Code>
+    <Name>c_no</Name>
+    <Type>C</Type>
+    <Value>Nợ</Value>
+    <Value2>Nợ</Value2>
+  </rinctgs>
+  <rinctgs>
+    <Code>rinctgs</Code>
+    <Name>c_so</Name>
+    <Type>C</Type>
+    <Value>Số</Value>
+    <Value2>Số</Value2>
+  </rinctgs>
+  <rinctgs>
+    <Code>rinctgs</Code>
+    <Name>c_so_tien</Name>
+    <Type>C</Type>
+    <Value>Số tiền</Value>
+    <Value2>Số tiền</Value2>
+  </rinctgs>
+  <rinctgs>
+    <Code>rinctgs</Code>
+    <Name>c_year</Name>
+    <Type>C</Type>
+    <Value>năm</Value>
+    <Value2>year</Value2>
+  </rinctgs>
+</NewDataSet>

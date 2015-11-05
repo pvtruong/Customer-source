@@ -1,0 +1,129 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dmqtct" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dmqtct">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dmqtct>
+    <FormID>dmqtct</FormID>
+    <TextID>000</TextID>
+    <TextV>Quá trình công tác</TextV>
+    <TextE>Employment history</TextE>
+  </dmqtct>
+  <dmqtct>
+    <FormID>dmqtct</FormID>
+    <TextID>001</TextID>
+    <TextV>Tên công ty</TextV>
+    <TextE>Company Name</TextE>
+  </dmqtct>
+  <dmqtct>
+    <FormID>dmqtct</FormID>
+    <TextID>002</TextID>
+    <TextV>Ngày bắt đầu</TextV>
+    <TextE>Start Date</TextE>
+  </dmqtct>
+  <dmqtct>
+    <FormID>dmqtct</FormID>
+    <TextID>003</TextID>
+    <TextV>Ngày kết thúc</TextV>
+    <TextE>End date</TextE>
+  </dmqtct>
+  <dmqtct>
+    <FormID>dmqtct</FormID>
+    <TextID>004</TextID>
+    <TextV>Vị trí công tác</TextV>
+    <TextE>Job function</TextE>
+  </dmqtct>
+  <dmqtct>
+    <FormID>dmqtct</FormID>
+    <TextID>005</TextID>
+    <TextV>Tên người tham khảo</TextV>
+    <TextE>Name of Reference</TextE>
+  </dmqtct>
+  <dmqtct>
+    <FormID>dmqtct</FormID>
+    <TextID>006</TextID>
+    <TextV>SĐT</TextV>
+    <TextE>Telephone</TextE>
+  </dmqtct>
+  <dmqtct>
+    <FormID>dmqtct</FormID>
+    <TextID>007</TextID>
+    <TextV>Websie</TextV>
+    <TextE>Websie</TextE>
+  </dmqtct>
+  <dmqtct>
+    <FormID>dmqtct</FormID>
+    <TextID>008</TextID>
+    <TextV>Địa chỉ</TextV>
+    <TextE>Address</TextE>
+  </dmqtct>
+  <dmqtct>
+    <FormID>dmqtct</FormID>
+    <TextID>009</TextID>
+    <TextV>Mô tả công việc</TextV>
+    <TextE>Job Description</TextE>
+  </dmqtct>
+  <dmqtct>
+    <FormID>dmqtct</FormID>
+    <TextID>010</TextID>
+    <TextV>Mức lương</TextV>
+    <TextE>Salary</TextE>
+  </dmqtct>
+  <dmqtct>
+    <FormID>dmqtct</FormID>
+    <TextID>011</TextID>
+    <TextV>Lý do chuyển công tác</TextV>
+    <TextE>Reason transferred</TextE>
+  </dmqtct>
+  <dmqtct>
+    <FormID>dmqtct</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Created</TextE>
+  </dmqtct>
+  <dmqtct>
+    <FormID>dmqtct</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modify</TextE>
+  </dmqtct>
+  <dmqtct>
+    <FormID>dmqtct</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </dmqtct>
+  <dmqtct>
+    <FormID>dmqtct</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </dmqtct>
+  <dmqtct>
+    <FormID>dmqtct</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </dmqtct>
+  <dmqtct>
+    <FormID>dmqtct</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dmqtct>
+</NewDataSet>

@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rbccnthdpt" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rbccnthdpt">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsv" type="xs:string" minOccurs="0" />
+                <xs:element name="columnse" type="xs:string" minOccurs="0" />
+                <xs:element name="headersv" type="xs:string" minOccurs="0" />
+                <xs:element name="headerse" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rbccnthdpt>
+    <gridid>rbccnthdpt</gridid>
+    <columnsv>so_hd,ngay_hd,ma_kh,t_tt_nt,ma_nt_tt,ty_gia_tt,t_tt,da_tt_nt,con_lai_nt,tat_toan,tk_co,ngay_ct,so_ct,ma_ct</columnsv>
+    <columnse>so_hd,ngay_hd,ma_kh,t_tt_nt,ma_nt_tt,ty_gia_tt,t_tt,da_tt_nt,con_lai_nt,tat_toan,tk_co,ngay_ct,so_ct,ma_ct</columnse>
+    <headersv>Số hóa đơn,Ngày hóa đơn,Mã khách hàng,Tổng thanh toán nt,Mã nt,Tỷ giá,Tổng thanh toán VND,Đã thanh toán nt,Còn thanh toán nt,Tất toán,Tài khoản,Ngày ct,Số ct,Mã ct</headersv>
+    <headerse>Invoice ID,Invoice Date,Cust.ID,FC Total,FC Code,Ex. Rate ,VND Total,FC Paid ,FC Payable ,Write-off ,Account,Voucher Date,Voucher No.,Mã chứng từ</headerse>
+    <widths>100,100,100,100,100,100,100,100,100,100,100,100,100,100</widths>
+    <formats>,,,f_tien_nt,,f_tien,f_tien,f_tien_nt,f_tien_nt,,,,,</formats>
+    <readonlys>1,1,1,1,1,1,1,1,1,1,1,1,1,1</readonlys>
+    <hides>0,0,0,0,0,0,0,0,0,0,0,0,0,0</hides>
+    <defaultvalues>,,,,,,,,,,,,,</defaultvalues>
+    <carrys>0,0,0,0,0,0,0,0,0,0,0,0,0,0</carrys>
+  </rbccnthdpt>
+</NewDataSet>

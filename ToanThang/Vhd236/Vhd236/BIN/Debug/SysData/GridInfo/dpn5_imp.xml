@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dpn5_imp" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dpn5_imp">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsv" type="xs:string" minOccurs="0" />
+                <xs:element name="columnse" type="xs:string" minOccurs="0" />
+                <xs:element name="headersv" type="xs:string" minOccurs="0" />
+                <xs:element name="headerse" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dpn5_imp>
+    <gridid>dpn5_imp</gridid>
+    <columnsv>so_ct,ngay_ct,so_hd,so_seri,ngay_hd,dien_giai,ten_vt,ma_nt,ty_gia,ma_nv,ma_kh,ong_ba,ma_vt,ma_dvt,ma_kho,sl_xuat,gia_von_nt,gia_von,tien_xuat_nt,tien_xuat,tk_vt,tk_du,ma_thue,thue_suat,tk_thue_no,tk_du_thue,tien_thue_nt,tien_thue,ma_bp,ma_phi,ma_dt</columnsv>
+    <columnse>so_ct,ngay_ct,so_hd,so_seri,ngay_hd,dien_giai,ten_vt,ma_nt,ty_gia,ma_nv,ma_kh,ong_ba,ma_vt,ma_dvt,ma_kho,sl_xuat,gia_von_nt,gia_von,tien_xuat_nt,tien_xuat,tk_vt,tk_du,ma_thue,thue_suat,tk_thue_no,tk_du_thue,tien_thue_nt,tien_thue,ma_bp,ma_phi,ma_dt</columnse>
+    <headersv>Số chứng từ,Ngày chứng từ,Số hóa đơn,Số seri,Ngày hóa đơn,Diễn giải,Nhóm hàng,Mã ngoại tệ,Tỷ giá,Nhân viên thực hiện,Mã khách,Tên người giao dịch,Mã vt,ĐVT,Mã kho,Số lượng,Giá nt,Giá,Tiền nt,Tiền,Tk vật tư,Tk đối ứng,Mã thuế,Thuế suất,TK thuê,Tk đối ứng,Tiền thuế nt,Tiền thuế,Mã bộ phận,Mã phí ,Mã vụ việc dự án</headersv>
+    <headerse>Voucher No.,Voucher Date,Số hóa đơn,Số seri,Ngày hóa đơn,Memo,,FC Code,Ex. Rate,Nhân viên thực hiện,Cust.ID,Tên người giao dịch,Item Code,Unit,Site ID,Quantity,FC Price,Price,FC Amount,Amount,Inventory Acct.,Ref. Acct.,Tax Code,Thuế suất,TK thuế,Ref. Acct.,FC Tax Amt.,Tax Amt.,Mã bộ phận,Mã phí,Mã vụ việc dự án</headerse>
+    <widths>100,100,100,100,100,200,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100</widths>
+    <formats>,,,,,,,,,,,,,,,,f_tien_nt,f_tien,f_tien_nt,f_tien,,,,,,,f_tien_nt,f_tien,,,</formats>
+    <readonlys>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</readonlys>
+    <hides>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</hides>
+    <defaultvalues>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</defaultvalues>
+    <carrys>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</carrys>
+  </dpn5_imp>
+</NewDataSet>

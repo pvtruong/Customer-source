@@ -1,0 +1,162 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rsoducuoikytk" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rsoducuoikytk">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rsoducuoikytk>
+    <Code>rsoducuoikytk</Code>
+    <Name>c_cong</Name>
+    <Type>C</Type>
+    <Value>TỔNG CỘNG:</Value>
+    <Value2>TOTAL:</Value2>
+  </rsoducuoikytk>
+  <rsoducuoikytk>
+    <Code>rsoducuoikytk</Code>
+    <Name>c_den_ngay</Name>
+    <Type>C</Type>
+    <Value>Đến ngày</Value>
+    <Value2>To Date</Value2>
+  </rsoducuoikytk>
+  <rsoducuoikytk>
+    <Code>rsoducuoikytk</Code>
+    <Name>c_dvt</Name>
+    <Type>C</Type>
+    <Value>Đơn vị tính:</Value>
+    <Value2>Unit:</Value2>
+  </rsoducuoikytk>
+  <rsoducuoikytk>
+    <Code>rsoducuoikytk</Code>
+    <Name>c_ktt</Name>
+    <Type>C</Type>
+    <Value>Kế toán trưởng</Value>
+    <Value2>Chief Accountant</Value2>
+  </rsoducuoikytk>
+  <rsoducuoikytk>
+    <Code>rsoducuoikytk</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên)</Value>
+    <Value2>Sign., (Full Name)</Value2>
+  </rsoducuoikytk>
+  <rsoducuoikytk>
+    <Code>rsoducuoikytk</Code>
+    <Name>c_ngay_ms</Name>
+    <Type>C</Type>
+    <Value>Ngày mở sổ . . . .</Value>
+    <Value2>On open books . . . .</Value2>
+  </rsoducuoikytk>
+  <rsoducuoikytk>
+    <Code>rsoducuoikytk</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>..............., ngày......... tháng........... năm..........</Value>
+    <Value2>..............., date......... month........... year..........</Value2>
+  </rsoducuoikytk>
+  <rsoducuoikytk>
+    <Code>rsoducuoikytk</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Người lập</Value>
+    <Value2>Founder</Value2>
+  </rsoducuoikytk>
+  <rsoducuoikytk>
+    <Code>rsoducuoikytk</Code>
+    <Name>c_tong_trang1</Name>
+    <Type>C</Type>
+    <Value>Sổ này có:</Value>
+    <Value2>This book has</Value2>
+  </rsoducuoikytk>
+  <rsoducuoikytk>
+    <Code>rsoducuoikytk</Code>
+    <Name>c_tong_trang2</Name>
+    <Type>C</Type>
+    <Value>trang, đánh số từ trang số 1 đến trang</Value>
+    <Value2>pages, is numbered from 1 to</Value2>
+  </rsoducuoikytk>
+  <rsoducuoikytk>
+    <Code>rsoducuoikytk</Code>
+    <Name>c_tu_ngay</Name>
+    <Type>C</Type>
+    <Value>Từ ngày</Value>
+    <Value2>From Date</Value2>
+  </rsoducuoikytk>
+  <rsoducuoikytk>
+    <Code>rsoducuoikytk</Code>
+    <Name>d_co</Name>
+    <Type>C</Type>
+    <Value>Có</Value>
+    <Value2>Credit Balance</Value2>
+  </rsoducuoikytk>
+  <rsoducuoikytk>
+    <Code>rsoducuoikytk</Code>
+    <Name>d_no</Name>
+    <Type>C</Type>
+    <Value>Nợ</Value>
+    <Value2>Debit Balance</Value2>
+  </rsoducuoikytk>
+  <rsoducuoikytk>
+    <Code>rsoducuoikytk</Code>
+    <Name>du_co</Name>
+    <Type>C</Type>
+    <Value>Có ngoại tệ</Value>
+    <Value2>FC Credit Balance</Value2>
+  </rsoducuoikytk>
+  <rsoducuoikytk>
+    <Code>rsoducuoikytk</Code>
+    <Name>du_no</Name>
+    <Type>C</Type>
+    <Value>Nợ ngoại tệ</Value>
+    <Value2>FC Debit Balance</Value2>
+  </rsoducuoikytk>
+  <rsoducuoikytk>
+    <Code>rsoducuoikytk</Code>
+    <Name>sd</Name>
+    <Type>C</Type>
+    <Value>Số dư</Value>
+    <Value2>Balance</Value2>
+  </rsoducuoikytk>
+  <rsoducuoikytk>
+    <Code>rsoducuoikytk</Code>
+    <Name>so_du</Name>
+    <Type>C</Type>
+    <Value>Số dư ngoại tệ</Value>
+    <Value2>FC Balance</Value2>
+  </rsoducuoikytk>
+  <rsoducuoikytk>
+    <Code>rsoducuoikytk</Code>
+    <Name>ten_tk</Name>
+    <Type>C</Type>
+    <Value>Tên tài khoản</Value>
+    <Value2>Account Name</Value2>
+  </rsoducuoikytk>
+  <rsoducuoikytk>
+    <Code>rsoducuoikytk</Code>
+    <Name>tk</Name>
+    <Type>C</Type>
+    <Value>Tài khoản</Value>
+    <Value2>Account</Value2>
+  </rsoducuoikytk>
+  <rsoducuoikytk>
+    <Code>rsoducuoikytk</Code>
+    <Name>tong_tien</Name>
+    <Type>C</Type>
+    <Value>Tổng tiền</Value>
+    <Value2>Total Amount</Value2>
+  </rsoducuoikytk>
+</NewDataSet>

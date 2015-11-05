@@ -1,0 +1,141 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rvcdetail" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rvcdetail">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rvcdetail>
+    <FormID>rvcdetail</FormID>
+    <TextID>000</TextID>
+    <TextV>Xem chi tiết chứng từ</TextV>
+    <TextE>see details of training</TextE>
+  </rvcdetail>
+  <rvcdetail>
+    <FormID>rvcdetail</FormID>
+    <TextID>001</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Điều kiện lọc</TextE>
+  </rvcdetail>
+  <rvcdetail>
+    <FormID>rvcdetail</FormID>
+    <TextID>002</TextID>
+    <TextV>Từ/Đến ngày</TextV>
+    <TextE>Từ/ Đến ngày</TextE>
+  </rvcdetail>
+  <rvcdetail>
+    <FormID>rvcdetail</FormID>
+    <TextID>003</TextID>
+    <TextV>Tài khoản</TextV>
+    <TextE>Account</TextE>
+  </rvcdetail>
+  <rvcdetail>
+    <FormID>rvcdetail</FormID>
+    <TextID>004</TextID>
+    <TextV>Tỉnh/Thành</TextV>
+    <TextE>Tỉnh/Thành</TextE>
+  </rvcdetail>
+  <rvcdetail>
+    <FormID>rvcdetail</FormID>
+    <TextID>005</TextID>
+    <TextV>Quận/ Huyện</TextV>
+    <TextE>Quận/ Huyện</TextE>
+  </rvcdetail>
+  <rvcdetail>
+    <FormID>rvcdetail</FormID>
+    <TextID>006</TextID>
+    <TextV>Dự án</TextV>
+    <TextE>Dự án</TextE>
+  </rvcdetail>
+  <rvcdetail>
+    <FormID>rvcdetail</FormID>
+    <TextID>007</TextID>
+    <TextV>Lô</TextV>
+    <TextE>Lô</TextE>
+  </rvcdetail>
+  <rvcdetail>
+    <FormID>rvcdetail</FormID>
+    <TextID>008</TextID>
+    <TextV>Nhà cung cấp</TextV>
+    <TextE>Nhà cung cấp</TextE>
+  </rvcdetail>
+  <rvcdetail>
+    <FormID>rvcdetail</FormID>
+    <TextID>009</TextID>
+    <TextV>Đơn vị</TextV>
+    <TextE>Đơn vị</TextE>
+  </rvcdetail>
+  <rvcdetail>
+    <FormID>rvcdetail</FormID>
+    <TextID>010</TextID>
+    <TextV>Nhóm theo</TextV>
+    <TextE>Nhóm theo</TextE>
+  </rvcdetail>
+  <rvcdetail>
+    <FormID>rvcdetail</FormID>
+    <TextID>011</TextID>
+    <TextV>Mẫu báo cáo</TextV>
+    <TextE>Mẫu báo cáo</TextE>
+  </rvcdetail>
+  <rvcdetail>
+    <FormID>rvcdetail</FormID>
+    <TextID>012</TextID>
+    <TextV>Tiêu đề</TextV>
+    <TextE>Tiêu đề</TextE>
+  </rvcdetail>
+  <rvcdetail>
+    <FormID>rvcdetail</FormID>
+    <TextID>013</TextID>
+    <TextV>Sản phẩm</TextV>
+    <TextE>Sản phẩm</TextE>
+  </rvcdetail>
+  <rvcdetail>
+    <FormID>rvcdetail</FormID>
+    <TextID>200</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>Chức năng</TextE>
+  </rvcdetail>
+  <rvcdetail>
+    <FormID>rvcdetail</FormID>
+    <TextID>201</TextID>
+    <TextV>&amp;In</TextV>
+    <TextE>&amp;Print</TextE>
+  </rvcdetail>
+  <rvcdetail>
+    <FormID>rvcdetail</FormID>
+    <TextID>202</TextID>
+    <TextV>&amp;Xem</TextV>
+    <TextE>&amp;View</TextE>
+  </rvcdetail>
+  <rvcdetail>
+    <FormID>rvcdetail</FormID>
+    <TextID>203</TextID>
+    <TextV>Làm tươi</TextV>
+    <TextE>Làm tươi</TextE>
+  </rvcdetail>
+  <rvcdetail>
+    <FormID>rvcdetail</FormID>
+    <TextID>204</TextID>
+    <TextV>Xem chứng từ</TextV>
+    <TextE>View Voucher</TextE>
+  </rvcdetail>
+  <rvcdetail>
+    <FormID>rvcdetail</FormID>
+    <TextID>999</TextID>
+    <TextV>Thoát</TextV>
+    <TextE>Thoát</TextE>
+  </rvcdetail>
+</NewDataSet>

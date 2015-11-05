@@ -1,0 +1,127 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rthxktdt" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rthxktdt">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rthxktdt>
+    <Code>rthxktdt</Code>
+    <Name>c_cong</Name>
+    <Type>C</Type>
+    <Value>TỔNG CỘNG:</Value>
+    <Value2>TOTAL:</Value2>
+  </rthxktdt>
+  <rthxktdt>
+    <Code>rthxktdt</Code>
+    <Name>c_den_ngay</Name>
+    <Type>C</Type>
+    <Value>đến ngày</Value>
+    <Value2>to</Value2>
+  </rthxktdt>
+  <rthxktdt>
+    <Code>rthxktdt</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên)</Value>
+    <Value2>Sign., (Full Name)</Value2>
+  </rthxktdt>
+  <rthxktdt>
+    <Code>rthxktdt</Code>
+    <Name>c_ky_ten_dd</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên , đón dấu)</Value>
+    <Value2>Sign., Seal (Full Name and Position)</Value2>
+  </rthxktdt>
+  <rthxktdt>
+    <Code>rthxktdt</Code>
+    <Name>c_month</Name>
+    <Type>C</Type>
+    <Value>Tháng</Value>
+    <Value2>MONTH</Value2>
+  </rthxktdt>
+  <rthxktdt>
+    <Code>rthxktdt</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>..............., ngày......... tháng........... năm..........</Value>
+    <Value2>..............., date......... month........... year..........</Value2>
+  </rthxktdt>
+  <rthxktdt>
+    <Code>rthxktdt</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Người lập</Value>
+    <Value2>Founder</Value2>
+  </rthxktdt>
+  <rthxktdt>
+    <Code>rthxktdt</Code>
+    <Name>c_title</Name>
+    <Type>C</Type>
+    <Value>BÁO CÁO TỔNG HỢP XUẤT KHO THEO VỤ VIỆC, DỰ ÁN</Value>
+    <Value2>STOCK REPORT</Value2>
+  </rthxktdt>
+  <rthxktdt>
+    <Code>rthxktdt</Code>
+    <Name>c_tu_ngay</Name>
+    <Type>C</Type>
+    <Value>Từ ngày</Value>
+    <Value2>From</Value2>
+  </rthxktdt>
+  <rthxktdt>
+    <Code>rthxktdt</Code>
+    <Name>ma_dvt</Name>
+    <Type>C</Type>
+    <Value>Đvt</Value>
+    <Value2>Unit</Value2>
+  </rthxktdt>
+  <rthxktdt>
+    <Code>rthxktdt</Code>
+    <Name>ma_vt</Name>
+    <Type>C</Type>
+    <Value>Mã vật tư</Value>
+    <Value2>ID</Value2>
+  </rthxktdt>
+  <rthxktdt>
+    <Code>rthxktdt</Code>
+    <Name>so_luong</Name>
+    <Type>C</Type>
+    <Value>Số lượng</Value>
+    <Value2>Quantity</Value2>
+  </rthxktdt>
+  <rthxktdt>
+    <Code>rthxktdt</Code>
+    <Name>stt</Name>
+    <Type>C</Type>
+    <Value>STT</Value>
+    <Value2>Se. No.</Value2>
+  </rthxktdt>
+  <rthxktdt>
+    <Code>rthxktdt</Code>
+    <Name>ten_vt</Name>
+    <Type>C</Type>
+    <Value>Tên vật tư</Value>
+    <Value2>Name</Value2>
+  </rthxktdt>
+  <rthxktdt>
+    <Code>rthxktdt</Code>
+    <Name>tien</Name>
+    <Type>C</Type>
+    <Value>Tiền</Value>
+    <Value2>Amount</Value2>
+  </rthxktdt>
+</NewDataSet>

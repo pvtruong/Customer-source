@@ -1,0 +1,417 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rthuyetminh" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rthuyetminh">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>000</TextID>
+    <TextV>Thuyết minh báo cáo tài chính</TextV>
+    <TextE>Interpretation of financial statement</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>001</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Filter Condition</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>002</TextID>
+    <TextV>Từ ngày/đến ngày</TextV>
+    <TextE>Date from/to</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>003</TextID>
+    <TextV>Kỳ trước</TextV>
+    <TextE>Previous Period</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>004</TextID>
+    <TextV>Ngày cuối kỳ trước</TextV>
+    <TextE>Ending Date Prev. Period</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>005</TextID>
+    <TextV>In trang này</TextV>
+    <TextE>Print this page</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>006</TextID>
+    <TextV>Lưu trang này</TextV>
+    <TextE>Save this page</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>007</TextID>
+    <TextV>Khai báo mẫu</TextV>
+    <TextE>Declare form</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>009</TextID>
+    <TextV>Đơn vị</TextV>
+    <TextE>Unit</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>011</TextID>
+    <TextV>Mẫu báo cáo</TextV>
+    <TextE>Report Form</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>012</TextID>
+    <TextV>Tiêu đề</TextV>
+    <TextE>Title</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>020</TextID>
+    <TextV>Sửa mẫu</TextV>
+    <TextE>Edit Form</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>022</TextID>
+    <TextV>Khai báo mẫu</TextV>
+    <TextE>Declaration Form</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>023</TextID>
+    <TextV>STT</TextV>
+    <TextE>No.</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>024</TextID>
+    <TextV>Mã số</TextV>
+    <TextE>Code</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>025</TextID>
+    <TextV>Chỉ tiêu</TextV>
+    <TextE>Article</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>026</TextID>
+    <TextV>Chỉ tiêu 2</TextV>
+    <TextE>Article 2</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>027</TextID>
+    <TextV>Ghi chú</TextV>
+    <TextE>Remarks</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>028</TextID>
+    <TextV>Xuống dòng</TextV>
+    <TextE>Wrap Text</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>029</TextID>
+    <TextV>In nghiêng</TextV>
+    <TextE>Italic</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>030</TextID>
+    <TextV>&amp;In</TextV>
+    <TextE>&amp;Print</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>031</TextID>
+    <TextV>In đậm</TextV>
+    <TextE>Bold</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>032</TextID>
+    <TextV>Phương pháp tính</TextV>
+    <TextE>Method</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>033</TextID>
+    <TextV>Tài khoản</TextV>
+    <TextE>Account</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>034</TextID>
+    <TextV>Lấy chi tiết một vế của đối tượng công nợ</TextV>
+    <TextE>AR/AP Items</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>035</TextID>
+    <TextV>Tài khoản đối ứng</TextV>
+    <TextE>Account ref</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>036</TextID>
+    <TextV>Công thức</TextV>
+    <TextE>Formula</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>037</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>038</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;cancel</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>039</TextID>
+    <TextV>Chỉ tiêu này không được xóa</TextV>
+    <TextE>This criterion is not clear</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>040</TextID>
+    <TextV>Lấy giá trị không âm</TextV>
+    <TextE>Classify</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>041</TextID>
+    <TextV>Phân loại</TextV>
+    <TextE>Classify</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>042</TextID>
+    <TextV>Đầu cuối</TextV>
+    <TextE>Beign/End</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>043</TextID>
+    <TextV>Cộng trừ</TextV>
+    <TextE>Plus/Sub</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>050</TextID>
+    <TextV>1-Nợ,2-Có</TextV>
+    <TextE>1-Debit,2-Credit</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>051</TextID>
+    <TextV>1-Đầu,2-Cuối</TextV>
+    <TextE>1- Begin,2-End</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>052</TextID>
+    <TextV>0-Mã số,1-Số dư,2-Phát sinh,9-Khác</TextV>
+    <TextE>0-Code,1-Balance, 2-Arising, 9-Other</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>053</TextID>
+    <TextV>1-Cộng,2-Trừ</TextV>
+    <TextE>1-Plus,2-Sub</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>054</TextID>
+    <TextV>0-Kỳ trước,1-kỳ này</TextV>
+    <TextE>0-Previous Period ,1-This Period</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>055</TextID>
+    <TextV>Kỳ</TextV>
+    <TextE>Period</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>200</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>201</TextID>
+    <TextV>&amp;In</TextV>
+    <TextE>&amp;Print</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>202</TextID>
+    <TextV>&amp;Xem</TextV>
+    <TextE>&amp;View</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>203</TextID>
+    <TextV>Lấy dữ liệu</TextV>
+    <TextE>Get data</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>204</TextID>
+    <TextV>Xem chứng từ</TextV>
+    <TextE>View Voucher</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>900</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>&amp;OK</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>901</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>999</TextID>
+    <TextV>Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>EXC</TextID>
+    <TextV>Xuất BC ra Excel</TextV>
+    <TextE>Xuất BC ra Excel</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>in</TextID>
+    <TextV>In</TextV>
+    <TextE>Print</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>P01</TextID>
+    <TextV>Trang 1</TextV>
+    <TextE>Page 1</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>P02</TextID>
+    <TextV>Trang 2</TextV>
+    <TextE>Page 2</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>P03</TextID>
+    <TextV>Trang 3</TextV>
+    <TextE>Page 3</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>P04</TextID>
+    <TextV>Trang 4</TextV>
+    <TextE>Page 4</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>P05</TextID>
+    <TextV>Trang 5</TextV>
+    <TextE>Page 5</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>P06</TextID>
+    <TextV>Trang 6</TextV>
+    <TextE>Page 6</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>P07</TextID>
+    <TextV>Trang 7</TextV>
+    <TextE>Page 7</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>P08</TextID>
+    <TextV>Trang 8</TextV>
+    <TextE>Page 8</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>P09</TextID>
+    <TextV>Trang 9</TextV>
+    <TextE>Page 9</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>P10</TextID>
+    <TextV>Trang 10</TextV>
+    <TextE>Page 10</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>P11</TextID>
+    <TextV>Trang 11</TextV>
+    <TextE>Page 11</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>P12</TextID>
+    <TextV>Trang 12</TextV>
+    <TextE>Page 12</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>P13</TextID>
+    <TextV>Trang 13</TextV>
+    <TextE>Page 13</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>P14</TextID>
+    <TextV>Trang 14</TextV>
+    <TextE>Page 14</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>P15</TextID>
+    <TextV>Trang 15</TextV>
+    <TextE>Page 15</TextE>
+  </rthuyetminh>
+  <rthuyetminh>
+    <FormID>rthuyetminh</FormID>
+    <TextID>X01</TextID>
+    <TextV>Xuất Excel</TextV>
+    <TextE>Xuất Excel</TextE>
+  </rthuyetminh>
+</NewDataSet>

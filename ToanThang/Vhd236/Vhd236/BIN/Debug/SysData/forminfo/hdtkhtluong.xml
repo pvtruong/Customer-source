@@ -1,0 +1,129 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="hdtkhtluong" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="hdtkhtluong">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <hdtkhtluong>
+    <FormID>hdtkhtluong</FormID>
+    <TextID>000</TextID>
+    <TextV>Danh mục tài khoản hạch toán lương</TextV>
+    <TextE>Danh mục tài khoản hạch toán lương</TextE>
+  </hdtkhtluong>
+  <hdtkhtluong>
+    <FormID>hdtkhtluong</FormID>
+    <TextID>001</TextID>
+    <TextV>Mã khấu trừ</TextV>
+    <TextE>Mã khấu trừ</TextE>
+  </hdtkhtluong>
+  <hdtkhtluong>
+    <FormID>hdtkhtluong</FormID>
+    <TextID>002</TextID>
+    <TextV>Tên khấu trừ</TextV>
+    <TextE>Tên khấu trừ</TextE>
+  </hdtkhtluong>
+  <hdtkhtluong>
+    <FormID>hdtkhtluong</FormID>
+    <TextID>003</TextID>
+    <TextV>Tên khấu trừ 2</TextV>
+    <TextE>Tên khấu trừ 2</TextE>
+  </hdtkhtluong>
+  <hdtkhtluong>
+    <FormID>hdtkhtluong</FormID>
+    <TextID>004</TextID>
+    <TextV>Tài khoản hạch toán</TextV>
+    <TextE>Tỷ lệ ngươờ ld chịu</TextE>
+  </hdtkhtluong>
+  <hdtkhtluong>
+    <FormID>hdtkhtluong</FormID>
+    <TextID>005</TextID>
+    <TextV>Diễn giải</TextV>
+    <TextE>Tài khoản hạch toán</TextE>
+  </hdtkhtluong>
+  <hdtkhtluong>
+    <FormID>hdtkhtluong</FormID>
+    <TextID>089</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Status</TextE>
+  </hdtkhtluong>
+  <hdtkhtluong>
+    <FormID>hdtkhtluong</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Creator</TextE>
+  </hdtkhtluong>
+  <hdtkhtluong>
+    <FormID>hdtkhtluong</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modifỉer</TextE>
+  </hdtkhtluong>
+  <hdtkhtluong>
+    <FormID>hdtkhtluong</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </hdtkhtluong>
+  <hdtkhtluong>
+    <FormID>hdtkhtluong</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </hdtkhtluong>
+  <hdtkhtluong>
+    <FormID>hdtkhtluong</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </hdtkhtluong>
+  <hdtkhtluong>
+    <FormID>hdtkhtluong</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </hdtkhtluong>
+  <hdtkhtluong>
+    <FormID>hdtkhtluong</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </hdtkhtluong>
+  <hdtkhtluong>
+    <FormID>hdtkhtluong</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </hdtkhtluong>
+  <hdtkhtluong>
+    <FormID>hdtkhtluong</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </hdtkhtluong>
+  <hdtkhtluong>
+    <FormID>hdtkhtluong</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </hdtkhtluong>
+  <hdtkhtluong>
+    <FormID>hdtkhtluong</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </hdtkhtluong>
+</NewDataSet>

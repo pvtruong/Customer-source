@@ -1,0 +1,165 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dmhopdongld" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dmhopdongld">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dmhopdongld>
+    <FormID>dmhopdongld</FormID>
+    <TextID>000</TextID>
+    <TextV>Hợp đồng lao động</TextV>
+    <TextE>Hợp đồng lao động</TextE>
+  </dmhopdongld>
+  <dmhopdongld>
+    <FormID>dmhopdongld</FormID>
+    <TextID>001</TextID>
+    <TextV>Bộ phận</TextV>
+    <TextE>Bộ phận</TextE>
+  </dmhopdongld>
+  <dmhopdongld>
+    <FormID>dmhopdongld</FormID>
+    <TextID>002</TextID>
+    <TextV>Chức vụ</TextV>
+    <TextE>Chức vụ</TextE>
+  </dmhopdongld>
+  <dmhopdongld>
+    <FormID>dmhopdongld</FormID>
+    <TextID>003</TextID>
+    <TextV>Loại HĐLĐ</TextV>
+    <TextE>Loại HĐLĐ</TextE>
+  </dmhopdongld>
+  <dmhopdongld>
+    <FormID>dmhopdongld</FormID>
+    <TextID>004</TextID>
+    <TextV>Tình trạng hợp đồng</TextV>
+    <TextE>Tình trạng hợp đồng</TextE>
+  </dmhopdongld>
+  <dmhopdongld>
+    <FormID>dmhopdongld</FormID>
+    <TextID>005</TextID>
+    <TextV>Người trực tiếp quản lý</TextV>
+    <TextE>Người trực tiếp quản lý</TextE>
+  </dmhopdongld>
+  <dmhopdongld>
+    <FormID>dmhopdongld</FormID>
+    <TextID>006</TextID>
+    <TextV>Số hợp đồng</TextV>
+    <TextE>Số hợp đồng</TextE>
+  </dmhopdongld>
+  <dmhopdongld>
+    <FormID>dmhopdongld</FormID>
+    <TextID>007</TextID>
+    <TextV>Ngày ký HĐ</TextV>
+    <TextE>Ngày ký HĐ</TextE>
+  </dmhopdongld>
+  <dmhopdongld>
+    <FormID>dmhopdongld</FormID>
+    <TextID>008</TextID>
+    <TextV>Ngày kết thúc HĐ</TextV>
+    <TextE>Ngày kết thúc HĐ</TextE>
+  </dmhopdongld>
+  <dmhopdongld>
+    <FormID>dmhopdongld</FormID>
+    <TextID>009</TextID>
+    <TextV>Thời gian làm việc</TextV>
+    <TextE>Thời gian làm việc</TextE>
+  </dmhopdongld>
+  <dmhopdongld>
+    <FormID>dmhopdongld</FormID>
+    <TextID>010</TextID>
+    <TextV>Tham gia bảo hiểm</TextV>
+    <TextE>Tham gia bảo hiểm</TextE>
+  </dmhopdongld>
+  <dmhopdongld>
+    <FormID>dmhopdongld</FormID>
+    <TextID>011</TextID>
+    <TextV>Lương cơ bản</TextV>
+    <TextE>Lương cơ bản</TextE>
+  </dmhopdongld>
+  <dmhopdongld>
+    <FormID>dmhopdongld</FormID>
+    <TextID>012</TextID>
+    <TextV>Giá trị ngoại tệ</TextV>
+    <TextE>Giá trị ngoại tệ</TextE>
+  </dmhopdongld>
+  <dmhopdongld>
+    <FormID>dmhopdongld</FormID>
+    <TextID>013</TextID>
+    <TextV>Giá trị VND</TextV>
+    <TextE>Giá trị VND</TextE>
+  </dmhopdongld>
+  <dmhopdongld>
+    <FormID>dmhopdongld</FormID>
+    <TextID>014</TextID>
+    <TextV>Chế độ nghỉ ngơi</TextV>
+    <TextE>Chế độ nghỉ ngơi</TextE>
+  </dmhopdongld>
+  <dmhopdongld>
+    <FormID>dmhopdongld</FormID>
+    <TextID>015</TextID>
+    <TextV>Địa điểm làm việc</TextV>
+    <TextE>Địa điểm làm việc</TextE>
+  </dmhopdongld>
+  <dmhopdongld>
+    <FormID>dmhopdongld</FormID>
+    <TextID>016</TextID>
+    <TextV>Ngày bắt đầu HĐ</TextV>
+    <TextE>Ngày bắt đầu HĐ</TextE>
+  </dmhopdongld>
+  <dmhopdongld>
+    <FormID>dmhopdongld</FormID>
+    <TextID>017</TextID>
+    <TextV>Nội dung công việc</TextV>
+    <TextE>Nội dung công việc</TextE>
+  </dmhopdongld>
+  <dmhopdongld>
+    <FormID>dmhopdongld</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Người tạo</TextE>
+  </dmhopdongld>
+  <dmhopdongld>
+    <FormID>dmhopdongld</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Người sửa</TextE>
+  </dmhopdongld>
+  <dmhopdongld>
+    <FormID>dmhopdongld</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Ngày tạo</TextE>
+  </dmhopdongld>
+  <dmhopdongld>
+    <FormID>dmhopdongld</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Ngày sửa</TextE>
+  </dmhopdongld>
+  <dmhopdongld>
+    <FormID>dmhopdongld</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </dmhopdongld>
+  <dmhopdongld>
+    <FormID>dmhopdongld</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dmhopdongld>
+</NewDataSet>

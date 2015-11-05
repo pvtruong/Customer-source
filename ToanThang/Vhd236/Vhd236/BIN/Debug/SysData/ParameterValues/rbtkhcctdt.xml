@@ -1,0 +1,148 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rbtkhcctdt" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rbtkhcctdt">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rbtkhcctdt>
+    <Code>rbtkhcctdt</Code>
+    <Name>c_confi</Name>
+    <Type>C</Type>
+    <Value>CONFIMATION OF IN CHARGE PERSONS</Value>
+    <Value2>CONFIMATION OF IN CHARGE PERSONS</Value2>
+  </rbtkhcctdt>
+  <rbtkhcctdt>
+    <Code>rbtkhcctdt</Code>
+    <Name>c_gt_cl</Name>
+    <Type>C</Type>
+    <Value>Net book value</Value>
+    <Value2>Net book value</Value2>
+  </rbtkhcctdt>
+  <rbtkhcctdt>
+    <Code>rbtkhcctdt</Code>
+    <Name>c_gt_da_kh</Name>
+    <Type>C</Type>
+    <Value>Cummulative</Value>
+    <Value2>Cummulative</Value2>
+  </rbtkhcctdt>
+  <rbtkhcctdt>
+    <Code>rbtkhcctdt</Code>
+    <Name>c_gt_kh_ky</Name>
+    <Type>C</Type>
+    <Value>Current month dep</Value>
+    <Value2>Current month dep</Value2>
+  </rbtkhcctdt>
+  <rbtkhcctdt>
+    <Code>rbtkhcctdt</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên)</Value>
+    <Value2>Sign., (Full Name)</Value2>
+  </rbtkhcctdt>
+  <rbtkhcctdt>
+    <Code>rbtkhcctdt</Code>
+    <Name>c_ky_ten_dd</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên , đón dấu)</Value>
+    <Value2>Sign., Seal (Full Name and Position)</Value2>
+  </rbtkhcctdt>
+  <rbtkhcctdt>
+    <Code>rbtkhcctdt</Code>
+    <Name>c_month</Name>
+    <Type>C</Type>
+    <Value>MONTH</Value>
+    <Value2>MONTH</Value2>
+  </rbtkhcctdt>
+  <rbtkhcctdt>
+    <Code>rbtkhcctdt</Code>
+    <Name>c_ng_gia</Name>
+    <Type>C</Type>
+    <Value>Original Price</Value>
+    <Value2>Original Price</Value2>
+  </rbtkhcctdt>
+  <rbtkhcctdt>
+    <Code>rbtkhcctdt</Code>
+    <Name>c_ngay_kh</Name>
+    <Type>C</Type>
+    <Value>Date in</Value>
+    <Value2>Date in</Value2>
+  </rbtkhcctdt>
+  <rbtkhcctdt>
+    <Code>rbtkhcctdt</Code>
+    <Name>c_ngay_ms</Name>
+    <Type>C</Type>
+    <Value>Ngày mở sổ . . . .</Value>
+    <Value2>On open books . . . .</Value2>
+  </rbtkhcctdt>
+  <rbtkhcctdt>
+    <Code>rbtkhcctdt</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>..............., ngày......... tháng........... năm..........</Value>
+    <Value2>..............., date......... month........... year..........</Value2>
+  </rbtkhcctdt>
+  <rbtkhcctdt>
+    <Code>rbtkhcctdt</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Người lập</Value>
+    <Value2>Founder</Value2>
+  </rbtkhcctdt>
+  <rbtkhcctdt>
+    <Code>rbtkhcctdt</Code>
+    <Name>c_prepared</Name>
+    <Type>C</Type>
+    <Value>PREPARED BY</Value>
+    <Value2>PREPARED BY</Value2>
+  </rbtkhcctdt>
+  <rbtkhcctdt>
+    <Code>rbtkhcctdt</Code>
+    <Name>c_so_ky_kh</Name>
+    <Type>C</Type>
+    <Value>Life</Value>
+    <Value2>Life</Value2>
+  </rbtkhcctdt>
+  <rbtkhcctdt>
+    <Code>rbtkhcctdt</Code>
+    <Name>c_so_the_cc</Name>
+    <Type>C</Type>
+    <Value>ID</Value>
+    <Value2>ID</Value2>
+  </rbtkhcctdt>
+  <rbtkhcctdt>
+    <Code>rbtkhcctdt</Code>
+    <Name>c_ten_cc</Name>
+    <Type>C</Type>
+    <Value>Name</Value>
+    <Value2>Name</Value2>
+  </rbtkhcctdt>
+  <rbtkhcctdt>
+    <Code>rbtkhcctdt</Code>
+    <Name>c_title</Name>
+    <Type>C</Type>
+    <Value>TOOL REPORT</Value>
+    <Value2>TOOL REPORT</Value2>
+  </rbtkhcctdt>
+  <rbtkhcctdt>
+    <Code>rbtkhcctdt</Code>
+    <Name>stt</Name>
+    <Type>C</Type>
+    <Value>Se. No</Value>
+    <Value2>Se. No.</Value2>
+  </rbtkhcctdt>
+</NewDataSet>

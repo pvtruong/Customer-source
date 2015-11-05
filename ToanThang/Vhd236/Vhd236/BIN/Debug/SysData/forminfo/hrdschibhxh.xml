@@ -1,0 +1,165 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="hrdschibhxh" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="hrdschibhxh">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <hrdschibhxh>
+    <FormID>hrdschibhxh</FormID>
+    <TextID>000</TextID>
+    <TextV>Danh sách nhân viên nhận tiền ốm đau - thai sản</TextV>
+    <TextE>Danh sách nhân viên nhận tiền ốm đau - thai sản</TextE>
+  </hrdschibhxh>
+  <hrdschibhxh>
+    <FormID>hrdschibhxh</FormID>
+    <TextID>001</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Filter Condition</TextE>
+  </hrdschibhxh>
+  <hrdschibhxh>
+    <FormID>hrdschibhxh</FormID>
+    <TextID>009</TextID>
+    <TextV>Đơn vị</TextV>
+    <TextE>Unit</TextE>
+  </hrdschibhxh>
+  <hrdschibhxh>
+    <FormID>hrdschibhxh</FormID>
+    <TextID>011</TextID>
+    <TextV>Mẫu báo cáo</TextV>
+    <TextE>Report Form</TextE>
+  </hrdschibhxh>
+  <hrdschibhxh>
+    <FormID>hrdschibhxh</FormID>
+    <TextID>012</TextID>
+    <TextV>Tiêu đề</TextV>
+    <TextE>Title</TextE>
+  </hrdschibhxh>
+  <hrdschibhxh>
+    <FormID>hrdschibhxh</FormID>
+    <TextID>200</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </hrdschibhxh>
+  <hrdschibhxh>
+    <FormID>hrdschibhxh</FormID>
+    <TextID>201</TextID>
+    <TextV>&amp;In</TextV>
+    <TextE>&amp;Print</TextE>
+  </hrdschibhxh>
+  <hrdschibhxh>
+    <FormID>hrdschibhxh</FormID>
+    <TextID>202</TextID>
+    <TextV>&amp;Xem</TextV>
+    <TextE>&amp;View</TextE>
+  </hrdschibhxh>
+  <hrdschibhxh>
+    <FormID>hrdschibhxh</FormID>
+    <TextID>203</TextID>
+    <TextV>Làm tươi</TextV>
+    <TextE>Refresh</TextE>
+  </hrdschibhxh>
+  <hrdschibhxh>
+    <FormID>hrdschibhxh</FormID>
+    <TextID>900</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>&amp;OK</TextE>
+  </hrdschibhxh>
+  <hrdschibhxh>
+    <FormID>hrdschibhxh</FormID>
+    <TextID>901</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </hrdschibhxh>
+  <hrdschibhxh>
+    <FormID>hrdschibhxh</FormID>
+    <TextID>999</TextID>
+    <TextV>Thoát</TextV>
+    <TextE>Close</TextE>
+  </hrdschibhxh>
+  <hrdschibhxh>
+    <FormID>hrdschibhxh</FormID>
+    <TextID>d01</TextID>
+    <TextV>Ngày chi từ/đến</TextV>
+    <TextE>Ngày chi từ/đến</TextE>
+  </hrdschibhxh>
+  <hrdschibhxh>
+    <FormID>hrdschibhxh</FormID>
+    <TextID>d02</TextID>
+    <TextV>Mã nhân viên</TextV>
+    <TextE>Ngày vào từ/đến</TextE>
+  </hrdschibhxh>
+  <hrdschibhxh>
+    <FormID>hrdschibhxh</FormID>
+    <TextID>d03</TextID>
+    <TextV>Mã bộ phận</TextV>
+    <TextE>Department</TextE>
+  </hrdschibhxh>
+  <hrdschibhxh>
+    <FormID>hrdschibhxh</FormID>
+    <TextID>d04</TextID>
+    <TextV>Mã loại nhân viên</TextV>
+    <TextE>Mã loại nhân viên</TextE>
+  </hrdschibhxh>
+  <hrdschibhxh>
+    <FormID>hrdschibhxh</FormID>
+    <TextID>d05</TextID>
+    <TextV>Mã chức vụ</TextV>
+    <TextE>Mã chức vụ</TextE>
+  </hrdschibhxh>
+  <hrdschibhxh>
+    <FormID>hrdschibhxh</FormID>
+    <TextID>d06</TextID>
+    <TextV>Mã công việc</TextV>
+    <TextE>Mã công việc</TextE>
+  </hrdschibhxh>
+  <hrdschibhxh>
+    <FormID>hrdschibhxh</FormID>
+    <TextID>d07</TextID>
+    <TextV>Loại hợp đồng</TextV>
+    <TextE>Loại hợp đồng</TextE>
+  </hrdschibhxh>
+  <hrdschibhxh>
+    <FormID>hrdschibhxh</FormID>
+    <TextID>d08</TextID>
+    <TextV>Trạng thái BHXH</TextV>
+    <TextE>Trạng thái BHXH</TextE>
+  </hrdschibhxh>
+  <hrdschibhxh>
+    <FormID>hrdschibhxh</FormID>
+    <TextID>d09</TextID>
+    <TextV>Nhóm theo</TextV>
+    <TextE>Nhóm theo</TextE>
+  </hrdschibhxh>
+  <hrdschibhxh>
+    <FormID>hrdschibhxh</FormID>
+    <TextID>d10</TextID>
+    <TextV>Quý</TextV>
+    <TextE>Quý</TextE>
+  </hrdschibhxh>
+  <hrdschibhxh>
+    <FormID>hrdschibhxh</FormID>
+    <TextID>d11</TextID>
+    <TextV>Năm</TextV>
+    <TextE>Năm</TextE>
+  </hrdschibhxh>
+  <hrdschibhxh>
+    <FormID>hrdschibhxh</FormID>
+    <TextID>d12</TextID>
+    <TextV>Ngày ký từ/đến</TextV>
+    <TextE>Ngày ký từ/đến</TextE>
+  </hrdschibhxh>
+</NewDataSet>

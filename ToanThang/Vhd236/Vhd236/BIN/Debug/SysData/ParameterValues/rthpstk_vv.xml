@@ -1,0 +1,176 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rthpstk_vv" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rthpstk_vv">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rthpstk_vv>
+    <Code>rthpstk_vv</Code>
+    <Name>c_den_ngay</Name>
+    <Type>C</Type>
+    <Value>đến ngày:</Value>
+    <Value2>đến ngày:</Value2>
+  </rthpstk_vv>
+  <rthpstk_vv>
+    <Code>rthpstk_vv</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên)</Value>
+    <Value2>(Ký, họ tên)</Value2>
+  </rthpstk_vv>
+  <rthpstk_vv>
+    <Code>rthpstk_vv</Code>
+    <Name>c_ma_kh</Name>
+    <Type>C</Type>
+    <Value>Mã khách hàng</Value>
+    <Value2>Mã khách hàng</Value2>
+  </rthpstk_vv>
+  <rthpstk_vv>
+    <Code>rthpstk_vv</Code>
+    <Name>c_ma_vv</Name>
+    <Type>C</Type>
+    <Value>Mã vụ việc</Value>
+    <Value2>Mã vụ việc</Value2>
+  </rthpstk_vv>
+  <rthpstk_vv>
+    <Code>rthpstk_vv</Code>
+    <Name>c_ngay_in</Name>
+    <Type>C</Type>
+    <Value>Ngày in:</Value>
+    <Value2>Ngày in:</Value2>
+  </rthpstk_vv>
+  <rthpstk_vv>
+    <Code>rthpstk_vv</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>Ngày . . . . . tháng . . . . . năm . . . . . . . .</Value>
+    <Value2>Ngày . . . . . tháng . . . . . năm . . . . . . . .</Value2>
+  </rthpstk_vv>
+  <rthpstk_vv>
+    <Code>rthpstk_vv</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Người lập</Value>
+    <Value2>Người lập</Value2>
+  </rthpstk_vv>
+  <rthpstk_vv>
+    <Code>rthpstk_vv</Code>
+    <Name>c_ps_co</Name>
+    <Type>C</Type>
+    <Value>Phát sinh có</Value>
+    <Value2>Phát sinh có</Value2>
+  </rthpstk_vv>
+  <rthpstk_vv>
+    <Code>rthpstk_vv</Code>
+    <Name>c_ps_co_nt</Name>
+    <Type>C</Type>
+    <Value>Phát sinh có ngoại tệ</Value>
+    <Value2>Phát sinh có ngoại tệ</Value2>
+  </rthpstk_vv>
+  <rthpstk_vv>
+    <Code>rthpstk_vv</Code>
+    <Name>c_ps_co_vnd</Name>
+    <Type>C</Type>
+    <Value>Phát sinh có VND</Value>
+    <Value2>Phát sinh có VND</Value2>
+  </rthpstk_vv>
+  <rthpstk_vv>
+    <Code>rthpstk_vv</Code>
+    <Name>c_ps_no</Name>
+    <Type>C</Type>
+    <Value>Phát sinh nợ</Value>
+    <Value2>Phát sinh nợ</Value2>
+  </rthpstk_vv>
+  <rthpstk_vv>
+    <Code>rthpstk_vv</Code>
+    <Name>c_ps_no_nt</Name>
+    <Type>C</Type>
+    <Value>Phát sinh nợ ngoại tệ</Value>
+    <Value2>Phát sinh nợ ngoại tệ</Value2>
+  </rthpstk_vv>
+  <rthpstk_vv>
+    <Code>rthpstk_vv</Code>
+    <Name>c_ps_no_vnd</Name>
+    <Type>C</Type>
+    <Value>Phát sinh nợ VND</Value>
+    <Value2>Phát sinh nợ VND</Value2>
+  </rthpstk_vv>
+  <rthpstk_vv>
+    <Code>rthpstk_vv</Code>
+    <Name>c_ten_kh</Name>
+    <Type>C</Type>
+    <Value>Tên khách hàng</Value>
+    <Value2>Tên khách hàng</Value2>
+  </rthpstk_vv>
+  <rthpstk_vv>
+    <Code>rthpstk_vv</Code>
+    <Name>c_ten_tk</Name>
+    <Type>C</Type>
+    <Value>Tên tài khoản</Value>
+    <Value2>Tên tài khoản</Value2>
+  </rthpstk_vv>
+  <rthpstk_vv>
+    <Code>rthpstk_vv</Code>
+    <Name>c_ten_tk_du</Name>
+    <Type>C</Type>
+    <Value>Tên tài khoản đối ứng</Value>
+    <Value2>Tên tài khoản đối ứng</Value2>
+  </rthpstk_vv>
+  <rthpstk_vv>
+    <Code>rthpstk_vv</Code>
+    <Name>c_ten_vv</Name>
+    <Type>C</Type>
+    <Value>Tên vụ việc</Value>
+    <Value2>Tên vụ việc</Value2>
+  </rthpstk_vv>
+  <rthpstk_vv>
+    <Code>rthpstk_vv</Code>
+    <Name>c_tk</Name>
+    <Type>C</Type>
+    <Value>Tài khoản</Value>
+    <Value2>Tài khoản</Value2>
+  </rthpstk_vv>
+  <rthpstk_vv>
+    <Code>rthpstk_vv</Code>
+    <Name>c_tk_du</Name>
+    <Type>C</Type>
+    <Value>Tài khoản đối ứng</Value>
+    <Value2>Tài khoản đối ứng</Value2>
+  </rthpstk_vv>
+  <rthpstk_vv>
+    <Code>rthpstk_vv</Code>
+    <Name>c_tong_cong</Name>
+    <Type>C</Type>
+    <Value>Tổng cộng</Value>
+    <Value2>Tổng cộng</Value2>
+  </rthpstk_vv>
+  <rthpstk_vv>
+    <Code>rthpstk_vv</Code>
+    <Name>c_trang</Name>
+    <Type>C</Type>
+    <Value>Trang:</Value>
+    <Value2>Trang:</Value2>
+  </rthpstk_vv>
+  <rthpstk_vv>
+    <Code>rthpstk_vv</Code>
+    <Name>c_tu_ngay</Name>
+    <Type>C</Type>
+    <Value>Từ ngày:</Value>
+    <Value2>Từ ngày:</Value2>
+  </rthpstk_vv>
+</NewDataSet>
