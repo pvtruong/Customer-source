@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="smslog" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="smslog">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="name" type="xs:string" minOccurs="0" />
+                <xs:element name="prec" type="xs:short" minOccurs="0" />
+                <xs:element name="scale" type="xs:int" minOccurs="0" />
+                <xs:element name="isnullable" type="xs:int" minOccurs="0" />
+                <xs:element name="tablename" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <smslog>
+    <name>dien_thoai</name>
+    <prec>50</prec>
+    <isnullable>1</isnullable>
+    <tablename>smslog</tablename>
+  </smslog>
+  <smslog>
+    <name>noi_dung</name>
+    <prec>2000</prec>
+    <isnullable>1</isnullable>
+    <tablename>smslog</tablename>
+  </smslog>
+  <smslog>
+    <name>ngay_gui</name>
+    <prec>10</prec>
+    <scale>0</scale>
+    <isnullable>1</isnullable>
+    <tablename>smslog</tablename>
+  </smslog>
+  <smslog>
+    <name>kieu</name>
+    <prec>50</prec>
+    <isnullable>1</isnullable>
+    <tablename>smslog</tablename>
+  </smslog>
+  <smslog>
+    <name>stt_rec</name>
+    <prec>50</prec>
+    <isnullable>1</isnullable>
+    <tablename>smslog</tablename>
+  </smslog>
+</NewDataSet>

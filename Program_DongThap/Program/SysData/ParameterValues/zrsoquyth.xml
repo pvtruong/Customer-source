@@ -1,0 +1,141 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="zrsoquyth" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="zrsoquyth">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <zrsoquyth>
+    <Code>zrsoquyth</Code>
+    <Name>c_co</Name>
+    <Type>C</Type>
+    <Value>EXPENSE</Value>
+    <Value2>EXPENSE</Value2>
+  </zrsoquyth>
+  <zrsoquyth>
+    <Code>zrsoquyth</Code>
+    <Name>c_co_vi</Name>
+    <Type>C</Type>
+    <Value>CHI PHÍ (-)</Value>
+    <Value2>CHI PHÍ (-)</Value2>
+  </zrsoquyth>
+  <zrsoquyth>
+    <Code>zrsoquyth</Code>
+    <Name>c_dien_giai</Name>
+    <Type>C</Type>
+    <Value>DESCRIPTION OF TRANSACTION</Value>
+    <Value2>DESCRIPTION OF TRANSACTION</Value2>
+  </zrsoquyth>
+  <zrsoquyth>
+    <Code>zrsoquyth</Code>
+    <Name>c_dien_giai_vi</Name>
+    <Type>C</Type>
+    <Value>MÔ TẢ CÁC GIAO DỊCH</Value>
+    <Value2>MÔ TẢ CÁC GIAO DỊCH</Value2>
+  </zrsoquyth>
+  <zrsoquyth>
+    <Code>zrsoquyth</Code>
+    <Name>c_du</Name>
+    <Type>C</Type>
+    <Value>BALANCE</Value>
+    <Value2>BALANCE</Value2>
+  </zrsoquyth>
+  <zrsoquyth>
+    <Code>zrsoquyth</Code>
+    <Name>c_du_vi</Name>
+    <Type>C</Type>
+    <Value>SỐ DƯ</Value>
+    <Value2>SỐ DƯ</Value2>
+  </zrsoquyth>
+  <zrsoquyth>
+    <Code>zrsoquyth</Code>
+    <Name>c_ma_du_an</Name>
+    <Type>C</Type>
+    <Value>PROJECT NO.:</Value>
+    <Value2>PROJECT NO.:</Value2>
+  </zrsoquyth>
+  <zrsoquyth>
+    <Code>zrsoquyth</Code>
+    <Name>c_ngay</Name>
+    <Type>C</Type>
+    <Value>DATE</Value>
+    <Value2>DATE</Value2>
+  </zrsoquyth>
+  <zrsoquyth>
+    <Code>zrsoquyth</Code>
+    <Name>c_ngay_vi</Name>
+    <Type>C</Type>
+    <Value>NGÀY</Value>
+    <Value2>NGÀY</Value2>
+  </zrsoquyth>
+  <zrsoquyth>
+    <Code>zrsoquyth</Code>
+    <Name>c_no</Name>
+    <Type>C</Type>
+    <Value>INCOME</Value>
+    <Value2>INCOME</Value2>
+  </zrsoquyth>
+  <zrsoquyth>
+    <Code>zrsoquyth</Code>
+    <Name>c_no_vi</Name>
+    <Type>C</Type>
+    <Value>THU NHẬP (+)</Value>
+    <Value2>THU NHẬP (+)</Value2>
+  </zrsoquyth>
+  <zrsoquyth>
+    <Code>zrsoquyth</Code>
+    <Name>c_so_tk</Name>
+    <Type>C</Type>
+    <Value>ACCOUNT NUMBER</Value>
+    <Value2>ACCOUNT NUMBER</Value2>
+  </zrsoquyth>
+  <zrsoquyth>
+    <Code>zrsoquyth</Code>
+    <Name>c_so_tk_vi</Name>
+    <Type>C</Type>
+    <Value>SỐ TÀI KHOẢN</Value>
+    <Value2>SỐ TÀI KHOẢN</Value2>
+  </zrsoquyth>
+  <zrsoquyth>
+    <Code>zrsoquyth</Code>
+    <Name>c_stt</Name>
+    <Type>C</Type>
+    <Value>VERFICATION NUMBER</Value>
+    <Value2>VERFICATION NUMBER</Value2>
+  </zrsoquyth>
+  <zrsoquyth>
+    <Code>zrsoquyth</Code>
+    <Name>c_stt_vi</Name>
+    <Type>C</Type>
+    <Value>SỐ THỨ TỰ</Value>
+    <Value2>SỐ THỨ TỰ</Value2>
+  </zrsoquyth>
+  <zrsoquyth>
+    <Code>zrsoquyth</Code>
+    <Name>c_ten_cty</Name>
+    <Type>C</Type>
+    <Value>ORGANISATION:</Value>
+    <Value2>ORGANISATION:</Value2>
+  </zrsoquyth>
+  <zrsoquyth>
+    <Code>zrsoquyth</Code>
+    <Name>c_ten_du_an</Name>
+    <Type>C</Type>
+    <Value>PROJECT NAME:</Value>
+    <Value2>PROJECT NAME:</Value2>
+  </zrsoquyth>
+</NewDataSet>

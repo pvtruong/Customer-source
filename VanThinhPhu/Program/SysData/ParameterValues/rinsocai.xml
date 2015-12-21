@@ -1,0 +1,113 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rinsocai" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rinsocai">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rinsocai>
+    <Code>rinsocai</Code>
+    <Name>c_cong</Name>
+    <Type>C</Type>
+    <Value>Tổng cộng:</Value>
+    <Value2>Total:</Value2>
+  </rinsocai>
+  <rinsocai>
+    <Code>rinsocai</Code>
+    <Name>c_dien_giai</Name>
+    <Type>C</Type>
+    <Value>Nội dung</Value>
+    <Value2>Content</Value2>
+  </rinsocai>
+  <rinsocai>
+    <Code>rinsocai</Code>
+    <Name>c_ktt</Name>
+    <Type>C</Type>
+    <Value>Kế toán trưởng</Value>
+    <Value2>Chief Accountant</Value2>
+  </rinsocai>
+  <rinsocai>
+    <Code>rinsocai</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên)</Value>
+    <Value2>Sign., (Full Name)</Value2>
+  </rinsocai>
+  <rinsocai>
+    <Code>rinsocai</Code>
+    <Name>c_mau_tt</Name>
+    <Type>C</Type>
+    <Value>(Ban hành theo TT số 200/2014/TT-BTC Ngày 22/12/2014 của Bộ Tài Chính)</Value>
+    <Value2>(According to Circular No. 200/2014/TT-BTC dated december 22nd 2014 of the Ministry of Finance)</Value2>
+  </rinsocai>
+  <rinsocai>
+    <Code>rinsocai</Code>
+    <Name>c_ngay_ct</Name>
+    <Type>C</Type>
+    <Value>Ngày %d tháng %m năm %y</Value>
+    <Value2>Date %d Month %m Year %y</Value2>
+  </rinsocai>
+  <rinsocai>
+    <Code>rinsocai</Code>
+    <Name>c_ngay_ky</Name>
+    <Type>C</Type>
+    <Value>Ngày . . . tháng . . . năm . . . . . . .</Value>
+    <Value2>Date . . . Month . . . Year . . .</Value2>
+  </rinsocai>
+  <rinsocai>
+    <Code>rinsocai</Code>
+    <Name>c_nguoi_mua</Name>
+    <Type>C</Type>
+    <Value>Người lập phiếu</Value>
+    <Value2>Persons votes</Value2>
+  </rinsocai>
+  <rinsocai>
+    <Code>rinsocai</Code>
+    <Name>c_so_ct</Name>
+    <Type>C</Type>
+    <Value>Số chứng từ:</Value>
+    <Value2>Voucher No. :</Value2>
+  </rinsocai>
+  <rinsocai>
+    <Code>rinsocai</Code>
+    <Name>c_stt</Name>
+    <Type>C</Type>
+    <Value>STT</Value>
+    <Value2>NO.</Value2>
+  </rinsocai>
+  <rinsocai>
+    <Code>rinsocai</Code>
+    <Name>c_tien</Name>
+    <Type>C</Type>
+    <Value>Tiền</Value>
+    <Value2>Amount</Value2>
+  </rinsocai>
+  <rinsocai>
+    <Code>rinsocai</Code>
+    <Name>c_tk_co</Name>
+    <Type>C</Type>
+    <Value>TK có</Value>
+    <Value2>Cr. Account</Value2>
+  </rinsocai>
+  <rinsocai>
+    <Code>rinsocai</Code>
+    <Name>c_tk_no</Name>
+    <Type>C</Type>
+    <Value>Tk nợ</Value>
+    <Value2>Dr. Account</Value2>
+  </rinsocai>
+</NewDataSet>

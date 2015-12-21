@@ -1,0 +1,117 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="NOTES" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="NOTES">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <NOTES>
+    <FormID>NOTES</FormID>
+    <TextID>000</TextID>
+    <TextV>Ghi chú</TextV>
+    <TextE>Notes</TextE>
+  </NOTES>
+  <NOTES>
+    <FormID>NOTES</FormID>
+    <TextID>002</TextID>
+    <TextV>Tiêu đề</TextV>
+    <TextE>Tiêu đề</TextE>
+  </NOTES>
+  <NOTES>
+    <FormID>NOTES</FormID>
+    <TextID>003</TextID>
+    <TextV>Còn sử dụng</TextV>
+    <TextE>enabled</TextE>
+  </NOTES>
+  <NOTES>
+    <FormID>NOTES</FormID>
+    <TextID>004</TextID>
+    <TextV>Nội dung</TextV>
+    <TextE>Nội dung</TextE>
+  </NOTES>
+  <NOTES>
+    <FormID>NOTES</FormID>
+    <TextID>006</TextID>
+    <TextV>Khách hàng</TextV>
+    <TextE>Customer</TextE>
+  </NOTES>
+  <NOTES>
+    <FormID>NOTES</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Created</TextE>
+  </NOTES>
+  <NOTES>
+    <FormID>NOTES</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modify</TextE>
+  </NOTES>
+  <NOTES>
+    <FormID>NOTES</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </NOTES>
+  <NOTES>
+    <FormID>NOTES</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </NOTES>
+  <NOTES>
+    <FormID>NOTES</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </NOTES>
+  <NOTES>
+    <FormID>NOTES</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </NOTES>
+  <NOTES>
+    <FormID>NOTES</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </NOTES>
+  <NOTES>
+    <FormID>NOTES</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </NOTES>
+  <NOTES>
+    <FormID>NOTES</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </NOTES>
+  <NOTES>
+    <FormID>NOTES</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </NOTES>
+  <NOTES>
+    <FormID>NOTES</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </NOTES>
+</NewDataSet>

@@ -1,0 +1,267 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dmvt" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dmvt">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>000</TextID>
+    <TextV>Danh mục vật tư/hàng hóa</TextV>
+    <TextE>Item List</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>001</TextID>
+    <TextV>Mã</TextV>
+    <TextE>Code</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>002</TextID>
+    <TextV>Tên</TextV>
+    <TextE>Name</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>003</TextID>
+    <TextV>Tên 2</TextV>
+    <TextE>Name 2</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>004</TextID>
+    <TextV>Đơn vị tính</TextV>
+    <TextE>Unit</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>005</TextID>
+    <TextV>TK thuế nợ</TextV>
+    <TextE>Dr.Account Tax</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>006</TextID>
+    <TextV>TK thuế có</TextV>
+    <TextE>Cr.Account Tax</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>008</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Status</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>017</TextID>
+    <TextV>&amp;Tìm</TextV>
+    <TextE>Sea&amp;rch</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>018</TextID>
+    <TextV>Sửa tk vt</TextV>
+    <TextE>Edit Inventory Account</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>019</TextID>
+    <TextV>Tk trả lại</TextV>
+    <TextE>Return Acct.</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>020</TextID>
+    <TextV>Tk chênh lệch vật tư</TextV>
+    <TextE>Cost Difference Acct.</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>021</TextID>
+    <TextV>Tk đại lý</TextV>
+    <TextE>Agent Account</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>022</TextID>
+    <TextV>Mã thuế</TextV>
+    <TextE>Tax Code</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>029</TextID>
+    <TextV>Hình</TextV>
+    <TextE>Image</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Created</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modify</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>&amp;Ok</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>100</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>101</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>102</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>103</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>104</TextID>
+    <TextV>&amp;Đóng</TextV>
+    <TextE>&amp;Close</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>105</TextID>
+    <TextV>Loại vt</TextV>
+    <TextE>Item Type</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>106</TextID>
+    <TextV>Nhóm vt1</TextV>
+    <TextE>Group 1</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>107</TextID>
+    <TextV>Nhóm vt2</TextV>
+    <TextE>Group 2</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>108</TextID>
+    <TextV>Nhóm vt3</TextV>
+    <TextE>Group 3</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>109</TextID>
+    <TextV>Theo dõi tồn kho</TextV>
+    <TextE>Stock Item</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>110</TextID>
+    <TextV>TK vật tư</TextV>
+    <TextE>Inventory Acct.</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>111</TextID>
+    <TextV>Tk gv</TextV>
+    <TextE>Cogs Account</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>112</TextID>
+    <TextV>TK dt</TextV>
+    <TextE>Sales Acct.</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>113</TextID>
+    <TextV>TK ck</TextV>
+    <TextE>Discount Acct.</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>114</TextID>
+    <TextV>TK spdd</TextV>
+    <TextE>Work-in-process Account</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>115</TextID>
+    <TextV>Thông tin chính</TextV>
+    <TextE>Information 1</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>116</TextID>
+    <TextV>Tài khoản</TextV>
+    <TextE>Account</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>117</TextID>
+    <TextV>Đơn vị tính quy đổi</TextV>
+    <TextE>Unit Exchange</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>118</TextID>
+    <TextV>PP tính giá xuất</TextV>
+    <TextE>Calculate export price</TextE>
+  </dmvt>
+  <dmvt>
+    <FormID>dmvt</FormID>
+    <TextID>119</TextID>
+    <TextV>Mã kho</TextV>
+    <TextE>Site ID</TextE>
+  </dmvt>
+</NewDataSet>

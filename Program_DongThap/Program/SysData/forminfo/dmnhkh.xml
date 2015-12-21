@@ -1,0 +1,153 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dmnhkh" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dmnhkh">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dmnhkh>
+    <FormID>dmnhkh</FormID>
+    <TextID>000</TextID>
+    <TextV>Danh mục nhóm khách hàng</TextV>
+    <TextE>Cust.Group List</TextE>
+  </dmnhkh>
+  <dmnhkh>
+    <FormID>dmnhkh</FormID>
+    <TextID>001</TextID>
+    <TextV>Mã nhóm</TextV>
+    <TextE>Cust.Group Code</TextE>
+  </dmnhkh>
+  <dmnhkh>
+    <FormID>dmnhkh</FormID>
+    <TextID>002</TextID>
+    <TextV>Tên nhóm</TextV>
+    <TextE>Cust.Group Name</TextE>
+  </dmnhkh>
+  <dmnhkh>
+    <FormID>dmnhkh</FormID>
+    <TextID>003</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Status</TextE>
+  </dmnhkh>
+  <dmnhkh>
+    <FormID>dmnhkh</FormID>
+    <TextID>004</TextID>
+    <TextV>Đơn vị</TextV>
+    <TextE>Unit</TextE>
+  </dmnhkh>
+  <dmnhkh>
+    <FormID>dmnhkh</FormID>
+    <TextID>005</TextID>
+    <TextV>Tên nhóm 2</TextV>
+    <TextE>Cust.Group Name 2</TextE>
+  </dmnhkh>
+  <dmnhkh>
+    <FormID>dmnhkh</FormID>
+    <TextID>006</TextID>
+    <TextV>Tiền nt</TextV>
+    <TextE>FC Amount</TextE>
+  </dmnhkh>
+  <dmnhkh>
+    <FormID>dmnhkh</FormID>
+    <TextID>007</TextID>
+    <TextV>Tiền</TextV>
+    <TextE>Amount</TextE>
+  </dmnhkh>
+  <dmnhkh>
+    <FormID>dmnhkh</FormID>
+    <TextID>008</TextID>
+    <TextV>Ghi chú</TextV>
+    <TextE>Note</TextE>
+  </dmnhkh>
+  <dmnhkh>
+    <FormID>dmnhkh</FormID>
+    <TextID>009</TextID>
+    <TextV>Là nhóm khách hàng đại lý</TextV>
+    <TextE>Agent Cust.Group</TextE>
+  </dmnhkh>
+  <dmnhkh>
+    <FormID>dmnhkh</FormID>
+    <TextID>010</TextID>
+    <TextV>Loại nhóm</TextV>
+    <TextE>Group Type</TextE>
+  </dmnhkh>
+  <dmnhkh>
+    <FormID>dmnhkh</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Created</TextE>
+  </dmnhkh>
+  <dmnhkh>
+    <FormID>dmnhkh</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Người sửa</TextE>
+  </dmnhkh>
+  <dmnhkh>
+    <FormID>dmnhkh</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </dmnhkh>
+  <dmnhkh>
+    <FormID>dmnhkh</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </dmnhkh>
+  <dmnhkh>
+    <FormID>dmnhkh</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </dmnhkh>
+  <dmnhkh>
+    <FormID>dmnhkh</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dmnhkh>
+  <dmnhkh>
+    <FormID>dmnhkh</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </dmnhkh>
+  <dmnhkh>
+    <FormID>dmnhkh</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </dmnhkh>
+  <dmnhkh>
+    <FormID>dmnhkh</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </dmnhkh>
+  <dmnhkh>
+    <FormID>dmnhkh</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </dmnhkh>
+  <dmnhkh>
+    <FormID>dmnhkh</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </dmnhkh>
+</NewDataSet>

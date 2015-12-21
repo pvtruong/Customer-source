@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dnt" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dnt">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsV" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsE" type="xs:string" minOccurs="0" />
+                <xs:element name="headersV" type="xs:string" minOccurs="0" />
+                <xs:element name="headersE" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dnt>
+    <gridid>dnt</gridid>
+    <columnsV>ma_nt,ten_nt,ty_gia</columnsV>
+    <columnsE>ma_nt,ten_nt,ty_gia</columnsE>
+    <headersV>Mã ngoại tệ,Tên ngoại tệ, Tỷ giá</headersV>
+    <headersE>FC Code,Currency Name  ,Exchange Rate</headersE>
+    <widths>100,200,200</widths>
+    <formats>,,f_tien</formats>
+    <readonlys>1,1,1</readonlys>
+    <hides>0,0,1</hides>
+    <defaultvalues>,,</defaultvalues>
+    <carrys>0,0,0</carrys>
+  </dnt>
+</NewDataSet>

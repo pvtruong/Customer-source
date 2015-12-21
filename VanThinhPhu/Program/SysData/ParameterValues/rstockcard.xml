@@ -1,0 +1,239 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rstockcard" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rstockcard">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_cong</Name>
+    <Type>C</Type>
+    <Value>CỘNG:</Value>
+    <Value2>TOTAL:</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_ct</Name>
+    <Type>C</Type>
+    <Value>Số hiệu chứng từ</Value>
+    <Value2>Notation Voucher</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_danh_so</Name>
+    <Type>C</Type>
+    <Value>trang, đánh số từ trang 01 đến trang</Value>
+    <Value2>To Date</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_den_ngay</Name>
+    <Type>C</Type>
+    <Value>đến ngày</Value>
+    <Value2>To Date</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_dien_giai</Name>
+    <Type>C</Type>
+    <Value>Diễn giải</Value>
+    <Value2>Memo</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_dvt</Name>
+    <Type>C</Type>
+    <Value>Đơn vị tính:</Value>
+    <Value2>Unit:</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_gd</Name>
+    <Type>C</Type>
+    <Value>Giám đốc</Value>
+    <Value2>Director</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_ktt</Name>
+    <Type>C</Type>
+    <Value>Kế toán trưởng</Value>
+    <Value2>Chief Accountant</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên)</Value>
+    <Value2>Sign., (Full Name)</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_ky_ten_dd</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên , đón dấu)</Value>
+    <Value2>Sign., Seal (Full Name and Position)</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_ky_xn</Name>
+    <Type>C</Type>
+    <Value>Ký xác nhận của kế toán</Value>
+    <Value2>Signed certification of the accounting</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_lap_the</Name>
+    <Type>C</Type>
+    <Value>Lập thẻ từ ngày</Value>
+    <Value2>The card created from date</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_ma_kho</Name>
+    <Type>C</Type>
+    <Value>Mã kho:</Value>
+    <Value2>Site ID:</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_ma_vt</Name>
+    <Type>C</Type>
+    <Value>Mã số:</Value>
+    <Value2>Code:</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_mau_so</Name>
+    <Type>C</Type>
+    <Value>Mẫu số S12-DN</Value>
+    <Value2>Form No.S12-DN</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_mau_tt</Name>
+    <Type>C</Type>
+    <Value>(Ban hành theo TT số 200/2014/TT-BTC Ngày 22/12/2014 của Bộ Tài Chính)</Value>
+    <Value2>(According to Circular No. 200/2014/TT-BTC dated december 22nd 2014 of the Ministry of Finance)</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_ngay_ms</Name>
+    <Type>C</Type>
+    <Value>Ngày mở sổ . . . .</Value>
+    <Value2>On open books . . . .</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_ngay_nx</Name>
+    <Type>C</Type>
+    <Value>Ngày nhập, xuất</Value>
+    <Value2>On import, export</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_ngay_thang</Name>
+    <Type>C</Type>
+    <Value>Ngày tháng</Value>
+    <Value2>Date</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>Ngày. . . Tháng . . . Năm . . . .</Value>
+    <Value2>Date. . . Month . . . Year . . . .</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_nhap</Name>
+    <Type>C</Type>
+    <Value>Nhập</Value>
+    <Value2>Received</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_sl</Name>
+    <Type>C</Type>
+    <Value>Số lượng</Value>
+    <Value2>Quantity</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_so_nay</Name>
+    <Type>C</Type>
+    <Value>Sổ này có</Value>
+    <Value2>This book</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_stt</Name>
+    <Type>C</Type>
+    <Value>STT</Value>
+    <Value2>NO.</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_ten_vt</Name>
+    <Type>C</Type>
+    <Value>Tên, nhãn hiệu, quy cách vật tư:</Value>
+    <Value2>Name, brand, specifications and materials:</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_thu_kho</Name>
+    <Type>C</Type>
+    <Value>Thủ kho</Value>
+    <Value2>Contact</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_to_so</Name>
+    <Type>C</Type>
+    <Value>Tờ số: . . .  . . . . . . .</Value>
+    <Value2>Sheet number: . . .  . . . . . . .</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_ton</Name>
+    <Type>C</Type>
+    <Value>Tồn</Value>
+    <Value2>Remain</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_tong_trang1</Name>
+    <Type>C</Type>
+    <Value>Sổ này có:</Value>
+    <Value2>This book has</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_tong_trang2</Name>
+    <Type>C</Type>
+    <Value>trang, đánh số từ trang số 1 đến trang</Value>
+    <Value2>pages, is numbered from 1 to</Value2>
+  </rstockcard>
+  <rstockcard>
+    <Code>rstockcard</Code>
+    <Name>c_xuat</Name>
+    <Type>C</Type>
+    <Value>Xuất</Value>
+    <Value2>Export</Value2>
+  </rstockcard>
+</NewDataSet>

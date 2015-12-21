@@ -1,0 +1,153 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dmqct" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dmqct">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dmqct>
+    <FormID>dmqct</FormID>
+    <TextID>000</TextID>
+    <TextV>Danh mục quyển chứng từ</TextV>
+    <TextE>Serial Voucher Number List</TextE>
+  </dmqct>
+  <dmqct>
+    <FormID>dmqct</FormID>
+    <TextID>001</TextID>
+    <TextV>Mã quyển</TextV>
+    <TextE>Serial ID</TextE>
+  </dmqct>
+  <dmqct>
+    <FormID>dmqct</FormID>
+    <TextID>002</TextID>
+    <TextV>Tên quyển</TextV>
+    <TextE>Serial Name</TextE>
+  </dmqct>
+  <dmqct>
+    <FormID>dmqct</FormID>
+    <TextID>003</TextID>
+    <TextV>Còn sử dụng</TextV>
+    <TextE>enabled</TextE>
+  </dmqct>
+  <dmqct>
+    <FormID>dmqct</FormID>
+    <TextID>004</TextID>
+    <TextV>Tiền tố</TextV>
+    <TextE>Prefix</TextE>
+  </dmqct>
+  <dmqct>
+    <FormID>dmqct</FormID>
+    <TextID>005</TextID>
+    <TextV>Hậu tố</TextV>
+    <TextE>Suffix</TextE>
+  </dmqct>
+  <dmqct>
+    <FormID>dmqct</FormID>
+    <TextID>006</TextID>
+    <TextV>Từ số</TextV>
+    <TextE>From No.</TextE>
+  </dmqct>
+  <dmqct>
+    <FormID>dmqct</FormID>
+    <TextID>007</TextID>
+    <TextV>Đến số</TextV>
+    <TextE>To No.</TextE>
+  </dmqct>
+  <dmqct>
+    <FormID>dmqct</FormID>
+    <TextID>008</TextID>
+    <TextV>Số hiện tại</TextV>
+    <TextE>Current No.</TextE>
+  </dmqct>
+  <dmqct>
+    <FormID>dmqct</FormID>
+    <TextID>009</TextID>
+    <TextV>Tên quyển 2</TextV>
+    <TextE>Serial Name 2</TextE>
+  </dmqct>
+  <dmqct>
+    <FormID>dmqct</FormID>
+    <TextID>012</TextID>
+    <TextV>Chứng từ sử dụng</TextV>
+    <TextE>Vouchers</TextE>
+  </dmqct>
+  <dmqct>
+    <FormID>dmqct</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Created</TextE>
+  </dmqct>
+  <dmqct>
+    <FormID>dmqct</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modify</TextE>
+  </dmqct>
+  <dmqct>
+    <FormID>dmqct</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </dmqct>
+  <dmqct>
+    <FormID>dmqct</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </dmqct>
+  <dmqct>
+    <FormID>dmqct</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </dmqct>
+  <dmqct>
+    <FormID>dmqct</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dmqct>
+  <dmqct>
+    <FormID>dmqct</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </dmqct>
+  <dmqct>
+    <FormID>dmqct</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </dmqct>
+  <dmqct>
+    <FormID>dmqct</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </dmqct>
+  <dmqct>
+    <FormID>dmqct</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </dmqct>
+  <dmqct>
+    <FormID>dmqct</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </dmqct>
+</NewDataSet>

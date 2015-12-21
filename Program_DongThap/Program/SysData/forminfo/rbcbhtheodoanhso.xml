@@ -1,0 +1,171 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rbcbhtheodoanhso" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rbcbhtheodoanhso">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rbcbhtheodoanhso>
+    <FormID>rbcbhtheodoanhso</FormID>
+    <TextID>000</TextID>
+    <TextV>Báo cáo bán hàng theo doanh số</TextV>
+    <TextE>Sales Summary</TextE>
+  </rbcbhtheodoanhso>
+  <rbcbhtheodoanhso>
+    <FormID>rbcbhtheodoanhso</FormID>
+    <TextID>001</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Filter Condition</TextE>
+  </rbcbhtheodoanhso>
+  <rbcbhtheodoanhso>
+    <FormID>rbcbhtheodoanhso</FormID>
+    <TextID>002</TextID>
+    <TextV>Từ/Đến ngày</TextV>
+    <TextE>Date from/to</TextE>
+  </rbcbhtheodoanhso>
+  <rbcbhtheodoanhso>
+    <FormID>rbcbhtheodoanhso</FormID>
+    <TextID>003</TextID>
+    <TextV>TK vật tư</TextV>
+    <TextE>Inventory Acct.</TextE>
+  </rbcbhtheodoanhso>
+  <rbcbhtheodoanhso>
+    <FormID>rbcbhtheodoanhso</FormID>
+    <TextID>004</TextID>
+    <TextV>TK đối ứng</TextV>
+    <TextE>Ref. Acct.,</TextE>
+  </rbcbhtheodoanhso>
+  <rbcbhtheodoanhso>
+    <FormID>rbcbhtheodoanhso</FormID>
+    <TextID>005</TextID>
+    <TextV>Mã vật tư</TextV>
+    <TextE>Item Code</TextE>
+  </rbcbhtheodoanhso>
+  <rbcbhtheodoanhso>
+    <FormID>rbcbhtheodoanhso</FormID>
+    <TextID>006</TextID>
+    <TextV>Mã khách</TextV>
+    <TextE>Cust.ID</TextE>
+  </rbcbhtheodoanhso>
+  <rbcbhtheodoanhso>
+    <FormID>rbcbhtheodoanhso</FormID>
+    <TextID>007</TextID>
+    <TextV>Báo cáo theo</TextV>
+    <TextE>Report by</TextE>
+  </rbcbhtheodoanhso>
+  <rbcbhtheodoanhso>
+    <FormID>rbcbhtheodoanhso</FormID>
+    <TextID>008</TextID>
+    <TextV>Nhóm theo</TextV>
+    <TextE>Group by</TextE>
+  </rbcbhtheodoanhso>
+  <rbcbhtheodoanhso>
+    <FormID>rbcbhtheodoanhso</FormID>
+    <TextID>009</TextID>
+    <TextV>Đơn vị</TextV>
+    <TextE>Unit</TextE>
+  </rbcbhtheodoanhso>
+  <rbcbhtheodoanhso>
+    <FormID>rbcbhtheodoanhso</FormID>
+    <TextID>011</TextID>
+    <TextV>Mẫu báo cáo</TextV>
+    <TextE>Report Form</TextE>
+  </rbcbhtheodoanhso>
+  <rbcbhtheodoanhso>
+    <FormID>rbcbhtheodoanhso</FormID>
+    <TextID>012</TextID>
+    <TextV>Tiêu đề</TextV>
+    <TextE>Title</TextE>
+  </rbcbhtheodoanhso>
+  <rbcbhtheodoanhso>
+    <FormID>rbcbhtheodoanhso</FormID>
+    <TextID>020</TextID>
+    <TextV>Mã đối tượng</TextV>
+    <TextE>Object ID</TextE>
+  </rbcbhtheodoanhso>
+  <rbcbhtheodoanhso>
+    <FormID>rbcbhtheodoanhso</FormID>
+    <TextID>021</TextID>
+    <TextV>Mã kho</TextV>
+    <TextE>Site ID</TextE>
+  </rbcbhtheodoanhso>
+  <rbcbhtheodoanhso>
+    <FormID>rbcbhtheodoanhso</FormID>
+    <TextID>022</TextID>
+    <TextV>Mã nhân viên</TextV>
+    <TextE>Employees Code</TextE>
+  </rbcbhtheodoanhso>
+  <rbcbhtheodoanhso>
+    <FormID>rbcbhtheodoanhso</FormID>
+    <TextID>023</TextID>
+    <TextV>Lấy cả các phiếu điều chuyển</TextV>
+    <TextE>Get all the votes Transferred</TextE>
+  </rbcbhtheodoanhso>
+  <rbcbhtheodoanhso>
+    <FormID>rbcbhtheodoanhso</FormID>
+    <TextID>200</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>Function</TextE>
+  </rbcbhtheodoanhso>
+  <rbcbhtheodoanhso>
+    <FormID>rbcbhtheodoanhso</FormID>
+    <TextID>201</TextID>
+    <TextV>In</TextV>
+    <TextE>Print</TextE>
+  </rbcbhtheodoanhso>
+  <rbcbhtheodoanhso>
+    <FormID>rbcbhtheodoanhso</FormID>
+    <TextID>202</TextID>
+    <TextV>Xem</TextV>
+    <TextE>View</TextE>
+  </rbcbhtheodoanhso>
+  <rbcbhtheodoanhso>
+    <FormID>rbcbhtheodoanhso</FormID>
+    <TextID>203</TextID>
+    <TextV>Làm tươi</TextV>
+    <TextE>Refresh</TextE>
+  </rbcbhtheodoanhso>
+  <rbcbhtheodoanhso>
+    <FormID>rbcbhtheodoanhso</FormID>
+    <TextID>204</TextID>
+    <TextV>Xem chứng từ</TextV>
+    <TextE>View Voucher</TextE>
+  </rbcbhtheodoanhso>
+  <rbcbhtheodoanhso>
+    <FormID>rbcbhtheodoanhso</FormID>
+    <TextID>800</TextID>
+    <TextV>Lấy phát sinh bên có</TextV>
+    <TextE>Retrieved arising Credit</TextE>
+  </rbcbhtheodoanhso>
+  <rbcbhtheodoanhso>
+    <FormID>rbcbhtheodoanhso</FormID>
+    <TextID>900</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>&amp;OK</TextE>
+  </rbcbhtheodoanhso>
+  <rbcbhtheodoanhso>
+    <FormID>rbcbhtheodoanhso</FormID>
+    <TextID>901</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </rbcbhtheodoanhso>
+  <rbcbhtheodoanhso>
+    <FormID>rbcbhtheodoanhso</FormID>
+    <TextID>999</TextID>
+    <TextV>Thoát</TextV>
+    <TextE>Close</TextE>
+  </rbcbhtheodoanhso>
+</NewDataSet>

@@ -1,0 +1,617 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="BN1" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="BN1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>c_bang_chu</Name>
+    <Type>C</Type>
+    <Value>Số tiền bằng chữ:</Value>
+    <Value2>Amount In Words</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>c_ct_goc</Name>
+    <Type>C</Type>
+    <Value>chứng từ gốc</Value>
+    <Value2>Enclosed Voucher(s)</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>c_dia_chi</Name>
+    <Type>C</Type>
+    <Value>Địa chỉ</Value>
+    <Value2>Address</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>c_dien_giai</Name>
+    <Type>C</Type>
+    <Value>Lý do chi:</Value>
+    <Value2>Memo:</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>c_docso</Name>
+    <Type>C</Type>
+    <Value>Bằng chữ:</Value>
+    <Value2>In words:</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>c_gd</Name>
+    <Type>C</Type>
+    <Value>Giám đốc</Value>
+    <Value2>Director</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>c_ghi_chu</Name>
+    <Type>C</Type>
+    <Value>(Liên gửi ra ngoài phải đóng dấu)</Value>
+    <Value2>(United sent out to seal)</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>c_kem_theo</Name>
+    <Type>C</Type>
+    <Value>Kèm theo:</Value>
+    <Value2>Attached:</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>c_kh</Name>
+    <Type>C</Type>
+    <Value>Đơn vị nhận tiền:</Value>
+    <Value2>Receiving unit</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>c_ktt</Name>
+    <Type>C</Type>
+    <Value>Kế toán trưởng</Value>
+    <Value2>Chief Accountant</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên)</Value>
+    <Value2>Sign., (Full Name)</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>c_ky_ten_dd</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên, đóng dấu)</Value>
+    <Value2>Sign., Seal (Full Name and Position)</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>c_mau_so</Name>
+    <Type>C</Type>
+    <Value>Mẫu số 02-TT</Value>
+    <Value2>Form No. 02-TT</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>c_mau_tt</Name>
+    <Type>C</Type>
+    <Value>(Ban hành theo QĐ số: 15/2006/QĐ-BTC ngày 20/03/2006 của Bộ trưởng BTC)</Value>
+    <Value2>(According to Decision No. 15/2006/QD-BTC dated 20 March 2006 of the Ministry of Finance)</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>c_ngay_ct</Name>
+    <Type>C</Type>
+    <Value>Ngày %d tháng %m năm %y</Value>
+    <Value2>Date %dMonth%m Year %y</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>c_ngay_ky</Name>
+    <Type>C</Type>
+    <Value>Ngày . . . tháng . . . năm . . . . . . .</Value>
+    <Value2>Date . . . Month . . . Year . . .</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Người lập phiếu</Value>
+    <Value2>Persons votes</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>c_nguoi_nop</Name>
+    <Type>C</Type>
+    <Value>Người nhận tiền</Value>
+    <Value2>Receiver</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>c_nhan_tien</Name>
+    <Type>C</Type>
+    <Value>Đã nhận đủ số tiền (viết bằng chữ)</Value>
+    <Value2>Received Full (In Words)</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>c_ong_ba</Name>
+    <Type>F</Type>
+    <Value>Họ và tên người nhận tiền:</Value>
+    <Value2>Họ và tên người nhận tiền:</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>c_quyen_so</Name>
+    <Type>C</Type>
+    <Value>Quyển số:</Value>
+    <Value2>Volume number:</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>c_so_ct</Name>
+    <Type>C</Type>
+    <Value>Số chứng từ:</Value>
+    <Value2>Voucher No. :</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>c_so_tien</Name>
+    <Type>C</Type>
+    <Value>Số tiền:</Value>
+    <Value2>Amount:</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>c_thu_quy</Name>
+    <Type>C</Type>
+    <Value>Thủ quỹ</Value>
+    <Value2>Treasurer</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>c_tien_qd</Name>
+    <Type>C</Type>
+    <Value>+ Số tiền quy đổi</Value>
+    <Value2>+ Số tiền quy đổi</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>c_ty_gia</Name>
+    <Type>C</Type>
+    <Value>+ Tỷ giá ngoại tệ (vàng, bạc, đá quý):</Value>
+    <Value2>Exchange Rate  (Gold, silver,precious stones):</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>docso</Name>
+    <Type>W</Type>
+    <Value>t_tien</Value>
+    <Value2>t_tien</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>docso_nt</Name>
+    <Type>W</Type>
+    <Value>t_tien_nt</Value>
+    <Value2>t_tien_nt</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>dvtien</Name>
+    <Type>C</Type>
+    <Value>đồng chẵn.</Value>
+    <Value2>VND</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_acc</Name>
+    <Type>C</Type>
+    <Value>(Accountant)</Value>
+    <Value2>(Accountant)</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_accholder</Name>
+    <Type>C</Type>
+    <Value>(Account- holder)</Value>
+    <Value2>(Account- holder)</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_AIF</Name>
+    <Type>C</Type>
+    <Value>(Amount in figures)</Value>
+    <Value2>(Amount in figures)</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_app</Name>
+    <Type>C</Type>
+    <Value>(Approved by)</Value>
+    <Value2>(Approved by)</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_BUO</Name>
+    <Type>C</Type>
+    <Value>(Bank use only)</Value>
+    <Value2>(Bank use only)</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_canhan_dvct</Name>
+    <Type>C</Type>
+    <Value>Cá nhân/ Đơn vị chuyển tiền (Rimitter)</Value>
+    <Value2>Individual / Unit transfers</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_chutk</Name>
+    <Type>C</Type>
+    <Value>Chủ tài khoản</Value>
+    <Value2>Account- holder</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_CMND</Name>
+    <Type>C</Type>
+    <Value>Hoặc CMND/ Hộ chiếu:</Value>
+    <Value2>(or ID/ Passport No.)</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_cndv_thuhuon</Name>
+    <Type>C</Type>
+    <Value>Cá nhân/ Đơn vị thụ hưởng (Beneticiary)</Value>
+    <Value2>Individual/ Beneficiaries (Beneticiary)</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_danhchoNH</Name>
+    <Type>C</Type>
+    <Value>PHẦN DÀNH CHO NGÂN HÀNG</Value>
+    <Value2>PART FOR BANKS</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_Dateof</Name>
+    <Type>C</Type>
+    <Value>(Date of issue)</Value>
+    <Value2>(Date of issue)</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_dvctien</Name>
+    <Type>C</Type>
+    <Value>ĐƠN VỊ CHUYỂN TIỀN (Remitter)</Value>
+    <Value2>TRANSFER UNIT (Remitter)</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_ghiso_ngay</Name>
+    <Type>C</Type>
+    <Value>Ghi sổ ngày</Value>
+    <Value2>Book Date</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_ID</Name>
+    <Type>C</Type>
+    <Value>(or ID/ Passport No.)</Value>
+    <Value2>(or ID/ Passport No.)</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_issuedate</Name>
+    <Type>C</Type>
+    <Value>(issue date)</Value>
+    <Value2>(issue date)</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_ktoan</Name>
+    <Type>C</Type>
+    <Value>Kế toán</Value>
+    <Value2>Accountant</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_ngay</Name>
+    <Type>C</Type>
+    <Value>Cấp ngày:</Value>
+    <Value2>Date of issue:</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_ngaylap</Name>
+    <Type>C</Type>
+    <Value>Ngày lập</Value>
+    <Value2>Voucher Date</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_NH_chinhanh</Name>
+    <Type>C</Type>
+    <Value>Tại (At) Sacombank - Chi nhánh (Branch)</Value>
+    <Value2>Tại (At) Sacombank - Chi nhánh (Branch)</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_nh_thuhuong</Name>
+    <Type>C</Type>
+    <Value>Ngân hàng thụ hưởng (Beneficiary bank):</Value>
+    <Value2>(Beneficiary bank):</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_NHA</Name>
+    <Type>C</Type>
+    <Value>NGÂN HÀNG (Beneficiary bank):</Value>
+    <Value2>BANK (Beneficiary bank):</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_noidung</Name>
+    <Type>C</Type>
+    <Value>Nội dung thanh toán (instruction):</Value>
+    <Value2>Paid Content (instruction):</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_Pay</Name>
+    <Type>C</Type>
+    <Value>PAYMENT ORDER</Value>
+    <Value2>PAYMENT ORDER</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_Place</Name>
+    <Type>C</Type>
+    <Value>(Place of issue)</Value>
+    <Value2>(Place of issue)</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_Sacombank</Name>
+    <Type>C</Type>
+    <Value>Sacombank-</Value>
+    <Value2>Sacombank-</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_settiement</Name>
+    <Type>C</Type>
+    <Value>(Settiement date)</Value>
+    <Value2>(Settiement date)</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_soGD</Name>
+    <Type>C</Type>
+    <Value>Số GD (Ref No.)</Value>
+    <Value2>Number  GD (Ref No.)</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_tai</Name>
+    <Type>C</Type>
+    <Value>Tại:</Value>
+    <Value2>At:</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_tien_bangchu</Name>
+    <Type>C</Type>
+    <Value>Số tiền bằng chữ (Amount in words):</Value>
+    <Value2>Amount in words (Amount in words):</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_tinh_tp</Name>
+    <Type>C</Type>
+    <Value>Tỉnh/ TP (Province/ City):</Value>
+    <Value2>(Province/ City):</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_TK_so</Name>
+    <Type>C</Type>
+    <Value>Tài Khoản số (Account No.)</Value>
+    <Value2>(Account No.)</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_TKC</Name>
+    <Type>C</Type>
+    <Value>TÀI KHOẢN CÓ (Credit account)</Value>
+    <Value2>CREDIT ACCOUNT (Credit account)</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_TKN</Name>
+    <Type>C</Type>
+    <Value>TÀI KHOẢN NỢ (Debit account)</Value>
+    <Value2>DEBIT ACCOUNT (Debit account)</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>scb_truongdv</Name>
+    <Type>C</Type>
+    <Value>Trưởng đơn vị</Value>
+    <Value2>Chief Unit</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>unc_bang_chu</Name>
+    <Type>C</Type>
+    <Value>Số tiền bằng chữ:</Value>
+    <Value2>Amount In Words</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>unc_bang_so</Name>
+    <Type>C</Type>
+    <Value>SỐ TIỀN BẰNG SỐ</Value>
+    <Value2>Amount By Numbers</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>unc_chu_tk</Name>
+    <Type>C</Type>
+    <Value>Chủ tài khoản</Value>
+    <Value2>Account- holder</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>unc_ck_ct</Name>
+    <Type>C</Type>
+    <Value>CHUYỂN KHOẢN, CHUYỂN TIỀN THƯ, ĐIỆN TỬ</Value>
+    <Value2>TRANSFER PROVISIONS , MONEY TRANSFER LETTER, E-mail</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>unc_dien_gia</Name>
+    <Type>C</Type>
+    <Value>Nội dung thanh toán:</Value>
+    <Value2>Paid Content:</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>unc_dien_giai</Name>
+    <Type>C</Type>
+    <Value>Nội dung thanh toán:</Value>
+    <Value2>Paid Content:</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>unc_dv_nhan</Name>
+    <Type>C</Type>
+    <Value>Tên đơn vị nhận tiền</Value>
+    <Value2>Receiving Unit Name</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>unc_dv_tra</Name>
+    <Type>C</Type>
+    <Value>Tên đơn vị trả tiền</Value>
+    <Value2>Unit payment Name</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>unc_dv_tra_ky</Name>
+    <Type>C</Type>
+    <Value>Đơn vị trả tiền</Value>
+    <Value2>Unit payment:</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>unc_ghi_so</Name>
+    <Type>C</Type>
+    <Value>Ghi sổ ngày:. . . . . . . . . .</Value>
+    <Value2>Book Date:. . . . . . . . . .</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>unc_kt</Name>
+    <Type>C</Type>
+    <Value>Kế toán</Value>
+    <Value2>Accountant</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>unc_ngay</Name>
+    <Type>C</Type>
+    <Value>Lập ngày:</Value>
+    <Value2>PO Date</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>unc_nh</Name>
+    <Type>C</Type>
+    <Value>Tại Ngân hàng</Value>
+    <Value2>Bank</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>unc_nh_a</Name>
+    <Type>C</Type>
+    <Value>Ngân hàng A</Value>
+    <Value2>Bank  A</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>unc_nh_b</Name>
+    <Type>C</Type>
+    <Value>Ngân hàng B</Value>
+    <Value2>Bank  B</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>unc_nh_ghi</Name>
+    <Type>C</Type>
+    <Value>PHẦN DO NGÂN HÀNG GHI</Value>
+    <Value2>BY SECTION BANK WRITE</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>unc_so</Name>
+    <Type>C</Type>
+    <Value>Số:</Value>
+    <Value2>Number</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>unc_so_tk</Name>
+    <Type>C</Type>
+    <Value>Số tài khoản:</Value>
+    <Value2>Account No.:</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>unc_tinh</Name>
+    <Type>C</Type>
+    <Value>tỉnh, TP</Value>
+    <Value2>Province,City</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>unc_tk_co</Name>
+    <Type>C</Type>
+    <Value>TÀI KHOẢN CÓ</Value>
+    <Value2>CREDIT ACCOUNT</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>unc_tk_no</Name>
+    <Type>C</Type>
+    <Value>TÀI KHOẢN NỢ</Value>
+    <Value2>DEBIT ACCOUNT</Value2>
+  </BN1>
+  <BN1>
+    <Code>BN1</Code>
+    <Name>unc_truong_phong</Name>
+    <Type>C</Type>
+    <Value>Trưởng phòng kế toán</Value>
+    <Value2>Accounting Manager</Value2>
+  </BN1>
+</NewDataSet>

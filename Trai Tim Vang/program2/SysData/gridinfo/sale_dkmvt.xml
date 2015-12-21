@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="sale_dkmvt" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="sale_dkmvt">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsv" type="xs:string" minOccurs="0" />
+                <xs:element name="columnse" type="xs:string" minOccurs="0" />
+                <xs:element name="headersv" type="xs:string" minOccurs="0" />
+                <xs:element name="headerse" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <sale_dkmvt>
+    <gridid>sale_dkmvt</gridid>
+    <columnsv>ma_nganh,ds_nh_vt1,ten_nh_vt1,ds_ma_vt,ten_vt,ma_dvt,sl_mua,ma_vt_km,ten_vt_km,ma_dvt_km,sl_km,tien_km,ds_ma_kh,ds_nh_kh1</columnsv>
+    <columnse>ma_nganh,ds_nh_vt1,ten_nh_vt12,ds_ma_vt,ten_vt2,ma_dvt,sl_mua,ma_vt_km,ten_vt_km,ma_dvt_km,sl_km,tien_km,ds_ma_kh,ds_nh_kh1</columnse>
+    <headersv>Mã ngành hàng,Mã nhóm hàng,Tên nhóm hàng,Mã hàng,Tên hàng,Đơn vị tính,Số lượng mua,Mã hàng KM,Tên hàng KM,Đơn vị tính KM,SL Khuyến mãi,Tiền khuyến mãi,Khách hàng,Nhóm khách</headersv>
+    <headerse>Mã ngành,Mã nhóm,Tên nhóm,Mã hàng,Tên hàng,Đơn vị tính,Số lượng mua,Mã hàng km,Tên hàng KM,Đơn vị tính KM,Số lượng khuyến mãi,Tiền khuyến mãi,Khách hàng,Nhóm khách</headerse>
+    <widths>100,100,200,100,200,100,100,100,200,100,100,100,100,100</widths>
+    <formats>,,,,,,,,,,,,,</formats>
+    <readonlys>0,0,1,0,1,0,0,0,1,0,0,0,0,0</readonlys>
+    <hides>0,0,0,0,0,0,0,0,0,0,0,0,0,0</hides>
+    <defaultvalues>,,,,,,,,,,,,,</defaultvalues>
+    <carrys>0,0,0,0,0,0,0,0,0,0,0,0,0,0</carrys>
+  </sale_dkmvt>
+</NewDataSet>

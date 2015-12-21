@@ -1,0 +1,204 @@
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\Ldmvt.exe
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\Ldmvt.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\Ldmvt.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\ClsControl2.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\ClsList.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\ClsLookup.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\Clsql.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\ClsRight.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\clsViDe.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\ClsVno.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\ClsMath.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\Ionic.Zip.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\clsab.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\ClPrint.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\clsPopUp.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\ClsPilot.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\clsPermit4Field.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\ClsStpService.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\bin\Release\ClsRpt.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Release\ResolveAssemblyReference.cache
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Release\Ldmvt.dqddvt.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Release\Ldmvt.dkloc.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Release\Ldmvt.Frmmain.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Release\Ldmvt.vt.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Release\Ldmvt.Resources.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Release\Ldmvt.vbproj.GenerateResource.Cache
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Release\Ldmvt.exe
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Release\Ldmvt.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmvt\Ldmvt\obj\Release\Ldmvt.pdb
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\Ldmvt.exe.config
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\Ldmvt.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\Ldmvt.pdb
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\Ldmvt.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\ClsControl2.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\ClsList.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\ClsLookup.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\Clsql.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\ClsRight.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\ClsRpt.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\clsViDe.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\ClsVno.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\Ionic.Zip.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\clsab.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\ClPrint.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\bin\Release\clsPermit4Field.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Release\ResolveAssemblyReference.cache
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.dqddvt.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.dkloc.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.Frmmain.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.vt.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.Resources.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.vbproj.GenerateResource.Cache
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.pdb
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\Ldmvt.exe.config
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.exe
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.xml
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.pdb
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\Ldmvt.exe
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\Ldmvt.pdb
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\Ldmvt.xml
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\ClsVno.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\Ionic.Zip.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\clsab.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\ClPrint.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\clsPermit4Field.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.dqddvt.resources
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.dkloc.resources
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.Frmmain.resources
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.vt.resources
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.Resources.resources
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.vbproj.GenerateResource.Cache
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\ClsList.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\Clsql.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\System.Windows.Forms.DataVisualization.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\ClsControl2.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\ClsLookup.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\clschat.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\clsphannhomdm.dll
+D:\Source\acc\5.0\list\Ldmvt\Ldmvt\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\Ldmvt.exe.config
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.exe
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.xml
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.pdb
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\Ldmvt.exe
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\Ldmvt.pdb
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\Ldmvt.xml
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\ClsControl2.dll
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\ClsList.dll
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\ClsLookup.dll
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\Clsql.dll
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\ClPrint.dll
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\Ionic.Zip.dll
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\clsab.dll
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\clschat.dll
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\System.Windows.Forms.DataVisualization.dll
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\clsPermit4Field.dll
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\ClsVno.dll
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\clsphannhomdm.dll
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.dqddvt.resources
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.dkloc.resources
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.Frmmain.resources
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.vt.resources
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.Resources.resources
+D:\Source\acc\7.1\list\Ldmvt\Ldmvt\obj\Release\Ldmvt.vbproj.GenerateResource.Cache
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\bin\Release\Ldmvt.exe.config
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\bin\Release\Ldmvt.exe
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\bin\Release\Ldmvt.pdb
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\bin\Release\Ldmvt.xml
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\bin\Release\office.dll
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\bin\Release\Microsoft.Office.Interop.Excel.dll
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\obj\Release\ResolveAssemblyReference.cache
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\obj\Release\Ldmvt.dqddvt.resources
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\obj\Release\Ldmvt.dkloc.resources
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\obj\Release\Ldmvt.Frmmain.resources
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\obj\Release\Ldmvt.vt.resources
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\obj\Release\Ldmvt.Resources.resources
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\obj\Release\Ldmvt.vbproj.GenerateResource.Cache
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\obj\Release\Ldmvt.exe
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\obj\Release\Ldmvt.xml
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\obj\Release\Ldmvt.pdb
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\bin\Release\ClsControl2.DLL
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\bin\Release\ClsList.DLL
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\bin\Release\ClsLookup.DLL
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\bin\Release\Clsql.DLL
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\bin\Release\clsViDe.DLL
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\bin\Release\Ionic.Zip.dll
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\bin\Release\clsab.dll
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\bin\Release\ClsRpt.dll
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\bin\Release\clschat.dll
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\bin\Release\clsPopUp.dll
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\bin\Release\Eval3.dll
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\bin\Release\clsPermit4Field.dll
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\bin\Release\clsphannhomdm.dll
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\bin\Release\ClsRight.dll
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\bin\Release\ClsStpService.dll
+H:\info_company\data-laptrinh\Ldmvt\Ldmvt\bin\Release\ClsMath.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt\Ldmvt\bin\Release\Ldmvt.exe.config
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt\Ldmvt\obj\Release\Ldmvt.exe
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt\Ldmvt\obj\Release\Ldmvt.xml
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt\Ldmvt\obj\Release\Ldmvt.pdb
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt\Ldmvt\bin\Release\Ldmvt.exe
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt\Ldmvt\bin\Release\Ldmvt.pdb
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt\Ldmvt\bin\Release\Ldmvt.xml
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt\Ldmvt\bin\Release\office.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt\Ldmvt\bin\Release\Ionic.Zip.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt\Ldmvt\bin\Release\clsab.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt\Ldmvt\bin\Release\ClsRpt.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt\Ldmvt\bin\Release\clschat.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt\Ldmvt\bin\Release\clsPopUp.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt\Ldmvt\bin\Release\Eval3.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt\Ldmvt\bin\Release\clsPermit4Field.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt\Ldmvt\bin\Release\clsphannhomdm.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt\Ldmvt\bin\Release\ClsRight.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt\Ldmvt\bin\Release\ClsStpService.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt\Ldmvt\bin\Release\ClsMath.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt\Ldmvt\bin\Release\Microsoft.Office.Interop.Excel.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt\Ldmvt\obj\Release\ResolveAssemblyReference.cache
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt\Ldmvt\obj\Release\Ldmvt.dqddvt.resources
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt\Ldmvt\obj\Release\Ldmvt.dkloc.resources
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt\Ldmvt\obj\Release\Ldmvt.Frmmain.resources
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt\Ldmvt\obj\Release\Ldmvt.vt.resources
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt\Ldmvt\obj\Release\Ldmvt.Resources.resources
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt\Ldmvt\obj\Release\Ldmvt.vbproj.GenerateResource.Cache
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\bin\Release\Ldmvt.exe.config
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\bin\Release\Ldmvt.exe
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\bin\Release\Ldmvt.pdb
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\bin\Release\Ldmvt.xml
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\bin\Release\ClPrint.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\bin\Release\ClsControl2.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\bin\Release\ClsList.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\bin\Release\ClsLookup.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\bin\Release\Clsql.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\bin\Release\ClsRight.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\bin\Release\ClsRpt.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\bin\Release\ClsStpService.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\bin\Release\ClsSV31.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\bin\Release\clsViDe.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\bin\Release\ClsVno.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\bin\Release\ClsMath.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\bin\Release\Microsoft.Office.Interop.Excel.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\bin\Release\clsPopUp.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\bin\Release\clsPermit4Field.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\bin\Release\clsphannhomdm.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\bin\Release\clsab.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\bin\Release\Ionic.Zip.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\bin\Release\Eval3.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\bin\Release\ClsPilot.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\bin\Release\clschat.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\bin\Release\office.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\obj\Release\Ldmvt.dqddvt.resources
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\obj\Release\Ldmvt.dkloc.resources
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\obj\Release\Ldmvt.Frmmain.resources
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\obj\Release\Ldmvt.vt.resources
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\obj\Release\Ldmvt.Resources.resources
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\obj\Release\Ldmvt.vbproj.GenerateResource.Cache
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\obj\Release\Ldmvt.exe
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\obj\Release\Ldmvt.xml
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\obj\Release\Ldmvt.pdb
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Ldmvt-vs2012\Ldmvt\obj\Release\Ldmvt.vbprojResolveAssemblyReference.cache

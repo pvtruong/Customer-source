@@ -1,0 +1,176 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="SO1" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="SO1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <SO1>
+    <Code>SO1</Code>
+    <Name>c_cong</Name>
+    <Type>C</Type>
+    <Value>Tổng cộng:</Value>
+    <Value2>Total:</Value2>
+  </SO1>
+  <SO1>
+    <Code>SO1</Code>
+    <Name>c_dai_dien</Name>
+    <Type>C</Type>
+    <Value>Tên người đại diện:</Value>
+    <Value2>Contact Person:</Value2>
+  </SO1>
+  <SO1>
+    <Code>SO1</Code>
+    <Name>c_dia_chi</Name>
+    <Type>C</Type>
+    <Value>Địa chỉ:</Value>
+    <Value2>Address:</Value2>
+  </SO1>
+  <SO1>
+    <Code>SO1</Code>
+    <Name>c_dien_giai</Name>
+    <Type>C</Type>
+    <Value>Nội dung:</Value>
+    <Value2>Content:</Value2>
+  </SO1>
+  <SO1>
+    <Code>SO1</Code>
+    <Name>c_dvt</Name>
+    <Type>C</Type>
+    <Value>Đơn vị tính</Value>
+    <Value2>Unit</Value2>
+  </SO1>
+  <SO1>
+    <Code>SO1</Code>
+    <Name>c_gia</Name>
+    <Type>C</Type>
+    <Value>Giá</Value>
+    <Value2>Price</Value2>
+  </SO1>
+  <SO1>
+    <Code>SO1</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên)</Value>
+    <Value2>Sign, (Full Name)</Value2>
+  </SO1>
+  <SO1>
+    <Code>SO1</Code>
+    <Name>c_ma_vt</Name>
+    <Type>C</Type>
+    <Value>Mã vật tư</Value>
+    <Value2>Item Code</Value2>
+  </SO1>
+  <SO1>
+    <Code>SO1</Code>
+    <Name>c_mh</Name>
+    <Type>C</Type>
+    <Value>Mã số</Value>
+    <Value2>Code</Value2>
+  </SO1>
+  <SO1>
+    <Code>SO1</Code>
+    <Name>c_ngay_ct</Name>
+    <Type>C</Type>
+    <Value>Ngày %d tháng %m năm %y</Value>
+    <Value2>Date %d Month %m Year %y</Value2>
+  </SO1>
+  <SO1>
+    <Code>SO1</Code>
+    <Name>c_ngay_giao</Name>
+    <Type>C</Type>
+    <Value>Ngày giao:</Value>
+    <Value2>Shipping Date:</Value2>
+  </SO1>
+  <SO1>
+    <Code>SO1</Code>
+    <Name>c_ngay_ky</Name>
+    <Type>C</Type>
+    <Value>Ngày . . . tháng . . . năm . . . .</Value>
+    <Value2>Date . . . Month . . . Year . . .</Value2>
+  </SO1>
+  <SO1>
+    <Code>SO1</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Người lập</Value>
+    <Value2>Persons votes</Value2>
+  </SO1>
+  <SO1>
+    <Code>SO1</Code>
+    <Name>c_noi_giao</Name>
+    <Type>C</Type>
+    <Value>Nơi giao:</Value>
+    <Value2>Ship-to:</Value2>
+  </SO1>
+  <SO1>
+    <Code>SO1</Code>
+    <Name>c_sl</Name>
+    <Type>C</Type>
+    <Value>Số lượng</Value>
+    <Value2>Quantity</Value2>
+  </SO1>
+  <SO1>
+    <Code>SO1</Code>
+    <Name>c_so_ct</Name>
+    <Type>C</Type>
+    <Value>Số chứng từ:</Value>
+    <Value2>Voucher No.:</Value2>
+  </SO1>
+  <SO1>
+    <Code>SO1</Code>
+    <Name>c_so_hd</Name>
+    <Type>C</Type>
+    <Value>Số hợp đồng:</Value>
+    <Value2>Contract No.:</Value2>
+  </SO1>
+  <SO1>
+    <Code>SO1</Code>
+    <Name>c_stt</Name>
+    <Type>C</Type>
+    <Value>Stt</Value>
+    <Value2>Order No.</Value2>
+  </SO1>
+  <SO1>
+    <Code>SO1</Code>
+    <Name>c_ten_hang</Name>
+    <Type>C</Type>
+    <Value>Tên hàng</Value>
+    <Value2>Item</Value2>
+  </SO1>
+  <SO1>
+    <Code>SO1</Code>
+    <Name>c_ten_kh</Name>
+    <Type>C</Type>
+    <Value>Tên khách:</Value>
+    <Value2>Customer Name:</Value2>
+  </SO1>
+  <SO1>
+    <Code>SO1</Code>
+    <Name>c_thue</Name>
+    <Type>C</Type>
+    <Value>Thuế suất</Value>
+    <Value2>Tax Rate</Value2>
+  </SO1>
+  <SO1>
+    <Code>SO1</Code>
+    <Name>c_tien</Name>
+    <Type>C</Type>
+    <Value>Tiền</Value>
+    <Value2>Amount</Value2>
+  </SO1>
+</NewDataSet>

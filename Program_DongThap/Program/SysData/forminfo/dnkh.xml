@@ -1,0 +1,117 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dnkh" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dnkh">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dnkh>
+    <FormID>dnkh</FormID>
+    <TextID>000</TextID>
+    <TextV>Danh mục nguồn khách hàng</TextV>
+    <TextE>Capital List Customer</TextE>
+  </dnkh>
+  <dnkh>
+    <FormID>dnkh</FormID>
+    <TextID>001</TextID>
+    <TextV>Mã</TextV>
+    <TextE>Code</TextE>
+  </dnkh>
+  <dnkh>
+    <FormID>dnkh</FormID>
+    <TextID>002</TextID>
+    <TextV>Tên</TextV>
+    <TextE>Name</TextE>
+  </dnkh>
+  <dnkh>
+    <FormID>dnkh</FormID>
+    <TextID>003</TextID>
+    <TextV>Tên 2</TextV>
+    <TextE>Name 2</TextE>
+  </dnkh>
+  <dnkh>
+    <FormID>dnkh</FormID>
+    <TextID>008</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Status</TextE>
+  </dnkh>
+  <dnkh>
+    <FormID>dnkh</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Created</TextE>
+  </dnkh>
+  <dnkh>
+    <FormID>dnkh</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modify</TextE>
+  </dnkh>
+  <dnkh>
+    <FormID>dnkh</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </dnkh>
+  <dnkh>
+    <FormID>dnkh</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </dnkh>
+  <dnkh>
+    <FormID>dnkh</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>&amp;Ok</TextE>
+  </dnkh>
+  <dnkh>
+    <FormID>dnkh</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dnkh>
+  <dnkh>
+    <FormID>dnkh</FormID>
+    <TextID>100</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </dnkh>
+  <dnkh>
+    <FormID>dnkh</FormID>
+    <TextID>101</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </dnkh>
+  <dnkh>
+    <FormID>dnkh</FormID>
+    <TextID>102</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </dnkh>
+  <dnkh>
+    <FormID>dnkh</FormID>
+    <TextID>103</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </dnkh>
+  <dnkh>
+    <FormID>dnkh</FormID>
+    <TextID>104</TextID>
+    <TextV>&amp;Đóng</TextV>
+    <TextE>&amp;Close</TextE>
+  </dnkh>
+</NewDataSet>

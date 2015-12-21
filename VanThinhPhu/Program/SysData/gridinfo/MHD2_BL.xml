@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="MHD2_BL" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="MHD2_BL">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsv" type="xs:string" minOccurs="0" />
+                <xs:element name="columnse" type="xs:string" minOccurs="0" />
+                <xs:element name="headersv" type="xs:string" minOccurs="0" />
+                <xs:element name="headerse" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <MHD2_BL>
+    <gridid>MHD2_BL</gridid>
+    <columnsv>sel,so_ct,ngay_ct,ma_kh,ten_kh,dien_giai,ma_nt,t_so_luong,t_tien,t_ck,t_thue,t_tt,so_hd,so_seri,ngay_hd</columnsv>
+    <columnse>sel,so_ct,ngay_ct,ma_kh,ten_kh,dien_giai,ma_nt,t_so_luong,t_tien,t_ck,t_thue,t_tt,so_hd,so_seri,ngay_hd</columnse>
+    <headersv>Chọn,Số chứng từ,Ngày chứng từ,Mã khách,Tên khách,Diễn giải,Mã ngoại tệ,Số lượng,Tiền hàng,Chiết khấu,Thuế,Tổng hóa đơn,Số hóa đơn,Số seri,Ngày hóa đơn</headersv>
+    <headerse>Option                          ,Voucher No.                     ,Voucher Date,Mã khách,Tên khách,Memo                            ,FC Code                         ,Quantity                        ,Tiền hàng,Chiết khấu,Thuế,Tổng hóa đơn,Số hóa đơn,Số seri,Ngày hóa đơn</headerse>
+    <widths>30,100,100,100,200,200,75,75,100,100,100,100,100,100,100</widths>
+    <formats>,,,,,,,,f_tien,f_tien,f_tien,f_tien,,,</formats>
+    <readonlys>0,1,1,1,1,1,1,1,1,1,1,1,1,1,1</readonlys>
+    <hides>0,0,0,0,0,0,1,1,0,0,0,0,0,0,0</hides>
+    <defaultvalues>,,,,,,,,,,,,,,</defaultvalues>
+    <carrys>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</carrys>
+  </MHD2_BL>
+</NewDataSet>

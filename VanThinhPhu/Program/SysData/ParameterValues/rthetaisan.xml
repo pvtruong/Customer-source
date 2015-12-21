@@ -1,0 +1,309 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rthetaisan" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rthetaisan">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_bo_phan</Name>
+    <Type>C</Type>
+    <Value>Bộ phận quản lý, sử dụng:</Value>
+    <Value2>Management section, use:</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_can_cu</Name>
+    <Type>C</Type>
+    <Value>Căn cứ vào Biên bản giao nhận TSCĐ số:</Value>
+    <Value2>Base in FA Hand-over Report No.</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_cong_don</Name>
+    <Type>C</Type>
+    <Value>Cộng dồn</Value>
+    <Value2>Incremental</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_cong_suat</Name>
+    <Type>C</Type>
+    <Value>Công xuất (diện tích thiết kế)</Value>
+    <Value2>Capacity (SQUARE DESIGN)</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_dien_giai</Name>
+    <Type>C</Type>
+    <Value>diễn giải</Value>
+    <Value2>Memo</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_dinh_chi</Name>
+    <Type>C</Type>
+    <Value>Đình chỉ sử dụng TSCĐ ngày</Value>
+    <Value2>Suspension on the use of fixed assets</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_dung_cu</Name>
+    <Type>C</Type>
+    <Value>Dụng cụ phụ tùng kèm theo</Value>
+    <Value2>Tools accessories</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_dv</Name>
+    <Type>C</Type>
+    <Value>Đơn vị tính</Value>
+    <Value2>Unit</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_gd</Name>
+    <Type>C</Type>
+    <Value>Giám đốc</Value>
+    <Value2>Director</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_ghi_giam</Name>
+    <Type>C</Type>
+    <Value>Ghi giảm TSCĐ chứng từ số:</Value>
+    <Value2>FA Increase  Voucher No:</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_gt</Name>
+    <Type>C</Type>
+    <Value>giá trị</Value>
+    <Value2>Amount</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_hao_mon</Name>
+    <Type>C</Type>
+    <Value>Giá trị hao mòn</Value>
+    <Value2>Depreciated Value</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_hao_mon_ts</Name>
+    <Type>C</Type>
+    <Value>Giá trị hao mòn tài sản cố định</Value>
+    <Value2>Depreciation of fixed assets</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_ktt</Name>
+    <Type>C</Type>
+    <Value>Kế toán trưởng</Value>
+    <Value2>Chief Accountant</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên)</Value>
+    <Value2>Sign., (Full Name)</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_ky_ten_dd</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên , đón dấu)</Value>
+    <Value2>Sign., Seal (Full Name and Position)</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_ly_do</Name>
+    <Type>C</Type>
+    <Value>Lý do đình chỉ:</Value>
+    <Value2>Reason of Susp.:</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_ly_do_giam</Name>
+    <Type>C</Type>
+    <Value>Lý do giảm:</Value>
+    <Value2>Reason FA Decrease Declaration</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_mau_so</Name>
+    <Type>C</Type>
+    <Value>Mẫu số: S23-DN</Value>
+    <Value2>Form No.: S23-DN</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_mau_tt</Name>
+    <Type>C</Type>
+    <Value>(Ban hành theo TT số 200/2014/TT-BTC Ngày 22/12/2014 của Bộ Tài Chính)</Value>
+    <Value2>(According to Circular No. 200/2014/TT-BTC dated december 22nd 2014 of the Ministry of Finance)</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_nam</Name>
+    <Type>C</Type>
+    <Value>Năm</Value>
+    <Value2>year</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_nam_sd</Name>
+    <Type>C</Type>
+    <Value>Năm sử dụng:</Value>
+    <Value2>Using Year:</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_nam_sx</Name>
+    <Type>C</Type>
+    <Value>Năm sản xuất:</Value>
+    <Value2>Product. Year:</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_ngay</Name>
+    <Type>C</Type>
+    <Value>ngày</Value>
+    <Value2>Date</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_ngay_ct</Name>
+    <Type>C</Type>
+    <Value>Ngày d% tháng m% năm y% lập thẻ . . . . . . .</Value>
+    <Value2>Date d% Month m% Year y% lcard set. . . . . . .</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_ngay_lap_the</Name>
+    <Type>C</Type>
+    <Value>Ngày lập thẻ</Value>
+    <Value2>Card Date</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_ngay_thang</Name>
+    <Type>C</Type>
+    <Value>Ngày, tháng, năm</Value>
+    <Value2>Date, Month, Year</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>..............., ngày......... tháng........... năm..........</Value>
+    <Value2>..............., date......... month........... year..........</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Người lập</Value>
+    <Value2>Founder</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_nguyen gia</Name>
+    <Type>C</Type>
+    <Value>Nguyên giá</Value>
+    <Value2>Original price</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_nguyen_gia</Name>
+    <Type>C</Type>
+    <Value>Nguyên giá</Value>
+    <Value2>Original price</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_nguyen_gia_ts</Name>
+    <Type>C</Type>
+    <Value>Nguyên giá tài sản cố định</Value>
+    <Value2>Original price fixed assets</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_nuoc_sx</Name>
+    <Type>C</Type>
+    <Value>Nước sản xuất ( xây dựng):</Value>
+    <Value2>Made in (Construction):</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_sl</Name>
+    <Type>C</Type>
+    <Value>Số lượng</Value>
+    <Value2>Quantity</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_so</Name>
+    <Type>C</Type>
+    <Value>Số :</Value>
+    <Value2>Number :</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_so_hieu_ct</Name>
+    <Type>C</Type>
+    <Value>Số hiệu chứng từ</Value>
+    <Value2>Notation Voucher</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_so_hieu_ts</Name>
+    <Type>C</Type>
+    <Value>Số hiệu TSCĐ:</Value>
+    <Value2>Notation:</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_stt</Name>
+    <Type>C</Type>
+    <Value>Số TT</Value>
+    <Value2>NO.</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_ten_dc</Name>
+    <Type>C</Type>
+    <Value>Tên, quy cách dụng cụ, phụ tùng</Value>
+    <Value2>The name, equipment and spare parts</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_ten_ts</Name>
+    <Type>C</Type>
+    <Value>Tên, ký mã hiệu, quy cách (cấp hạng) TSCĐ:</Value>
+    <Value2>Names, codes and specifications (grading) Fixed Assets:</Value2>
+  </rthetaisan>
+  <rthetaisan>
+    <Code>rthetaisan</Code>
+    <Name>c_thang</Name>
+    <Type>C</Type>
+    <Value>tháng</Value>
+    <Value2>Month</Value2>
+  </rthetaisan>
+</NewDataSet>

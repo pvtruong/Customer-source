@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Dphd" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Dphd">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsv" type="xs:string" minOccurs="0" />
+                <xs:element name="columnse" type="xs:string" minOccurs="0" />
+                <xs:element name="headersv" type="xs:string" minOccurs="0" />
+                <xs:element name="headerse" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Dphd>
+    <gridid>Dphd</gridid>
+    <columnsv>ma_vt,ten_vt,ma_dvt,sl,gia_nt,tien_nt</columnsv>
+    <columnse>ma_vt,ten_vt,ma_dvt,sl,gia_nt,tien_nt</columnse>
+    <headersv>Mã sản phẩm,Tên 
+sản phẩm,ĐVT,Số lượng,Giá,Tiền nt</headersv>
+    <headerse>Mã sản phẩm,Tên sản phẩm,ĐVT,Số lượng,Giá,Tiền nt</headerse>
+    <widths>100,200,50,100,100,100</widths>
+    <formats>,,,f_sl,f_tien_nt,f_tien_nt</formats>
+    <readonlys>0,1,1,0,0,0</readonlys>
+    <hides>0,0,0,0,0,0,0,0,0,0,0,0</hides>
+    <defaultvalues>,,,,,,,,,,,</defaultvalues>
+    <carrys>1,1,1,1,1,1,0,0,1,1,1,1</carrys>
+  </Dphd>
+</NewDataSet>

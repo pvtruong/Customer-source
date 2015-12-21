@@ -1,0 +1,162 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rbckqhdkd_200" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rbckqhdkd_200">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rbckqhdkd_200>
+    <Code>rbckqhdkd_200</Code>
+    <Name>c_ct</Name>
+    <Type>C</Type>
+    <Value>Chỉ tiêu</Value>
+    <Value2>Norm</Value2>
+  </rbckqhdkd_200>
+  <rbckqhdkd_200>
+    <Code>rbckqhdkd_200</Code>
+    <Name>c_den_ngay</Name>
+    <Type>C</Type>
+    <Value>đến ngày</Value>
+    <Value2>To Date</Value2>
+  </rbckqhdkd_200>
+  <rbckqhdkd_200>
+    <Code>rbckqhdkd_200</Code>
+    <Name>c_dn</Name>
+    <Type>C</Type>
+    <Value>Kỳ trước</Value>
+    <Value2>Prev. Period</Value2>
+  </rbckqhdkd_200>
+  <rbckqhdkd_200>
+    <Code>rbckqhdkd_200</Code>
+    <Name>c_dt</Name>
+    <Type>C</Type>
+    <Value>Kỳ trước</Value>
+    <Value2>Prev. Period</Value2>
+  </rbckqhdkd_200>
+  <rbckqhdkd_200>
+    <Code>rbckqhdkd_200</Code>
+    <Name>c_dvt</Name>
+    <Type>C</Type>
+    <Value>Đơn vị tính</Value>
+    <Value2>Unit</Value2>
+  </rbckqhdkd_200>
+  <rbckqhdkd_200>
+    <Code>rbckqhdkd_200</Code>
+    <Name>c_gd</Name>
+    <Type>C</Type>
+    <Value>Giám đốc</Value>
+    <Value2>Director</Value2>
+  </rbckqhdkd_200>
+  <rbckqhdkd_200>
+    <Code>rbckqhdkd_200</Code>
+    <Name>c_kn</Name>
+    <Type>C</Type>
+    <Value>Kỳ này</Value>
+    <Value2>This Period</Value2>
+  </rbckqhdkd_200>
+  <rbckqhdkd_200>
+    <Code>rbckqhdkd_200</Code>
+    <Name>c_kt</Name>
+    <Type>C</Type>
+    <Value>Kỳ trước</Value>
+    <Value2>Prev. Period</Value2>
+  </rbckqhdkd_200>
+  <rbckqhdkd_200>
+    <Code>rbckqhdkd_200</Code>
+    <Name>c_ktt</Name>
+    <Type>C</Type>
+    <Value>Kế toán trưởng</Value>
+    <Value2>Chief Accountant</Value2>
+  </rbckqhdkd_200>
+  <rbckqhdkd_200>
+    <Code>rbckqhdkd_200</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên)</Value>
+    <Value2>Sign., (Full Name)</Value2>
+  </rbckqhdkd_200>
+  <rbckqhdkd_200>
+    <Code>rbckqhdkd_200</Code>
+    <Name>c_ky_ten_dd</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên , đóng dấu)</Value>
+    <Value2>Sign., Seal (Full Name and Position)</Value2>
+  </rbckqhdkd_200>
+  <rbckqhdkd_200>
+    <Code>rbckqhdkd_200</Code>
+    <Name>c_mau_so</Name>
+    <Type>C</Type>
+    <Value>Mẫu số B02 - DN</Value>
+    <Value2>Form No. B02 - DN</Value2>
+  </rbckqhdkd_200>
+  <rbckqhdkd_200>
+    <Code>rbckqhdkd_200</Code>
+    <Name>c_mau_tt</Name>
+    <Type>C</Type>
+    <Value>(Ban hành theo QĐ số 15/2006/QĐ-BTC ngày 20/03/2006 của Bộ trưởng BTC)</Value>
+    <Value2>(According to Decision No. 15/2006/QD-BTC dated 20 March 2006 of the Ministry of Finance)</Value2>
+  </rbckqhdkd_200>
+  <rbckqhdkd_200>
+    <Code>rbckqhdkd_200</Code>
+    <Name>c_mau_tt_200</Name>
+    <Type>C</Type>
+    <Value>(Ban hành theo TT 200/2014/TT-BTC Ngày 22/12/2014 của Bộ Tài Chính)</Value>
+    <Value2>(According to Circular No. 200/2014/TT-BTC dated december 22nd 2014 of the Ministry of Finance)</Value2>
+  </rbckqhdkd_200>
+  <rbckqhdkd_200>
+    <Code>rbckqhdkd_200</Code>
+    <Name>c_mau_tt_48</Name>
+    <Type>C</Type>
+    <Value>(Ban hành theo QĐ số 48/2006/QĐ-BTC ngày 14/09/2006 của Bộ trưởng BTC)</Value>
+    <Value2>(According to Decision No. 48/2006/QD-BTC dated 14 September 2006 of the Ministry of Finance)</Value2>
+  </rbckqhdkd_200>
+  <rbckqhdkd_200>
+    <Code>rbckqhdkd_200</Code>
+    <Name>c_ms</Name>
+    <Type>C</Type>
+    <Value>Mã số</Value>
+    <Value2>Code:</Value2>
+  </rbckqhdkd_200>
+  <rbckqhdkd_200>
+    <Code>rbckqhdkd_200</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>Ngày. . . Tháng . . . Năm . . . .</Value>
+    <Value2>Date. . . Month . . . Year . . . .</Value2>
+  </rbckqhdkd_200>
+  <rbckqhdkd_200>
+    <Code>rbckqhdkd_200</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Người lập biểu</Value>
+    <Value2>Persons scheduling</Value2>
+  </rbckqhdkd_200>
+  <rbckqhdkd_200>
+    <Code>rbckqhdkd_200</Code>
+    <Name>c_tm</Name>
+    <Type>C</Type>
+    <Value>Thuyết Minh</Value>
+    <Value2>Interpretation</Value2>
+  </rbckqhdkd_200>
+  <rbckqhdkd_200>
+    <Code>rbckqhdkd_200</Code>
+    <Name>c_tu_ngay</Name>
+    <Type>C</Type>
+    <Value>Từ ngày</Value>
+    <Value2>From Date</Value2>
+  </rbckqhdkd_200>
+</NewDataSet>

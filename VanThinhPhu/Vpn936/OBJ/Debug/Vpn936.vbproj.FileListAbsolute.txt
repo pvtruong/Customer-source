@@ -1,0 +1,69 @@
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\bin\Debug\Vpn9.exe
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\bin\Debug\Vpn9.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\bin\Debug\Vpn9.xml
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\bin\Debug\ClsControl2.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\bin\Debug\ClsLookup.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\bin\Debug\Clsql.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\bin\Debug\ClsRight.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\bin\Debug\ClsStpService.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\bin\Debug\ClsSV31.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\bin\Debug\clsViDe.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\bin\Debug\ClsMath.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\bin\Debug\clsab.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\bin\Debug\ClsVno.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\bin\Debug\clsPopUp.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\bin\Debug\Ionic.Zip.dll
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\obj\Debug\ResolveAssemblyReference.cache
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\obj\Debug\Vpn9.frmdklayhd.resources
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\obj\Debug\Vpn9.frmPrint.resources
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\obj\Debug\Vpn9.frmsearch.resources
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\obj\Debug\Vpn9.Frmmain.resources
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\obj\Debug\Vpn9.frminput.resources
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\obj\Debug\Vpn9.Resources.resources
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\obj\Debug\Vpn936.vbproj.GenerateResource.Cache
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\obj\Debug\Vpn9.exe
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\obj\Debug\Vpn9.xml
+J:\STP01\#E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\obj\Debug\Vpn9.pdb
+E:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\obj\Debug\Vpn9.exe
+E:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\obj\Debug\Vpn9.xml
+E:\STP01\E\STP SOURCE\ACC\3.6\voucher\Vpn936\Vpn936\obj\Debug\Vpn9.pdb
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\obj\Debug\Vpn9.exe
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\obj\Debug\Vpn9.xml
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\obj\Debug\Vpn9.pdb
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\Vpn9.exe
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\Vpn9.pdb
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\Vpn9.xml
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\ClPrint.DLL
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\ClsControl2.DLL
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\ClsList.DLL
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\ClsLookup.DLL
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\Clsql.DLL
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\ClsReport.dll
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\ClsRight.DLL
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\ClsRpt.DLL
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\ClsStpService.DLL
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\ClsSV31.DLL
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\clsViDe.DLL
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\ClsVno.DLL
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\Control.dll
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\ClsMsg.dll
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\Eval3.dll
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\clschat.dll
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\ClsPilot.dll
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\ClsMath.dll
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\office.dll
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\Ionic.Zip.dll
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\clsphannhomdm.dll
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\clsab.dll
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\Microsoft.Office.Interop.Excel.dll
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\Interop.Excel.dll
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\clsPermit4Field.dll
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\bin\Debug\clsPopUp.dll
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\obj\Debug\ResolveAssemblyReference.cache
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\obj\Debug\Vpn9.frmdklayhd.resources
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\obj\Debug\Vpn9.frmPrint.resources
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\obj\Debug\Vpn9.frmsearch.resources
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\obj\Debug\Vpn9.Frmmain.resources
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\obj\Debug\Vpn9.frminput.resources
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\obj\Debug\Vpn9.Resources.resources
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Vpn936\obj\Debug\Vpn936.vbproj.GenerateResource.Cache

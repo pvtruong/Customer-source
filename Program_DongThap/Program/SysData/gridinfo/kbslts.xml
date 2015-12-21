@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="kbslts" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="kbslts">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsV" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsE" type="xs:string" minOccurs="0" />
+                <xs:element name="headersV" type="xs:string" minOccurs="0" />
+                <xs:element name="headersE" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <kbslts>
+    <gridid>kbslts</gridid>
+    <columnsV>so_the_ts,sl_kh,ngay_ct</columnsV>
+    <columnsE>so_the_ts,sl_kh,ngay_ct</columnsE>
+    <headersV>Số thẻ,Sản lượng,Ngày chứng từ</headersV>
+    <headersE>FA Card No.,Quantity,Voucher Date</headersE>
+    <widths>100,100,100</widths>
+    <formats>,f_sl,</formats>
+    <readonlys>1,1,1</readonlys>
+    <hides>0,0,0</hides>
+    <defaultvalues>,,</defaultvalues>
+    <carrys>0,0,0</carrys>
+  </kbslts>
+</NewDataSet>

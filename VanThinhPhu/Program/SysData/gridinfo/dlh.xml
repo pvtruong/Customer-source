@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dlh" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dlh">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsv" type="xs:string" minOccurs="0" />
+                <xs:element name="columnse" type="xs:string" minOccurs="0" />
+                <xs:element name="headersv" type="xs:string" minOccurs="0" />
+                <xs:element name="headerse" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dlh>
+    <gridid>dlh</gridid>
+    <columnsv>ten_nguoi_lien_he,mobile,email1,dia_chi1</columnsv>
+    <columnse>ten_nguoi_lien_he,mobile,email1,dia_chi1</columnse>
+    <headersv>Người liên hệ,DTDD,Thư điện 
+tử,Địa chỉ</headersv>
+    <headerse>Người liên hệ,Mobile,Email,Address</headerse>
+    <widths>200,100,100,200</widths>
+    <formats>,,,</formats>
+    <readonlys>1,1,1,1</readonlys>
+    <hides>0,0,0,0</hides>
+    <defaultvalues>,,,</defaultvalues>
+    <carrys>0,0,0,0</carrys>
+  </dlh>
+</NewDataSet>

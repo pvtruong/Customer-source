@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="hdttbhxh" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="hdttbhxh">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsv" type="xs:string" minOccurs="0" />
+                <xs:element name="columnse" type="xs:string" minOccurs="0" />
+                <xs:element name="headersv" type="xs:string" minOccurs="0" />
+                <xs:element name="headerse" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <hdttbhxh>
+    <gridid>hdttbhxh</gridid>
+    <columnsv>ma_tt_bhxh,ten_tt_bhxh,dong_bh_yn,trang_thai,thuc_te_lv</columnsv>
+    <columnse>ma_tt_bhxh,ten_tt_bhxh2,dong_bh_yn,trang_thai,thuc_te_lv</columnse>
+    <headersv>Mã trạng thái,Tên trạng thái,Đóng BHXH,Tự đóng,Thực tế làm việc</headersv>
+    <headerse>Mã trạng thái,Tên trạng thái,Đóng BHXH,Tự đóng,Thực tế làm việc</headerse>
+    <widths>100,250,70,70,90</widths>
+    <formats>,,,,</formats>
+    <readonlys>1,1,1,1,1</readonlys>
+    <hides>0,0,0,0,0</hides>
+    <defaultvalues>,,,,</defaultvalues>
+    <carrys>0,0,0,0,0</carrys>
+  </hdttbhxh>
+</NewDataSet>

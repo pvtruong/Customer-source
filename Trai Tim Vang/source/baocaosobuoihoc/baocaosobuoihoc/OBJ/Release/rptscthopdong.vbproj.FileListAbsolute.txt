@@ -1,0 +1,53 @@
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\bin\Release\rptscthopdong.exe.config
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\bin\Release\rptscthopdong.exe
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\bin\Release\rptscthopdong.pdb
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\bin\Release\rptscthopdong.xml
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\bin\Release\ClPrint.dll
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\bin\Release\ClsControl2.dll
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\bin\Release\ClsLookup.dll
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\bin\Release\Clsql.dll
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\bin\Release\ClsRpt.dll
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\bin\Release\ClsStpService.dll
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\bin\Release\System.Windows.Forms.DataVisualization.dll
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\bin\Release\clsViDe.dll
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\bin\Release\ClsMath.dll
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\bin\Release\clsPopUp.dll
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\bin\Release\ClsRight.dll
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\bin\Release\clsab.dll
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\bin\Release\Ionic.Zip.dll
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\bin\Release\Eval3.dll
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\bin\Release\ClsPilot.dll
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\bin\Release\clschat.dll
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\bin\Release\stdole.dll
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\obj\Release\rptscthopdong.frmfilter.resources
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\obj\Release\rptscthopdong.MainForm.resources
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\obj\Release\rptscthopdong.Resources.resources
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\obj\Release\rptscthopdong.vbproj.GenerateResource.Cache
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\obj\Release\rptscthopdong.exe
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\obj\Release\rptscthopdong.xml
+C:\Users\Truong\Box Sync\acc\9.0\rptscthopdong\rptscthopdong\obj\Release\rptscthopdong.pdb
+D:\Github\Customer-source\Trai Tim Vang\source\baocaosobuoihoc\baocaosobuoihoc\bin\Release\baocaosobuoihoc.exe.config
+D:\Github\Customer-source\Trai Tim Vang\source\baocaosobuoihoc\baocaosobuoihoc\obj\Release\rptscthopdong.vbprojResolveAssemblyReference.cache
+D:\Github\Customer-source\Trai Tim Vang\source\baocaosobuoihoc\baocaosobuoihoc\obj\Release\baocaosobuoihoc.frmfilter.resources
+D:\Github\Customer-source\Trai Tim Vang\source\baocaosobuoihoc\baocaosobuoihoc\obj\Release\baocaosobuoihoc.MainForm.resources
+D:\Github\Customer-source\Trai Tim Vang\source\baocaosobuoihoc\baocaosobuoihoc\obj\Release\baocaosobuoihoc.Resources.resources
+D:\Github\Customer-source\Trai Tim Vang\source\baocaosobuoihoc\baocaosobuoihoc\obj\Release\rptscthopdong.vbproj.GenerateResource.Cache
+D:\Github\Customer-source\Trai Tim Vang\source\baocaosobuoihoc\baocaosobuoihoc\obj\Release\baocaosobuoihoc.xml
+D:\Github\Customer-source\Trai Tim Vang\source\baocaosobuoihoc\baocaosobuoihoc\bin\Release\baocaosobuoihoc.exe
+D:\Github\Customer-source\Trai Tim Vang\source\baocaosobuoihoc\baocaosobuoihoc\bin\Release\baocaosobuoihoc.pdb
+D:\Github\Customer-source\Trai Tim Vang\source\baocaosobuoihoc\baocaosobuoihoc\bin\Release\baocaosobuoihoc.xml
+D:\Github\Customer-source\Trai Tim Vang\source\baocaosobuoihoc\baocaosobuoihoc\bin\Release\System.Windows.Forms.DataVisualization.dll
+D:\Github\Customer-source\Trai Tim Vang\source\baocaosobuoihoc\baocaosobuoihoc\bin\Release\clsViDe.dll
+D:\Github\Customer-source\Trai Tim Vang\source\baocaosobuoihoc\baocaosobuoihoc\bin\Release\ClsMath.dll
+D:\Github\Customer-source\Trai Tim Vang\source\baocaosobuoihoc\baocaosobuoihoc\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Github\Customer-source\Trai Tim Vang\source\baocaosobuoihoc\baocaosobuoihoc\bin\Release\clsPopUp.dll
+D:\Github\Customer-source\Trai Tim Vang\source\baocaosobuoihoc\baocaosobuoihoc\bin\Release\ClsRight.dll
+D:\Github\Customer-source\Trai Tim Vang\source\baocaosobuoihoc\baocaosobuoihoc\bin\Release\clsab.dll
+D:\Github\Customer-source\Trai Tim Vang\source\baocaosobuoihoc\baocaosobuoihoc\bin\Release\Ionic.Zip.dll
+D:\Github\Customer-source\Trai Tim Vang\source\baocaosobuoihoc\baocaosobuoihoc\bin\Release\Eval3.dll
+D:\Github\Customer-source\Trai Tim Vang\source\baocaosobuoihoc\baocaosobuoihoc\bin\Release\ClsPilot.dll
+D:\Github\Customer-source\Trai Tim Vang\source\baocaosobuoihoc\baocaosobuoihoc\bin\Release\clschat.dll
+D:\Github\Customer-source\Trai Tim Vang\source\baocaosobuoihoc\baocaosobuoihoc\bin\Release\stdole.dll
+D:\Github\Customer-source\Trai Tim Vang\source\baocaosobuoihoc\baocaosobuoihoc\obj\Release\baocaosobuoihoc.exe
+D:\Github\Customer-source\Trai Tim Vang\source\baocaosobuoihoc\baocaosobuoihoc\obj\Release\baocaosobuoihoc.pdb

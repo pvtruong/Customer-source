@@ -1,0 +1,162 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="zrexpendreport" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="zrexpendreport">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <zrexpendreport>
+    <Code>zrexpendreport</Code>
+    <Name>c_01</Name>
+    <Type>C</Type>
+    <Value>Prepared by:</Value>
+    <Value2>Prepared by:</Value2>
+  </zrexpendreport>
+  <zrexpendreport>
+    <Code>zrexpendreport</Code>
+    <Name>c_02</Name>
+    <Type>C</Type>
+    <Value>Position in the Organisation:</Value>
+    <Value2>Position in the Organisation:</Value2>
+  </zrexpendreport>
+  <zrexpendreport>
+    <Code>zrexpendreport</Code>
+    <Name>c_03</Name>
+    <Type>C</Type>
+    <Value>Signature:</Value>
+    <Value2>Signature:</Value2>
+  </zrexpendreport>
+  <zrexpendreport>
+    <Code>zrexpendreport</Code>
+    <Name>c_04</Name>
+    <Type>C</Type>
+    <Value>Approved by:</Value>
+    <Value2>Approved by:</Value2>
+  </zrexpendreport>
+  <zrexpendreport>
+    <Code>zrexpendreport</Code>
+    <Name>c_05</Name>
+    <Type>C</Type>
+    <Value>Position in the Organisation:</Value>
+    <Value2>Position in the Organisation:</Value2>
+  </zrexpendreport>
+  <zrexpendreport>
+    <Code>zrexpendreport</Code>
+    <Name>c_06</Name>
+    <Type>C</Type>
+    <Value>Controlled by:</Value>
+    <Value2>Controlled by:</Value2>
+  </zrexpendreport>
+  <zrexpendreport>
+    <Code>zrexpendreport</Code>
+    <Name>c_07</Name>
+    <Type>C</Type>
+    <Value>Country Financial Controller</Value>
+    <Value2>Country Financial Controller</Value2>
+  </zrexpendreport>
+  <zrexpendreport>
+    <Code>zrexpendreport</Code>
+    <Name>c_08</Name>
+    <Type>C</Type>
+    <Value>WE Country Director</Value>
+    <Value2>WE Country Director</Value2>
+  </zrexpendreport>
+  <zrexpendreport>
+    <Code>zrexpendreport</Code>
+    <Name>c_09</Name>
+    <Type>C</Type>
+    <Value>WE Programme Coordinator in Stockholm</Value>
+    <Value2>WE Programme Coordinator in Stockholm</Value2>
+  </zrexpendreport>
+  <zrexpendreport>
+    <Code>zrexpendreport</Code>
+    <Name>c_co</Name>
+    <Type>C</Type>
+    <Value>CREDIT (CR) (VND)</Value>
+    <Value2>CREDIT (CR) (VND)</Value2>
+  </zrexpendreport>
+  <zrexpendreport>
+    <Code>zrexpendreport</Code>
+    <Name>c_ct</Name>
+    <Type>C</Type>
+    <Value>ITEMS</Value>
+    <Value2>ITEMS</Value2>
+  </zrexpendreport>
+  <zrexpendreport>
+    <Code>zrexpendreport</Code>
+    <Name>c_ghi_chu</Name>
+    <Type>C</Type>
+    <Value>Notes:</Value>
+    <Value2>Notes:</Value2>
+  </zrexpendreport>
+  <zrexpendreport>
+    <Code>zrexpendreport</Code>
+    <Name>c_ky</Name>
+    <Type>C</Type>
+    <Value>Period:</Value>
+    <Value2>Period:</Value2>
+  </zrexpendreport>
+  <zrexpendreport>
+    <Code>zrexpendreport</Code>
+    <Name>c_ma_du_an</Name>
+    <Type>C</Type>
+    <Value>Project number:</Value>
+    <Value2>Project number:</Value2>
+  </zrexpendreport>
+  <zrexpendreport>
+    <Code>zrexpendreport</Code>
+    <Name>c_ngay</Name>
+    <Type>C</Type>
+    <Value>Date:</Value>
+    <Value2>Date:</Value2>
+  </zrexpendreport>
+  <zrexpendreport>
+    <Code>zrexpendreport</Code>
+    <Name>c_no</Name>
+    <Type>C</Type>
+    <Value>DEBIT (DR) (VND)</Value>
+    <Value2>DEBIT (DR) (VND)</Value2>
+  </zrexpendreport>
+  <zrexpendreport>
+    <Code>zrexpendreport</Code>
+    <Name>c_so_tk</Name>
+    <Type>C</Type>
+    <Value>A/C No.</Value>
+    <Value2>A/C No.</Value2>
+  </zrexpendreport>
+  <zrexpendreport>
+    <Code>zrexpendreport</Code>
+    <Name>c_so_tv</Name>
+    <Type>C</Type>
+    <Value>Component number:</Value>
+    <Value2>Component number:</Value2>
+  </zrexpendreport>
+  <zrexpendreport>
+    <Code>zrexpendreport</Code>
+    <Name>c_ten_cty</Name>
+    <Type>C</Type>
+    <Value>Name of the organisation:</Value>
+    <Value2>Name of the organisation:</Value2>
+  </zrexpendreport>
+  <zrexpendreport>
+    <Code>zrexpendreport</Code>
+    <Name>c_ten_du_an</Name>
+    <Type>C</Type>
+    <Value>Name of the project:</Value>
+    <Value2>Name of the project:</Value2>
+  </zrexpendreport>
+</NewDataSet>

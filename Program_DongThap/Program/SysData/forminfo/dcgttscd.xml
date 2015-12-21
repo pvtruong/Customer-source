@@ -1,0 +1,171 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dcgttscd" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dcgttscd">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dcgttscd>
+    <FormID>dcgttscd</FormID>
+    <TextID>000</TextID>
+    <TextV>Điều chỉnh giá trị tài sản</TextV>
+    <TextE>Fixed Asset Value Adjustment</TextE>
+  </dcgttscd>
+  <dcgttscd>
+    <FormID>dcgttscd</FormID>
+    <TextID>001</TextID>
+    <TextV>Số thẻ</TextV>
+    <TextE>FA Card No.</TextE>
+  </dcgttscd>
+  <dcgttscd>
+    <FormID>dcgttscd</FormID>
+    <TextID>002</TextID>
+    <TextV>Kỳ</TextV>
+    <TextE>Period</TextE>
+  </dcgttscd>
+  <dcgttscd>
+    <FormID>dcgttscd</FormID>
+    <TextID>003</TextID>
+    <TextV>Năm</TextV>
+    <TextE>Year</TextE>
+  </dcgttscd>
+  <dcgttscd>
+    <FormID>dcgttscd</FormID>
+    <TextID>004</TextID>
+    <TextV>Mã nguồn vốn</TextV>
+    <TextE>Capital Code</TextE>
+  </dcgttscd>
+  <dcgttscd>
+    <FormID>dcgttscd</FormID>
+    <TextID>005</TextID>
+    <TextV>Lý do</TextV>
+    <TextE>Reason</TextE>
+  </dcgttscd>
+  <dcgttscd>
+    <FormID>dcgttscd</FormID>
+    <TextID>006</TextID>
+    <TextV>Ngày ct</TextV>
+    <TextE>Voucher Date</TextE>
+  </dcgttscd>
+  <dcgttscd>
+    <FormID>dcgttscd</FormID>
+    <TextID>007</TextID>
+    <TextV>Số ct</TextV>
+    <TextE>Voucher No.</TextE>
+  </dcgttscd>
+  <dcgttscd>
+    <FormID>dcgttscd</FormID>
+    <TextID>008</TextID>
+    <TextV>Nguyên giá</TextV>
+    <TextE>Original Cost</TextE>
+  </dcgttscd>
+  <dcgttscd>
+    <FormID>dcgttscd</FormID>
+    <TextID>009</TextID>
+    <TextV>Giá trị đã khấu hao</TextV>
+    <TextE>Depreciated Value</TextE>
+  </dcgttscd>
+  <dcgttscd>
+    <FormID>dcgttscd</FormID>
+    <TextID>010</TextID>
+    <TextV>Giá trị còn lại</TextV>
+    <TextE>Current Value</TextE>
+  </dcgttscd>
+  <dcgttscd>
+    <FormID>dcgttscd</FormID>
+    <TextID>011</TextID>
+    <TextV>Giá trị khấu hao kỳ</TextV>
+    <TextE>Monthly Depr.</TextE>
+  </dcgttscd>
+  <dcgttscd>
+    <FormID>dcgttscd</FormID>
+    <TextID>012</TextID>
+    <TextV>Tổng số kỳ kh sau điều chỉnh</TextV>
+    <TextE>Total Value After Depreciation Adjustment</TextE>
+  </dcgttscd>
+  <dcgttscd>
+    <FormID>dcgttscd</FormID>
+    <TextID>013</TextID>
+    <TextV>Diễn giải</TextV>
+    <TextE>Memo</TextE>
+  </dcgttscd>
+  <dcgttscd>
+    <FormID>dcgttscd</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Created</TextE>
+  </dcgttscd>
+  <dcgttscd>
+    <FormID>dcgttscd</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modify</TextE>
+  </dcgttscd>
+  <dcgttscd>
+    <FormID>dcgttscd</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </dcgttscd>
+  <dcgttscd>
+    <FormID>dcgttscd</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </dcgttscd>
+  <dcgttscd>
+    <FormID>dcgttscd</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </dcgttscd>
+  <dcgttscd>
+    <FormID>dcgttscd</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dcgttscd>
+  <dcgttscd>
+    <FormID>dcgttscd</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </dcgttscd>
+  <dcgttscd>
+    <FormID>dcgttscd</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </dcgttscd>
+  <dcgttscd>
+    <FormID>dcgttscd</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </dcgttscd>
+  <dcgttscd>
+    <FormID>dcgttscd</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </dcgttscd>
+  <dcgttscd>
+    <FormID>dcgttscd</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </dcgttscd>
+</NewDataSet>

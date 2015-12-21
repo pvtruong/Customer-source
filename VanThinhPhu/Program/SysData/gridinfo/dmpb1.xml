@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dmpb1" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dmpb1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsv" type="xs:string" minOccurs="0" />
+                <xs:element name="columnse" type="xs:string" minOccurs="0" />
+                <xs:element name="headersv" type="xs:string" minOccurs="0" />
+                <xs:element name="headerse" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dmpb1>
+    <gridid>dmpb1</gridid>
+    <columnsv>tk,ten_tk,ma_kh,ma_bp,ma_dt,ma_phi,ma_hd,ma_sp,tk_he_so1,tk_du1,tk_he_so2,tk_du2,tk_he_so3,tk_du3</columnsv>
+    <columnse>tk,ten_tk,ma_kh,ma_bp,ma_dt,ma_phi,ma_hd,ma_sp,tk_he_so1,tk_du1,tk_he_so2,tk_du2,tk_he_so3,tk_du3</columnse>
+    <headersv>Tài khoản,Tên tài khoản,Mã khách,Mã bộ phân,Mã vụ việc,Mã phí,Mã hợp đồng,Mã sản phẩm,TK nợ 1,TK có 1,TK nợ 2,TK có 2,TK nợ 3,TK có 3</headersv>
+    <headerse>tk,ten_tk,Customer,Departure,Object,Fees,Contract,Products,tk_he_so1,tk_du1,tk_he_so2,tk_du2,tk_he_so3,tk_du3</headerse>
+    <widths>100,200,100,100,100,100,100,100,100,100,100,100,100,100</widths>
+    <formats>,,,,,,,,,,,,,</formats>
+    <readonlys>0,1,0,0,0,0,0,0,0,0,0,0,0,0</readonlys>
+    <hides>0,0,0,0,0,0,1,1,0,0,0,0,0,0</hides>
+    <defaultvalues>,,,,,,,,,,,,,</defaultvalues>
+    <carrys>0,0,0,0,0,0,0,0,0,0,0,0,0,0</carrys>
+  </dmpb1>
+</NewDataSet>

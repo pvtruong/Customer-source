@@ -1,0 +1,123 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dda" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dda">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dda>
+    <FormID>dda</FormID>
+    <TextID>001</TextID>
+    <TextV>Mã dự án</TextV>
+    <TextE>Mã dự án</TextE>
+  </dda>
+  <dda>
+    <FormID>dda</FormID>
+    <TextID>002</TextID>
+    <TextV>Tên dự án</TextV>
+    <TextE>Tên dự án</TextE>
+  </dda>
+  <dda>
+    <FormID>dda</FormID>
+    <TextID>003</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Trạng thái</TextE>
+  </dda>
+  <dda>
+    <FormID>dda</FormID>
+    <TextID>004</TextID>
+    <TextV>Danh mục dự án</TextV>
+    <TextE>Danh mục dự án</TextE>
+  </dda>
+  <dda>
+    <FormID>dda</FormID>
+    <TextID>005</TextID>
+    <TextV>Quận huyện</TextV>
+    <TextE>Quận huyện</TextE>
+  </dda>
+  <dda>
+    <FormID>dda</FormID>
+    <TextID>006</TextID>
+    <TextV>Tỉnh thành</TextV>
+    <TextE>Tỉnh thành</TextE>
+  </dda>
+  <dda>
+    <FormID>dda</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Người tạo</TextE>
+  </dda>
+  <dda>
+    <FormID>dda</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Người sửa</TextE>
+  </dda>
+  <dda>
+    <FormID>dda</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Ngày sửa</TextE>
+  </dda>
+  <dda>
+    <FormID>dda</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Ngày sửa</TextE>
+  </dda>
+  <dda>
+    <FormID>dda</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Lưu</TextE>
+  </dda>
+  <dda>
+    <FormID>dda</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Hủy</TextE>
+  </dda>
+  <dda>
+    <FormID>dda</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;Mới</TextE>
+  </dda>
+  <dda>
+    <FormID>dda</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Sửa</TextE>
+  </dda>
+  <dda>
+    <FormID>dda</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Xóa</TextE>
+  </dda>
+  <dda>
+    <FormID>dda</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Thoát</TextE>
+  </dda>
+  <dda>
+    <FormID>dda</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Chức năng</TextE>
+  </dda>
+</NewDataSet>

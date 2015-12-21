@@ -1,0 +1,243 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="inputvatvao" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="inputvatvao">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>000</TextID>
+    <TextV>Vào các hóa đơn GTGT đầu vào</TextV>
+    <TextE>Output VAT Reports</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>001</TextID>
+    <TextV>Đơn vị cơ sở</TextV>
+    <TextE>Unit</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>002</TextID>
+    <TextV>Số chứng từ</TextV>
+    <TextE>Voucher No.</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>003</TextID>
+    <TextV>Ngày chứng từ</TextV>
+    <TextE>Voucher Date</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>004</TextID>
+    <TextV>Số hóa đơn</TextV>
+    <TextE>Inv. No.</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>005</TextID>
+    <TextV>Ngày hóa đơn</TextV>
+    <TextE>Inv. Date</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>006</TextID>
+    <TextV>Mã tính chất</TextV>
+    <TextE>Code</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>007</TextID>
+    <TextV>Mã nhà cung cấp</TextV>
+    <TextE>Supplier ID</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>008</TextID>
+    <TextV>Tên nhà cung cấp</TextV>
+    <TextE>Supplier Name</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>009</TextID>
+    <TextV>Địa chỉ</TextV>
+    <TextE>Address</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>013</TextID>
+    <TextV>Mã số thuế</TextV>
+    <TextE>Tax Code</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>014</TextID>
+    <TextV>Tên vật tư</TextV>
+    <TextE>Item Name</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>015</TextID>
+    <TextV>Số lượng</TextV>
+    <TextE>Quantity</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>016</TextID>
+    <TextV>Giá</TextV>
+    <TextE>Cost</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>017</TextID>
+    <TextV>Tiền trên hóa đơn</TextV>
+    <TextE>Invoice Amount</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>032</TextID>
+    <TextV>Mã thuế</TextV>
+    <TextE>Tax Code</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>033</TextID>
+    <TextV>Thuế suất</TextV>
+    <TextE>Tax Rate</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>034</TextID>
+    <TextV>Tiền thuế</TextV>
+    <TextE>Tax Amt</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Created</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modify</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>200</TextID>
+    <TextV>Ghi chú</TextV>
+    <TextE>Note</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>201</TextID>
+    <TextV>Tk thuế nợ</TextV>
+    <TextE>Tax Account Debt</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>202</TextID>
+    <TextV>Tk đối ứng</TextV>
+    <TextE>Ref. Acct</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>407</TextID>
+    <TextV>Tìm</TextV>
+    <TextE>Sea&amp;rch</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>408</TextID>
+    <TextV>Từ ngày/đến ngày</TextV>
+    <TextE>Date from/to</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>409</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>&amp;OK</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>410</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </inputvatvao>
+  <inputvatvao>
+    <FormID>inputvatvao</FormID>
+    <TextID>411</TextID>
+    <TextV>Số seri</TextV>
+    <TextE>Serial No.</TextE>
+  </inputvatvao>
+</NewDataSet>

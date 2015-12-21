@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="getVT4BC_n" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="getVT4BC_n">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsv" type="xs:string" minOccurs="0" />
+                <xs:element name="columnse" type="xs:string" minOccurs="0" />
+                <xs:element name="headersv" type="xs:string" minOccurs="0" />
+                <xs:element name="headerse" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <getVT4BC_n>
+    <gridid>getVT4BC_n</gridid>
+    <columnsv>sel,so_ct,ngay_ct,ma_vt,ten_vt,ma_kh,nh_kh1,gia_ban_le,so_luong</columnsv>
+    <columnse>sel,so_ct,ngay_ct,ma_vt,ten_vt,ma_kh,nh_kh1,gia_ban_le,so_luong</columnse>
+    <headersv>Sel,Số chứng từ,Ngày chứng từ,Mã sản phẩm,Tên sản phẩm,Giá cho khách,Giá cho nhóm  khách,Giá bán lẻ,Số lượng in</headersv>
+    <headerse>sel,Số chứng từ,Ngày chứng từ,Mã sản phẩm,Tên sản phẩm,Giá cho khách,Giá cho nhóm  khách,Giá bán lẻ,Số lượng in</headerse>
+    <widths>50,100,100,100,200,100,100,100,100</widths>
+    <formats>,,,,,,,f_tien,f_tien</formats>
+    <readonlys>0,1,1,1,1,1,1,1,0</readonlys>
+    <hides>0,0,0,0,0,0,0,0,0</hides>
+    <defaultvalues>,,,,,,,,</defaultvalues>
+    <carrys>0,0,0,0,0,0,0,0,0</carrys>
+  </getVT4BC_n>
+</NewDataSet>

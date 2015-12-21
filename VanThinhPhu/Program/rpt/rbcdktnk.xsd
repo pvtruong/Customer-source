@@ -1,0 +1,131 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Table">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="sysorder" type="xs:decimal" minOccurs="0" />
+              <xs:element name="sysprint" type="xs:boolean" minOccurs="0" />
+              <xs:element name="systotal" type="xs:int" minOccurs="0" />
+              <xs:element name="form" type="xs:string" minOccurs="0" />
+              <xs:element name="stt" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ma_so" type="xs:string" minOccurs="0" />
+              <xs:element name="ts_nv" type="xs:decimal" minOccurs="0" />
+              <xs:element name="cong_no" type="xs:boolean" minOccurs="0" />
+              <xs:element name="ngoai_bang" type="xs:boolean" minOccurs="0" />
+              <xs:element name="khong_am" type="xs:boolean" minOccurs="0" />
+              <xs:element name="cach_tinh" type="xs:string" minOccurs="0" />
+              <xs:element name="tk" type="xs:string" minOccurs="0" />
+              <xs:element name="chi_tieu" type="xs:string" minOccurs="0" />
+              <xs:element name="chi_tieu2" type="xs:string" minOccurs="0" />
+              <xs:element name="thuyet_minh" type="xs:string" minOccurs="0" />
+              <xs:element name="tien0" type="xs:decimal" minOccurs="0" />
+              <xs:element name="tien_nt0" type="xs:decimal" minOccurs="0" />
+              <xs:element name="tien" type="xs:decimal" minOccurs="0" />
+              <xs:element name="tien_nt" type="xs:decimal" minOccurs="0" />
+              <xs:element name="bold" type="xs:boolean" minOccurs="0" />
+              <xs:element name="in_ck" type="xs:boolean" minOccurs="0" />
+              <xs:element name="ids" type="xs:decimal" minOccurs="0" />
+              <xs:element name="iscal" type="xs:unsignedByte" minOccurs="0" />
+              <xs:element name="nguoi_tao" type="xs:string" minOccurs="0" />
+              <xs:element name="nguoi_sua" type="xs:string" minOccurs="0" />
+              <xs:element name="ngay_tao" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="ngay_sua" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="trang_thai" type="xs:boolean" minOccurs="0" />
+              <xs:element name="mcal" type="xs:int" minOccurs="0" />
+              <xs:element name="xCycle" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Table1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="sysorder" type="xs:decimal" minOccurs="0" />
+              <xs:element name="sysprint" type="xs:boolean" minOccurs="0" />
+              <xs:element name="systotal" type="xs:int" minOccurs="0" />
+              <xs:element name="form" type="xs:string" minOccurs="0" />
+              <xs:element name="stt" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ma_so" type="xs:string" minOccurs="0" />
+              <xs:element name="ts_nv" type="xs:decimal" minOccurs="0" />
+              <xs:element name="cong_no" type="xs:boolean" minOccurs="0" />
+              <xs:element name="ngoai_bang" type="xs:boolean" minOccurs="0" />
+              <xs:element name="khong_am" type="xs:boolean" minOccurs="0" />
+              <xs:element name="cach_tinh" type="xs:string" minOccurs="0" />
+              <xs:element name="tk" type="xs:string" minOccurs="0" />
+              <xs:element name="chi_tieu" type="xs:string" minOccurs="0" />
+              <xs:element name="chi_tieu2" type="xs:string" minOccurs="0" />
+              <xs:element name="thuyet_minh" type="xs:string" minOccurs="0" />
+              <xs:element name="tien0" type="xs:decimal" minOccurs="0" />
+              <xs:element name="tien_nt0" type="xs:decimal" minOccurs="0" />
+              <xs:element name="tien" type="xs:decimal" minOccurs="0" />
+              <xs:element name="tien_nt" type="xs:decimal" minOccurs="0" />
+              <xs:element name="bold" type="xs:boolean" minOccurs="0" />
+              <xs:element name="in_ck" type="xs:boolean" minOccurs="0" />
+              <xs:element name="ids" type="xs:decimal" minOccurs="0" />
+              <xs:element name="iscal" type="xs:unsignedByte" minOccurs="0" />
+              <xs:element name="nguoi_tao" type="xs:string" minOccurs="0" />
+              <xs:element name="nguoi_sua" type="xs:string" minOccurs="0" />
+              <xs:element name="ngay_tao" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="ngay_sua" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="trang_thai" type="xs:boolean" minOccurs="0" />
+              <xs:element name="mcal" type="xs:int" minOccurs="0" />
+              <xs:element name="xCycle" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="_x0033_1_x002F_12_x002F_2010.tien" type="xs:decimal" minOccurs="0" />
+              <xs:element name="_x0033_1_x002F_01_x002F_2011.tien" type="xs:decimal" minOccurs="0" />
+              <xs:element name="_x0032_8_x002F_02_x002F_2011.tien" type="xs:decimal" minOccurs="0" />
+              <xs:element name="_x0033_1_x002F_03_x002F_2011.tien" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="properties">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="code" type="xs:string" minOccurs="0" />
+              <xs:element name="stt" type="xs:int" minOccurs="0" />
+              <xs:element name="name" type="xs:string" minOccurs="0" />
+              <xs:element name="name2" type="xs:string" minOccurs="0" />
+              <xs:element name="title0" type="xs:string" minOccurs="0" />
+              <xs:element name="title2" type="xs:string" minOccurs="0" />
+              <xs:element name="rpt" type="xs:string" minOccurs="0" />
+              <xs:element name="rpt_chart" type="xs:string" minOccurs="0" />
+              <xs:element name="store" type="xs:string" minOccurs="0" />
+              <xs:element name="pilotcolumn" type="xs:string" minOccurs="0" />
+              <xs:element name="pilotrow" type="xs:string" minOccurs="0" />
+              <xs:element name="pilotdata" type="xs:string" minOccurs="0" />
+              <xs:element name="pilotheader" type="xs:string" minOccurs="0" />
+              <xs:element name="pilotheader2" type="xs:string" minOccurs="0" />
+              <xs:element name="pilotwidth" type="xs:string" minOccurs="0" />
+              <xs:element name="pilotformat" type="xs:string" minOccurs="0" />
+              <xs:element name="pilotreadonly" type="xs:string" minOccurs="0" />
+              <xs:element name="gridid" type="xs:string" minOccurs="0" />
+              <xs:element name="tbform" type="xs:string" minOccurs="0" />
+              <xs:element name="idform" type="xs:string" minOccurs="0" />
+              <xs:element name="line_min" type="xs:int" minOccurs="0" />
+              <xs:element name="user_permit_print1" type="xs:string" minOccurs="0" />
+              <xs:element name="user_permit_print12" type="xs:string" minOccurs="0" />
+              <xs:element name="so_lien" type="xs:int" minOccurs="0" />
+              <xs:element name="ten_lien1" type="xs:string" minOccurs="0" />
+              <xs:element name="ten_lien2" type="xs:string" minOccurs="0" />
+              <xs:element name="ten_lien3" type="xs:string" minOccurs="0" />
+              <xs:element name="ten_lien4" type="xs:string" minOccurs="0" />
+              <xs:element name="ten_lien5" type="xs:string" minOccurs="0" />
+              <xs:element name="ten_lien6" type="xs:string" minOccurs="0" />
+              <xs:element name="ten_lien7" type="xs:string" minOccurs="0" />
+              <xs:element name="ten_lien8" type="xs:string" minOccurs="0" />
+              <xs:element name="ten_lien9" type="xs:string" minOccurs="0" />
+              <xs:element name="ngay_tao" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="nguoi_tao" type="xs:string" minOccurs="0" />
+              <xs:element name="ngay_sua" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="nguoi_sua" type="xs:string" minOccurs="0" />
+              <xs:element name="trang_thai" type="xs:boolean" minOccurs="0" />
+              <xs:element name="logo" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="mau_so" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

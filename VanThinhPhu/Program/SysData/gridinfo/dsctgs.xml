@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dsctgs" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dsctgs">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsv" type="xs:string" minOccurs="0" />
+                <xs:element name="columnse" type="xs:string" minOccurs="0" />
+                <xs:element name="headersv" type="xs:string" minOccurs="0" />
+                <xs:element name="headerse" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dsctgs>
+    <gridid>dsctgs</gridid>
+    <columnsv>sel,ghi_so_yn,stt,tu_ngay,den_ngay,so_ct_gs,ngay_ct_gs,ma_ct,dien_giai,tk,tk_du,ma_bp,ma_dt,loc,ma_dvcs,tien_nt,tien</columnsv>
+    <columnse>sel,ghi_so_yn,stt,tu_ngay,den_ngay,so_ct_gs,ngay_ct_gs,ma_ct,dien_giai,tk,tk_du,ma_bp,ma_dt,loc,ma_dvcs,tien_nt,tien</columnse>
+    <headersv>Sel,Đã ghi sổ,Số thứ tự,Từ ngày,Đến ngày,Số c.từ ghi sổ,Ngày c.từ ghi sổ,Mã  chứng từ,Diễn giải,Tài khoản nợ,Tài khoản có,Bộ phận hạch toán,Vụ việc,Lọc,Mã đơn vị,Tiền nt,Tiền</headersv>
+    <headerse>Sel,Đã ghi sổ,Số thứ tự,Từ ngày,Đến ngày,Số c.từ ghi sổ,Ngày c.từ ghi sổ,Mã  chứng từ,Diễn giải,Tài khoản nợ,Tài khoản có,Bộ phận hạch toán,Vụ việc,Lọc,Mã đơn vị,Tiền nt,Tiền</headerse>
+    <widths>50,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100</widths>
+    <formats>,,f_stt,,,,,,,,,,,,,f_tien_nt,f_tien</formats>
+    <readonlys>0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</readonlys>
+    <hides>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</hides>
+    <defaultvalues>,,,,,,,,,,,,,1,,,</defaultvalues>
+    <carrys>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</carrys>
+  </dsctgs>
+</NewDataSet>

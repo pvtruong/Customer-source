@@ -1,0 +1,555 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="TS" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="TS">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>000</TextID>
+    <TextV>Cập nhật tài sản cố định</TextV>
+    <TextE>Cập nhật tài sản cố định</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>001</TextID>
+    <TextV>Mã TSCĐ</TextV>
+    <TextE>Mã TSCĐ</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>002</TextID>
+    <TextV>Tên TSCĐ</TextV>
+    <TextE>Tên TSCĐ</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>003</TextID>
+    <TextV>Loại TSCĐ</TextV>
+    <TextE>Loại</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>004</TextID>
+    <TextV>Mã tăng TSCĐ</TextV>
+    <TextE>Mã tăng TSCĐ</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>005</TextID>
+    <TextV>Ngày tăng</TextV>
+    <TextE>Ngày tăng</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>006</TextID>
+    <TextV>Ngày tính khấu hao</TextV>
+    <TextE>Ngày tính khấu hao</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>007</TextID>
+    <TextV>Số kỳ khấu hao</TextV>
+    <TextE>Số kỳ khấu hao</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>008</TextID>
+    <TextV>Giá trị làm tròn</TextV>
+    <TextE>Giá trị làm tròn</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>009</TextID>
+    <TextV>Kiểu khấu hao</TextV>
+    <TextE>Kiểu khấu hao</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>013</TextID>
+    <TextV>Số kỳ kh đầu kỳ</TextV>
+    <TextE>Số kỳ kh đầu kỳ</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>014</TextID>
+    <TextV>Mã bộ phận</TextV>
+    <TextE>Mã bộ phận</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>015</TextID>
+    <TextV>TK TSCĐ</TextV>
+    <TextE>TK TSCĐ</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>016</TextID>
+    <TextV>TK khấu hao</TextV>
+    <TextE>TK khấu hao</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>017</TextID>
+    <TextV>Tìm</TextV>
+    <TextE>Tìm</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>018</TextID>
+    <TextV>Tổng sản lượng</TextV>
+    <TextE>Tổng sản lượng</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>019</TextID>
+    <TextV>Tỷ lệ kh nhanh</TextV>
+    <TextE>Tỷ lệ kh nhanh</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>032</TextID>
+    <TextV>Chi tiết</TextV>
+    <TextE>Chi tiết</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>033</TextID>
+    <TextV>TK chi phí</TextV>
+    <TextE>TK chi phí</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>034</TextID>
+    <TextV>Các giao dịch</TextV>
+    <TextE>Các giao dịch</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Người tạo</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Người sửa</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Ngày tạo</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Ngày sửa</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Lưu</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Hủy</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;Mới</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Sửa</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Xóa</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Thoát</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Chức năng</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>200</TextID>
+    <TextV>Phụ tùng kèm theo</TextV>
+    <TextE>Phụ tùng kèm theo</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>201</TextID>
+    <TextV>Thông tin khác</TextV>
+    <TextE>Thông tin khác</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>202</TextID>
+    <TextV>Tên 2</TextV>
+    <TextE>Tên 2</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>203</TextID>
+    <TextV>Số hiệu</TextV>
+    <TextE>Số hiệu</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>204</TextID>
+    <TextV>Thông số kỹ thuật</TextV>
+    <TextE>Thông số kỹ thuật</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>205</TextID>
+    <TextV>Nước sản xuất</TextV>
+    <TextE>Nước sản xuât</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>206</TextID>
+    <TextV>Năm sản xuất</TextV>
+    <TextE>Năm sản xuất</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>207</TextID>
+    <TextV>Ngày sử dụng</TextV>
+    <TextE>Ngày sử dụng</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>208</TextID>
+    <TextV>Ngày đình chỉ</TextV>
+    <TextE>Ngày đình chỉ</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>209</TextID>
+    <TextV>Hãy chọn 1 phiếu</TextV>
+    <TextE>Hãy chọn 1 phiếu</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>210</TextID>
+    <TextV>Lý do đình chỉ</TextV>
+    <TextE>Lý do đình chỉ</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>211</TextID>
+    <TextV>Ghi chú</TextV>
+    <TextE>Ghi chú</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>212</TextID>
+    <TextV>Lĩnh vực kinh doanh</TextV>
+    <TextE>Lĩnh vực kinh doanh</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>213</TextID>
+    <TextV>Vốn</TextV>
+    <TextE>capital</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>214</TextID>
+    <TextV>Diễn giải</TextV>
+    <TextE>Diễn giải</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>215</TextID>
+    <TextV>Ngoại tệ</TextV>
+    <TextE>Ngoại tệ</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>216</TextID>
+    <TextV>Nhân viên thực hiện</TextV>
+    <TextE>Nhân viên thực hiện</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>217</TextID>
+    <TextV>Thông tin TSCĐ</TextV>
+    <TextE>Thông tin TSCĐ</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>218</TextID>
+    <TextV>Tên người giao dịch</TextV>
+    <TextE>Tên người giao dịch</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>219</TextID>
+    <TextV>Lưu và thêm mới</TextV>
+    <TextE>Lưu và thêm mới</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>220</TextID>
+    <TextV>Số chứng từ</TextV>
+    <TextE>Số chứng từ</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>221</TextID>
+    <TextV>Ngày chứng từ</TextV>
+    <TextE>Ngày chứng từ</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>222</TextID>
+    <TextV>Tiền ngoại tệ</TextV>
+    <TextE>Tiền ngoại tệ</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>223</TextID>
+    <TextV>Mã thuế</TextV>
+    <TextE>Mã thuế</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>224</TextID>
+    <TextV>Thuế suất</TextV>
+    <TextE>Thuế suất</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>225</TextID>
+    <TextV>Tiền hoạch toán</TextV>
+    <TextE>Tiền hoạch toán</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>226</TextID>
+    <TextV>Tiền hoạch toán</TextV>
+    <TextE>Tiền hoạch toán</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>227</TextID>
+    <TextV>&amp;In</TextV>
+    <TextE>In</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>228</TextID>
+    <TextV>&amp;Xem</TextV>
+    <TextE>Xem</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>229</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>Hủy</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>230</TextID>
+    <TextV>Tiêu đề</TextV>
+    <TextE>Tiêu đề</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>231</TextID>
+    <TextV>Mẫu báo cáo</TextV>
+    <TextE>Mẫu báo cáo</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>232</TextID>
+    <TextV>Từ/đến ngày</TextV>
+    <TextE>Từ/đến ngày</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>233</TextID>
+    <TextV>&amp;Tìm</TextV>
+    <TextE>Tìm</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>234</TextID>
+    <TextV>Tìm</TextV>
+    <TextE>Tìm</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>300</TextID>
+    <TextV>Tên TSCĐ</TextV>
+    <TextE>Tên TSCĐ</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>301</TextID>
+    <TextV>Địa chỉ</TextV>
+    <TextE>Địa chỉ</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>302</TextID>
+    <TextV>Liên hệ</TextV>
+    <TextE>Liên hệ</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>303</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Trạng thái</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>400</TextID>
+    <TextV>Thông tin chung</TextV>
+    <TextE>Thông tin chung</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>401</TextID>
+    <TextV>Thông tin phân tích</TextV>
+    <TextE>Thông tin phân tích</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>402</TextID>
+    <TextV>Tên hợp đồng</TextV>
+    <TextE>Tên hợp đồng</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>403</TextID>
+    <TextV>Ngày bắt đầu</TextV>
+    <TextE>Ngày bắt đầu</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>404</TextID>
+    <TextV>Ngày kết thúc</TextV>
+    <TextE>Ngày kết thúc</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>405</TextID>
+    <TextV>Sản phẩm/Dịch vụ</TextV>
+    <TextE>Sản phẩm/Dịch vụ</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>406</TextID>
+    <TextV>Thanh toán</TextV>
+    <TextE>Thanh toán</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>407</TextID>
+    <TextV>Chưa nhập chi tiết</TextV>
+    <TextE>Chưa nhập chi tiết</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>408</TextID>
+    <TextV>Thuế VAT</TextV>
+    <TextE>Thuế VAT</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>409</TextID>
+    <TextV>Tiền hàng</TextV>
+    <TextE>Tiền hàng</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>410</TextID>
+    <TextV>Tiền thuế</TextV>
+    <TextE>Tiền thuế</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>411</TextID>
+    <TextV>Tổng tiền</TextV>
+    <TextE>Tổng tiền</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>420</TextID>
+    <TextV>Tk nợ</TextV>
+    <TextE>Tk nợ</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>421</TextID>
+    <TextV>Tk có</TextV>
+    <TextE>Tk có</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>L00</TextID>
+    <TextV>Chương trình đã thực hiện xong. Bạn muốn làm gì tiếp?</TextV>
+    <TextE>Chương trình đã thực hiện xong. Bạn muốn làm gì tiếp?</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>L01</TextID>
+    <TextV>Thêm &amp;mới</TextV>
+    <TextE>&amp;New</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>L02</TextID>
+    <TextV>Sao &amp;chép</TextV>
+    <TextE>&amp;Copy</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>L03</TextID>
+    <TextV>&amp;In phiếu</TextV>
+    <TextE>&amp;Print</TextE>
+  </TS>
+  <TS>
+    <FormID>TS</FormID>
+    <TextID>L04</TextID>
+    <TextV>&amp;Quay ra</TextV>
+    <TextE>&amp;Exit</TextE>
+  </TS>
+</NewDataSet>

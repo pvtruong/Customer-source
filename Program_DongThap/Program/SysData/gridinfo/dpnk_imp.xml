@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dpnk_imp" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dpnk_imp">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsV" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsE" type="xs:string" minOccurs="0" />
+                <xs:element name="headersV" type="xs:string" minOccurs="0" />
+                <xs:element name="headersE" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dpnk_imp>
+    <gridid>dpnk_imp</gridid>
+    <columnsV>ma_gd,so_ct,ngay_ct,dien_giai,ma_nt,ty_gia,ma_kh,ma_vt,ma_dvt,ma_kho,sl_nhap,pn_gia_tb,gia_von_nt,gia_von,tien_nhap_nt,tien_nhap,tk_vt,tk_du,ma_bp,ma_phi,ma_dt</columnsV>
+    <columnsE>ma_gd,so_ct,ngay_ct,dien_giai,ma_nt,ty_gia,ma_kh,ma_vt,ma_dvt,ma_kho,sl_nhap,pn_gia_tb,gia_von_nt,gia_von,tien_nhap_nt,tien_nhap,tk_vt,tk_du,ma_bp,ma_phi,ma_dt</columnsE>
+    <headersV>Loại phiếu nhập,Số chứng từ,Ngày chứng từ,Diễn giải,Mã ngoại tệ,Tỷ giá,Mã khách,Mã vt,ĐVT,Mã kho,Số lượng,Giá trung bình,Giá vốn nt,Giá vốn,Tiền nhập nt,Tiền nhập,Tk vật tư,Tk đối ứng,Mã bộ phận,Mã phí,Mã vụ việc dự án</headersV>
+    <headersE>,Voucher No.,Voucher Date,Memo,FC Code,,,Item Code,Unit,Site ID,Quantity,Average Cost,FC Price,Price,Tiền nhập nt,Tiền nhập,Inventory Acct.,Ref. Acct.,Mã bộ phận,Mã phí,Mã vụ việc dự án</headersE>
+    <widths>100,100,100,200,100,100,0,100,100,100,100,100,100,100,100,100,100,100,100,100,100</widths>
+    <formats>,,,,,,,,,,,,f_tien_nt,f_tien,f_tien_nt,f_tien,,,,,</formats>
+    <readonlys>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</readonlys>
+    <hides>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</hides>
+    <defaultvalues>,,,,,,,,,,,,,,,,,,,,</defaultvalues>
+    <carrys>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</carrys>
+  </dpnk_imp>
+</NewDataSet>

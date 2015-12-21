@@ -1,0 +1,177 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dmkc" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dmkc">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dmkc>
+    <FormID>dmkc</FormID>
+    <TextID>000</TextID>
+    <TextV>Danh mục kết chuyển</TextV>
+    <TextE>Closing Transaction Definition</TextE>
+  </dmkc>
+  <dmkc>
+    <FormID>dmkc</FormID>
+    <TextID>001</TextID>
+    <TextV>Stt</TextV>
+    <TextE>Number</TextE>
+  </dmkc>
+  <dmkc>
+    <FormID>dmkc</FormID>
+    <TextID>002</TextID>
+    <TextV>Tên bút toán</TextV>
+    <TextE>Description</TextE>
+  </dmkc>
+  <dmkc>
+    <FormID>dmkc</FormID>
+    <TextID>003</TextID>
+    <TextV>Tài khoản ghi nợ</TextV>
+    <TextE>Debit Account</TextE>
+  </dmkc>
+  <dmkc>
+    <FormID>dmkc</FormID>
+    <TextID>004</TextID>
+    <TextV>Tài khoản ghi có</TextV>
+    <TextE>Credit Account</TextE>
+  </dmkc>
+  <dmkc>
+    <FormID>dmkc</FormID>
+    <TextID>005</TextID>
+    <TextV>Loại kết chuyển</TextV>
+    <TextE>Type</TextE>
+  </dmkc>
+  <dmkc>
+    <FormID>dmkc</FormID>
+    <TextID>006</TextID>
+    <TextV>Kết chuyển theo kh</TextV>
+    <TextE>By Customer</TextE>
+  </dmkc>
+  <dmkc>
+    <FormID>dmkc</FormID>
+    <TextID>007</TextID>
+    <TextV>Kết chuyển theo bộ phận</TextV>
+    <TextE>By Department</TextE>
+  </dmkc>
+  <dmkc>
+    <FormID>dmkc</FormID>
+    <TextID>008</TextID>
+    <TextV>Kết chuyển theo mã phí</TextV>
+    <TextE>Create closing transaction by fee code</TextE>
+  </dmkc>
+  <dmkc>
+    <FormID>dmkc</FormID>
+    <TextID>009</TextID>
+    <TextV>Kết chuyển theo đối tượng(vv)</TextV>
+    <TextE>Create closing transaction by object(vv)</TextE>
+  </dmkc>
+  <dmkc>
+    <FormID>dmkc</FormID>
+    <TextID>010</TextID>
+    <TextV>Kết chuyển theo sản phẩm</TextV>
+    <TextE>By Product</TextE>
+  </dmkc>
+  <dmkc>
+    <FormID>dmkc</FormID>
+    <TextID>011</TextID>
+    <TextV>Kết chuyển theo hợp đồng</TextV>
+    <TextE>By Contract</TextE>
+  </dmkc>
+  <dmkc>
+    <FormID>dmkc</FormID>
+    <TextID>012</TextID>
+    <TextV>Chỉ kết chuyển khi có ps</TextV>
+    <TextE>Create closing transaction if arise only</TextE>
+  </dmkc>
+  <dmkc>
+    <FormID>dmkc</FormID>
+    <TextID>020</TextID>
+    <TextV>Kết chuyển chi tiết theo:</TextV>
+    <TextE>Create closing transaction detail by:</TextE>
+  </dmkc>
+  <dmkc>
+    <FormID>dmkc</FormID>
+    <TextID>050</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Status</TextE>
+  </dmkc>
+  <dmkc>
+    <FormID>dmkc</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Created</TextE>
+  </dmkc>
+  <dmkc>
+    <FormID>dmkc</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modify</TextE>
+  </dmkc>
+  <dmkc>
+    <FormID>dmkc</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Edit Date</TextE>
+  </dmkc>
+  <dmkc>
+    <FormID>dmkc</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Modification Date</TextE>
+  </dmkc>
+  <dmkc>
+    <FormID>dmkc</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </dmkc>
+  <dmkc>
+    <FormID>dmkc</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dmkc>
+  <dmkc>
+    <FormID>dmkc</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </dmkc>
+  <dmkc>
+    <FormID>dmkc</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </dmkc>
+  <dmkc>
+    <FormID>dmkc</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </dmkc>
+  <dmkc>
+    <FormID>dmkc</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </dmkc>
+  <dmkc>
+    <FormID>dmkc</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </dmkc>
+</NewDataSet>

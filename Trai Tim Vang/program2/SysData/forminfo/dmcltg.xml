@@ -1,0 +1,153 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dmcltg" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dmcltg">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dmcltg>
+    <FormID>dmcltg</FormID>
+    <TextID>000</TextID>
+    <TextV>Tính chênh lệch tỷ giá cuối kỳ</TextV>
+    <TextE>Tính chênh lệch tỷ giá cuối kỳ</TextE>
+  </dmcltg>
+  <dmcltg>
+    <FormID>dmcltg</FormID>
+    <TextID>001</TextID>
+    <TextV>Tài khoản</TextV>
+    <TextE>Account</TextE>
+  </dmcltg>
+  <dmcltg>
+    <FormID>dmcltg</FormID>
+    <TextID>002</TextID>
+    <TextV>Tài khoản cl tỷ giá</TextV>
+    <TextE>TK cl tỷ giá</TextE>
+  </dmcltg>
+  <dmcltg>
+    <FormID>dmcltg</FormID>
+    <TextID>003</TextID>
+    <TextV>Tên bút toán</TextV>
+    <TextE>Tên bút toán</TextE>
+  </dmcltg>
+  <dmcltg>
+    <FormID>dmcltg</FormID>
+    <TextID>004</TextID>
+    <TextV>Tên bút toán 2</TextV>
+    <TextE>Tên bút toán 2</TextE>
+  </dmcltg>
+  <dmcltg>
+    <FormID>dmcltg</FormID>
+    <TextID>005</TextID>
+    <TextV>Còn sử dụng</TextV>
+    <TextE>using</TextE>
+  </dmcltg>
+  <dmcltg>
+    <FormID>dmcltg</FormID>
+    <TextID>006</TextID>
+    <TextV>Tạo bút toán</TextV>
+    <TextE>Tạo bút toán</TextE>
+  </dmcltg>
+  <dmcltg>
+    <FormID>dmcltg</FormID>
+    <TextID>007</TextID>
+    <TextV>Xóa bút toán</TextV>
+    <TextE>Xóa bút toán</TextE>
+  </dmcltg>
+  <dmcltg>
+    <FormID>dmcltg</FormID>
+    <TextID>008</TextID>
+    <TextV>Số chứng từ</TextV>
+    <TextE>Số chứng từ</TextE>
+  </dmcltg>
+  <dmcltg>
+    <FormID>dmcltg</FormID>
+    <TextID>009</TextID>
+    <TextV>Kỳ</TextV>
+    <TextE>Kỳ</TextE>
+  </dmcltg>
+  <dmcltg>
+    <FormID>dmcltg</FormID>
+    <TextID>010</TextID>
+    <TextV>Năm</TextV>
+    <TextE>Năm</TextE>
+  </dmcltg>
+  <dmcltg>
+    <FormID>dmcltg</FormID>
+    <TextID>011</TextID>
+    <TextV>Tỷ giá</TextV>
+    <TextE>Tỷ giá</TextE>
+  </dmcltg>
+  <dmcltg>
+    <FormID>dmcltg</FormID>
+    <TextID>012</TextID>
+    <TextV>Tạo bút toán</TextV>
+    <TextE>Tạo bút toán</TextE>
+  </dmcltg>
+  <dmcltg>
+    <FormID>dmcltg</FormID>
+    <TextID>013</TextID>
+    <TextV>Hủy</TextV>
+    <TextE>Cancel</TextE>
+  </dmcltg>
+  <dmcltg>
+    <FormID>dmcltg</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>User created</TextE>
+  </dmcltg>
+  <dmcltg>
+    <FormID>dmcltg</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>User modified</TextE>
+  </dmcltg>
+  <dmcltg>
+    <FormID>dmcltg</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Date created</TextE>
+  </dmcltg>
+  <dmcltg>
+    <FormID>dmcltg</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Date modified</TextE>
+  </dmcltg>
+  <dmcltg>
+    <FormID>dmcltg</FormID>
+    <TextID>094</TextID>
+    <TextV>Lưu</TextV>
+    <TextE>Save</TextE>
+  </dmcltg>
+  <dmcltg>
+    <FormID>dmcltg</FormID>
+    <TextID>095</TextID>
+    <TextV>Hủy</TextV>
+    <TextE>Edit</TextE>
+  </dmcltg>
+  <dmcltg>
+    <FormID>dmcltg</FormID>
+    <TextID>100</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>Function</TextE>
+  </dmcltg>
+  <dmcltg>
+    <FormID>dmcltg</FormID>
+    <TextID>200</TextID>
+    <TextV>Bạn phải chọn ít nhất một tài khoản</TextV>
+    <TextE>Bạn phải chọn ít nhất một tài khoản</TextE>
+  </dmcltg>
+</NewDataSet>

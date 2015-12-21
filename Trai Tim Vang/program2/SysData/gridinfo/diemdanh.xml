@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="diemdanh" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="diemdanh">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsv" type="xs:string" minOccurs="0" />
+                <xs:element name="columnse" type="xs:string" minOccurs="0" />
+                <xs:element name="headersv" type="xs:string" minOccurs="0" />
+                <xs:element name="headerse" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <diemdanh>
+    <gridid>diemdanh</gridid>
+    <columnsv>ma_the,ten_kh,so_buoi_tap,so_buoi_da_tap,so_buoi_con_lai,hieu_luc_tu,hieu_luc_den</columnsv>
+    <columnse>ma_the,ten_kh,so_buoi_tap,so_buoi_da_tap,so_buoi_con_lai,hieu_luc_tu,hieu_luc_den</columnse>
+    <headersv>Mã thẻ,Tên khách hàng,Số buổi tập,Số buổi đã tập,Số buổi còn lại,Từ ngày,Đến ngày</headersv>
+    <headerse>Mã thẻ,tên khách hàng,Số buổi tập,Sd,CL,Từ ngày,Đến ngày</headerse>
+    <widths>100,100,100,100,100,100,100</widths>
+    <formats>,,f_tien,f_tien,f_tien,,</formats>
+    <readonlys>1,1,1,1,1,1,1</readonlys>
+    <hides>0,0,0,0,0,0,0</hides>
+    <defaultvalues>,,,,,,</defaultvalues>
+    <carrys>0,0,0,0,0,0,0</carrys>
+  </diemdanh>
+</NewDataSet>

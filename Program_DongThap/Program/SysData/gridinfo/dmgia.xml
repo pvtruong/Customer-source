@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dmgia" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dmgia">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsV" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsE" type="xs:string" minOccurs="0" />
+                <xs:element name="headersV" type="xs:string" minOccurs="0" />
+                <xs:element name="headersE" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dmgia>
+    <gridid>dmgia</gridid>
+    <columnsV>ma_vt,ngay,gia_nt,ma_nt,ty_gia,gia</columnsV>
+    <columnsE>ma_vt,ngay,gia_nt,ma_nt,ty_gia,gia</columnsE>
+    <headersV>Mã vật tư,Ngày,giá ngoại tệ,Mã ngoại tệ,Tỷ giá,Giá</headersV>
+    <headersE>Mã vật tư,Ngày,giá ngoại tệ,Mã ngoại tệ,Tỷ giá,Giá</headersE>
+    <widths>100,100,100,100,100,100</widths>
+    <formats>,,,,,</formats>
+    <readonlys>1,1,1,1,1,1</readonlys>
+    <hides>0,0,0,0,0,0</hides>
+    <defaultvalues>,,,,,</defaultvalues>
+    <carrys>1,1,1,1,1,1</carrys>
+  </dmgia>
+</NewDataSet>

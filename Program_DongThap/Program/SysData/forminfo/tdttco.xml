@@ -1,0 +1,171 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="tdttco" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="tdttco">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <tdttco>
+    <FormID>tdttco</FormID>
+    <TextID>000</TextID>
+    <TextV>Số dư đầu kỳ của các hóa đơn</TextV>
+    <TextE>Invoice Opening Balance</TextE>
+  </tdttco>
+  <tdttco>
+    <FormID>tdttco</FormID>
+    <TextID>001</TextID>
+    <TextV>Đơn vị</TextV>
+    <TextE>Unit</TextE>
+  </tdttco>
+  <tdttco>
+    <FormID>tdttco</FormID>
+    <TextID>002</TextID>
+    <TextV>Tài khoản</TextV>
+    <TextE>Account</TextE>
+  </tdttco>
+  <tdttco>
+    <FormID>tdttco</FormID>
+    <TextID>003</TextID>
+    <TextV>Ngày ct</TextV>
+    <TextE>Voucher Date</TextE>
+  </tdttco>
+  <tdttco>
+    <FormID>tdttco</FormID>
+    <TextID>004</TextID>
+    <TextV>Số ct</TextV>
+    <TextE>Voucher No.</TextE>
+  </tdttco>
+  <tdttco>
+    <FormID>tdttco</FormID>
+    <TextID>005</TextID>
+    <TextV>Ngoại tệ</TextV>
+    <TextE>Foreign Currency</TextE>
+  </tdttco>
+  <tdttco>
+    <FormID>tdttco</FormID>
+    <TextID>006</TextID>
+    <TextV>Tỷ giá</TextV>
+    <TextE>Ex. Rate</TextE>
+  </tdttco>
+  <tdttco>
+    <FormID>tdttco</FormID>
+    <TextID>007</TextID>
+    <TextV>Mã khách</TextV>
+    <TextE>Cust.ID</TextE>
+  </tdttco>
+  <tdttco>
+    <FormID>tdttco</FormID>
+    <TextID>008</TextID>
+    <TextV>Tổng tt nt</TextV>
+    <TextE>FC Total</TextE>
+  </tdttco>
+  <tdttco>
+    <FormID>tdttco</FormID>
+    <TextID>009</TextID>
+    <TextV>Tổng tt VND</TextV>
+    <TextE>VND Total</TextE>
+  </tdttco>
+  <tdttco>
+    <FormID>tdttco</FormID>
+    <TextID>010</TextID>
+    <TextV>Đã tt nt</TextV>
+    <TextE>FC Payment</TextE>
+  </tdttco>
+  <tdttco>
+    <FormID>tdttco</FormID>
+    <TextID>011</TextID>
+    <TextV>Còn tt nt</TextV>
+    <TextE>FC Payment Left</TextE>
+  </tdttco>
+  <tdttco>
+    <FormID>tdttco</FormID>
+    <TextID>012</TextID>
+    <TextV>Tất toán</TextV>
+    <TextE>Write-off</TextE>
+  </tdttco>
+  <tdttco>
+    <FormID>tdttco</FormID>
+    <TextID>014</TextID>
+    <TextV>Diễn giải</TextV>
+    <TextE>Memo</TextE>
+  </tdttco>
+  <tdttco>
+    <FormID>tdttco</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Created</TextE>
+  </tdttco>
+  <tdttco>
+    <FormID>tdttco</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Modify</TextE>
+  </tdttco>
+  <tdttco>
+    <FormID>tdttco</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Created Time</TextE>
+  </tdttco>
+  <tdttco>
+    <FormID>tdttco</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Last Modify</TextE>
+  </tdttco>
+  <tdttco>
+    <FormID>tdttco</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </tdttco>
+  <tdttco>
+    <FormID>tdttco</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </tdttco>
+  <tdttco>
+    <FormID>tdttco</FormID>
+    <TextID>096</TextID>
+    <TextV>&amp;Mới</TextV>
+    <TextE>&amp;New</TextE>
+  </tdttco>
+  <tdttco>
+    <FormID>tdttco</FormID>
+    <TextID>097</TextID>
+    <TextV>&amp;Sửa</TextV>
+    <TextE>&amp;Edit</TextE>
+  </tdttco>
+  <tdttco>
+    <FormID>tdttco</FormID>
+    <TextID>098</TextID>
+    <TextV>&amp;Xóa</TextV>
+    <TextE>&amp;Delete</TextE>
+  </tdttco>
+  <tdttco>
+    <FormID>tdttco</FormID>
+    <TextID>099</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </tdttco>
+  <tdttco>
+    <FormID>tdttco</FormID>
+    <TextID>100</TextID>
+    <TextV>&amp;Chức Năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </tdttco>
+</NewDataSet>

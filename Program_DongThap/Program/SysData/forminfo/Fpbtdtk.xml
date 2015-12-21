@@ -1,0 +1,177 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Fpbtdtk" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Fpbtdtk">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Fpbtdtk>
+    <FormID>Fpbtdtk</FormID>
+    <TextID>000</TextID>
+    <TextV>Bút toán phân bổ tự động</TextV>
+    <TextE>Automatic allocation transaction</TextE>
+  </Fpbtdtk>
+  <Fpbtdtk>
+    <FormID>Fpbtdtk</FormID>
+    <TextID>001</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Filter Condition</TextE>
+  </Fpbtdtk>
+  <Fpbtdtk>
+    <FormID>Fpbtdtk</FormID>
+    <TextID>002</TextID>
+    <TextV>Kỳ</TextV>
+    <TextE>Period</TextE>
+  </Fpbtdtk>
+  <Fpbtdtk>
+    <FormID>Fpbtdtk</FormID>
+    <TextID>003</TextID>
+    <TextV>Năm</TextV>
+    <TextE>Year</TextE>
+  </Fpbtdtk>
+  <Fpbtdtk>
+    <FormID>Fpbtdtk</FormID>
+    <TextID>004</TextID>
+    <TextV>Mã khách</TextV>
+    <TextE>Cust.ID</TextE>
+  </Fpbtdtk>
+  <Fpbtdtk>
+    <FormID>Fpbtdtk</FormID>
+    <TextID>005</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>&amp;Ok</TextE>
+  </Fpbtdtk>
+  <Fpbtdtk>
+    <FormID>Fpbtdtk</FormID>
+    <TextID>006</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </Fpbtdtk>
+  <Fpbtdtk>
+    <FormID>Fpbtdtk</FormID>
+    <TextID>007</TextID>
+    <TextV>Phân bổ</TextV>
+    <TextE>Allocate</TextE>
+  </Fpbtdtk>
+  <Fpbtdtk>
+    <FormID>Fpbtdtk</FormID>
+    <TextID>008</TextID>
+    <TextV>Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </Fpbtdtk>
+  <Fpbtdtk>
+    <FormID>Fpbtdtk</FormID>
+    <TextID>009</TextID>
+    <TextV>Xóa phân bổ</TextV>
+    <TextE>&amp;Delete</TextE>
+  </Fpbtdtk>
+  <Fpbtdtk>
+    <FormID>Fpbtdtk</FormID>
+    <TextID>010</TextID>
+    <TextV>Kiểu phân bổ</TextV>
+    <TextE>Type</TextE>
+  </Fpbtdtk>
+  <Fpbtdtk>
+    <FormID>Fpbtdtk</FormID>
+    <TextID>011</TextID>
+    <TextV>Mẫu báo cáo</TextV>
+    <TextE>Report Form</TextE>
+  </Fpbtdtk>
+  <Fpbtdtk>
+    <FormID>Fpbtdtk</FormID>
+    <TextID>012</TextID>
+    <TextV>Tiêu đề</TextV>
+    <TextE>Title</TextE>
+  </Fpbtdtk>
+  <Fpbtdtk>
+    <FormID>Fpbtdtk</FormID>
+    <TextID>013</TextID>
+    <TextV>Sản phẩm</TextV>
+    <TextE>Product</TextE>
+  </Fpbtdtk>
+  <Fpbtdtk>
+    <FormID>Fpbtdtk</FormID>
+    <TextID>200</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </Fpbtdtk>
+  <Fpbtdtk>
+    <FormID>Fpbtdtk</FormID>
+    <TextID>201</TextID>
+    <TextV>In</TextV>
+    <TextE>Print</TextE>
+  </Fpbtdtk>
+  <Fpbtdtk>
+    <FormID>Fpbtdtk</FormID>
+    <TextID>202</TextID>
+    <TextV>Xem</TextV>
+    <TextE>View</TextE>
+  </Fpbtdtk>
+  <Fpbtdtk>
+    <FormID>Fpbtdtk</FormID>
+    <TextID>203</TextID>
+    <TextV>Làm tươi</TextV>
+    <TextE>Refresh</TextE>
+  </Fpbtdtk>
+  <Fpbtdtk>
+    <FormID>Fpbtdtk</FormID>
+    <TextID>204</TextID>
+    <TextV>Xem chứng từ</TextV>
+    <TextE>View Voucher</TextE>
+  </Fpbtdtk>
+  <Fpbtdtk>
+    <FormID>Fpbtdtk</FormID>
+    <TextID>205</TextID>
+    <TextV>Khai báo bút toán phân bổ</TextV>
+    <TextE>Automatic allocation transaction definition</TextE>
+  </Fpbtdtk>
+  <Fpbtdtk>
+    <FormID>Fpbtdtk</FormID>
+    <TextID>206</TextID>
+    <TextV>Chương trình đã thực hiện xong</TextV>
+    <TextE>Program done</TextE>
+  </Fpbtdtk>
+  <Fpbtdtk>
+    <FormID>Fpbtdtk</FormID>
+    <TextID>207</TextID>
+    <TextV>Tính hệ số phân bổ</TextV>
+    <TextE>Calculate allocation coefficient</TextE>
+  </Fpbtdtk>
+  <Fpbtdtk>
+    <FormID>Fpbtdtk</FormID>
+    <TextID>777</TextID>
+    <TextV>Phân bổ này chưa được lưu,bạn có muốn lưu không?</TextV>
+    <TextE>Allocation Was Not Saved, You Do Not Want To Save?</TextE>
+  </Fpbtdtk>
+  <Fpbtdtk>
+    <FormID>Fpbtdtk</FormID>
+    <TextID>888</TextID>
+    <TextV>Không thể lưu vì tổng tiền phân bổ&gt;tổng tiền trên phiếu chi</TextV>
+    <TextE>Can Not Save Because The Total Amount Allocated&gt; Total Spending Of Money On Bills</TextE>
+  </Fpbtdtk>
+  <Fpbtdtk>
+    <FormID>Fpbtdtk</FormID>
+    <TextID>998</TextID>
+    <TextV>Đơn vị cơ sở</TextV>
+    <TextE>Unit</TextE>
+  </Fpbtdtk>
+  <Fpbtdtk>
+    <FormID>Fpbtdtk</FormID>
+    <TextID>999</TextID>
+    <TextV>Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </Fpbtdtk>
+</NewDataSet>

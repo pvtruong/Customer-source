@@ -1,0 +1,134 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rcandoipstk" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rcandoipstk">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rcandoipstk>
+    <Code>rcandoipstk</Code>
+    <Name>c_ck</Name>
+    <Type>C</Type>
+    <Value>Số dư cuối kỳ</Value>
+    <Value2>Closing Balance</Value2>
+  </rcandoipstk>
+  <rcandoipstk>
+    <Code>rcandoipstk</Code>
+    <Name>c_co</Name>
+    <Type>C</Type>
+    <Value>Có</Value>
+    <Value2>Credit</Value2>
+  </rcandoipstk>
+  <rcandoipstk>
+    <Code>rcandoipstk</Code>
+    <Name>c_cong</Name>
+    <Type>C</Type>
+    <Value>Cộng:</Value>
+    <Value2>Total:</Value2>
+  </rcandoipstk>
+  <rcandoipstk>
+    <Code>rcandoipstk</Code>
+    <Name>c_dk</Name>
+    <Type>C</Type>
+    <Value>Số dư đầu kỳ</Value>
+    <Value2>Opening Balance</Value2>
+  </rcandoipstk>
+  <rcandoipstk>
+    <Code>rcandoipstk</Code>
+    <Name>c_gd</Name>
+    <Type>C</Type>
+    <Value>Giám đốc</Value>
+    <Value2>Director</Value2>
+  </rcandoipstk>
+  <rcandoipstk>
+    <Code>rcandoipstk</Code>
+    <Name>c_ktt</Name>
+    <Type>C</Type>
+    <Value>Kế toán trưởng</Value>
+    <Value2>Chief Accountant</Value2>
+  </rcandoipstk>
+  <rcandoipstk>
+    <Code>rcandoipstk</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên)</Value>
+    <Value2>Sign., (Full Name)</Value2>
+  </rcandoipstk>
+  <rcandoipstk>
+    <Code>rcandoipstk</Code>
+    <Name>c_ky_ten_dd</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên, đóng dấu)</Value>
+    <Value2>Sign., Seal (Full Name and Position)</Value2>
+  </rcandoipstk>
+  <rcandoipstk>
+    <Code>rcandoipstk</Code>
+    <Name>c_mau_so</Name>
+    <Type>C</Type>
+    <Value>Mẫu số S06-DN</Value>
+    <Value2>Form No.S06-DN</Value2>
+  </rcandoipstk>
+  <rcandoipstk>
+    <Code>rcandoipstk</Code>
+    <Name>c_mau_tt</Name>
+    <Type>C</Type>
+    <Value>(Ban hành theo QĐ số: 15/2006/QĐ-BTC ngày 20/03/2006 của Bộ trưởng BTC)</Value>
+    <Value2>(According to Decision No. 15/2006/QD-BTC dated 20 March 2006 of the Ministry of Finance)</Value2>
+  </rcandoipstk>
+  <rcandoipstk>
+    <Code>rcandoipstk</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>Ngày . . . tháng . . . năm . . .</Value>
+    <Value2>Date . . . Month . . . Year . . .</Value2>
+  </rcandoipstk>
+  <rcandoipstk>
+    <Code>rcandoipstk</Code>
+    <Name>c_nguoi_gs</Name>
+    <Type>c</Type>
+    <Value>Người ghi sổ</Value>
+    <Value2>Booked Persons</Value2>
+  </rcandoipstk>
+  <rcandoipstk>
+    <Code>rcandoipstk</Code>
+    <Name>c_no</Name>
+    <Type>C</Type>
+    <Value>Nợ</Value>
+    <Value2>Debit</Value2>
+  </rcandoipstk>
+  <rcandoipstk>
+    <Code>rcandoipstk</Code>
+    <Name>c_ps</Name>
+    <Type>C</Type>
+    <Value>Số phát sinh trong kỳ</Value>
+    <Value2>Arising Amount in Period</Value2>
+  </rcandoipstk>
+  <rcandoipstk>
+    <Code>rcandoipstk</Code>
+    <Name>c_so_hieu</Name>
+    <Type>C</Type>
+    <Value>Số hiệu tài khoản</Value>
+    <Value2>Notation Account</Value2>
+  </rcandoipstk>
+  <rcandoipstk>
+    <Code>rcandoipstk</Code>
+    <Name>c_ten_tk</Name>
+    <Type>C</Type>
+    <Value>Tên tài khoản kế toán</Value>
+    <Value2>Name of Accounts</Value2>
+  </rcandoipstk>
+</NewDataSet>

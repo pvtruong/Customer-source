@@ -1,0 +1,267 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rbclctttt_200" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rbclctttt_200">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>000</TextID>
+    <TextV>Báo cáo lưu chuyển tiền tệ theo PP trực tiếp</TextV>
+    <TextE>Cash Flow ( Direct Method)</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>001</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Filter Condition</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>002</TextID>
+    <TextV>Từ ngày/đến ngày</TextV>
+    <TextE>Date from/to</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>003</TextID>
+    <TextV>Kỳ trước</TextV>
+    <TextE>Previous Period</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>004</TextID>
+    <TextV>Ngày cuối kỳ trước</TextV>
+    <TextE>Ending Date Prev. Period</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>005</TextID>
+    <TextV>Nhóm vật tư</TextV>
+    <TextE>Item Group</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>006</TextID>
+    <TextV>Loại vật tư</TextV>
+    <TextE>Item Type</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>007</TextID>
+    <TextV>In cả chứng từ điều chuyển</TextV>
+    <TextE>Print the document transfer</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>008</TextID>
+    <TextV>Không in vật tư tồn =0</TextV>
+    <TextE>No Print Item Exist =0</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>009</TextID>
+    <TextV>Đơn vị</TextV>
+    <TextE>Unit</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>010</TextID>
+    <TextV>Nhóm theo</TextV>
+    <TextE>Group by</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>011</TextID>
+    <TextV>Mẫu báo cáo</TextV>
+    <TextE>Report Form</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>012</TextID>
+    <TextV>Tiêu đề</TextV>
+    <TextE>Title</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>013</TextID>
+    <TextV>Sản phẩm</TextV>
+    <TextE>Product</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>020</TextID>
+    <TextV>Sửa mẫu</TextV>
+    <TextE>Edit Form</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>022</TextID>
+    <TextV>Khai báo mẫu</TextV>
+    <TextE>Declaration Form</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>023</TextID>
+    <TextV>STT</TextV>
+    <TextE>No.</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>024</TextID>
+    <TextV>Mã số</TextV>
+    <TextE>Code</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>025</TextID>
+    <TextV>Chỉ tiêu</TextV>
+    <TextE>Article</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>026</TextID>
+    <TextV>Chỉ tiêu 2</TextV>
+    <TextE>Article 2</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>027</TextID>
+    <TextV>Thuyết minh</TextV>
+    <TextE>Interpretation</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>028</TextID>
+    <TextV>Phân loại</TextV>
+    <TextE>Classify</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>029</TextID>
+    <TextV>Chỉ tiêu ngoài bảng</TextV>
+    <TextE>Article outside the table</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>030</TextID>
+    <TextV>&amp;In</TextV>
+    <TextE>&amp;Print</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>031</TextID>
+    <TextV>In đậm</TextV>
+    <TextE>Bold</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>032</TextID>
+    <TextV>Phương pháp tính</TextV>
+    <TextE>Method</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>033</TextID>
+    <TextV>Tài khoản nợ</TextV>
+    <TextE>Dr. Account</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>034</TextID>
+    <TextV>Tính giảm trừ</TextV>
+    <TextE>Calculate Way</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>035</TextID>
+    <TextV>Tài khoản có</TextV>
+    <TextE>Cr. Account</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>036</TextID>
+    <TextV>Công thức</TextV>
+    <TextE>Formula</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>037</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>038</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>039</TextID>
+    <TextV>Chỉ tiêu này không được xóa</TextV>
+    <TextE>This indicator is not Clear</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>200</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>201</TextID>
+    <TextV>&amp;In</TextV>
+    <TextE>&amp;Print</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>202</TextID>
+    <TextV>&amp;Xem</TextV>
+    <TextE>&amp;View</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>203</TextID>
+    <TextV>Làm tươi</TextV>
+    <TextE>Refresh</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>204</TextID>
+    <TextV>Xem chứng từ</TextV>
+    <TextE>View Voucher</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>900</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>&amp;OK</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>901</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </rbclctttt_200>
+  <rbclctttt_200>
+    <FormID>rbclctttt_200</FormID>
+    <TextID>999</TextID>
+    <TextV>Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </rbclctttt_200>
+</NewDataSet>

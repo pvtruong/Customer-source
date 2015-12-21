@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="MPNH" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="MPNH">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsv" type="xs:string" minOccurs="0" />
+                <xs:element name="columnse" type="xs:string" minOccurs="0" />
+                <xs:element name="headersv" type="xs:string" minOccurs="0" />
+                <xs:element name="headerse" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <MPNH>
+    <gridid>MPNH</gridid>
+    <columnsv>sel,so_ct,ngay_ct,ma_kh,ten_kh,dien_giai,ma_nt,t_sl,t_tien_nt,ong_ba</columnsv>
+    <columnse>sel,so_ct,ngay_ct,ma_kh,ten_kh2,dien_giai,ma_nt,t_sl,t_tien_nt,ten_gd</columnse>
+    <headersv>Chọn,Số ct,Ngày ct,Mã nhà cung cấp,Tên nhà cung cấp,Diễn giải,Mã ngoại tệ,Số lượng,Tiền,Tên người giao dịch</headersv>
+    <headerse>Option,Voucher No.   ,Voucher Date ,Mã nhà cung cấp,Tên nhà cung cấp,Memo,FC Code,Quantity,Amount,</headerse>
+    <widths>50,100,100,150,300,200,75,120,120,300</widths>
+    <formats>,,,,,,,,,</formats>
+    <readonlys>0,1,1,1,1,1,1,1,1,0</readonlys>
+    <hides>0,0,0,0,0,0,0,0,0,0</hides>
+    <defaultvalues>,,,,,=Nhập hàng - [ten_vt],,,,</defaultvalues>
+    <carrys>0,0,0,0,0,0,0,0,0,0</carrys>
+  </MPNH>
+</NewDataSet>

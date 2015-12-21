@@ -1,0 +1,3 @@
+D:\SOURCE\CRM\Rpt\rptThHnHx\rptThHnHx\obj\Debug\rptBknhapxuatkho.exe
+D:\SOURCE\CRM\Rpt\rptThHnHx\rptThHnHx\obj\Debug\rptBknhapxuatkho.xml
+D:\SOURCE\CRM\Rpt\rptThHnHx\rptThHnHx\obj\Debug\rptBknhapxuatkho.pdb

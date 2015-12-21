@@ -1,0 +1,99 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dqddvt" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dqddvt">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dqddvt>
+    <FormID>dqddvt</FormID>
+    <TextID>000</TextID>
+    <TextV>Quy đổi đơn vị tính</TextV>
+    <TextE>Quy đổi đơn vị tính</TextE>
+  </dqddvt>
+  <dqddvt>
+    <FormID>dqddvt</FormID>
+    <TextID>001</TextID>
+    <TextV>Đvt chuẩn</TextV>
+    <TextE>Đvt chuẩn</TextE>
+  </dqddvt>
+  <dqddvt>
+    <FormID>dqddvt</FormID>
+    <TextID>002</TextID>
+    <TextV>Đvt</TextV>
+    <TextE>Đvt</TextE>
+  </dqddvt>
+  <dqddvt>
+    <FormID>dqddvt</FormID>
+    <TextID>003</TextID>
+    <TextV>Hệ số</TextV>
+    <TextE>Hệ số</TextE>
+  </dqddvt>
+  <dqddvt>
+    <FormID>dqddvt</FormID>
+    <TextID>005</TextID>
+    <TextV>Trạng thái</TextV>
+    <TextE>Status</TextE>
+  </dqddvt>
+  <dqddvt>
+    <FormID>dqddvt</FormID>
+    <TextID>006</TextID>
+    <TextV>Diễn giải</TextV>
+    <TextE>Diễn giải</TextE>
+  </dqddvt>
+  <dqddvt>
+    <FormID>dqddvt</FormID>
+    <TextID>017</TextID>
+    <TextV>&amp;Tìm</TextV>
+    <TextE>&amp;Find</TextE>
+  </dqddvt>
+  <dqddvt>
+    <FormID>dqddvt</FormID>
+    <TextID>090</TextID>
+    <TextV>Người tạo</TextV>
+    <TextE>Người tạo</TextE>
+  </dqddvt>
+  <dqddvt>
+    <FormID>dqddvt</FormID>
+    <TextID>091</TextID>
+    <TextV>Người sửa</TextV>
+    <TextE>Người sửa</TextE>
+  </dqddvt>
+  <dqddvt>
+    <FormID>dqddvt</FormID>
+    <TextID>092</TextID>
+    <TextV>Ngày tạo</TextV>
+    <TextE>Ngày tạo</TextE>
+  </dqddvt>
+  <dqddvt>
+    <FormID>dqddvt</FormID>
+    <TextID>093</TextID>
+    <TextV>Ngày sửa</TextV>
+    <TextE>Ngày sửa</TextE>
+  </dqddvt>
+  <dqddvt>
+    <FormID>dqddvt</FormID>
+    <TextID>094</TextID>
+    <TextV>&amp;Lưu</TextV>
+    <TextE>&amp;Save</TextE>
+  </dqddvt>
+  <dqddvt>
+    <FormID>dqddvt</FormID>
+    <TextID>095</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </dqddvt>
+</NewDataSet>

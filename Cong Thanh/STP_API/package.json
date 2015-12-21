@@ -1,0 +1,47 @@
+{
+	"name": "open-accounting",
+	"main": "app.js",
+	"description": "Viet Nam Open Accounting",
+	"version": "0.0.1",
+	"author": {
+		"name": "Van Truong Pham",
+		"email": "invncur@gmail.com"
+	},
+	"keywords": [
+		"accounting"
+	],
+	"dependencies": {
+		"express": "latest",
+		"body-parser": "latest",
+		"passport":"latest",
+		"passport-http-bearer":"latest",
+		"passport-http":"latest",
+		"underscore":"latest",
+		"socket.io":"latest",
+		"async":"latest",
+		"validator":"latest",
+		"nodemailer":"latest",
+		"nodemailer-smtp-transport":"latest",
+		"nodemailer-wellknown":"latest",
+		"multer":"latest",
+		"gm":"latest",
+		"request":"latest",
+		"node-xlsx":"latest",
+		"node-zip":"latest",
+		"elementtree":"latest",
+		"excel-report":"latest",
+		"numeral":"latest",
+		"mssql":"latest",
+		"mail-listener2":"latest",
+		"moment":"latest"
+	},
+	"devDependencies": {
+		"jshint": "latest",
+		"mocha": "latest",
+		"should": "latest"
+	},
+	"scripts": {
+		"lint": "jshint app.js libs modules models auths controllers",
+		"test": "NODE_ENV=test mocha"
+	}
+}

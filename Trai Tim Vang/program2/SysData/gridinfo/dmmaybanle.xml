@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dmmaybanle" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dmmaybanle">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsv" type="xs:string" minOccurs="0" />
+                <xs:element name="columnse" type="xs:string" minOccurs="0" />
+                <xs:element name="headersv" type="xs:string" minOccurs="0" />
+                <xs:element name="headerse" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dmmaybanle>
+    <gridid>dmmaybanle</gridid>
+    <columnsv>ma_may,ten_may,ma_kho,loai_gia_ban,ma_nv,tk_tien_mat,tk_tien_nh,tk_tra_sau,tk_giam_gia,tk_ck,tk_dt,tk_gv</columnsv>
+    <columnse>ma_may,ten_may2,ma_kho,loai_gia_ban,ma_nv,tk_tien_mat,tk_tien_nh,tk_tra_sau,tk_giam_gia,tk_ck,tk_dt,tk_gv</columnse>
+    <headersv>Mã quầy,Tên quầy,Mã kho,Loại giá bán,Nhân viên,TK tiền mặt,TK tiền ngân hàng,TK trả sau,TK giảm giá,TK chiết khấu,TK doanh thu,TK giá vốn</headersv>
+    <headerse>Mã quầy,Tên quầy,Mã kho,Loại giá bán,Mã nhân viên,TK tiền mặt,TK tiền ngân hàng,TK trả sau,TK giảm giá,TK chiết khấu,TK doanh thu,TK giá vốn</headerse>
+    <widths>100,200,100,100,100,100,100,100,100,100,100,100</widths>
+    <formats>,,,,,,,,,,,</formats>
+    <readonlys>1,1,1,1,1,1,1,1,1,1,1,1</readonlys>
+    <hides>0,0,0,0,1,1,1,1,1,1,1,1</hides>
+    <defaultvalues>,,,0,,1111,1121,131111,5321,5211,51111,6321</defaultvalues>
+    <carrys>0,0,0,0,0,0,0,0,0,0,0,0</carrys>
+  </dmmaybanle>
+</NewDataSet>

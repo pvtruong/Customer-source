@@ -1,0 +1,27 @@
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rsale_bcdtbl_nam\rsale_bcdtbl_nam\bin\Debug\rsale_bcdtbl_nam.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rsale_bcdtbl_nam\rsale_bcdtbl_nam\bin\Debug\rsale_bcdtbl_nam.pdb
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rsale_bcdtbl_nam\rsale_bcdtbl_nam\bin\Debug\rsale_bcdtbl_nam.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rsale_bcdtbl_nam\rsale_bcdtbl_nam\bin\Debug\ClPrint.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rsale_bcdtbl_nam\rsale_bcdtbl_nam\bin\Debug\ClsControl2.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rsale_bcdtbl_nam\rsale_bcdtbl_nam\bin\Debug\ClsLookup.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rsale_bcdtbl_nam\rsale_bcdtbl_nam\bin\Debug\Clsql.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rsale_bcdtbl_nam\rsale_bcdtbl_nam\bin\Debug\ClsRpt.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rsale_bcdtbl_nam\rsale_bcdtbl_nam\bin\Debug\ClsMath.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rsale_bcdtbl_nam\rsale_bcdtbl_nam\bin\Debug\Ionic.Zip.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rsale_bcdtbl_nam\rsale_bcdtbl_nam\bin\Debug\clsab.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rsale_bcdtbl_nam\rsale_bcdtbl_nam\bin\Debug\clsPopUp.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rsale_bcdtbl_nam\rsale_bcdtbl_nam\bin\Debug\ClsPilot.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rsale_bcdtbl_nam\rsale_bcdtbl_nam\bin\Debug\clsViDe.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rsale_bcdtbl_nam\rsale_bcdtbl_nam\bin\Debug\ClsRight.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rsale_bcdtbl_nam\rsale_bcdtbl_nam\bin\Debug\ClsStpService.dll
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rsale_bcdtbl_nam\rsale_bcdtbl_nam\obj\Debug\ResolveAssemblyReference.cache
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rsale_bcdtbl_nam\rsale_bcdtbl_nam\obj\Debug\rsale_bcdtbl_nam.frmfilter.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rsale_bcdtbl_nam\rsale_bcdtbl_nam\obj\Debug\rsale_bcdtbl_nam.MainForm.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rsale_bcdtbl_nam\rsale_bcdtbl_nam\obj\Debug\rsale_bcdtbl_nam.Resources.resources
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rsale_bcdtbl_nam\rsale_bcdtbl_nam\obj\Debug\rsale_bcdtbl_nam.vbproj.GenerateResource.Cache
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rsale_bcdtbl_nam\rsale_bcdtbl_nam\obj\Debug\rsale_bcdtbl_nam.exe
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rsale_bcdtbl_nam\rsale_bcdtbl_nam\obj\Debug\rsale_bcdtbl_nam.xml
+G:\STP01\E\STP SOURCE\ACC\5.0\rpt\rsale_bcdtbl_nam\rsale_bcdtbl_nam\obj\Debug\rsale_bcdtbl_nam.pdb
+H:\info_company\data-laptrinh\source_customers\Avelco\tonghop_tncn_nam\tonghop_tncn_nam\obj\Debug\rsale_bcdtbl_nam.exe
+H:\info_company\data-laptrinh\source_customers\Avelco\tonghop_tncn_nam\tonghop_tncn_nam\obj\Debug\rsale_bcdtbl_nam.xml
+H:\info_company\data-laptrinh\source_customers\Avelco\tonghop_tncn_nam\tonghop_tncn_nam\obj\Debug\rsale_bcdtbl_nam.pdb

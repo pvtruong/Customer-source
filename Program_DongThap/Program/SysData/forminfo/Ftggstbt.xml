@@ -1,0 +1,159 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Ftggstbt" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Ftggstbt">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Ftggstbt>
+    <FormID>Ftggstbt</FormID>
+    <TextID>000</TextID>
+    <TextV>Bút toán chênh lệch tỷ giá</TextV>
+    <TextE>Exchange Rate Transaction Entry</TextE>
+  </Ftggstbt>
+  <Ftggstbt>
+    <FormID>Ftggstbt</FormID>
+    <TextID>001</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Filter Condition</TextE>
+  </Ftggstbt>
+  <Ftggstbt>
+    <FormID>Ftggstbt</FormID>
+    <TextID>002</TextID>
+    <TextV>Kỳ</TextV>
+    <TextE>Period</TextE>
+  </Ftggstbt>
+  <Ftggstbt>
+    <FormID>Ftggstbt</FormID>
+    <TextID>003</TextID>
+    <TextV>Năm</TextV>
+    <TextE>Year</TextE>
+  </Ftggstbt>
+  <Ftggstbt>
+    <FormID>Ftggstbt</FormID>
+    <TextID>004</TextID>
+    <TextV>Mã khách</TextV>
+    <TextE>Cust. ID</TextE>
+  </Ftggstbt>
+  <Ftggstbt>
+    <FormID>Ftggstbt</FormID>
+    <TextID>005</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>&amp;Ok</TextE>
+  </Ftggstbt>
+  <Ftggstbt>
+    <FormID>Ftggstbt</FormID>
+    <TextID>006</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </Ftggstbt>
+  <Ftggstbt>
+    <FormID>Ftggstbt</FormID>
+    <TextID>007</TextID>
+    <TextV>Tính tỷ giá ghi sổ</TextV>
+    <TextE>Calculate Booked Ex. Rate</TextE>
+  </Ftggstbt>
+  <Ftggstbt>
+    <FormID>Ftggstbt</FormID>
+    <TextID>008</TextID>
+    <TextV>Áp tỷ giá ghi sổ</TextV>
+    <TextE>Update Booked Ex. Rate</TextE>
+  </Ftggstbt>
+  <Ftggstbt>
+    <FormID>Ftggstbt</FormID>
+    <TextID>009</TextID>
+    <TextV>Xóa Tính tỷ giá ghi sổ</TextV>
+    <TextE>&amp;Delete</TextE>
+  </Ftggstbt>
+  <Ftggstbt>
+    <FormID>Ftggstbt</FormID>
+    <TextID>010</TextID>
+    <TextV>Chương trình đã thực hiện xong</TextV>
+    <TextE>Program done</TextE>
+  </Ftggstbt>
+  <Ftggstbt>
+    <FormID>Ftggstbt</FormID>
+    <TextID>011</TextID>
+    <TextV>Mẫu báo cáo</TextV>
+    <TextE>Report Form</TextE>
+  </Ftggstbt>
+  <Ftggstbt>
+    <FormID>Ftggstbt</FormID>
+    <TextID>012</TextID>
+    <TextV>Tiêu đề</TextV>
+    <TextE>Title</TextE>
+  </Ftggstbt>
+  <Ftggstbt>
+    <FormID>Ftggstbt</FormID>
+    <TextID>013</TextID>
+    <TextV>Số chứng từ</TextV>
+    <TextE>Voucher No.</TextE>
+  </Ftggstbt>
+  <Ftggstbt>
+    <FormID>Ftggstbt</FormID>
+    <TextID>200</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </Ftggstbt>
+  <Ftggstbt>
+    <FormID>Ftggstbt</FormID>
+    <TextID>201</TextID>
+    <TextV>In</TextV>
+    <TextE>Print</TextE>
+  </Ftggstbt>
+  <Ftggstbt>
+    <FormID>Ftggstbt</FormID>
+    <TextID>202</TextID>
+    <TextV>Xem</TextV>
+    <TextE>View</TextE>
+  </Ftggstbt>
+  <Ftggstbt>
+    <FormID>Ftggstbt</FormID>
+    <TextID>203</TextID>
+    <TextV>Làm tươi</TextV>
+    <TextE>Refresh</TextE>
+  </Ftggstbt>
+  <Ftggstbt>
+    <FormID>Ftggstbt</FormID>
+    <TextID>204</TextID>
+    <TextV>Xem chứng từ</TextV>
+    <TextE>View Voucher</TextE>
+  </Ftggstbt>
+  <Ftggstbt>
+    <FormID>Ftggstbt</FormID>
+    <TextID>777</TextID>
+    <TextV>Chương trình không thể thực hiện</TextV>
+    <TextE>The Program Can Not Perform</TextE>
+  </Ftggstbt>
+  <Ftggstbt>
+    <FormID>Ftggstbt</FormID>
+    <TextID>888</TextID>
+    <TextV>Bạn có chắc xóa không?</TextV>
+    <TextE>Are You Sure You Deleted?</TextE>
+  </Ftggstbt>
+  <Ftggstbt>
+    <FormID>Ftggstbt</FormID>
+    <TextID>998</TextID>
+    <TextV>Đơn vị cơ sở</TextV>
+    <TextE>Unit</TextE>
+  </Ftggstbt>
+  <Ftggstbt>
+    <FormID>Ftggstbt</FormID>
+    <TextID>999</TextID>
+    <TextV>Thoát</TextV>
+    <TextE>&amp;Close</TextE>
+  </Ftggstbt>
+</NewDataSet>

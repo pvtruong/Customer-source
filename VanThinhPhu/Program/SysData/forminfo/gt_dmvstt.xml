@@ -1,0 +1,153 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="gt_dmvstt" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="gt_dmvstt">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <gt_dmvstt>
+    <FormID>gt_dmvstt</FormID>
+    <TextID>000</TextID>
+    <TextV>So sánh định mức và thực tế</TextV>
+    <TextE>Bcthgt</TextE>
+  </gt_dmvstt>
+  <gt_dmvstt>
+    <FormID>gt_dmvstt</FormID>
+    <TextID>001</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Filter Condition</TextE>
+  </gt_dmvstt>
+  <gt_dmvstt>
+    <FormID>gt_dmvstt</FormID>
+    <TextID>002</TextID>
+    <TextV>Kỳ</TextV>
+    <TextE>Period</TextE>
+  </gt_dmvstt>
+  <gt_dmvstt>
+    <FormID>gt_dmvstt</FormID>
+    <TextID>003</TextID>
+    <TextV>Mã sản phẩm</TextV>
+    <TextE>Product Code</TextE>
+  </gt_dmvstt>
+  <gt_dmvstt>
+    <FormID>gt_dmvstt</FormID>
+    <TextID>004</TextID>
+    <TextV>Mã bộ phận</TextV>
+    <TextE>Dept. ID</TextE>
+  </gt_dmvstt>
+  <gt_dmvstt>
+    <FormID>gt_dmvstt</FormID>
+    <TextID>005</TextID>
+    <TextV>Số LSX</TextV>
+    <TextE>Manufacturing Order No.</TextE>
+  </gt_dmvstt>
+  <gt_dmvstt>
+    <FormID>gt_dmvstt</FormID>
+    <TextID>006</TextID>
+    <TextV>Loại yếu tố</TextV>
+    <TextE>Factor Type</TextE>
+  </gt_dmvstt>
+  <gt_dmvstt>
+    <FormID>gt_dmvstt</FormID>
+    <TextID>007</TextID>
+    <TextV>In cả chứng từ điều chuyển</TextV>
+    <TextE>Print the Voucher Transfer</TextE>
+  </gt_dmvstt>
+  <gt_dmvstt>
+    <FormID>gt_dmvstt</FormID>
+    <TextID>008</TextID>
+    <TextV>Không in vật tư tồn =0</TextV>
+    <TextE>No Print Item Exist =0</TextE>
+  </gt_dmvstt>
+  <gt_dmvstt>
+    <FormID>gt_dmvstt</FormID>
+    <TextID>009</TextID>
+    <TextV>Đơn vị</TextV>
+    <TextE>Unit</TextE>
+  </gt_dmvstt>
+  <gt_dmvstt>
+    <FormID>gt_dmvstt</FormID>
+    <TextID>010</TextID>
+    <TextV>Nhóm theo</TextV>
+    <TextE>Group by</TextE>
+  </gt_dmvstt>
+  <gt_dmvstt>
+    <FormID>gt_dmvstt</FormID>
+    <TextID>011</TextID>
+    <TextV>Mẫu báo cáo</TextV>
+    <TextE>Report Form</TextE>
+  </gt_dmvstt>
+  <gt_dmvstt>
+    <FormID>gt_dmvstt</FormID>
+    <TextID>012</TextID>
+    <TextV>Tiêu đề</TextV>
+    <TextE>Title</TextE>
+  </gt_dmvstt>
+  <gt_dmvstt>
+    <FormID>gt_dmvstt</FormID>
+    <TextID>013</TextID>
+    <TextV>Sản phẩm</TextV>
+    <TextE>Product</TextE>
+  </gt_dmvstt>
+  <gt_dmvstt>
+    <FormID>gt_dmvstt</FormID>
+    <TextID>200</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>Status</TextE>
+  </gt_dmvstt>
+  <gt_dmvstt>
+    <FormID>gt_dmvstt</FormID>
+    <TextID>201</TextID>
+    <TextV>&amp;In</TextV>
+    <TextE>&amp;Print</TextE>
+  </gt_dmvstt>
+  <gt_dmvstt>
+    <FormID>gt_dmvstt</FormID>
+    <TextID>202</TextID>
+    <TextV>&amp;Xem</TextV>
+    <TextE>&amp;View</TextE>
+  </gt_dmvstt>
+  <gt_dmvstt>
+    <FormID>gt_dmvstt</FormID>
+    <TextID>203</TextID>
+    <TextV>Làm tươi</TextV>
+    <TextE>Refresh</TextE>
+  </gt_dmvstt>
+  <gt_dmvstt>
+    <FormID>gt_dmvstt</FormID>
+    <TextID>204</TextID>
+    <TextV>Xem chứng từ</TextV>
+    <TextE>View Voucher</TextE>
+  </gt_dmvstt>
+  <gt_dmvstt>
+    <FormID>gt_dmvstt</FormID>
+    <TextID>900</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>&amp;OK</TextE>
+  </gt_dmvstt>
+  <gt_dmvstt>
+    <FormID>gt_dmvstt</FormID>
+    <TextID>901</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </gt_dmvstt>
+  <gt_dmvstt>
+    <FormID>gt_dmvstt</FormID>
+    <TextID>999</TextID>
+    <TextV>Thoát</TextV>
+    <TextE>Close</TextE>
+  </gt_dmvstt>
+</NewDataSet>

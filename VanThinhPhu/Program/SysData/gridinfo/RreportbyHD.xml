@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="RreportbyHD" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="RreportbyHD">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsv" type="xs:string" minOccurs="0" />
+                <xs:element name="columnse" type="xs:string" minOccurs="0" />
+                <xs:element name="headersv" type="xs:string" minOccurs="0" />
+                <xs:element name="headerse" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <RreportbyHD>
+    <gridid>RreportbyHD</gridid>
+    <columnsv>so_hd,ngay_hd,ma_sp,ten_sp,ten_dvcs,ten_nv,ma_du_an,ma_lo,tien_nt,tien,da_tt_nt,da_tt,con_tt_nt,con_tt,ten_kh,ghi_chu,ten_xl</columnsv>
+    <columnse>so_hd,ngay_hd,ma_sp,ten_sp,ten_dvcs,ten_nv,ma_du_an,ma_lo,tien_nt,tien,da_tt_nt,da_tt,con_tt_nt,con_tt,ten_kh,ghi_chu,ten_xl</columnse>
+    <headersv>Số hợp đồng,Ngày hợp đồng,Mã sản phẩm,Tên sản phẩm,Đơn vị,Nhân viên phụ trách,Dự án,Lô,Giá trị hợp đồng 
+nt,Giá trị hợp đồng,Đã thanh toán nt,Đã thanh toán,Còn lại nt,Còn lại,Người bán,Ghi chú,Trạng thái</headersv>
+    <headerse>Số hợp 
+đồng,Ngày hợp đồng,Mã sản phẩm,Tên sản phẩm,Đơn vị,Nhân viên phụ trách,Dự án,Lô,Giá trị hợp đồng nt,Giá trị hợp 
+đồng,Đã thanh toán nt,Đã thanh toán,Còn lại nt,Còn lại,Người bán,Ghi chú,Trạng thái</headerse>
+    <widths>100,100,100,200,200,200,100,100,100,100,100,100,100,100,200,200,150</widths>
+    <formats>,,,,,,,,2,0,2,0,2,0,,,</formats>
+    <readonlys>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</readonlys>
+    <hides>0,0</hides>
+    <defaultvalues>,</defaultvalues>
+    <carrys>0,0</carrys>
+  </RreportbyHD>
+</NewDataSet>

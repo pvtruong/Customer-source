@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="tdttno" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="tdttno">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsv" type="xs:string" minOccurs="0" />
+                <xs:element name="columnse" type="xs:string" minOccurs="0" />
+                <xs:element name="headersv" type="xs:string" minOccurs="0" />
+                <xs:element name="headerse" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <tdttno>
+    <gridid>tdttno</gridid>
+    <columnsv>ngay_ct,so_ct,ma_kh,t_tt_nt,ma_nt_tt,ty_gia_tt,t_tt,da_tt_nt,con_lai_nt</columnsv>
+    <columnse>ngay_ct,so_ct,ma_kh,t_tt_nt,ma_nt_tt,ty_gia_tt,t_tt,da_tt_nt,con_lai_nt</columnse>
+    <headersv>Ngày ct,Số ct,Mã khách hàng,Tổng 
+thanh toán nt,Mã nt,Tỷ giá,Tổng thanh toán VND,Đã thanh toán nt,Còn thanh toán nt</headersv>
+    <headerse>Voucher Date  ,Voucher No.,Cust.ID,FC Total,FC Code,Ex. Rate  ,VND Total,FC Payment,FC Payment Left</headerse>
+    <widths>100,100,100,100,100,100,100,100,100</widths>
+    <formats>,,,f_tien_nt,,f_tien,f_tien,f_tien_nt,f_tien_nt</formats>
+    <readonlys>1,1,1,1,1,1,1,1,1</readonlys>
+    <hides>0,0,0,0,0,0,0,0,0</hides>
+    <defaultvalues>,,,,VND,1,,,</defaultvalues>
+    <carrys>0,0,0,0,0,0,0,0,0</carrys>
+  </tdttno>
+</NewDataSet>

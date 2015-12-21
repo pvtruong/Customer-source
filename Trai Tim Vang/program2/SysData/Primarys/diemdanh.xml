@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="diemdanh" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="diemdanh">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="COLUMN_NAME" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <diemdanh>
+    <COLUMN_NAME>ma_lop</COLUMN_NAME>
+  </diemdanh>
+  <diemdanh>
+    <COLUMN_NAME>ma_the</COLUMN_NAME>
+  </diemdanh>
+  <diemdanh>
+    <COLUMN_NAME>ngay_ct</COLUMN_NAME>
+  </diemdanh>
+</NewDataSet>

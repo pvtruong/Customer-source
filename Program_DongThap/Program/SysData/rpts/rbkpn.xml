@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rbkpn" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rbkpn">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Stt" type="xs:int" minOccurs="0" />
+                <xs:element name="name" type="xs:string" minOccurs="0" />
+                <xs:element name="name2" type="xs:string" minOccurs="0" />
+                <xs:element name="Title0" type="xs:string" minOccurs="0" />
+                <xs:element name="Title2" type="xs:string" minOccurs="0" />
+                <xs:element name="Rpt" type="xs:string" minOccurs="0" />
+                <xs:element name="Store" type="xs:string" minOccurs="0" />
+                <xs:element name="PilotColumn" type="xs:string" minOccurs="0" />
+                <xs:element name="PilotRow" type="xs:string" minOccurs="0" />
+                <xs:element name="PilotData" type="xs:string" minOccurs="0" />
+                <xs:element name="PilotHeader" type="xs:string" minOccurs="0" />
+                <xs:element name="PilotHeader2" type="xs:string" minOccurs="0" />
+                <xs:element name="PilotWidth" type="xs:string" minOccurs="0" />
+                <xs:element name="PilotFormat" type="xs:string" minOccurs="0" />
+                <xs:element name="PilotReadOnly" type="xs:string" minOccurs="0" />
+                <xs:element name="GridID" type="xs:string" minOccurs="0" />
+                <xs:element name="tbform" type="xs:string" minOccurs="0" />
+                <xs:element name="idform" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rbkpn>
+    <Code>rbkpn</Code>
+    <Stt>1</Stt>
+    <name>Mẫu số lượng và giá trị</name>
+    <name2>Quantity Form and value</name2>
+    <Title0>BẢNG KÊ PHIẾU NHẬP</Title0>
+    <Title2>RECEIPT TRANSACTION LIST</Title2>
+    <Rpt>rbkpn</Rpt>
+    <Store>bknxk</Store>
+    <PilotColumn />
+    <PilotRow />
+    <PilotData />
+    <PilotHeader />
+    <PilotHeader2 />
+    <PilotWidth />
+    <PilotFormat />
+    <PilotReadOnly />
+    <GridID>rbknxk</GridID>
+    <tbform />
+    <idform />
+  </rbkpn>
+</NewDataSet>

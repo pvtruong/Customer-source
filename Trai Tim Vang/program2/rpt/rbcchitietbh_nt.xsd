@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Table">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="sysorder" type="xs:int" minOccurs="0" />
+              <xs:element name="sysprint" type="xs:int" minOccurs="0" />
+              <xs:element name="systotal" type="xs:int" minOccurs="0" />
+              <xs:element name="bold" type="xs:boolean" minOccurs="0" />
+              <xs:element name="ma_kh" type="xs:string" minOccurs="0" />
+              <xs:element name="ten_kh" type="xs:string" minOccurs="0" />
+              <xs:element name="ten_kh2" type="xs:string" minOccurs="0" />
+              <xs:element name="nh_kh1" type="xs:string" minOccurs="0" />
+              <xs:element name="nh_kh2" type="xs:string" minOccurs="0" />
+              <xs:element name="nh_kh3" type="xs:string" minOccurs="0" />
+              <xs:element name="so_luong" type="xs:decimal" minOccurs="0" />
+              <xs:element name="tien_von" type="xs:decimal" minOccurs="0" />
+              <xs:element name="tien_von_nt" type="xs:decimal" minOccurs="0" />
+              <xs:element name="gia_ban" type="xs:decimal" minOccurs="0" />
+              <xs:element name="gia_ban_nt" type="xs:decimal" minOccurs="0" />
+              <xs:element name="tien_ban" type="xs:decimal" minOccurs="0" />
+              <xs:element name="tien_ban_nt" type="xs:decimal" minOccurs="0" />
+              <xs:element name="tien_ck" type="xs:decimal" minOccurs="0" />
+              <xs:element name="tien_ck_nt" type="xs:decimal" minOccurs="0" />
+              <xs:element name="tien_thue" type="xs:decimal" minOccurs="0" />
+              <xs:element name="tien_thue_nt" type="xs:decimal" minOccurs="0" />
+              <xs:element name="gia_von" type="xs:decimal" minOccurs="0" />
+              <xs:element name="gia_von_nt" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ty_le" type="xs:decimal" minOccurs="0" />
+              <xs:element name="pt" type="xs:decimal" minOccurs="0" />
+              <xs:element name="pt_nt" type="xs:decimal" minOccurs="0" />
+              <xs:element name="lai" type="xs:decimal" minOccurs="0" />
+              <xs:element name="lai_nt" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ma_kho" type="xs:string" minOccurs="0" />
+              <xs:element name="ma_vt" type="xs:string" minOccurs="0" />
+              <xs:element name="stt_rec" type="xs:string" minOccurs="0" />
+              <xs:element name="so_ct" type="xs:string" minOccurs="0" />
+              <xs:element name="ngay_ct" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="ma_ct" type="xs:string" minOccurs="0" />
+              <xs:element name="ma_gd" type="xs:int" minOccurs="0" />
+              <xs:element name="ma_nt" type="xs:string" minOccurs="0" />
+              <xs:element name="ma_nv" type="xs:string" minOccurs="0" />
+              <xs:element name="ma_dt" type="xs:string" minOccurs="0" />
+              <xs:element name="ma" type="xs:string" minOccurs="0" />
+              <xs:element name="ma_dvt" type="xs:string" minOccurs="0" />
+              <xs:element name="stt" type="xs:long" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

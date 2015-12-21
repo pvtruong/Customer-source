@@ -1,0 +1,104 @@
+D:\SOURCE\CRM\Ldmdvt\Ldmdvt\bin\Debug\Ldmdvt.exe
+D:\SOURCE\CRM\Ldmdvt\Ldmdvt\bin\Debug\Ldmdvt.pdb
+D:\SOURCE\CRM\Ldmdvt\Ldmdvt\bin\Debug\Ldmdvt.xml
+D:\SOURCE\CRM\Ldmdvt\Ldmdvt\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\CRM\Ldmdvt\Ldmdvt\bin\Debug\ClsRight.dll
+D:\SOURCE\CRM\Ldmdvt\Ldmdvt\bin\Debug\office.dll
+D:\SOURCE\CRM\Ldmdvt\Ldmdvt\bin\Debug\clsPopUp.dll
+D:\SOURCE\CRM\Ldmdvt\Ldmdvt\bin\Debug\ClsMath.dll
+D:\SOURCE\CRM\Ldmdvt\Ldmdvt\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\SOURCE\CRM\Ldmdvt\Ldmdvt\bin\Debug\clsPermit4Field.dll
+D:\SOURCE\CRM\Ldmdvt\Ldmdvt\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\CRM\Ldmdvt\Ldmdvt\obj\Debug\Ldmdvt.Frmmain.resources
+D:\SOURCE\CRM\Ldmdvt\Ldmdvt\obj\Debug\Ldmdvt.frminput.resources
+D:\SOURCE\CRM\Ldmdvt\Ldmdvt\obj\Debug\Ldmdvt.Resources.resources
+D:\SOURCE\CRM\Ldmdvt\Ldmdvt\obj\Debug\Ldmdvt.vbproj.GenerateResource.Cache
+D:\SOURCE\CRM\Ldmdvt\Ldmdvt\obj\Debug\Ldmdvt.exe
+D:\SOURCE\CRM\Ldmdvt\Ldmdvt\obj\Debug\Ldmdvt.xml
+D:\SOURCE\CRM\Ldmdvt\Ldmdvt\obj\Debug\Ldmdvt.pdb
+D:\SOURCE\CRM\Ldmdvt\Ldmdvt\bin\Debug\ClsControl2.dll
+D:\SOURCE\CRM\Ldmdvt\Ldmdvt\bin\Debug\ClsList.dll
+D:\SOURCE\CRM\Ldmdvt\Ldmdvt\bin\Debug\Clsql.dll
+D:\SOURCE\CRM\Ldmdvt\Ldmdvt\bin\Debug\Interop.Excel.dll
+D:\SOURCE\CRM\Ldmdvt\Ldmdvt\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\CRM\Ldmdvt\Ldmdvt\bin\Debug\Ionic.Zip.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\obj\Debug\Ldmdvt.exe
+E:\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\obj\Debug\Ldmdvt.xml
+E:\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\obj\Debug\Ldmdvt.pdb
+E:\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\obj\Debug\ResolveAssemblyReference.cache
+E:\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\obj\Debug\Ldmdvt.Frmmain.resources
+E:\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\obj\Debug\Ldmdvt.frminput.resources
+E:\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\obj\Debug\Ldmdvt.Resources.resources
+E:\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\obj\Debug\Ldmdvt.vbproj.GenerateResource.Cache
+E:\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\bin\Debug\Ldmdvt.exe
+E:\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\bin\Debug\Ldmdvt.pdb
+E:\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\bin\Debug\Ldmdvt.xml
+E:\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\bin\Debug\ClsControl2.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\bin\Debug\ClsList.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\bin\Debug\ClsLookup.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\bin\Debug\Clsql.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\bin\Debug\ClsStpService.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\bin\Debug\ClsRight.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\bin\Debug\ClsMath.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\bin\Debug\clsab.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\bin\Debug\Interop.Excel.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\bin\Debug\office.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\bin\Debug\ClsVno.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\bin\Debug\clsPopUp.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\bin\Debug\Ionic.Zip.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\bin\Debug\clsPermit4Field.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\obj\Debug\Ldmdvt.exe
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\obj\Debug\Ldmdvt.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldmdvt\Ldmdvt\obj\Debug\Ldmdvt.pdb
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmdvt\Ldmdvt\obj\Debug\Ldmdvt.exe
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmdvt\Ldmdvt\obj\Debug\Ldmdvt.xml
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmdvt\Ldmdvt\obj\Debug\Ldmdvt.pdb
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmdvt\Ldmdvt\bin\Debug\Ldmdvt.exe
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmdvt\Ldmdvt\bin\Debug\Ldmdvt.pdb
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmdvt\Ldmdvt\bin\Debug\Ldmdvt.xml
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmdvt\Ldmdvt\bin\Debug\ClsControl2.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmdvt\Ldmdvt\bin\Debug\ClsList.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmdvt\Ldmdvt\bin\Debug\ClsLookup.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmdvt\Ldmdvt\bin\Debug\Clsql.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmdvt\Ldmdvt\bin\Debug\ClsVno.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmdvt\Ldmdvt\bin\Debug\ClsMath.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmdvt\Ldmdvt\bin\Debug\Ionic.Zip.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmdvt\Ldmdvt\bin\Debug\clsab.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmdvt\Ldmdvt\bin\Debug\clsViDe.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmdvt\Ldmdvt\bin\Debug\clsPopUp.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmdvt\Ldmdvt\bin\Debug\clsPermit4Field.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmdvt\Ldmdvt\bin\Debug\ClsRight.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmdvt\Ldmdvt\bin\Debug\ClsStpService.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmdvt\Ldmdvt\bin\Debug\ClsRpt.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmdvt\Ldmdvt\bin\Debug\ClPrint.dll
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmdvt\Ldmdvt\obj\Debug\ResolveAssemblyReference.cache
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmdvt\Ldmdvt\obj\Debug\Ldmdvt.Frmmain.resources
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmdvt\Ldmdvt\obj\Debug\Ldmdvt.frminput.resources
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmdvt\Ldmdvt\obj\Debug\Ldmdvt.Resources.resources
+F:\STP01\E\STP SOURCE\ACC\3.6\Lists\Ldmdvt\Ldmdvt\obj\Debug\Ldmdvt.vbproj.GenerateResource.Cache
+H:\info_company\data-laptrinh\sourc chuan\3.6\Lists\Ldmdvt\Ldmdvt\obj\Debug\Ldmdvt.exe
+H:\info_company\data-laptrinh\sourc chuan\3.6\Lists\Ldmdvt\Ldmdvt\obj\Debug\Ldmdvt.xml
+H:\info_company\data-laptrinh\sourc chuan\3.6\Lists\Ldmdvt\Ldmdvt\obj\Debug\Ldmdvt.pdb
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Ldmcang\Ldmcang\obj\Debug\Ldmdvt.exe
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Ldmcang\Ldmcang\obj\Debug\Ldmdvt.xml
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Ldmcang\Ldmcang\obj\Debug\Ldmdvt.pdb
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Ldmcang\Ldmcang\bin\Debug\Ldmdvt.exe
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Ldmcang\Ldmcang\bin\Debug\Ldmdvt.pdb
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Ldmcang\Ldmcang\bin\Debug\Ldmdvt.xml
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Ldmcang\Ldmcang\bin\Debug\ClsVno.dll
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Ldmcang\Ldmcang\bin\Debug\ClsMath.dll
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Ldmcang\Ldmcang\bin\Debug\Ionic.Zip.dll
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Ldmcang\Ldmcang\bin\Debug\clsab.dll
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Ldmcang\Ldmcang\bin\Debug\clsViDe.dll
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Ldmcang\Ldmcang\bin\Debug\clsPopUp.dll
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Ldmcang\Ldmcang\bin\Debug\clsPermit4Field.dll
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Ldmcang\Ldmcang\bin\Debug\ClsRight.dll
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Ldmcang\Ldmcang\bin\Debug\ClsStpService.dll
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Ldmcang\Ldmcang\bin\Debug\ClsRpt.dll
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Ldmcang\Ldmcang\bin\Debug\ClPrint.dll
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Ldmcang\Ldmcang\obj\Debug\ResolveAssemblyReference.cache
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Ldmcang\Ldmcang\obj\Debug\Ldmdvt.Frmmain.resources
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Ldmcang\Ldmcang\obj\Debug\Ldmdvt.frminput.resources
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Ldmcang\Ldmcang\obj\Debug\Ldmdvt.Resources.resources
+H:\info_company\data-laptrinh\source_customers\DaiPhuThanh\Ldmcang\Ldmcang\obj\Debug\Ldmdvt.vbproj.GenerateResource.Cache

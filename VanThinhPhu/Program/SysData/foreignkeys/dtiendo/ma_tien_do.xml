@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="dtiendo" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dtiendo">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="oTable" type="xs:string" minOccurs="0" />
+                <xs:element name="oColumn" type="xs:string" minOccurs="0" />
+                <xs:element name="rTable" type="xs:string" minOccurs="0" />
+                <xs:element name="rColumn" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <dtiendo>
+    <oTable>dtiendo</oTable>
+    <oColumn>ma_tien_do</oColumn>
+    <rTable>nkcv</rTable>
+    <rColumn>ma_tien_do</rColumn>
+  </dtiendo>
+</NewDataSet>

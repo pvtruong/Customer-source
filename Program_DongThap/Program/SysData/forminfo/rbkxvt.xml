@@ -1,0 +1,171 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rbkxvt" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rbkxvt">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rbkxvt>
+    <FormID>rbkxvt</FormID>
+    <TextID>000</TextID>
+    <TextV>Bảng kê phiếu xuất của vật tư</TextV>
+    <TextE>Issue Transaction List for an Item</TextE>
+  </rbkxvt>
+  <rbkxvt>
+    <FormID>rbkxvt</FormID>
+    <TextID>001</TextID>
+    <TextV>Điều kiện lọc</TextV>
+    <TextE>Filter Condition</TextE>
+  </rbkxvt>
+  <rbkxvt>
+    <FormID>rbkxvt</FormID>
+    <TextID>002</TextID>
+    <TextV>Từ/Đến ngày</TextV>
+    <TextE>Date from/to</TextE>
+  </rbkxvt>
+  <rbkxvt>
+    <FormID>rbkxvt</FormID>
+    <TextID>003</TextID>
+    <TextV>Mã kho</TextV>
+    <TextE>Site ID</TextE>
+  </rbkxvt>
+  <rbkxvt>
+    <FormID>rbkxvt</FormID>
+    <TextID>004</TextID>
+    <TextV>Mã vật tư</TextV>
+    <TextE>Item Code</TextE>
+  </rbkxvt>
+  <rbkxvt>
+    <FormID>rbkxvt</FormID>
+    <TextID>005</TextID>
+    <TextV>Nhóm vật tư</TextV>
+    <TextE>Item Group</TextE>
+  </rbkxvt>
+  <rbkxvt>
+    <FormID>rbkxvt</FormID>
+    <TextID>006</TextID>
+    <TextV>Loại vật tư</TextV>
+    <TextE>Item Type</TextE>
+  </rbkxvt>
+  <rbkxvt>
+    <FormID>rbkxvt</FormID>
+    <TextID>007</TextID>
+    <TextV>Số chứng từ</TextV>
+    <TextE>Voucher No.</TextE>
+  </rbkxvt>
+  <rbkxvt>
+    <FormID>rbkxvt</FormID>
+    <TextID>008</TextID>
+    <TextV>TK vật tư</TextV>
+    <TextE>Inventory Acct.</TextE>
+  </rbkxvt>
+  <rbkxvt>
+    <FormID>rbkxvt</FormID>
+    <TextID>009</TextID>
+    <TextV>Đơn vị</TextV>
+    <TextE>Unit</TextE>
+  </rbkxvt>
+  <rbkxvt>
+    <FormID>rbkxvt</FormID>
+    <TextID>010</TextID>
+    <TextV>Mã bộ phận</TextV>
+    <TextE>Dept. ID</TextE>
+  </rbkxvt>
+  <rbkxvt>
+    <FormID>rbkxvt</FormID>
+    <TextID>011</TextID>
+    <TextV>Mẫu báo cáo</TextV>
+    <TextE>Report Form</TextE>
+  </rbkxvt>
+  <rbkxvt>
+    <FormID>rbkxvt</FormID>
+    <TextID>012</TextID>
+    <TextV>Tiêu đề</TextV>
+    <TextE>Title</TextE>
+  </rbkxvt>
+  <rbkxvt>
+    <FormID>rbkxvt</FormID>
+    <TextID>013</TextID>
+    <TextV>Mã đối tượng</TextV>
+    <TextE>Object ID</TextE>
+  </rbkxvt>
+  <rbkxvt>
+    <FormID>rbkxvt</FormID>
+    <TextID>014</TextID>
+    <TextV>Tk vật tư trong dmvt</TextV>
+    <TextE>Inven. Account (Item List)</TextE>
+  </rbkxvt>
+  <rbkxvt>
+    <FormID>rbkxvt</FormID>
+    <TextID>015</TextID>
+    <TextV>Mã khách</TextV>
+    <TextE>Cust.ID</TextE>
+  </rbkxvt>
+  <rbkxvt>
+    <FormID>rbkxvt</FormID>
+    <TextID>016</TextID>
+    <TextV>Nhóm theo</TextV>
+    <TextE>Group by</TextE>
+  </rbkxvt>
+  <rbkxvt>
+    <FormID>rbkxvt</FormID>
+    <TextID>200</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>&amp;Function</TextE>
+  </rbkxvt>
+  <rbkxvt>
+    <FormID>rbkxvt</FormID>
+    <TextID>201</TextID>
+    <TextV>In</TextV>
+    <TextE>Print</TextE>
+  </rbkxvt>
+  <rbkxvt>
+    <FormID>rbkxvt</FormID>
+    <TextID>202</TextID>
+    <TextV>Xem</TextV>
+    <TextE>View</TextE>
+  </rbkxvt>
+  <rbkxvt>
+    <FormID>rbkxvt</FormID>
+    <TextID>203</TextID>
+    <TextV>Làm tươi</TextV>
+    <TextE>Refresh</TextE>
+  </rbkxvt>
+  <rbkxvt>
+    <FormID>rbkxvt</FormID>
+    <TextID>204</TextID>
+    <TextV>Xem chứng từ</TextV>
+    <TextE>View Voucher</TextE>
+  </rbkxvt>
+  <rbkxvt>
+    <FormID>rbkxvt</FormID>
+    <TextID>900</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>&amp;OK</TextE>
+  </rbkxvt>
+  <rbkxvt>
+    <FormID>rbkxvt</FormID>
+    <TextID>901</TextID>
+    <TextV>&amp;Hủy</TextV>
+    <TextE>&amp;Cancel</TextE>
+  </rbkxvt>
+  <rbkxvt>
+    <FormID>rbkxvt</FormID>
+    <TextID>999</TextID>
+    <TextV>Thoát</TextV>
+    <TextE>Close</TextE>
+  </rbkxvt>
+</NewDataSet>

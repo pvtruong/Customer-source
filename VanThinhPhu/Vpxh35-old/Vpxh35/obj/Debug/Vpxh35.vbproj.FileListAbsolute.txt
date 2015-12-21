@@ -1,0 +1,159 @@
+J:\STP01\#E\STP SOURCE\ACC\3.5\Sales\Vpxh35\Vpxh35\bin\Debug\Vpxh.exe
+J:\STP01\#E\STP SOURCE\ACC\3.5\Sales\Vpxh35\Vpxh35\bin\Debug\Vpxh.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.5\Sales\Vpxh35\Vpxh35\bin\Debug\Vpxh.xml
+J:\STP01\#E\STP SOURCE\ACC\3.5\Sales\Vpxh35\Vpxh35\bin\Debug\ClsControl2.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Sales\Vpxh35\Vpxh35\bin\Debug\ClsLookup.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Sales\Vpxh35\Vpxh35\bin\Debug\Clsql.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Sales\Vpxh35\Vpxh35\bin\Debug\ClsRight.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Sales\Vpxh35\Vpxh35\bin\Debug\ClsStpService.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Sales\Vpxh35\Vpxh35\bin\Debug\ClsSV31.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Sales\Vpxh35\Vpxh35\bin\Debug\ClsVno.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Sales\Vpxh35\Vpxh35\bin\Debug\Ionic.Zip.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Sales\Vpxh35\Vpxh35\bin\Debug\clsab.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Sales\Vpxh35\Vpxh35\bin\Debug\ClPrint.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Sales\Vpxh35\Vpxh35\bin\Debug\clsViDe.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Sales\Vpxh35\Vpxh35\bin\Debug\clsPopUp.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Sales\Vpxh35\Vpxh35\bin\Debug\ClsMath.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Sales\Vpxh35\Vpxh35\obj\Debug\ResolveAssemblyReference.cache
+J:\STP01\#E\STP SOURCE\ACC\3.5\Sales\Vpxh35\Vpxh35\obj\Debug\Vpxh.frmdklayhd.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Sales\Vpxh35\Vpxh35\obj\Debug\Vpxh.frmPrint.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Sales\Vpxh35\Vpxh35\obj\Debug\Vpxh.frmsearch.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Sales\Vpxh35\Vpxh35\obj\Debug\Vpxh.Frmmain.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Sales\Vpxh35\Vpxh35\obj\Debug\Vpxh.frminput.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Sales\Vpxh35\Vpxh35\obj\Debug\Vpxh.Resources.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Sales\Vpxh35\Vpxh35\obj\Debug\Vpxh35.vbproj.GenerateResource.Cache
+J:\STP01\#E\STP SOURCE\ACC\3.5\Sales\Vpxh35\Vpxh35\obj\Debug\Vpxh.exe
+J:\STP01\#E\STP SOURCE\ACC\3.5\Sales\Vpxh35\Vpxh35\obj\Debug\Vpxh.xml
+J:\STP01\#E\STP SOURCE\ACC\3.5\Sales\Vpxh35\Vpxh35\obj\Debug\Vpxh.pdb
+C:\Users\Truong\Box Sync\acc\9.0\Vpxh35\Vpxh35\obj\Debug\Vpxh.xml
+C:\Users\Truong\Box Sync\acc\9.0\Vpxh35\Vpxh35\obj\Debug\Vpxh.pdb
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\Vpxh.exe.config
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\Vpxh.exe
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\Vpxh.pdb
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\Vpxh.xml
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\ClPrint.DLL
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\ClsControl2.DLL
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\ClsList.DLL
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\ClsLookup.DLL
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\Clsql.DLL
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\ClsReport.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\ClsRight.DLL
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\ClsRpt.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\ClsStpService.DLL
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\ClsSV31.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\clsViDe.DLL
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\ClsVno.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\CrystalDecisions.Windows.Forms.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\CrystalDecisions.Shared.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\System.Windows.Forms.DataVisualization.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\ClsMath.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\Microsoft.Office.Interop.Excel.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\clsPopUp.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\clsPermit4Field.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\clsphannhomdm.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\clsab.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\Ionic.Zip.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\Eval3.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\Control.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\ClsPilot.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\clschat.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\CrystalDecisions.ReportSource.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\office.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\Microsoft.Vbe.Interop.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\ClsMsg.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\stdole.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\CrystalDecisions.Windows.Forms.xml
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\CrystalDecisions.CrystalReports.Engine.xml
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\CrystalDecisions.Shared.xml
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Debug\CrystalDecisions.ReportSource.xml
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\Vpxh.exe.config
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\Vpxh.exe
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\Vpxh.pdb
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\Vpxh.xml
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\ClPrint.DLL
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\ClsControl2.DLL
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\ClsList.DLL
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\ClsLookup.DLL
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\Clsql.DLL
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\ClsReport.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\ClsRight.DLL
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\ClsRpt.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\ClsStpService.DLL
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\ClsSV31.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\clsViDe.DLL
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\ClsVno.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\CrystalDecisions.Windows.Forms.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\CrystalDecisions.Shared.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\System.Windows.Forms.DataVisualization.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\ClsMath.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\Microsoft.Office.Interop.Excel.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\clsPopUp.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\clsPermit4Field.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\clsphannhomdm.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\clsab.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\Ionic.Zip.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\Eval3.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\Control.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\ClsPilot.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\clschat.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\CrystalDecisions.ReportSource.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\office.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\Microsoft.Vbe.Interop.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\ClsMsg.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\stdole.dll
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\CrystalDecisions.Windows.Forms.xml
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\CrystalDecisions.CrystalReports.Engine.xml
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\CrystalDecisions.Shared.xml
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\CrystalDecisions.ReportSource.xml
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\obj\Debug\Vpxh35.vbprojResolveAssemblyReference.cache
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\obj\Debug\Vpxh.frmdklayhd.resources
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\obj\Debug\Vpxh.frmPrint.resources
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\obj\Debug\Vpxh.frmsearch.resources
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\obj\Debug\Vpxh.Frmmain.resources
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\obj\Debug\Vpxh.frminput.resources
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\obj\Debug\Vpxh.Resources.resources
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\obj\Debug\Vpxh35.vbproj.GenerateResource.Cache
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\obj\Debug\Vpxh.exe
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\obj\Debug\Vpxh.xml
+H:\info_company\data-laptrinh\source_customers\VanThinhPhu\Vpxh35\Vpxh35\obj\Debug\Vpxh.pdb
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\Vpxh.exe.config
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\obj\Debug\Vpxh.exe
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\obj\Debug\Vpxh.xml
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\obj\Debug\Vpxh.pdb
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\Vpxh.exe
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\Vpxh.pdb
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\Vpxh.xml
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\CrystalDecisions.Windows.Forms.dll
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\CrystalDecisions.Shared.dll
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\System.Windows.Forms.DataVisualization.dll
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\ClsMath.dll
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\Microsoft.Office.Interop.Excel.dll
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\clsPopUp.dll
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\clsPermit4Field.dll
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\clsphannhomdm.dll
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\clsab.dll
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\Ionic.Zip.dll
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\Eval3.dll
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\Control.dll
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\ClsPilot.dll
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\clschat.dll
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\CrystalDecisions.ReportSource.dll
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\office.dll
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\Microsoft.Vbe.Interop.dll
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\ClsMsg.dll
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\stdole.dll
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\CrystalDecisions.Windows.Forms.xml
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\CrystalDecisions.CrystalReports.Engine.xml
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\CrystalDecisions.Shared.xml
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\CrystalDecisions.ReportSource.xml
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\obj\Debug\Vpxh35.vbprojResolveAssemblyReference.cache
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\obj\Debug\Vpxh.frmdklayhd.resources
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\obj\Debug\Vpxh.frmPrint.resources
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\obj\Debug\Vpxh.frmsearch.resources
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\obj\Debug\Vpxh.Frmmain.resources
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\obj\Debug\Vpxh.frminput.resources
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\obj\Debug\Vpxh.Resources.resources
+H:\info_company\source_customers\VanThinhPhu\Vpxh35\Vpxh35\obj\Debug\Vpxh35.vbproj.GenerateResource.Cache

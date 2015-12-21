@@ -1,0 +1,204 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="zrpt_dmtailieu" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="zrpt_dmtailieu">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <zrpt_dmtailieu>
+    <Code>zrpt_dmtailieu</Code>
+    <Name>c_den_ngay</Name>
+    <Type>C</Type>
+    <Value>đến ngày</Value>
+    <Value2>To Date</Value2>
+  </zrpt_dmtailieu>
+  <zrpt_dmtailieu>
+    <Code>zrpt_dmtailieu</Code>
+    <Name>c_dvt</Name>
+    <Type>C</Type>
+    <Value>Đơn vị tính:</Value>
+    <Value2>Đơn vị tính:</Value2>
+  </zrpt_dmtailieu>
+  <zrpt_dmtailieu>
+    <Code>zrpt_dmtailieu</Code>
+    <Name>c_gd</Name>
+    <Type>C</Type>
+    <Value>Giám đốc</Value>
+    <Value2>Giám đốc</Value2>
+  </zrpt_dmtailieu>
+  <zrpt_dmtailieu>
+    <Code>zrpt_dmtailieu</Code>
+    <Name>c_ghi_so</Name>
+    <Type>c</Type>
+    <Value>Ngày, tháng ghi sổ</Value>
+    <Value2>Ngày, tháng ghi sổ</Value2>
+  </zrpt_dmtailieu>
+  <zrpt_dmtailieu>
+    <Code>zrpt_dmtailieu</Code>
+    <Name>c_ktt</Name>
+    <Type>C</Type>
+    <Value>Kế toán trưởng</Value>
+    <Value2>Kế toán trưởng</Value2>
+  </zrpt_dmtailieu>
+  <zrpt_dmtailieu>
+    <Code>zrpt_dmtailieu</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên)</Value>
+    <Value2>(Ký, họ tên)</Value2>
+  </zrpt_dmtailieu>
+  <zrpt_dmtailieu>
+    <Code>zrpt_dmtailieu</Code>
+    <Name>c_ky_ten_dd</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên, đóng dấu)</Value>
+    <Value2>(Ký, họ tên, đóng dấu)</Value2>
+  </zrpt_dmtailieu>
+  <zrpt_dmtailieu>
+    <Code>zrpt_dmtailieu</Code>
+    <Name>c_ma_dvt</Name>
+    <Type>C</Type>
+    <Value>ĐVT</Value>
+    <Value2>ĐVT</Value2>
+  </zrpt_dmtailieu>
+  <zrpt_dmtailieu>
+    <Code>zrpt_dmtailieu</Code>
+    <Name>c_ngay_ms</Name>
+    <Type>C</Type>
+    <Value>Ngày mở sổ . . . . . . . . . .</Value>
+    <Value2>Ngày mở sổ . . . . . . . . . .</Value2>
+  </zrpt_dmtailieu>
+  <zrpt_dmtailieu>
+    <Code>zrpt_dmtailieu</Code>
+    <Name>c_ngay_thang</Name>
+    <Type>C</Type>
+    <Value>Ngày tháng</Value>
+    <Value2>Ngày tháng</Value2>
+  </zrpt_dmtailieu>
+  <zrpt_dmtailieu>
+    <Code>zrpt_dmtailieu</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>Ngày . . . tháng . . . năm . . .</Value>
+    <Value2>Ngày . . . tháng . . . năm . . .</Value2>
+  </zrpt_dmtailieu>
+  <zrpt_dmtailieu>
+    <Code>zrpt_dmtailieu</Code>
+    <Name>c_nguoi_gs</Name>
+    <Type>c</Type>
+    <Value>Người ghi sổ</Value>
+    <Value2>Người ghi sổ</Value2>
+  </zrpt_dmtailieu>
+  <zrpt_dmtailieu>
+    <Code>zrpt_dmtailieu</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Người lập</Value>
+    <Value2>Người lập</Value2>
+  </zrpt_dmtailieu>
+  <zrpt_dmtailieu>
+    <Code>zrpt_dmtailieu</Code>
+    <Name>c_tu_ngay</Name>
+    <Type>C</Type>
+    <Value>Từ ngày</Value>
+    <Value2>From Date</Value2>
+  </zrpt_dmtailieu>
+  <zrpt_dmtailieu>
+    <Code>zrpt_dmtailieu</Code>
+    <Name>chuc_vu</Name>
+    <Type>C</Type>
+    <Value>Chức vụ</Value>
+    <Value2>Chức vụ</Value2>
+  </zrpt_dmtailieu>
+  <zrpt_dmtailieu>
+    <Code>zrpt_dmtailieu</Code>
+    <Name>cq_ph</Name>
+    <Type>C</Type>
+    <Value>Cơ quan phát hành</Value>
+    <Value2>Cơ quan phát hành</Value2>
+  </zrpt_dmtailieu>
+  <zrpt_dmtailieu>
+    <Code>zrpt_dmtailieu</Code>
+    <Name>file_dk</Name>
+    <Type>C</Type>
+    <Value>File  đính kèm</Value>
+    <Value2>File đính kèm</Value2>
+  </zrpt_dmtailieu>
+  <zrpt_dmtailieu>
+    <Code>zrpt_dmtailieu</Code>
+    <Name>loai_tl</Name>
+    <Type>C</Type>
+    <Value>Loại tài liệu</Value>
+    <Value2>Loại tài liệu</Value2>
+  </zrpt_dmtailieu>
+  <zrpt_dmtailieu>
+    <Code>zrpt_dmtailieu</Code>
+    <Name>ma_tl</Name>
+    <Type>C</Type>
+    <Value>Mã tài liệu</Value>
+    <Value2>Mã tài liệu</Value2>
+  </zrpt_dmtailieu>
+  <zrpt_dmtailieu>
+    <Code>zrpt_dmtailieu</Code>
+    <Name>ngay_tl</Name>
+    <Type>C</Type>
+    <Value>Ngày tạo lập</Value>
+    <Value2>Ngày tạo lập</Value2>
+  </zrpt_dmtailieu>
+  <zrpt_dmtailieu>
+    <Code>zrpt_dmtailieu</Code>
+    <Name>nguoi_ky</Name>
+    <Type>C</Type>
+    <Value>Người ký</Value>
+    <Value2>Người ký</Value2>
+  </zrpt_dmtailieu>
+  <zrpt_dmtailieu>
+    <Code>zrpt_dmtailieu</Code>
+    <Name>nhom_tl</Name>
+    <Type>C</Type>
+    <Value>Nhóm tài liệu</Value>
+    <Value2>Nhóm tài liệu</Value2>
+  </zrpt_dmtailieu>
+  <zrpt_dmtailieu>
+    <Code>zrpt_dmtailieu</Code>
+    <Name>noi_dung</Name>
+    <Type>C</Type>
+    <Value>Nội dung</Value>
+    <Value2>Nội dung</Value2>
+  </zrpt_dmtailieu>
+  <zrpt_dmtailieu>
+    <Code>zrpt_dmtailieu</Code>
+    <Name>noi_gui</Name>
+    <Type>C</Type>
+    <Value>Nơi gửi</Value>
+    <Value2>Nơi gửi</Value2>
+  </zrpt_dmtailieu>
+  <zrpt_dmtailieu>
+    <Code>zrpt_dmtailieu</Code>
+    <Name>noi_nhan</Name>
+    <Type>C</Type>
+    <Value>Nơi nhận</Value>
+    <Value2>Nơi nhận</Value2>
+  </zrpt_dmtailieu>
+  <zrpt_dmtailieu>
+    <Code>zrpt_dmtailieu</Code>
+    <Name>ten_tl</Name>
+    <Type>C</Type>
+    <Value>Tên tài liệu</Value>
+    <Value2>Tên tài liệu</Value2>
+  </zrpt_dmtailieu>
+</NewDataSet>

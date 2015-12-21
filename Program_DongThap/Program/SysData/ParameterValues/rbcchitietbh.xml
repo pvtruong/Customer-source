@@ -1,0 +1,197 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="rbcchitietbh" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="rbcchitietbh">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+                <xs:element name="Value2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <rbcchitietbh>
+    <Code>rbcchitietbh</Code>
+    <Name>c_cong</Name>
+    <Type>C</Type>
+    <Value>TỔNG CỘNG:</Value>
+    <Value2>TOTAL:</Value2>
+  </rbcchitietbh>
+  <rbcchitietbh>
+    <Code>rbcchitietbh</Code>
+    <Name>c_den_ngay</Name>
+    <Type>C</Type>
+    <Value>đến ngày</Value>
+    <Value2>To Date</Value2>
+  </rbcchitietbh>
+  <rbcchitietbh>
+    <Code>rbcchitietbh</Code>
+    <Name>c_dvt</Name>
+    <Type>C</Type>
+    <Value>Đơn vị tính:</Value>
+    <Value2>Unit:</Value2>
+  </rbcchitietbh>
+  <rbcchitietbh>
+    <Code>rbcchitietbh</Code>
+    <Name>c_gd</Name>
+    <Type>C</Type>
+    <Value>Giám đốc</Value>
+    <Value2>Director</Value2>
+  </rbcchitietbh>
+  <rbcchitietbh>
+    <Code>rbcchitietbh</Code>
+    <Name>c_ktt</Name>
+    <Type>C</Type>
+    <Value>Kế toán trưởng</Value>
+    <Value2>Chief Accountant</Value2>
+  </rbcchitietbh>
+  <rbcchitietbh>
+    <Code>rbcchitietbh</Code>
+    <Name>c_ky_ten</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên)</Value>
+    <Value2>Sign., (Full Name)</Value2>
+  </rbcchitietbh>
+  <rbcchitietbh>
+    <Code>rbcchitietbh</Code>
+    <Name>c_ky_ten_dd</Name>
+    <Type>C</Type>
+    <Value>(Ký, họ tên , đón dấu)</Value>
+    <Value2>Sign., Seal (Full Name and Position)</Value2>
+  </rbcchitietbh>
+  <rbcchitietbh>
+    <Code>rbcchitietbh</Code>
+    <Name>c_ngay_ms</Name>
+    <Type>C</Type>
+    <Value>Ngày mở sổ . . . .</Value>
+    <Value2>On open books . . . .</Value2>
+  </rbcchitietbh>
+  <rbcchitietbh>
+    <Code>rbcchitietbh</Code>
+    <Name>c_ngay_thang_nam</Name>
+    <Type>C</Type>
+    <Value>..............., ngày......... tháng........... năm..........</Value>
+    <Value2>..............., date......... month........... year..........</Value2>
+  </rbcchitietbh>
+  <rbcchitietbh>
+    <Code>rbcchitietbh</Code>
+    <Name>c_nguoi_lap</Name>
+    <Type>C</Type>
+    <Value>Người lập</Value>
+    <Value2>Founder</Value2>
+  </rbcchitietbh>
+  <rbcchitietbh>
+    <Code>rbcchitietbh</Code>
+    <Name>c_tu_ngay</Name>
+    <Type>C</Type>
+    <Value>Từ ngày</Value>
+    <Value2>From Date</Value2>
+  </rbcchitietbh>
+  <rbcchitietbh>
+    <Code>rbcchitietbh</Code>
+    <Name>gia_ban</Name>
+    <Type>C</Type>
+    <Value>Giá bán</Value>
+    <Value2>Sales Price</Value2>
+  </rbcchitietbh>
+  <rbcchitietbh>
+    <Code>rbcchitietbh</Code>
+    <Name>gia_von</Name>
+    <Type>C</Type>
+    <Value>Giá vốn</Value>
+    <Value2>Unit Cost</Value2>
+  </rbcchitietbh>
+  <rbcchitietbh>
+    <Code>rbcchitietbh</Code>
+    <Name>lai</Name>
+    <Type>C</Type>
+    <Value>Lãi</Value>
+    <Value2>Profit</Value2>
+  </rbcchitietbh>
+  <rbcchitietbh>
+    <Code>rbcchitietbh</Code>
+    <Name>ma_kh</Name>
+    <Type>C</Type>
+    <Value>Mã khách</Value>
+    <Value2>Cust.ID</Value2>
+  </rbcchitietbh>
+  <rbcchitietbh>
+    <Code>rbcchitietbh</Code>
+    <Name>ngay_ct</Name>
+    <Type>C</Type>
+    <Value>Ngày chứng từ</Value>
+    <Value2>Voucher Date</Value2>
+  </rbcchitietbh>
+  <rbcchitietbh>
+    <Code>rbcchitietbh</Code>
+    <Name>phai_thu</Name>
+    <Type>C</Type>
+    <Value>Phải thu</Value>
+    <Value2>Receivable</Value2>
+  </rbcchitietbh>
+  <rbcchitietbh>
+    <Code>rbcchitietbh</Code>
+    <Name>so_ct</Name>
+    <Type>C</Type>
+    <Value>Số chứng từ</Value>
+    <Value2>Voucher No.</Value2>
+  </rbcchitietbh>
+  <rbcchitietbh>
+    <Code>rbcchitietbh</Code>
+    <Name>so_luong</Name>
+    <Type>C</Type>
+    <Value>Số lượng</Value>
+    <Value2>Quantity</Value2>
+  </rbcchitietbh>
+  <rbcchitietbh>
+    <Code>rbcchitietbh</Code>
+    <Name>stt</Name>
+    <Type>C</Type>
+    <Value>Số thứ tự</Value>
+    <Value2>Order No.</Value2>
+  </rbcchitietbh>
+  <rbcchitietbh>
+    <Code>rbcchitietbh</Code>
+    <Name>ten_kh</Name>
+    <Type>C</Type>
+    <Value>Tên khách</Value>
+    <Value2>Customer Name</Value2>
+  </rbcchitietbh>
+  <rbcchitietbh>
+    <Code>rbcchitietbh</Code>
+    <Name>tien_ban</Name>
+    <Type>C</Type>
+    <Value>Tiền bán</Value>
+    <Value2>Cash sales</Value2>
+  </rbcchitietbh>
+  <rbcchitietbh>
+    <Code>rbcchitietbh</Code>
+    <Name>tien_ck</Name>
+    <Type>C</Type>
+    <Value>Tiền CK</Value>
+    <Value2>Discount Amt.</Value2>
+  </rbcchitietbh>
+  <rbcchitietbh>
+    <Code>rbcchitietbh</Code>
+    <Name>tien_thue</Name>
+    <Type>C</Type>
+    <Value>Tiền thuế</Value>
+    <Value2>Tax Amount</Value2>
+  </rbcchitietbh>
+  <rbcchitietbh>
+    <Code>rbcchitietbh</Code>
+    <Name>tien_von</Name>
+    <Type>C</Type>
+    <Value>Tiền vốn</Value>
+    <Value2>Cost Amt.</Value2>
+  </rbcchitietbh>
+</NewDataSet>

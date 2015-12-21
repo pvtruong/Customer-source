@@ -1,0 +1,1418 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Van Anh</Author>
+  <LastAuthor>Trường Phạm</LastAuthor>
+  <Created>1996-10-14T23:33:28Z</Created>
+  <LastSaved>2014-02-19T04:29:44Z</LastSaved>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9300</WindowHeight>
+  <WindowWidth>15135</WindowWidth>
+  <WindowTopX>120</WindowTopX>
+  <WindowTopY>120</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m58703520">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="9" ss:Bold="1"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="m58703236">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="m59655040">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="m59655060">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="m59655080">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="m59655100">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m59655120">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="m59655140">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="m59655160">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m59655180">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m59655200">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m59655220">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m59654816">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="m59654836">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="m59654856">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="m59654876">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="m59654896">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m59654916">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m59654936">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="m59654956">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="m59654976">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="m59654996">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="m59654592">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m59654612">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m59654632">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m59654652">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m59654672">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m59654692">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m59654712">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m59654732">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m59654368">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="m59654388">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="m59654408">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="m59654428">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="m59654448">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="m59654468">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s62">
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="11" ss:Color="#0000FF"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:Indent="4"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:Indent="15"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Justify" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="9" ss:Bold="1"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s73">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s74">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s75">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <NumberFormat ss:Format="#,##0"/>
+  </Style>
+  <Style ss:ID="s76">
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="s77">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="s78">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s79">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <NumberFormat ss:Format="#,##0"/>
+  </Style>
+  <Style ss:ID="s80">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s81">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s82">
+   <Borders/>
+  </Style>
+  <Style ss:ID="s83">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s84">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s85">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s86">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s87">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s88">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <NumberFormat ss:Format="#,##0"/>
+  </Style>
+  <Style ss:ID="s89">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s90">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <NumberFormat ss:Format="dd/mm/yyyy;@"/>
+  </Style>
+  <Style ss:ID="s91">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s93">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s94">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s95">
+   <Alignment ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s96">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="14" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s97">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <Interior ss:Color="#99CCFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s98">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <Interior ss:Color="#99CCFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s99">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <Interior ss:Color="#99CCFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s100">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s101">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s102">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s103">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s134">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s135">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s141">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="9" ss:Bold="1"/>
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="s148">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="14" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62">
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="11.25"/>
+   <Column ss:Index="5" ss:StyleID="s68" ss:AutoFitWidth="0" ss:Width="58.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="68.25"/>
+   <Column ss:StyleID="s68" ss:AutoFitWidth="0" ss:Width="64.5"/>
+   <Column ss:StyleID="s68" ss:AutoFitWidth="0" ss:Width="73.5"/>
+   <Column ss:StyleID="s68" ss:AutoFitWidth="0" ss:Width="58.5"/>
+   <Column ss:StyleID="s68" ss:AutoFitWidth="0" ss:Width="69.75"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="57"/>
+   <Column ss:StyleID="s76" ss:AutoFitWidth="0" ss:Width="54.75"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="64.5"/>
+   <Column ss:StyleID="s68" ss:AutoFitWidth="0" ss:Width="69"/>
+   <Row ss:Index="3" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:Index="2" ss:MergeAcross="12" ss:StyleID="s63"><Data ss:Type="String">BẢNG KÊ HOÁ ĐƠN, CHỨNG TỪ HÀNG HOÁ, DỊCH VỤ MUA VÀO</Data></Cell>
+   </Row>
+   <Row ss:Height="15" ss:Hidden="1">
+    <Cell><Data ss:Type="String">Bangkemuavao.xls</Data></Cell>
+    <Cell ss:MergeAcross="12" ss:StyleID="s63"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:MergeAcross="12" ss:StyleID="s64"><Data ss:Type="String">(Kèm theo tờ khai thuế GTGT theo mẫu số 01/GTGT)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:MergeAcross="12" ss:StyleID="s64"><Data ss:Type="String">Kỳ tính thuế: Tháng #ky# năm #nam# / Quý …. Năm #nam#</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:MergeAcross="12" ss:StyleID="s134"><Data ss:Type="String">Người nộp thuế: #cty_nnt#</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:MergeAcross="12" ss:StyleID="s134"><Data ss:Type="String">Mã số thuế: #cty_mst#</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:MergeAcross="12" ss:StyleID="s148"><Data ss:Type="String">Đơn vị tiền: đồng Việt Nam</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:MergeDown="2" ss:StyleID="s69"><Data ss:Type="String">STT</Data><Comment
+      ss:Author="FIS-CMCSOFT"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:Family="Swiss" html:Size="8" html:Color="#000000">Thông tin này bắt buộc phải nhập</Font></ss:Data></Comment></Cell>
+    <Cell ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="m58703520"><Data
+      ss:Type="String">Hoá đơn, chứng từ, biên lai nộp thuế</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="s69"><Data ss:Type="String">Tên người bán</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="s69"><Data ss:Type="String">Mã số thuế người bán</Data><Comment
+      ss:Author="FIS-CMCSOFT"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:Family="Swiss" html:Size="8" html:Color="#000000">Mã sô thuế theo hóa đơn mua hàng</Font></ss:Data></Comment></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="s69"><Data ss:Type="String">Mặt hàng</Data><Comment
+      ss:Author="FIS-CMCSOFT"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:Family="Swiss" html:Size="8" html:Color="#000000">Tên loại mặt hàng</Font></ss:Data></Comment></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="s69"><Data ss:Type="String">Doanh số mua chưa có thuế</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="s141"><Data ss:Type="String">Thuế suất</Data><Comment
+      ss:Author="FIS-CMCSOFT"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:Family="Swiss" html:Size="8" html:Color="#000000">Thuế suất thuế GTGT định dạng là text. Nếu thuế suất 10% nhập là 10, 5% nhập là 5</Font></ss:Data></Comment></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="s69"><Data ss:Type="String">Thuế GTGT</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="s69"><Data ss:Type="String">Ghi chú</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="4.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="35.25">
+    <Cell ss:Index="3" ss:StyleID="s69"><Data ss:Type="String">Mã hóa đơn</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ký hiệu mẫu hóa đơn</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ký hiệu hoá đơn</Data><Comment
+      ss:Author="FIS-CMCSOFT"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:Family="Swiss" html:Size="8" html:Color="#000000">Nhập ký hiệu hóa đơn</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Số hoá đơn</Data><Comment
+      ss:Author="FIS-CMCSOFT"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:Family="Swiss" html:Size="8" html:Color="#000000">Nhập số hóa đơn</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Ngày, tháng, năm phát hành</Data><Comment
+      ss:Author="FIS-CMCSOFT"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><Font
+        html:Face="Tahoma" x:Family="Swiss" html:Size="8" html:Color="#000000">Nhập ngày tháng năm phát hành hóa đơn theo đúng định dạng sau DD/MM/YYYY</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s70"><Data ss:Type="String">[1]</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">[2]</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">[3]</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">[4]</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">[5]</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">[6]</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">[7]</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">[8]</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">[9]</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">[10]</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">[11]</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">[12]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="16.5">
+    <Cell ss:Index="2" ss:MergeAcross="12" ss:StyleID="m58703236"><Data
+      ss:Type="String">1. Hàng hoá, dịch vụ dùng riêng cho SXKD chịu thuế GTGT và sử dụng cho các hoạt động cung cấp hàng hoá, dịch vụ không kê khai, nộp thuế GTGT đủ điều kiện khấu trừ thuế: </Data></Cell>
+   </Row>
+   <!--beginDetail-->
+   <!--table:0--table-->
+   <!--where:ma_tc='1' and sysorder =5--where-->
+   <Row >
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">#stt#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#ma_hoa_don#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#ky_hieu_hoa_don#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#so_seri#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#so_hd#</Data></Cell>
+    <Cell ss:StyleID="s90">#ngay_hd#</Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#ten_kh#</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">#ma_so_thue#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#ten_vt#</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">#t_tien#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#thue_suat#</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">#t_thue#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#ghi_chu#</Data></Cell>
+   </Row>
+   <!--endDetail-->
+   <!--beginDetail-->
+   <!--where:ma_tc='1' and sysorder =3--where-->
+   <Row ss:StyleID="s89">
+    <Cell ss:Index="2" ss:StyleID="s86"><Data ss:Type="String">Tổng</Data></Cell>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">#t_tien#</Data></Cell>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">#t_thue#</Data></Cell>
+    <Cell ss:StyleID="s87"/>
+   </Row>
+   <!--endDetail-->
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:MergeAcross="8" ss:StyleID="s135"><Data ss:Type="String">2. Hàng hoá, dịch vụ không đủ điều kiện khấu trừ:</Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:StyleID="s78"/>
+   </Row>
+   <!--beginDetail-->
+   <!--where:ma_tc='2' and sysorder =5--where-->
+   <Row >
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">#stt#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#ma_hoa_don#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#ky_hieu_hoa_don#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#so_seri#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#so_hd#</Data></Cell>
+    <Cell ss:StyleID="s90">#ngay_hd#</Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#ten_kh#</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">#ma_so_thue#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#ten_vt#</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">#t_tien#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#thue_suat#</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">#t_thue#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#ghi_chu#</Data></Cell>
+   </Row>
+   <!--endDetail-->
+   <!--beginDetail-->
+   <!--where:ma_tc='2' and sysorder =3--where-->
+   <Row ss:StyleID="s89">
+    <Cell ss:Index="2" ss:StyleID="s86"><Data ss:Type="String">Tổng</Data></Cell>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">#t_tien#</Data></Cell>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">#t_thue#</Data></Cell>
+    <Cell ss:StyleID="s87"/>
+   </Row>
+   <!--endDetail-->
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:MergeAcross="8" ss:StyleID="s135"><Data ss:Type="String">3. Hàng hoá, dịch vụ dùng chung cho SXKD chịu thuế và không chịu thuế đủ điều kiện khấu trừ thuế:</Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:StyleID="s78"/>
+   </Row>
+   <!--beginDetail-->
+   <!--where:ma_tc='3' and sysorder =5--where-->
+   <Row >
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">#stt#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#ma_hoa_don#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#ky_hieu_hoa_don#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#so_seri#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#so_hd#</Data></Cell>
+    <Cell ss:StyleID="s90">#ngay_hd#</Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#ten_kh#</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">#ma_so_thue#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#ten_vt#</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">#t_tien#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#thue_suat#</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">#t_thue#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#ghi_chu#</Data></Cell>
+   </Row>
+   <!--endDetail-->
+   <!--beginDetail-->
+   <!--where:ma_tc='3' and sysorder =3--where-->
+   <Row ss:StyleID="s89">
+    <Cell ss:Index="2" ss:StyleID="s86"><Data ss:Type="String">Tổng</Data></Cell>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">#t_tien#</Data></Cell>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">#t_thue#</Data></Cell>
+    <Cell ss:StyleID="s87"/>
+   </Row>
+   <!--endDetail-->
+   <Row ss:StyleID="s89">
+    <Cell ss:Index="2" ss:MergeAcross="8" ss:StyleID="s135"><Data ss:Type="String">4. Hàng hóa, dịch vụ dùng cho dự án đầu tư đủ điều kiện được khấu trừ thuế:</Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:StyleID="s78"/>
+   </Row>
+   <!--beginDetail-->
+   <!--where:ma_tc='4' and sysorder =5--where-->
+   <Row  ss:StyleID="s89">
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">#stt#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#ma_hoa_don#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#ky_hieu_hoa_don#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#so_seri#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#so_hd#</Data></Cell>
+    <Cell ss:StyleID="s90">#ngay_hd#</Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#ten_kh#</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">#ma_so_thue#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#ten_vt#</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">#t_tien#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#thue_suat#</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">#t_thue#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#ghi_chu#</Data></Cell>
+   </Row>
+   <!--endDetail-->
+   <!--beginDetail-->
+   <!--where:ma_tc='4' and sysorder =3--where-->
+   <Row ss:StyleID="s89">
+    <Cell ss:Index="2" ss:StyleID="s86"><Data ss:Type="String">Tổng</Data></Cell>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">#t_tien#</Data></Cell>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">#t_thue#</Data></Cell>
+    <Cell ss:StyleID="s87"/>
+   </Row>
+   <!--endDetail-->
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:MergeAcross="8" ss:StyleID="s135"><Data ss:Type="String">5. Hàng hóa, dịch vụ không phải tổng hợp trên tờ khai 01/GTGT:</Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:StyleID="s78"/>
+   </Row>
+   <!--beginDetail-->
+   <!--where:ma_tc='5' and sysorder =5--where-->
+   <Row >
+    <Cell ss:Index="2" ss:StyleID="s73"><Data ss:Type="String">#stt#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#ma_hoa_don#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#ky_hieu_hoa_don#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#so_seri#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#so_hd#</Data></Cell>
+    <Cell ss:StyleID="s90">#ngay_hd#</Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#ten_kh#</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">#ma_so_thue#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#ten_vt#</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">#t_tien#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#thue_suat#</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">#t_thue#</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">#ghi_chu#</Data></Cell>
+   </Row>
+   <!--endDetail-->
+   <!--beginDetail-->
+   <!--where:ma_tc='5' and sysorder =3--where-->
+   <Row ss:StyleID="s89">
+    <Cell ss:Index="2" ss:StyleID="s86"><Data ss:Type="String">Tổng</Data></Cell>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">#t_tien#</Data></Cell>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">#t_thue#</Data></Cell>
+    <Cell ss:StyleID="s87"/>
+   </Row>
+   <!--endDetail-->
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s66"/>
+   </Row>
+   <!--beginDetail-->
+   <!--where:sysorder=0--where-->
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Tổng giá trị hàng hoá, dịch vụ mua vào:           #t_tien#</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Tổng thuế GTGT của hàng hoá, dịch vụ mua vào:    #t_thue#.</Data></Cell>
+   </Row>
+   <!--endDetail-->
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s67"/>
+
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s67"/>
+    
+    <Cell ss:Index="11" ss:MergeAcross="3" ss:StyleID="s64"><Data ss:Type="String">..............., ngày......... tháng........... năm..........</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="11" ss:MergeAcross="3" ss:StyleID="s64"><Data ss:Type="String">NGƯỜI NỘP THUẾ hoặc</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="11" ss:MergeAcross="3" ss:StyleID="s64"><Data ss:Type="String">ĐẠI DIỆN HỢP PHÁP CỦA NGƯỜI NỘP THUẾ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="11" ss:MergeAcross="3" ss:StyleID="s64"><Data ss:Type="String"> Ký tên, đóng dấu (ghi rõ họ tên và chức vụ)</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>200</HorizontalResolution>
+    <VerticalResolution>200</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>31</ActiveRow>
+     <ActiveCol>5</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Huong dan">
+  <Table ss:ExpandedColumnCount="16" ss:ExpandedRowCount="39" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:AutoFitWidth="0" ss:Width="17.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="32.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="40.5"/>
+   <Column ss:Index="16" ss:AutoFitWidth="0" ss:Width="55.5"/>
+   <Row ss:Height="13.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:MergeAcross="14" ss:StyleID="m59654612"><Data
+      ss:Type="String">HƯỚNG DẪN LÀM FILE DỮ LIỆU TEMPLATE CHUẨN</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="2" ss:MergeAcross="14" ss:StyleID="m59654632"><Data
+      ss:Type="String">I. Các chú ý khi tạo File Template</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:MergeAcross="13" ss:StyleID="m59654672"><Data ss:Type="String">1. Không được thay đổi thứ tự các cột trong file Template</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:MergeAcross="13" ss:StyleID="m59654692"><Data ss:Type="String">2. Các mục trong file Template phải đủ 5 mục, mục nào không có dữ liệu phải để một dòng trắng liền sau đó. Các mục bao gồm</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:MergeAcross="12" ss:StyleID="m59654732"><Data ss:Type="String"
+      x:Ticked="1">1. Hàng hoá, dịch vụ dùng riêng cho SXKD chịu thuế GTGT đủ điều kiện khấu trừ thuế:</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:MergeAcross="12" ss:StyleID="m59654916"><Data ss:Type="String">2. Hàng hoá, dịch vụ không đủ điều kiện khấu trừ:</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:MergeAcross="12" ss:StyleID="m59654592"><Data ss:Type="String">3. Hàng hoá, dịch vụ dùng chung cho SXKD chịu thuế và không chịu thuế đủ điều kiện khấu trừ thuế:</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:MergeAcross="12" ss:StyleID="m59655100"><Data ss:Type="String">4. Hàng hóa, dịch vụ dùng cho dự án đầu tư đủ điều kiện được khấu trừ thuế:</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:MergeAcross="12" ss:StyleID="m59655180"><Data ss:Type="String">5. Hàng hóa, dịch vụ không phải tổng hợp trên tờ khai 01/GTGT:</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:MergeAcross="13" ss:StyleID="m59654712"><Data ss:Type="String">3. Ứng dụng HTKK sẽ nhận dạng ra dữ liệu của bảng kê tại Cell có vị trí Cột (C), Dòng (18)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:MergeAcross="13" ss:StyleID="m59655220"><Data ss:Type="String">4. Sau khi có dữ liệu đầy đủ trong file Template, người sử dụng thiết lập đúng Font để dữ liệu hiển thị được đúng tiếng việt trước khi thực hiện việc Import.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s83"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:MergeAcross="14" ss:StyleID="m59654652"><Data
+      ss:Type="String">II. Các kiểm tra để biết dữ liệu file Template là đúng.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:MergeAcross="13" ss:StyleID="m59655160"><Data ss:Type="String">1. Thứ tự các cột đúng như sau</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:MergeAcross="12" ss:StyleID="m59655200"><Data ss:Type="String"
+      x:Ticked="1">- Cột STT [1] - Dữ liệu bắt buộc nhập</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s94"><Data ss:Type="String" x:Ticked="1">- Mã hóa đơn - Tương ứng với cột (C) trên file Excel</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s93"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s94"><Data ss:Type="String" x:Ticked="1">- Ký hiệu mẫu hóa đơn [2] - Tương ứng với cột (D) trên file Excel</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s93"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:MergeAcross="12" ss:StyleID="m59655120"><Data ss:Type="String"
+      x:Ticked="1">- Ký hiệu hóa đơn [3] - Tương ứng với Cột (E) trên file Excel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:MergeAcross="12" ss:StyleID="m59655140"><Data ss:Type="String"
+      x:Ticked="1">- Số hóa đơn [4] - Tương ứng với cột (F) trên file Excel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:MergeAcross="12" ss:StyleID="m59654816"><Data ss:Type="String"
+      x:Ticked="1">- Ngày tháng năm phát hành [5] - Tương ứng với cột (G) trên file Excel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:MergeAcross="12" ss:StyleID="m59654836"><Data ss:Type="String"
+      x:Ticked="1">- Tên người bán [6] - Tương ứng với cột (H) trên file Excel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:MergeAcross="12" ss:StyleID="m59654936"><Data ss:Type="String"
+      x:Ticked="1">- Mã số thuế người bán [7] - Tương ứng với cột (I) trên file Excel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:MergeAcross="12" ss:StyleID="m59654956"><Data ss:Type="String"
+      x:Ticked="1">- Mặt hàng [8] - Tương ứng với cột (J) trên file Excel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:MergeAcross="12" ss:StyleID="m59654976"><Data ss:Type="String"
+      x:Ticked="1">- Doanh số mua chưa có thuế [9] - Tương ứng với cột (K) trên file Excel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:MergeAcross="12" ss:StyleID="m59654996"><Data ss:Type="String"
+      x:Ticked="1">- Thuế suất [10] - Tương ứng với cột (L) trên file Excel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:MergeAcross="12" ss:StyleID="m59654856"><Data ss:Type="String"
+      x:Ticked="1">- Thuế GTGT [11] - Tương ứng với cột (M) trên file Excel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:MergeAcross="12" ss:StyleID="m59654876"><Data ss:Type="String"
+      x:Ticked="1">- Ghi chú [12] - Tương ứng với cột (N) trên file Excel</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s83"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:MergeAcross="13" ss:StyleID="m59654896"><Data ss:Type="String">2. Định dạng chuẩn cho các cột</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s91"/>
+    <Cell ss:MergeAcross="12" ss:StyleID="m59655060"><Data ss:Type="String"
+      x:Ticked="1">- Cột C: Nhập các giá trị ở cột Mã hóa đơn trong bảng Danh mục hóa đơn tại sheet Hóa đơn</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:MergeAcross="12" ss:StyleID="m59655080"><Data ss:Type="String"
+      x:Ticked="1">- Các cột D, E, F, I: phải là kiểuText</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:MergeAcross="12" ss:StyleID="m59655040"><Data ss:Type="String"
+      x:Ticked="1">- Cột D ( Ký hiệu mẫu hóa đơn) và Cột E (Ký hiệu hóa đơn) nhập theo đúng cấu trúc quy định tại thông tư 153/2010/TT-BTC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:MergeAcross="12" ss:StyleID="m59654368"><Data ss:Type="String"
+      x:Ticked="1">- Cột F (Số hóa đơn) chỉ được nhập tối đa là 7 ký tự</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:MergeAcross="12" ss:StyleID="m59654388"><Data ss:Type="String"
+      x:Ticked="1">- Cột G (Ngày tháng năm phát hành) định dạng theo kiểu Date: DD/MM/YYYY</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:MergeAcross="12" ss:StyleID="m59654408"><Data ss:Type="String"
+      x:Ticked="1">- Cột H (Tên người mua), J (Mặt hàng) chỉ được nhập tối đa 100 ký tự</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24">
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:MergeAcross="12" ss:StyleID="m59654428"><Data ss:Type="String"
+      x:Ticked="1">- Cột I (Mã số thuế) chỉ được nhập tối đa 14 ký tự. 10 ký tự đầu là MST, 3 ký tự cuối cùng số thứ tự của chi nhánh (Nếu có), ký tự 11 là dấu - hoặc dấu trắng để ngăn cách</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="16.5">
+    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:MergeAcross="12" ss:StyleID="m59654468"><Data ss:Type="String"
+      x:Ticked="1">- Các cột K (Doanh số bán chưa có thuế),M (Thuế GTGT) phải là kiểu Số</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s84"/>
+    <Cell ss:StyleID="s85"/>
+    <Cell ss:MergeAcross="12" ss:StyleID="m59654448"><Data ss:Type="String"
+      x:Ticked="1">- Cột L ( Thuế suất) là phải kiểu text</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <TopRowVisible>15</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>42</ActiveRow>
+     <ActiveCol>8</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Danh muc hoa don">
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="21" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="78"/>
+   <Column ss:AutoFitWidth="0" ss:Width="249"/>
+   <Column ss:AutoFitWidth="0" ss:Width="64.5"/>
+   <Row ss:Index="3" ss:Height="18">
+    <Cell ss:Index="2" ss:StyleID="s95"/>
+    <Cell ss:StyleID="s95"/>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Danh mục hóa đơn</Data></Cell>
+    <Cell ss:StyleID="s95"/>
+    <Cell ss:StyleID="s95"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s95"/>
+    <Cell ss:StyleID="s95"/>
+    <Cell ss:StyleID="s95"/>
+    <Cell ss:StyleID="s95"/>
+    <Cell ss:StyleID="s95"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s97"><Data ss:Type="String">STT</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">Mã hóa đơn</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Tên loại hóa đơn</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">Mẫu số</Data></Cell>
+    <Cell ss:StyleID="s95"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">01GTKT</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Hoá đơn giá trị gia tăng.</Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">01GTKT</Data></Cell>
+    <Cell ss:StyleID="s95"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">02GTTT</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Hoá đơn bán hàng.</Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">02GTTT</Data></Cell>
+    <Cell ss:StyleID="s95"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">06HDXK</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Hoá đơn xuất khẩu.</Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">06HDXK</Data></Cell>
+    <Cell ss:StyleID="s95"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">07KPTQ</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Hóa đơn bán hàng (dành cho tổ chức, cá nhân trong khu phi thuế quan).</Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">07KPTQ</Data></Cell>
+    <Cell ss:StyleID="s95"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">03XKNB</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Phiếu xuất kho kiêm vận chuyển hàng hóa nội bộ;</Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">03XKNB</Data></Cell>
+    <Cell ss:StyleID="s95"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">04HGDL</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Phiếu xuất kho gửi bán hàng đại lý.</Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">04HGDL</Data></Cell>
+    <Cell ss:StyleID="s95"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">01/</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Tem, vé, thẻ thuộc loại hóa đơn GTGT</Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">01/</Data></Cell>
+    <Cell ss:StyleID="s95"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">02/</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Tem, vé, thẻ thuộc loại hóa đơn bán hàng</Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">02/</Data></Cell>
+    <Cell ss:StyleID="s95"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">TT120</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Hóa đơn theo thông tư 120/2002/TT-BTC</Data></Cell>
+    <Cell ss:StyleID="s101"/>
+    <Cell ss:StyleID="s95"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">01TEDB</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Tem vận tải đường bộ theo pp khấu trừ</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">01TEDB</Data></Cell>
+    <Cell ss:StyleID="s95"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="Number">11</Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">01VEDB</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Vé vận tải đường bộ theo pp khấu trừ</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">01VEDB</Data></Cell>
+    <Cell ss:StyleID="s95"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">01THDB</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Thẻ vận tải đường bộ theo pp khấu trừ</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">01THDB</Data></Cell>
+    <Cell ss:StyleID="s95"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="Number">13</Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">02TEDB</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Tem vận tải đường bộ theo pp trực tiếp</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">02TEDB</Data></Cell>
+    <Cell ss:StyleID="s95"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="Number">14</Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">02VWDB</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Vé vận tải đường bộ theo pp trực tiếp</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">02VWDB</Data></Cell>
+    <Cell ss:StyleID="s95"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">02THDB</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Thẻ vận tải đường bộ theo pp trực tiếp</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">02THDB</Data></Cell>
+    <Cell ss:StyleID="s95"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s95"/>
+    <Cell ss:StyleID="s95"/>
+    <Cell ss:StyleID="s95"/>
+    <Cell ss:StyleID="s95"/>
+    <Cell ss:StyleID="s95"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>13</ActiveRow>
+     <ActiveCol>8</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

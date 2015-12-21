@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="fpbtdcchdpthu" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="fpbtdcchdpthu">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsV" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsE" type="xs:string" minOccurs="0" />
+                <xs:element name="headersV" type="xs:string" minOccurs="0" />
+                <xs:element name="headersE" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <fpbtdcchdpthu>
+    <gridid>fpbtdcchdpthu</gridid>
+    <columnsV>ma_ct,ngay_ct,so_ct,ma_kh,ten_kh,tk_co,ma_nt,tien_nt,tien,da_pb_nt,da_pb,chua_pb_nt,chua_pb</columnsV>
+    <columnsE>ma_ct,ngay_ct,so_ct,ma_kh,ten_kh2,tk_co,ma_nt,tien_nt,tien,da_pb_nt,da_pb,chua_pb_nt,chua_pb</columnsE>
+    <headersV>Mã chứng từ,Ngày chứng từ,Số chứng từ,Mã khách,Tên khách hàng,Tài khoản,Mã ngoại tệ,Tiền nt,Tiền,Đã phân bổ nt,Đã phân bổ,Còn lại nt,Còn lại</headersV>
+    <headersE>VC Code,Voucher Date,Voucher No.,Cust.ID,Customer Name,Account,FC Code,FC Amount,Amount,Allocated Q'ty,Allocated Q'ty,FC Remaining ,Remaining</headersE>
+    <widths>50,80,80,100,200,80,50,100,100,100,100,100,100</widths>
+    <formats>,,,,,,,f_tien_nt,f_tien,f_tien_nt,f_tien,f_tien_nt,f_tien</formats>
+    <readonlys>1,1,1,1,1,1,1,1,1,1,1,1,1</readonlys>
+    <hides>0,0,0,0,0,0,0,0,0,0,0,0,0</hides>
+    <defaultvalues>,,,,,,,,,,,,</defaultvalues>
+    <carrys>0,0,0,0,0,0,0,0,0,0,0,0,0</carrys>
+  </fpbtdcchdpthu>
+</NewDataSet>

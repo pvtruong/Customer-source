@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="DHD2_imp" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="DHD2_imp">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsV" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsE" type="xs:string" minOccurs="0" />
+                <xs:element name="headersV" type="xs:string" minOccurs="0" />
+                <xs:element name="headersE" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <DHD2_imp>
+    <gridid>DHD2_imp</gridid>
+    <columnsV>so_ct,ngay_ct,so_hd,so_seri,ngay_hd,dien_giai,ten_vt,ma_nt,ty_gia,ma_nv,han_tt,ma_kh,ong_ba,ma_vt,ma_dvt,ma_kho,sl_xuat,gia_ban_nt,gia_ban,tien_nt,tien,tk_no,tk_dt,ty_le_ck,tien_ck_nt,tien_ck,tk_ck,ma_thue,thue_suat,tk_thue_co,tk_du,tien_thue_nt,tien_thue,px_gia_dd,gia_von,tien_xuat,tk_vt,tk_gv,ma_so_thue,ma_bp,ma_phi,ma_dt</columnsV>
+    <columnsE>so_ct,ngay_ct,so_hd,so_seri,ngay_hd,dien_giai,ten_vt,ma_nt,ty_gia,ma_nv,han_tt,ma_kh,ong_ba,ma_vt,ma_dvt,ma_kho,sl_xuat,gia_ban_nt,gia_ban,tien_nt,tien,tk_no,tk_dt,ty_le_ck,tien_ck_nt,tien_ck,tk_ck,ma_thue,thue_suat,tk_thue_co,tk_du,tien_thue_nt,tien_thue,px_gia_dd,gia_von,tien_xuat,tk_vt,tk_gv,ma_so_thue,ma_bp,ma_phi,ma_dt</columnsE>
+    <headersV>Số chứng từ,Ngày chứng từ,Số hóa đơn,Số seri,Ngày hóa đơn,Diễn giải,Nhóm hàng,Mã ngoại tệ,Tỷ giá,Nhân viên thực hiện,Hạn thanh toán,Mã khách,Tên người giao dịch,Mã vật tư,ĐVT,Kho,Số lượng,Giá bán nt,Giá bán,Tiền nt,Tiền,TK nợ,TK dt,Tỷ lệ CK,Tiền Ck nt,Tiền CK,TK CK,Mã thuế,Thuế suất,TK thuế,Tk đối ứng,Tiền thuế nt,Tiền thuế,PX giá dd,Giá vốn,Tiền vốn,TK vật tư,TK giá vốn,Mã số thuế,Mã bộ phận,Mã phí,Mã vụ việc dự án</headersV>
+    <headersE>Voucher No.,Voucher Date,Inv. No.,Serial No.,Inv. Date,Memo,Nhóm hàng,FC Code,Tỷ giá,Nhấn viên thực hiện,Hạn thanh toán,Mã khách,Tên người giao dịch,Item Code,Unit,Site,Quantity,Sales Price FC,Sales Price,FC Amount,Amount,Dr. Account,Sales Acct.,Discount Rate,Discount Amt FC,Discount Amt.,Account Discount,Tax code,,Tax Account,Ref. Account,Tiền thuế nt,Total Tax,PX giá dd,Unit Cost,Cost Amt.,Inventory Acct.,Cogs Acct.,Mã số thuế,Mã bộ phận,Mã phí,Mã  vụ việc</headersE>
+    <widths>100,100,100,100,100,100,100,100,100,120,80,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,110</widths>
+    <formats>,,,,,,,,,,,,,,,,f_sl,f_tien_nt,f_tien,f_tien_nt,f_tien,,,f_tien_nt,f_tien_nt,f_tien,,,,,,,f_tien,,f_tien,f_tien,,,,,,</formats>
+    <readonlys>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</readonlys>
+    <hides>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</hides>
+    <defaultvalues>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</defaultvalues>
+    <carrys>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</carrys>
+  </DHD2_imp>
+</NewDataSet>

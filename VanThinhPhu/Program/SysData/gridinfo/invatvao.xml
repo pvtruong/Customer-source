@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="invatvao" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="invatvao">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsv" type="xs:string" minOccurs="0" />
+                <xs:element name="columnse" type="xs:string" minOccurs="0" />
+                <xs:element name="headersv" type="xs:string" minOccurs="0" />
+                <xs:element name="headerse" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <invatvao>
+    <gridid>invatvao</gridid>
+    <columnsv>so_hd,ma_tc,so_seri,ngay_hd,t_tien_nt,t_tien,ma_thue,thue_suat,t_thue_nt,t_thue,tk_thue_no,tk_du,ty_gia_gs_co,ma_kh,ten_kh,dia_chi,ten_vt,ma_so_thue,han_tt,ma_kh_cn,t_hd</columnsv>
+    <columnse>so_hd,ma_tc,so_seri,ngay_hd,t_tien_nt,t_tien,ma_thue,thue_suat,t_thue_nt,t_thue,tk_thue_no,tk_du,ty_gia_gs_co,ma_kh,ten_kh,dia_chi,ten_vt,ma_so_thue,han_tt,ma_kh_cn,t_hd</columnse>
+    <headersv>Số hóa đơn,Mã tính chất,Số seri,Ngày hóa đơn,Tiền hàng nt,Tiền hàng,Mã thuế,Thuế suất,Tiền thuế nt,Tiền thuế,Tk thuế,Tk đối ứng,Tỷ giá ghi sổ,Mã khách,Tên khách,Địa chỉ,Tên hàng hóa,Mã số thuế,Hạn thanh toán,Mã khách công nợ,Tổng hóa đơn</headersv>
+    <headerse>Invoice num,Code,Serial No,Invoice date,FC Amount,Amount,Tax Code,Tax rate,FC Tax Amt.  ,Total Tax,Tax account,Ref. Acct.,Book Rate     ,Cust.ID Tax,Customer Name,Address,Item,Tax Code,Day(s) to Pay,Cust.ID Debt,Total Invoice</headerse>
+    <widths>100,100,100,100,100,100,100,100,100,100,100,100,100,100,200,200,150,100,100,100,100</widths>
+    <formats>,,,,f_tien_nt,f_tien,,f_tien,f_tien_nt,f_tien,,,f_tien,,,,,,f_tien,,f_tien</formats>
+    <readonlys>0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0</readonlys>
+    <hides>0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0</hides>
+    <defaultvalues>,,,,,,,,,,,,,,,,,,,,</defaultvalues>
+    <carrys>0,1,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0</carrys>
+  </invatvao>
+</NewDataSet>

@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="bkhdbanhang_nt" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="bkhdbanhang_nt">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="gridid" type="xs:string" minOccurs="0" />
+                <xs:element name="columnsv" type="xs:string" minOccurs="0" />
+                <xs:element name="columnse" type="xs:string" minOccurs="0" />
+                <xs:element name="headersv" type="xs:string" minOccurs="0" />
+                <xs:element name="headerse" type="xs:string" minOccurs="0" />
+                <xs:element name="widths" type="xs:string" minOccurs="0" />
+                <xs:element name="formats" type="xs:string" minOccurs="0" />
+                <xs:element name="readonlys" type="xs:string" minOccurs="0" />
+                <xs:element name="hides" type="xs:string" minOccurs="0" />
+                <xs:element name="defaultvalues" type="xs:string" minOccurs="0" />
+                <xs:element name="carrys" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <bkhdbanhang_nt>
+    <gridid>bkhdbanhang_nt</gridid>
+    <columnsv>ngay_ct,so_ct,ma_kh,ten_kh,tien_ban_nt,tien_ck_nt,tien_tt_nt,tien_xuat_nt,ma_nt,ty_gia,tien_ban,tien_ck,tien_thue,tien_tt,tien_xuat,dien_giai,ma_bp,ma_ct</columnsv>
+    <columnse>ngay_ct,so_ct,ma_kh,ten_kh2,tien_ban_nt,tien_ck_nt,tien_tt_nt,tien_xuat_nt,ma_nt,ty_gia,tien_ban,tien_ck,tien_thue,tien_tt,tien_xuat,dien_giai,ma_bp,ma_ct</columnse>
+    <headersv>Ngày chứng từ,Số chứng từ,Mã khách,Tên khách,Tiền hàng ngoại tệ,Tiền chiết khấu ngoại tệ,Tổng tiền ngoại tệ,Tiền xuất ngoại tệ,Mã ngoại tệ,Tỷ giá,Tiền hàng VND,Tiền chiết khấu VND,Tiền thuế GTGT,Tổng tiền VND,Tiền xuất VND,Diễn giải,Mã bộ phận,Mã chứng từ</headersv>
+    <headerse>Voucher Date,Voucher No.,Cust.ID,Customer Name,Tiền hàng ngoại tệ,Tiền chiết khấu ngoại tệ,Tổng tiền ngoại tệ,Tiền xuất ngoại tệ,Mã ngoại tệ,Tỷ giá,Tiền hàng VND,Tiền chiết khấu VND,Tiền thuế GTGT,Tổng tiền VND,Tiền xuất VND,Memo,Mã bộ phận,Mã chứng từ</headerse>
+    <widths>100,100,100,200,100,100,100,100,100,100,100,100,100,100,100,200,100,100</widths>
+    <formats>,,,,f_tien_nt,f_tien_nt,f_tien_nt,f_tien_nt,,f_tien,f_tien,f_tien,f_tien,f_tien,f_tien,,,</formats>
+    <readonlys>1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1</readonlys>
+    <hides>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</hides>
+    <defaultvalues>,,,,,,,,,,,,,,,,,</defaultvalues>
+    <carrys>0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</carrys>
+  </bkhdbanhang_nt>
+</NewDataSet>

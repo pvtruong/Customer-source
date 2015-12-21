@@ -1,0 +1,2 @@
+D:\Github\Customer-source\Trai Tim Vang\source\dmthekhachhang\dmthekhachhang\bin\Debug\dmthekhachhang.exe.config
+D:\Github\Customer-source\Trai Tim Vang\source\dmkhoahoc\dmkhoahoc\bin\Debug\dmthekhachhang.exe.config

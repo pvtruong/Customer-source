@@ -1,0 +1,207 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="login" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="login">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="FormID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextID" type="xs:string" minOccurs="0" />
+                <xs:element name="TextV" type="xs:string" minOccurs="0" />
+                <xs:element name="TextE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <login>
+    <FormID>login</FormID>
+    <TextID>001</TextID>
+    <TextV>Người sử dụng</TextV>
+    <TextE>User name</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>002</TextID>
+    <TextV>Mật khẩu</TextV>
+    <TextE>Password</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>003</TextID>
+    <TextV>&amp;Nhận</TextV>
+    <TextE>&amp;Ok</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>100</TextID>
+    <TextV>VNT BUSINESS</TextV>
+    <TextE>VNT BUSINESS</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>101</TextID>
+    <TextV>Trợ giúp</TextV>
+    <TextE>Help</TextE>
+  </login>
+  <login>
+    <FormID>Login</FormID>
+    <TextID>102</TextID>
+    <TextV>&amp;Thoát</TextV>
+    <TextE>&amp;Exit</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>103</TextID>
+    <TextV>Hướng dẫn sử dụng</TextV>
+    <TextE>How do I</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>104</TextID>
+    <TextV>Về chương trình</TextV>
+    <TextE>About me</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>105</TextID>
+    <TextV>Chức năng</TextV>
+    <TextE>File</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>106</TextID>
+    <TextV>Cập nhật dữ liệu</TextV>
+    <TextE>Key in data</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>107</TextID>
+    <TextV>Báo cáo</TextV>
+    <TextE>Reports</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>108</TextID>
+    <TextV>Danh mục</TextV>
+    <TextE>Lists</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>109</TextID>
+    <TextV>VNT BUSINESS</TextV>
+    <TextE>VNT BUSINESS</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>110</TextID>
+    <TextV>Đơn vị</TextV>
+    <TextE>Unit</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>111</TextID>
+    <TextV>Nhớ tên truy nhập và mật khẩu</TextV>
+    <TextE>Remember Username and Password</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>112</TextID>
+    <TextV>Bạn đã nhập sai mật khẩu 3 lần, chương trình sẽ thoát</TextV>
+    <TextE>You have Entered the Wrong Password 3 Times, The Program will Exit.</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>200</TextID>
+    <TextV>Máy tính</TextV>
+    <TextE>Calculator</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>201</TextID>
+    <TextV>Tìm chứng từ</TextV>
+    <TextE>Search</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>900</TextID>
+    <TextV>Danh mục</TextV>
+    <TextE>Dictionarys</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>901</TextID>
+    <TextV>Báo cáo</TextV>
+    <TextE>Reports</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>902</TextID>
+    <TextV>Khách hàng</TextV>
+    <TextE>customers</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>903</TextID>
+    <TextV>Kế hoạch làm việc</TextV>
+    <TextE>Planings</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>904</TextID>
+    <TextV>Báo giá</TextV>
+    <TextE>Prices</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>905</TextID>
+    <TextV>Hợp đồng</TextV>
+    <TextE>Contracts</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>906</TextID>
+    <TextV>Tiến độ thực hiện</TextV>
+    <TextE>Progress</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>907</TextID>
+    <TextV>Thu tiền</TextV>
+    <TextE>Reciever Money</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>908</TextID>
+    <TextV>Hoàn thành hợp đồng</TextV>
+    <TextE>Finish contract</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>909</TextID>
+    <TextV>English</TextV>
+    <TextE>Tiếng Việt</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>910</TextID>
+    <TextV>Tùy chọn</TextV>
+    <TextE>Options</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>911</TextID>
+    <TextV>Hệ thống</TextV>
+    <TextE>System</TextE>
+  </login>
+  <login>
+    <FormID>login</FormID>
+    <TextID>999</TextID>
+    <TextV>Đăng nhập</TextV>
+    <TextE>Login</TextE>
+  </login>
+</NewDataSet>
