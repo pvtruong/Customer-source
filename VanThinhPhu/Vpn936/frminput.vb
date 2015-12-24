@@ -498,4 +498,20 @@ Public Class frminput
             End If
         End If
     End Sub
+    Dim so_to_khai As String = ""
+    Private Sub txtso_to_khai_Validated(sender As Object, e As EventArgs) Handles txtso_to_khai.Validated
+        If so_to_khai <> txtso_to_khai.Text Then
+            For Each tab As ClsSV31.TabDetail20 In Voucher.Tabdetails.Values
+                For Each r As DataRow In tab.Datatable.Rows
+                    If tab.Datatable.Columns.Contains("so_hd") Then
+                        r("so_hd") = txtso_to_khai.Text
+                    End If
+                Next
+            Next
+        End If
+    End Sub
+
+    Private Sub txtso_to_khai_Enter(sender As Object, e As EventArgs) Handles txtso_to_khai.Enter
+        so_to_khai = txtso_to_khai.Text
+    End Sub
 End Class

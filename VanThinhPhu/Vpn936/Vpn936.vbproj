@@ -43,53 +43,26 @@
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ClPrint, Version=4.5.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\update-khach\VanThinhPhu\VTP-Prog1\ClPrint.DLL</HintPath>
+    <Reference Include="ClsControl2">
+      <HintPath>C:\Users\Truong\Box Sync\Client\SE2014\ClsControl2.dll</HintPath>
     </Reference>
-    <Reference Include="ClsControl2, Version=4.1.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\update-khach\VanThinhPhu\VTP-Prog1\ClsControl2.DLL</HintPath>
+    <Reference Include="ClsLookup">
+      <HintPath>C:\Users\Truong\Box Sync\Client\SE2014\ClsLookup.dll</HintPath>
     </Reference>
-    <Reference Include="ClsList, Version=5.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\update-khach\VanThinhPhu\VTP-Prog1\ClsList.DLL</HintPath>
+    <Reference Include="Clsql">
+      <HintPath>C:\Users\Truong\Box Sync\Client\SE2014\Clsql.dll</HintPath>
     </Reference>
-    <Reference Include="ClsLookup, Version=3.5.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\update-khach\VanThinhPhu\VTP-Prog1\ClsLookup.DLL</HintPath>
+    <Reference Include="ClsRight">
+      <HintPath>C:\Users\Truong\Box Sync\Client\SE2014\ClsRight.dll</HintPath>
     </Reference>
-    <Reference Include="Clsql, Version=5.5.0.1, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\update-khach\VanThinhPhu\VTP-Prog1\Clsql.DLL</HintPath>
+    <Reference Include="ClsStpService">
+      <HintPath>C:\Users\Truong\Box Sync\Client\SE2014\ClsStpService.dll</HintPath>
     </Reference>
-    <Reference Include="ClsReport, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\update-khach\VanThinhPhu\VTP-Prog1\ClsReport.dll</HintPath>
+    <Reference Include="ClsSV31">
+      <HintPath>C:\Users\Truong\Box Sync\Client\SE2014\ClsSV31.dll</HintPath>
     </Reference>
-    <Reference Include="ClsRight, Version=3.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\update-khach\VanThinhPhu\VTP-Prog1\ClsRight.DLL</HintPath>
-    </Reference>
-    <Reference Include="ClsRpt, Version=5.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\update-khach\VanThinhPhu\VTP-Prog1\ClsRpt.dll</HintPath>
-    </Reference>
-    <Reference Include="ClsStpService, Version=4.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\update-khach\VanThinhPhu\VTP-Prog1\ClsStpService.DLL</HintPath>
-    </Reference>
-    <Reference Include="ClsSV31, Version=5.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\update-khach\VanThinhPhu\VTP-Prog1\ClsSV31.dll</HintPath>
-    </Reference>
-    <Reference Include="clsViDe, Version=5.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\update-khach\VanThinhPhu\VTP-Prog1\clsViDe.DLL</HintPath>
-    </Reference>
-    <Reference Include="ClsVno, Version=5.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\update-khach\VanThinhPhu\VTP-Prog1\ClsVno.dll</HintPath>
+    <Reference Include="ClsVno">
+      <HintPath>C:\Users\Truong\Box Sync\Client\SE2014\ClsVno.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
