@@ -329,6 +329,24 @@ Public Class frminput
             '    r.Delete()
             'Next
             Clsql.Data.CopyTableSame(layhd.DataView.Table, Voucher.Tabdetails("tdttno").Datatable, "sel=true")
+            'set gia tri mac dinh
+            For Each r As DataRow In Voucher.Tabdetails("tdttno").Datatable.Rows
+                For Each df As String In Voucher.Tabdetails("tdttno").ProcessOnGrid.DefaultOnGrids.Keys
+                    If r.Table.Columns.Contains(df) AndAlso String.IsNullOrEmpty(r(df)) Then
+                        If Voucher.Tabdetails("tdttno").Datatable.Columns(df).DataType.ToString.Contains("Boolean") Then
+                            If Voucher.Tabdetails("tdttno").ProcessOnGrid.DefaultOnGrids.Item(df) = "1" Then
+                                r(df) = True
+                            Else
+                                r(df) = False
+                            End If
+                        Else
+                            r(df) = Voucher.Tabdetails("tdttno").ProcessOnGrid.DefaultOnGrids.Item(df)
+                        End If
+                    End If
+
+
+                Next
+            Next
             'Voucher.Tabdetails("tdttno").Datatable = layhd.DataView.Table
             Voucher.Tabdetails("tdttno").bindingsource.DataSource = Voucher.Tabdetails("tdttno").Datatable
 

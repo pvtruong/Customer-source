@@ -86,3 +86,11 @@ E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\bin\Debug\clschat.dll
 E:\Box Sync\acc\7.1\voucher\Vpt135\Vpt135\bin\Debug\clsViDe.dll
 C:\Users\Truong\Box Sync\acc\9.0\Vpt135\Vpt135\obj\Debug\Vpt1.xml
 C:\Users\Truong\Box Sync\acc\9.0\Vpt135\Vpt135\obj\Debug\Vpt1.pdb
+C:\Users\Truong\Box Sync\acc\9.0\Vpt135\Vpt135\bin\Debug\Vpt1.exe.config
+C:\Users\Truong\Box Sync\acc\9.0\Vpt135\Vpt135\obj\Debug\Vpt1.frmdklayhd.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpt135\Vpt135\obj\Debug\Vpt1.frmPrint.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpt135\Vpt135\obj\Debug\Vpt1.frmsearch.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpt135\Vpt135\obj\Debug\Vpt1.Frmmain.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpt135\Vpt135\obj\Debug\Vpt1.frminput.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpt135\Vpt135\obj\Debug\Vpt1.Resources.resources
+C:\Users\Truong\Box Sync\acc\9.0\Vpt135\Vpt135\obj\Debug\Vpt135.vbproj.GenerateResource.Cache

@@ -145,8 +145,8 @@ Public Class Frmmain
                 Return
             End If
             If Not IsDBNull(value_p) AndAlso Not IsDBNull(grd.CurrentRow.Cells("ngay_giao").Value) AndAlso grd.CurrentRow.Cells("ngay_giao").Value = value_p Then
-                MsgBox(value_p)
-                MsgBox(grd.CurrentRow.Cells("ngay_giao").Value)
+                'MsgBox(value_p)
+                'MsgBox(grd.CurrentRow.Cells("ngay_giao").Value)
                 Return
             End If
             'kiem tra quyen sua

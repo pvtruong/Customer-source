@@ -12,17 +12,18 @@
     <AssemblyName>Vpt1</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <OptionExplicit>On</OptionExplicit>
     <OptionCompare>Binary</OptionCompare>
     <OptionStrict>Off</OptionStrict>
     <OptionInfer>On</OptionInfer>
-    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
     <UpgradeBackupLocation>
     </UpgradeBackupLocation>
     <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -43,33 +44,26 @@
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ClPrint, Version=4.5.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Client\SE2014\ClPrint.dll</HintPath>
+    <Reference Include="ClPrint">
+      <HintPath>..\..\..\..\Client\SE2014\ClPrint.dll</HintPath>
     </Reference>
-    <Reference Include="ClsControl2, Version=4.1.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Client\SE2014\ClsControl2.dll</HintPath>
+    <Reference Include="ClsControl2">
+      <HintPath>..\..\..\..\Client\SE2014\ClsControl2.dll</HintPath>
     </Reference>
-    <Reference Include="ClsLookup, Version=3.5.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Client\SE2014\ClsLookup.dll</HintPath>
+    <Reference Include="ClsLookup">
+      <HintPath>..\..\..\..\Client\SE2014\ClsLookup.dll</HintPath>
     </Reference>
-    <Reference Include="Clsql, Version=5.5.0.1, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Client\SE2014\Clsql.dll</HintPath>
+    <Reference Include="Clsql">
+      <HintPath>..\..\..\..\Client\SE2014\Clsql.dll</HintPath>
     </Reference>
-    <Reference Include="ClsRight, Version=3.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Client\SE2014\ClsRight.dll</HintPath>
+    <Reference Include="ClsRight">
+      <HintPath>..\..\..\..\Client\SE2014\ClsRight.dll</HintPath>
     </Reference>
-    <Reference Include="ClsStpService, Version=4.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Client\SE2014\ClsStpService.dll</HintPath>
+    <Reference Include="ClsStpService">
+      <HintPath>..\..\..\..\Client\SE2014\ClsStpService.dll</HintPath>
     </Reference>
-    <Reference Include="ClsSV31, Version=5.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Client\SE2014\ClsSV31.dll</HintPath>
+    <Reference Include="ClsSV31">
+      <HintPath>..\..\..\..\Client\SE2014\ClsSV31.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -172,6 +166,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <None Include="app.manifest" />
     <None Include="My Project\app.manifest" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>

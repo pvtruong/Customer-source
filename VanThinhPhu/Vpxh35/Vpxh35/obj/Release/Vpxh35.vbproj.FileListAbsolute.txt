@@ -112,3 +112,4 @@ D:\Github\Customer-source\VanThinhPhu\Vpxh35\Vpxh35\obj\Release\Vpxh.Frmmain.res
 D:\Github\Customer-source\VanThinhPhu\Vpxh35\Vpxh35\obj\Release\Vpxh.frminput.resources
 D:\Github\Customer-source\VanThinhPhu\Vpxh35\Vpxh35\obj\Release\Vpxh.Resources.resources
 D:\Github\Customer-source\VanThinhPhu\Vpxh35\Vpxh35\obj\Release\Vpxh35.vbproj.GenerateResource.Cache
+D:\Github\Customer-source\VanThinhPhu\Vpxh35\Vpxh35\bin\Release\stdole.dll
