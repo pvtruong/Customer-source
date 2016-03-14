@@ -22,7 +22,7 @@ Public Class frminput
     End Sub
 
     Private Sub frminput_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
-        MsgBox(1)
+
         For Each dvtab As ClsSV31.TabDetail20 In Voucher.Tabdetails.Values
             AddHandler dvtab.AfterCalcOnCell, AddressOf tinh_tong_tien
         Next
@@ -213,6 +213,23 @@ Public Class frminput
    
     Dim t_tien, t_ck, t_thue_nk, t_thue_nk_nt, t_thue, t_tt, t_cp, t_sl, t_tien_von, t_tien_nt, t_ck_nt, t_thue_nt, t_tt_nt, t_sl_nt, t_tien_von_nt, t_cp_nt As Double
 
+    Function csum(table As DataTable, column As String, Optional condition As String = "1=1")
+        If Not table.Columns.Contains(column) Then
+            Return 0
+        End If
+        Dim kq As Double = 0
+        Try
+            For Each r As DataRow In table.Select(condition)
+                If Not IsDBNull(r(column)) Then
+                    kq = kq + r(column)
+                End If
+
+            Next
+        Catch ex As Exception
+        End Try
+
+        Return kq
+    End Function
     Sub tinh_tong_tien()
         If isloaded = False Then
             Return
@@ -229,6 +246,27 @@ Public Class frminput
         t_thue = ClsControl2.PropertyOfGrid.Sum(Voucher.Tabdetails("vvatvao").gridDetailKeyin, "t_thue")
         t_thue_nk = ClsControl2.PropertyOfGrid.Sum(Voucher.Tabdetails(Voucher.TabFirst).gridDetailKeyin, "thue_nk")
         t_thue_nk_nt = ClsControl2.PropertyOfGrid.Sum(Voucher.Tabdetails(Voucher.TabFirst).gridDetailKeyin, "thue_nk_nt")
+
+        Voucher.CurrentVoucher("t_tien_nt10") = csum(Voucher.Tabdetails(Voucher.TabFirst).Datatable, "tien_hang_nt", "thue_suat=10")
+        Voucher.CurrentVoucher("t_tien10") = csum(Voucher.Tabdetails(Voucher.TabFirst).Datatable, "tien_hang", "thue_suat=10")
+
+        Voucher.CurrentVoucher("t_cp_nt10") = csum(Voucher.Tabdetails(Voucher.TabFirst).Datatable, "tien_phi_nt", "thue_suat=10")
+        Voucher.CurrentVoucher("t_cp10") = csum(Voucher.Tabdetails(Voucher.TabFirst).Datatable, "tien_phi", "thue_suat=10")
+
+
+        Voucher.CurrentVoucher("t_tien_nt05") = csum(Voucher.Tabdetails(Voucher.TabFirst).Datatable, "tien_hang_nt", "thue_suat=5")
+        Voucher.CurrentVoucher("t_tien05") = csum(Voucher.Tabdetails(Voucher.TabFirst).Datatable, "tien_hang", "thue_suat=5")
+
+        Voucher.CurrentVoucher("t_cp_nt05") = csum(Voucher.Tabdetails(Voucher.TabFirst).Datatable, "tien_phi_nt", "thue_suat=5")
+        Voucher.CurrentVoucher("t_cp05") = csum(Voucher.Tabdetails(Voucher.TabFirst).Datatable, "tien_phi", "thue_suat=5")
+
+
+        Voucher.CurrentVoucher("t_tien_nt00") = csum(Voucher.Tabdetails(Voucher.TabFirst).Datatable, "tien_hang_nt", "thue_suat=0")
+        Voucher.CurrentVoucher("t_tien00") = csum(Voucher.Tabdetails(Voucher.TabFirst).Datatable, "tien_hang", "thue_suat=0")
+
+        Voucher.CurrentVoucher("t_cp_nt00") = csum(Voucher.Tabdetails(Voucher.TabFirst).Datatable, "tien_phi_nt", "thue_suat=0")
+        Voucher.CurrentVoucher("t_cp00") = csum(Voucher.Tabdetails(Voucher.TabFirst).Datatable, "tien_phi", "thue_suat=0")
+
 
 
         t_tt_nt = t_tien_nt + t_cp_nt + t_thue_nt + t_thue_nk_nt

@@ -1,0 +1,2 @@
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\rptbcthsdhoadon\rptbcthsdhoadon\bin\Debug\bcthsdhoadon.exe.config
+D:\Github\Customer-source\Giai phap an gia\rpttinhchiphi\rpttinhchiphi\bin\Debug\bcthsdhoadon.exe.config

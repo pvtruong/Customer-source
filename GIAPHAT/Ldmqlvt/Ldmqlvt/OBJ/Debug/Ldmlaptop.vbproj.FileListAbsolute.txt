@@ -1,0 +1,60 @@
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\bin\Debug\Ldmlaptop.exe
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\bin\Debug\Ldmlaptop.pdb
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\bin\Debug\Ldmlaptop.xml
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\bin\Debug\ClsControl2.dll
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\bin\Debug\ClsList.dll
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\bin\Debug\ClsLookup.dll
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\bin\Debug\Clsql.dll
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\bin\Debug\ClsVno.dll
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\bin\Debug\ClsMath.dll
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\bin\Debug\office.dll
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\bin\Debug\Ionic.Zip.dll
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\bin\Debug\clsab.dll
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\bin\Debug\ClPrint.dll
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\bin\Debug\clsViDe.dll
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\bin\Debug\clsPopUp.dll
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\bin\Debug\ClsPilot.dll
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\bin\Debug\clsPermit4Field.dll
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\bin\Debug\ClsRight.dll
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\bin\Debug\ClsStpService.dll
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\bin\Debug\Interop.Excel.dll
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\bin\Debug\ClsRpt.dll
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\obj\Debug\Ldmlaptop.Frmmain.resources
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\obj\Debug\Ldmlaptop.frminput.resources
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\obj\Debug\Ldmlaptop.Resources.resources
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\obj\Debug\Ldmlaptop.vbproj.GenerateResource.Cache
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\obj\Debug\Ldmlaptop.exe
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\obj\Debug\Ldmlaptop.xml
+C:\Users\pvson\Desktop\Ldmlaptop\Ldmlaptop\obj\Debug\Ldmlaptop.pdb
+E:\tai_lieu_STP\tao danh muc\tao_dm_co_lookup\Ldmlaptop\Ldmlaptop\obj\Debug\Ldmlaptop.exe
+E:\tai_lieu_STP\tao danh muc\tao_dm_co_lookup\Ldmlaptop\Ldmlaptop\obj\Debug\Ldmlaptop.xml
+E:\tai_lieu_STP\tao danh muc\tao_dm_co_lookup\Ldmlaptop\Ldmlaptop\obj\Debug\Ldmlaptop.pdb
+E:\tai_lieu_STP\tao danh muc\tao_dm_co_lookup\Ldmlaptop\Ldmlaptop\bin\Debug\Ldmlaptop.exe
+E:\tai_lieu_STP\tao danh muc\tao_dm_co_lookup\Ldmlaptop\Ldmlaptop\bin\Debug\Ldmlaptop.pdb
+E:\tai_lieu_STP\tao danh muc\tao_dm_co_lookup\Ldmlaptop\Ldmlaptop\bin\Debug\Ldmlaptop.xml
+E:\tai_lieu_STP\tao danh muc\tao_dm_co_lookup\Ldmlaptop\Ldmlaptop\bin\Debug\ClsControl2.dll
+E:\tai_lieu_STP\tao danh muc\tao_dm_co_lookup\Ldmlaptop\Ldmlaptop\bin\Debug\ClsList.dll
+E:\tai_lieu_STP\tao danh muc\tao_dm_co_lookup\Ldmlaptop\Ldmlaptop\bin\Debug\ClsLookup.dll
+E:\tai_lieu_STP\tao danh muc\tao_dm_co_lookup\Ldmlaptop\Ldmlaptop\bin\Debug\Clsql.dll
+E:\tai_lieu_STP\tao danh muc\tao_dm_co_lookup\Ldmlaptop\Ldmlaptop\bin\Debug\ClsVno.dll
+E:\tai_lieu_STP\tao danh muc\tao_dm_co_lookup\Ldmlaptop\Ldmlaptop\bin\Debug\ClsMath.dll
+E:\tai_lieu_STP\tao danh muc\tao_dm_co_lookup\Ldmlaptop\Ldmlaptop\bin\Debug\Ionic.Zip.dll
+E:\tai_lieu_STP\tao danh muc\tao_dm_co_lookup\Ldmlaptop\Ldmlaptop\bin\Debug\clsab.dll
+E:\tai_lieu_STP\tao danh muc\tao_dm_co_lookup\Ldmlaptop\Ldmlaptop\bin\Debug\ClPrint.dll
+E:\tai_lieu_STP\tao danh muc\tao_dm_co_lookup\Ldmlaptop\Ldmlaptop\bin\Debug\clsViDe.dll
+E:\tai_lieu_STP\tao danh muc\tao_dm_co_lookup\Ldmlaptop\Ldmlaptop\bin\Debug\clsPopUp.dll
+E:\tai_lieu_STP\tao danh muc\tao_dm_co_lookup\Ldmlaptop\Ldmlaptop\bin\Debug\ClsPilot.dll
+E:\tai_lieu_STP\tao danh muc\tao_dm_co_lookup\Ldmlaptop\Ldmlaptop\bin\Debug\clsPermit4Field.dll
+E:\tai_lieu_STP\tao danh muc\tao_dm_co_lookup\Ldmlaptop\Ldmlaptop\bin\Debug\ClsRight.dll
+E:\tai_lieu_STP\tao danh muc\tao_dm_co_lookup\Ldmlaptop\Ldmlaptop\bin\Debug\ClsStpService.dll
+E:\tai_lieu_STP\tao danh muc\tao_dm_co_lookup\Ldmlaptop\Ldmlaptop\bin\Debug\ClsRpt.dll
+E:\tai_lieu_STP\tao danh muc\tao_dm_co_lookup\Ldmlaptop\Ldmlaptop\obj\Debug\ResolveAssemblyReference.cache
+E:\tai_lieu_STP\tao danh muc\tao_dm_co_lookup\Ldmlaptop\Ldmlaptop\obj\Debug\Ldmlaptop.Frmmain.resources
+E:\tai_lieu_STP\tao danh muc\tao_dm_co_lookup\Ldmlaptop\Ldmlaptop\obj\Debug\Ldmlaptop.frminput.resources
+E:\tai_lieu_STP\tao danh muc\tao_dm_co_lookup\Ldmlaptop\Ldmlaptop\obj\Debug\Ldmlaptop.Resources.resources
+E:\tai_lieu_STP\tao danh muc\tao_dm_co_lookup\Ldmlaptop\Ldmlaptop\obj\Debug\Ldmlaptop.vbproj.GenerateResource.Cache
+D:\0_SON_LAMVIEC\source_kh\GIAPHAT\Ldmqlvt\Ldmqlvt\obj\Debug\Ldmlaptop.exe
+D:\0_SON_LAMVIEC\source_kh\GIAPHAT\Ldmqlvt\Ldmqlvt\obj\Debug\Ldmlaptop.xml
+D:\0_SON_LAMVIEC\source_kh\GIAPHAT\Ldmqlvt\Ldmqlvt\obj\Debug\Ldmlaptop.pdb

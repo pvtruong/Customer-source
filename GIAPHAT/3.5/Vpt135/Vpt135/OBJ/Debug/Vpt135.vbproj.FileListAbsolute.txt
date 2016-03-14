@@ -1,0 +1,49 @@
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpt135\Vpt135\obj\Debug\Vpt1.exe
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpt135\Vpt135\obj\Debug\Vpt1.xml
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpt135\Vpt135\obj\Debug\Vpt1.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpt135\Vpt135\bin\Debug\Vpt1.exe
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpt135\Vpt135\bin\Debug\Vpt1.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpt135\Vpt135\bin\Debug\Vpt1.xml
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpt135\Vpt135\bin\Debug\ClPrint.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpt135\Vpt135\bin\Debug\ClsControl2.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpt135\Vpt135\bin\Debug\ClsLookup.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpt135\Vpt135\bin\Debug\Clsql.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpt135\Vpt135\bin\Debug\ClsRight.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpt135\Vpt135\bin\Debug\ClsStpService.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpt135\Vpt135\bin\Debug\ClsSV31.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpt135\Vpt135\bin\Debug\clsViDe.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpt135\Vpt135\bin\Debug\ClsVno.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpt135\Vpt135\bin\Debug\ClsMath.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpt135\Vpt135\bin\Debug\clsab.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpt135\Vpt135\bin\Debug\clsPopUp.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpt135\Vpt135\bin\Debug\Ionic.Zip.dll
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpt135\Vpt135\obj\Debug\ResolveAssemblyReference.cache
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpt135\Vpt135\obj\Debug\Vpt1.frmPrint.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpt135\Vpt135\obj\Debug\Vpt1.frmsearch.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpt135\Vpt135\obj\Debug\Vpt1.Frmmain.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpt135\Vpt135\obj\Debug\Vpt1.frminput.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpt135\Vpt135\obj\Debug\Vpt1.Resources.resources
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpt135\Vpt135\obj\Debug\Vpt135.vbproj.GenerateResource.Cache
+D:\0_SON_LAMVIEC\source_chuan\Source\3.5\Voucher\Vpt135\Vpt135\obj\Debug\Vpt1.exe
+D:\0_SON_LAMVIEC\source_chuan\Source\3.5\Voucher\Vpt135\Vpt135\obj\Debug\Vpt1.xml
+D:\0_SON_LAMVIEC\source_chuan\Source\3.5\Voucher\Vpt135\Vpt135\obj\Debug\Vpt1.pdb
+E:\source_chuan\Source\3.5\Voucher\Vpt135\Vpt135\obj\Debug\Vpt1.exe
+E:\source_chuan\Source\3.5\Voucher\Vpt135\Vpt135\obj\Debug\Vpt1.xml
+E:\source_chuan\Source\3.5\Voucher\Vpt135\Vpt135\obj\Debug\Vpt1.pdb
+D:\0_SON_LAMVIEC\source_kh\GIAPHAT\3.5\Vpt135\Vpt135\obj\Debug\Vpt1.exe
+D:\0_SON_LAMVIEC\source_kh\GIAPHAT\3.5\Vpt135\Vpt135\obj\Debug\Vpt1.xml
+D:\0_SON_LAMVIEC\source_kh\GIAPHAT\3.5\Vpt135\Vpt135\obj\Debug\Vpt1.pdb
+D:\0_SON_LAMVIEC\source_kh\GIAPHAT\3.5\Vpt135\Vpt135\bin\Debug\Vpt1.exe
+D:\0_SON_LAMVIEC\source_kh\GIAPHAT\3.5\Vpt135\Vpt135\bin\Debug\Vpt1.pdb
+D:\0_SON_LAMVIEC\source_kh\GIAPHAT\3.5\Vpt135\Vpt135\bin\Debug\Vpt1.xml
+D:\0_SON_LAMVIEC\source_kh\GIAPHAT\3.5\Vpt135\Vpt135\bin\Debug\ClsMath.dll
+D:\0_SON_LAMVIEC\source_kh\GIAPHAT\3.5\Vpt135\Vpt135\bin\Debug\clsab.dll
+D:\0_SON_LAMVIEC\source_kh\GIAPHAT\3.5\Vpt135\Vpt135\bin\Debug\clsPopUp.dll
+D:\0_SON_LAMVIEC\source_kh\GIAPHAT\3.5\Vpt135\Vpt135\bin\Debug\Ionic.Zip.dll
+D:\0_SON_LAMVIEC\source_kh\GIAPHAT\3.5\Vpt135\Vpt135\obj\Debug\ResolveAssemblyReference.cache
+D:\0_SON_LAMVIEC\source_kh\GIAPHAT\3.5\Vpt135\Vpt135\obj\Debug\Vpt1.frmPrint.resources
+D:\0_SON_LAMVIEC\source_kh\GIAPHAT\3.5\Vpt135\Vpt135\obj\Debug\Vpt1.frmsearch.resources
+D:\0_SON_LAMVIEC\source_kh\GIAPHAT\3.5\Vpt135\Vpt135\obj\Debug\Vpt1.Frmmain.resources
+D:\0_SON_LAMVIEC\source_kh\GIAPHAT\3.5\Vpt135\Vpt135\obj\Debug\Vpt1.frminput.resources
+D:\0_SON_LAMVIEC\source_kh\GIAPHAT\3.5\Vpt135\Vpt135\obj\Debug\Vpt1.Resources.resources
+D:\0_SON_LAMVIEC\source_kh\GIAPHAT\3.5\Vpt135\Vpt135\obj\Debug\Vpt135.vbproj.GenerateResource.Cache

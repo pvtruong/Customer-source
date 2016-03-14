@@ -163,3 +163,7 @@ D:\Github\Customer-source\VanThinhPhu\Vpn937\bin\Release\Vpn9.exe.config
 D:\Github\Customer-source\VanThinhPhu\Vpn937\obj\Release\Vpn9.exe
 D:\Github\Customer-source\VanThinhPhu\Vpn937\obj\Release\Vpn9.xml
 D:\Github\Customer-source\VanThinhPhu\Vpn937\obj\Release\Vpn9.pdb
+D:\Github\Customer-source\VanThinhPhu\Vpn937_old\bin\Release\Vpn9.exe.config
+D:\Github\Customer-source\VanThinhPhu\Vpn937_old\obj\Release\Vpn9.exe
+D:\Github\Customer-source\VanThinhPhu\Vpn937_old\obj\Release\Vpn9.xml
+D:\Github\Customer-source\VanThinhPhu\Vpn937_old\obj\Release\Vpn9.pdb

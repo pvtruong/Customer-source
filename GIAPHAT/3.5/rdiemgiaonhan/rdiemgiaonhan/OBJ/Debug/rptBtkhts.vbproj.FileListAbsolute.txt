@@ -1,0 +1,111 @@
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\bin\Debug\rptBtkhts.exe
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\bin\Debug\rptBtkhts.pdb
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\bin\Debug\rptBtkhts.xml
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\bin\Debug\ClPrint.dll
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\bin\Debug\ClsControl2.dll
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\bin\Debug\ClsLookup.dll
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\bin\Debug\Clsql.dll
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\bin\Debug\ClsRpt.dll
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\bin\Debug\clsViDe.dll
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\bin\Debug\clsab.dll
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\bin\Debug\Form.dll
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\bin\Debug\Control.dll
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\bin\Debug\clsPopUp.dll
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\bin\Debug\ClsPilot.dll
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\bin\Debug\ClsMsg.dll
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\bin\Debug\ClsRight.dll
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\bin\Debug\Interop.Excel.dll
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\bin\Debug\ClsMath.dll
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\obj\Debug\rptBtkhts.frmfilter.resources
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\obj\Debug\rptBtkhts.MainForm.resources
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\obj\Debug\rptBtkhts.Resources.resources
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\obj\Debug\rptBtkhts.vbproj.GenerateResource.Cache
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\obj\Debug\rptBtkhts.exe
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\obj\Debug\rptBtkhts.xml
+D:\SOURCE\CRM\Rpt\rptBtkhts\rptBtkhts\obj\Debug\rptBtkhts.pdb
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\obj\Debug\rptBtkhts.exe
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\obj\Debug\rptBtkhts.xml
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\obj\Debug\rptBtkhts.pdb
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\bin\Debug\rptBtkhts.exe.config
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\bin\Debug\rptBtkhts.exe
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\bin\Debug\rptBtkhts.pdb
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\bin\Debug\rptBtkhts.xml
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\bin\Debug\ClPrint.dll
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\bin\Debug\ClsControl2.dll
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\bin\Debug\ClsLookup.dll
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\bin\Debug\Clsql.dll
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\bin\Debug\ClsRpt.dll
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\bin\Debug\clsViDe.dll
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\bin\Debug\office.dll
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\bin\Debug\Ionic.Zip.dll
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\bin\Debug\clsab.dll
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\bin\Debug\DriveInfoEx.dll
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\bin\Debug\Interop.SQLDMO.dll
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\bin\Debug\clsPopUp.dll
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\bin\Debug\ClsPilot.dll
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\bin\Debug\ClsRight.dll
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\bin\Debug\Interop.Excel.dll
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\bin\Debug\ClsSqlRemoting.dll
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\bin\Debug\ClsMath.dll
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\obj\Debug\ResolveAssemblyReference.cache
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\obj\Debug\rptBtkhts.frmfilter.resources
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\obj\Debug\rptBtkhts.MainForm.resources
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\obj\Debug\rptBtkhts.Resources.resources
+E:\STP SOURCE\ACC\Rpt\rptBtkhts\rptBtkhts\obj\Debug\rptBtkhts.vbproj.GenerateResource.Cache
+D:\SOURCE\CHUAN\QUAN LY TSCD\BAO CAO TSCD\bảng tính khấu hao\rptBtkhts\rptBtkhts\bin\Debug\rptBtkhts.exe.config
+D:\SOURCE\CHUAN\QUAN LY TSCD\BAO CAO TSCD\bảng tính khấu hao\rptBtkhts\rptBtkhts\obj\Debug\rptBtkhts.exe
+D:\SOURCE\CHUAN\QUAN LY TSCD\BAO CAO TSCD\bảng tính khấu hao\rptBtkhts\rptBtkhts\obj\Debug\rptBtkhts.xml
+D:\SOURCE\CHUAN\QUAN LY TSCD\BAO CAO TSCD\bảng tính khấu hao\rptBtkhts\rptBtkhts\obj\Debug\rptBtkhts.pdb
+D:\SOURCE\CHUAN\QUAN LY TSCD\BAO CAO TSCD\bảng tính khấu hao\rptBtkhts\rptBtkhts\bin\Debug\rptBtkhts.exe
+D:\SOURCE\CHUAN\QUAN LY TSCD\BAO CAO TSCD\bảng tính khấu hao\rptBtkhts\rptBtkhts\bin\Debug\rptBtkhts.pdb
+D:\SOURCE\CHUAN\QUAN LY TSCD\BAO CAO TSCD\bảng tính khấu hao\rptBtkhts\rptBtkhts\bin\Debug\rptBtkhts.xml
+D:\SOURCE\CHUAN\QUAN LY TSCD\BAO CAO TSCD\bảng tính khấu hao\rptBtkhts\rptBtkhts\bin\Debug\office.dll
+D:\SOURCE\CHUAN\QUAN LY TSCD\BAO CAO TSCD\bảng tính khấu hao\rptBtkhts\rptBtkhts\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\CHUAN\QUAN LY TSCD\BAO CAO TSCD\bảng tính khấu hao\rptBtkhts\rptBtkhts\bin\Debug\clsab.dll
+D:\SOURCE\CHUAN\QUAN LY TSCD\BAO CAO TSCD\bảng tính khấu hao\rptBtkhts\rptBtkhts\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\CHUAN\QUAN LY TSCD\BAO CAO TSCD\bảng tính khấu hao\rptBtkhts\rptBtkhts\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\SOURCE\CHUAN\QUAN LY TSCD\BAO CAO TSCD\bảng tính khấu hao\rptBtkhts\rptBtkhts\bin\Debug\Interop.SQLDMO.dll
+D:\SOURCE\CHUAN\QUAN LY TSCD\BAO CAO TSCD\bảng tính khấu hao\rptBtkhts\rptBtkhts\bin\Debug\clsPopUp.dll
+D:\SOURCE\CHUAN\QUAN LY TSCD\BAO CAO TSCD\bảng tính khấu hao\rptBtkhts\rptBtkhts\bin\Debug\ClsPilot.dll
+D:\SOURCE\CHUAN\QUAN LY TSCD\BAO CAO TSCD\bảng tính khấu hao\rptBtkhts\rptBtkhts\bin\Debug\ClsRight.dll
+D:\SOURCE\CHUAN\QUAN LY TSCD\BAO CAO TSCD\bảng tính khấu hao\rptBtkhts\rptBtkhts\bin\Debug\Interop.Excel.dll
+D:\SOURCE\CHUAN\QUAN LY TSCD\BAO CAO TSCD\bảng tính khấu hao\rptBtkhts\rptBtkhts\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\CHUAN\QUAN LY TSCD\BAO CAO TSCD\bảng tính khấu hao\rptBtkhts\rptBtkhts\bin\Debug\ClsMath.dll
+D:\SOURCE\CHUAN\QUAN LY TSCD\BAO CAO TSCD\bảng tính khấu hao\rptBtkhts\rptBtkhts\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\CHUAN\QUAN LY TSCD\BAO CAO TSCD\bảng tính khấu hao\rptBtkhts\rptBtkhts\obj\Debug\rptBtkhts.frmfilter.resources
+D:\SOURCE\CHUAN\QUAN LY TSCD\BAO CAO TSCD\bảng tính khấu hao\rptBtkhts\rptBtkhts\obj\Debug\rptBtkhts.MainForm.resources
+D:\SOURCE\CHUAN\QUAN LY TSCD\BAO CAO TSCD\bảng tính khấu hao\rptBtkhts\rptBtkhts\obj\Debug\rptBtkhts.Resources.resources
+D:\SOURCE\CHUAN\QUAN LY TSCD\BAO CAO TSCD\bảng tính khấu hao\rptBtkhts\rptBtkhts\obj\Debug\rptBtkhts.vbproj.GenerateResource.Cache
+C:\Users\pvson\Desktop\tao_bao_cao\bảng tính khấu hao\rptBtkhts\rptBtkhts\bin\Debug\rptBtkhts.exe.config
+C:\Users\pvson\Desktop\tao_bao_cao\bảng tính khấu hao\rptBtkhts\rptBtkhts\obj\Debug\rptBtkhts.exe
+C:\Users\pvson\Desktop\tao_bao_cao\bảng tính khấu hao\rptBtkhts\rptBtkhts\obj\Debug\rptBtkhts.xml
+C:\Users\pvson\Desktop\tao_bao_cao\bảng tính khấu hao\rptBtkhts\rptBtkhts\obj\Debug\rptBtkhts.pdb
+C:\Users\pvson\Desktop\tao_bao_cao\bang tinh khau hao tscd - Copy\rbctangtaisancd\rbctangtaisancd\bin\Debug\rptBtkhts.exe.config
+C:\Users\pvson\Desktop\tao_bao_cao\bang tinh khau hao tscd - Copy\rbctangtaisancd\rbctangtaisancd\obj\Debug\rptBtkhts.exe
+C:\Users\pvson\Desktop\tao_bao_cao\bang tinh khau hao tscd - Copy\rbctangtaisancd\rbctangtaisancd\obj\Debug\rptBtkhts.xml
+C:\Users\pvson\Desktop\tao_bao_cao\bang tinh khau hao tscd - Copy\rbctangtaisancd\rbctangtaisancd\obj\Debug\rptBtkhts.pdb
+C:\Users\pvson\Desktop\tao_bao_cao\bang tinh khau hao tscd - Copy\rbctangtaisancd\rbctangtaisancd\bin\Debug\rptBtkhts.exe
+C:\Users\pvson\Desktop\tao_bao_cao\bang tinh khau hao tscd - Copy\rbctangtaisancd\rbctangtaisancd\bin\Debug\rptBtkhts.pdb
+C:\Users\pvson\Desktop\tao_bao_cao\bang tinh khau hao tscd - Copy\rbctangtaisancd\rbctangtaisancd\bin\Debug\rptBtkhts.xml
+C:\Users\pvson\Desktop\tao_bao_cao\bang tinh khau hao tscd - Copy\rbctangtaisancd\rbctangtaisancd\bin\Debug\office.dll
+C:\Users\pvson\Desktop\tao_bao_cao\bang tinh khau hao tscd - Copy\rbctangtaisancd\rbctangtaisancd\bin\Debug\Ionic.Zip.dll
+C:\Users\pvson\Desktop\tao_bao_cao\bang tinh khau hao tscd - Copy\rbctangtaisancd\rbctangtaisancd\bin\Debug\clsab.dll
+C:\Users\pvson\Desktop\tao_bao_cao\bang tinh khau hao tscd - Copy\rbctangtaisancd\rbctangtaisancd\bin\Debug\DriveInfoEx.dll
+C:\Users\pvson\Desktop\tao_bao_cao\bang tinh khau hao tscd - Copy\rbctangtaisancd\rbctangtaisancd\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\pvson\Desktop\tao_bao_cao\bang tinh khau hao tscd - Copy\rbctangtaisancd\rbctangtaisancd\bin\Debug\Interop.SQLDMO.dll
+C:\Users\pvson\Desktop\tao_bao_cao\bang tinh khau hao tscd - Copy\rbctangtaisancd\rbctangtaisancd\bin\Debug\clsPopUp.dll
+C:\Users\pvson\Desktop\tao_bao_cao\bang tinh khau hao tscd - Copy\rbctangtaisancd\rbctangtaisancd\bin\Debug\ClsPilot.dll
+C:\Users\pvson\Desktop\tao_bao_cao\bang tinh khau hao tscd - Copy\rbctangtaisancd\rbctangtaisancd\bin\Debug\ClsRight.dll
+C:\Users\pvson\Desktop\tao_bao_cao\bang tinh khau hao tscd - Copy\rbctangtaisancd\rbctangtaisancd\bin\Debug\Interop.Excel.dll
+C:\Users\pvson\Desktop\tao_bao_cao\bang tinh khau hao tscd - Copy\rbctangtaisancd\rbctangtaisancd\bin\Debug\ClsSqlRemoting.dll
+C:\Users\pvson\Desktop\tao_bao_cao\bang tinh khau hao tscd - Copy\rbctangtaisancd\rbctangtaisancd\bin\Debug\ClsMath.dll
+C:\Users\pvson\Desktop\tao_bao_cao\bang tinh khau hao tscd - Copy\rbctangtaisancd\rbctangtaisancd\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pvson\Desktop\tao_bao_cao\bang tinh khau hao tscd - Copy\rbctangtaisancd\rbctangtaisancd\obj\Debug\rptBtkhts.frmfilter.resources
+C:\Users\pvson\Desktop\tao_bao_cao\bang tinh khau hao tscd - Copy\rbctangtaisancd\rbctangtaisancd\obj\Debug\rptBtkhts.MainForm.resources
+C:\Users\pvson\Desktop\tao_bao_cao\bang tinh khau hao tscd - Copy\rbctangtaisancd\rbctangtaisancd\obj\Debug\rptBtkhts.Resources.resources
+C:\Users\pvson\Desktop\tao_bao_cao\bang tinh khau hao tscd - Copy\rbctangtaisancd\rbctangtaisancd\obj\Debug\rptBtkhts.vbproj.GenerateResource.Cache

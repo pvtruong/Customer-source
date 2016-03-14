@@ -1,0 +1,64 @@
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\bin\Debug\Vpgh.exe
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\bin\Debug\Vpgh.pdb
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\bin\Debug\Vpgh.xml
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\bin\Debug\ClPrint.dll
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\bin\Debug\ClsControl2.dll
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\bin\Debug\ClsList.dll
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\bin\Debug\ClsLookup.dll
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\bin\Debug\Clsql.dll
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\bin\Debug\ClsRight.dll
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\bin\Debug\ClsRpt.dll
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\bin\Debug\ClsStpService.dll
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\bin\Debug\ClsSV.dll
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\bin\Debug\clsViDe.dll
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\bin\Debug\ClsVno.dll
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\bin\Debug\ClsMath.dll
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\bin\Debug\Ionic.Zip.dll
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\bin\Debug\clsab.dll
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\bin\Debug\clsPopUp.dll
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\bin\Debug\ClsPilot.dll
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\bin\Debug\clsPermit4Field.dll
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\bin\Debug\Interop.Excel.dll
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\obj\Debug\Vpgh.frmPrint.resources
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\obj\Debug\Vpgh.frmsearch.resources
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\obj\Debug\Vpgh.Frmmain.resources
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\obj\Debug\Vpgh.frminput.resources
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\obj\Debug\Vpgh.Resources.resources
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\obj\Debug\Vpgh.vbproj.GenerateResource.Cache
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\obj\Debug\Vpgh.exe
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\obj\Debug\Vpgh.xml
+C:\Documents and Settings\CU BIN\Desktop\Vpgh\Vpgh\obj\Debug\Vpgh.pdb
+D:\SOURCE_KH\gia phat\Vpgh\Vpgh\obj\Debug\Vpgh.exe
+D:\SOURCE_KH\gia phat\Vpgh\Vpgh\obj\Debug\Vpgh.xml
+D:\SOURCE_KH\gia phat\Vpgh\Vpgh\obj\Debug\Vpgh.pdb
+D:\SOURCE_KH\gia phat\Vpgh\Vpgh\bin\Debug\Vpgh.exe
+D:\SOURCE_KH\gia phat\Vpgh\Vpgh\bin\Debug\Vpgh.pdb
+D:\SOURCE_KH\gia phat\Vpgh\Vpgh\bin\Debug\Vpgh.xml
+D:\SOURCE_KH\gia phat\Vpgh\Vpgh\bin\Debug\ClPrint.dll
+D:\SOURCE_KH\gia phat\Vpgh\Vpgh\bin\Debug\ClsControl2.dll
+D:\SOURCE_KH\gia phat\Vpgh\Vpgh\bin\Debug\ClsLookup.dll
+D:\SOURCE_KH\gia phat\Vpgh\Vpgh\bin\Debug\Clsql.dll
+D:\SOURCE_KH\gia phat\Vpgh\Vpgh\bin\Debug\ClsRight.dll
+D:\SOURCE_KH\gia phat\Vpgh\Vpgh\bin\Debug\ClsStpService.dll
+D:\SOURCE_KH\gia phat\Vpgh\Vpgh\bin\Debug\ClsSV.dll
+D:\SOURCE_KH\gia phat\Vpgh\Vpgh\bin\Debug\ClsVno.dll
+D:\SOURCE_KH\gia phat\Vpgh\Vpgh\bin\Debug\Ionic.Zip.dll
+D:\SOURCE_KH\gia phat\Vpgh\Vpgh\bin\Debug\clsab.dll
+D:\SOURCE_KH\gia phat\Vpgh\Vpgh\bin\Debug\clsViDe.dll
+D:\SOURCE_KH\gia phat\Vpgh\Vpgh\bin\Debug\clsPopUp.dll
+D:\SOURCE_KH\gia phat\Vpgh\Vpgh\bin\Debug\Interop.Excel.dll
+D:\SOURCE_KH\gia phat\Vpgh\Vpgh\bin\Debug\ClsMath.dll
+D:\SOURCE_KH\gia phat\Vpgh\Vpgh\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE_KH\gia phat\Vpgh\Vpgh\obj\Debug\Vpgh.frmPrint.resources
+D:\SOURCE_KH\gia phat\Vpgh\Vpgh\obj\Debug\Vpgh.frmsearch.resources
+D:\SOURCE_KH\gia phat\Vpgh\Vpgh\obj\Debug\Vpgh.Frmmain.resources
+D:\SOURCE_KH\gia phat\Vpgh\Vpgh\obj\Debug\Vpgh.frminput.resources
+D:\SOURCE_KH\gia phat\Vpgh\Vpgh\obj\Debug\Vpgh.Resources.resources
+D:\SOURCE_KH\gia phat\Vpgh\Vpgh\obj\Debug\Vpgh.vbproj.GenerateResource.Cache
+D:\0_SON_LAMVIEC\source_kh\GIAPHAT\Vpgh\obj\Debug\Vpgh.exe
+D:\0_SON_LAMVIEC\source_kh\GIAPHAT\Vpgh\obj\Debug\Vpgh.xml
+D:\0_SON_LAMVIEC\source_kh\GIAPHAT\Vpgh\obj\Debug\Vpgh.pdb
+D:\0_SON_LAMVIEC\source_kh\GIAPHAT\VQVT\obj\Debug\Vpgh.exe
+D:\0_SON_LAMVIEC\source_kh\GIAPHAT\VQVT\obj\Debug\Vpgh.xml
+D:\0_SON_LAMVIEC\source_kh\GIAPHAT\VQVT\obj\Debug\Vpgh.pdb

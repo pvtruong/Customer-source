@@ -138,7 +138,6 @@ Public Class Form1
         End Select
     End Sub
     Function save() As Boolean
-
         'kiem tra so chung tu
         If Voucher.CheckSoCT(Txtngay_ct.Value, txtso_ct.Text) = False Then
             Return False
@@ -207,9 +206,26 @@ Public Class Form1
         Return True
     End Function
 
+    Function csum(table As DataTable, column As String, Optional condition As String = "1=1")
+        If Not table.Columns.Contains(column) Then
+            Return 0
+        End If
+        Dim kq As Double = 0
+        Try
+            For Each r As DataRow In table.Select(condition)
+                If Not IsDBNull(r(column)) Then
+                    kq = kq + r(column)
+                End If
+
+            Next
+        Catch ex As Exception
+        End Try
+
+        Return kq
+    End Function
 
     Dim t_tien, t_ck, t_thue_nk, t_thue_nk_nt, t_thue, t_tt, t_cp, t_sl, t_tien_von, t_tien_nt, t_ck_nt, t_thue_nt, t_tt_nt, t_sl_nt, t_tien_von_nt, t_cp_nt As Double
-
+    Dim t_tien_nt10, t_tien10, t_cp_nt10, t_cp10, t_tien_nt05, t_tien05, t_cp_nt05, t_cp05, t_tien_nt00, t_tien00, t_cp_nt00, t_cp00 As Double
     Sub tinh_tong_tien()
         If isloaded = False Then
             Return
@@ -226,6 +242,26 @@ Public Class Form1
         t_thue = ClsControl2.PropertyOfGrid.Sum(Voucher.Tabdetails("vvatvao").gridDetailKeyin, "t_thue")
         t_thue_nk = ClsControl2.PropertyOfGrid.Sum(Voucher.Tabdetails(Voucher.TabFirst).gridDetailKeyin, "thue_nk")
         t_thue_nk_nt = ClsControl2.PropertyOfGrid.Sum(Voucher.Tabdetails(Voucher.TabFirst).gridDetailKeyin, "thue_nk_nt")
+
+        t_tien_nt10 = csum(Voucher.Tabdetails(Voucher.TabFirst).Datatable, "tien_hang_nt", "thue_suat=10")
+        t_tien10 = csum(Voucher.Tabdetails(Voucher.TabFirst).Datatable, "tien_hang", "thue_suat=10")
+
+        t_cp_nt10 = csum(Voucher.Tabdetails(Voucher.TabFirst).Datatable, "tien_phi_nt", "thue_suat=10")
+        t_cp10 = csum(Voucher.Tabdetails(Voucher.TabFirst).Datatable, "tien_phi", "thue_suat=10")
+
+
+        t_tien_nt05 = csum(Voucher.Tabdetails(Voucher.TabFirst).Datatable, "tien_hang_nt", "thue_suat=5")
+        t_tien05 = csum(Voucher.Tabdetails(Voucher.TabFirst).Datatable, "tien_hang", "thue_suat=5")
+
+        t_cp_nt05 = csum(Voucher.Tabdetails(Voucher.TabFirst).Datatable, "tien_phi_nt", "thue_suat=5")
+        t_cp05 = csum(Voucher.Tabdetails(Voucher.TabFirst).Datatable, "tien_phi", "thue_suat=5")
+
+
+        t_tien_nt00 = csum(Voucher.Tabdetails(Voucher.TabFirst).Datatable, "tien_hang_nt", "thue_suat=0")
+        t_tien00 = csum(Voucher.Tabdetails(Voucher.TabFirst).Datatable, "tien_hang", "thue_suat=0")
+
+        t_cp_nt00 = csum(Voucher.Tabdetails(Voucher.TabFirst).Datatable, "tien_phi_nt", "thue_suat=0")
+        t_cp00 = csum(Voucher.Tabdetails(Voucher.TabFirst).Datatable, "tien_phi", "thue_suat=0")
 
 
         t_tt_nt = t_tien_nt + t_cp_nt + t_thue_nt + t_thue_nk_nt
@@ -246,6 +282,21 @@ Public Class Form1
 
         txtt_tt_nt.Value = t_tt_nt
         txtt_tt.Value = t_tt
+
+        Txtt_tien_nt10.Value = t_tien_nt10
+        txtt_tien10.Value = t_tien10
+        Txtt_cp_nt10.Value = t_cp_nt10
+        txtt_cp10.Value = t_cp10
+
+        Txtt_tien_nt05.Value = t_tien_nt05
+        Txtt_tien05.Value = t_tien05
+        Txtt_cp_nt05.Value = t_cp_nt05
+        Txtt_cp05.Value = t_cp05
+
+        Txtt_tien_nt00.Value = t_tien_nt00
+        Txtt_tien00.Value = t_tien00
+        Txtt_cp_nt00.Value = t_cp_nt00
+        Txtt_cp00.Value = t_cp00
 
 
     End Sub

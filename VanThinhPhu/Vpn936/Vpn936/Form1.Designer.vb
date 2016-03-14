@@ -51,6 +51,13 @@ Partial Class Form1
         Me.cbbstatus = New System.Windows.Forms.ComboBox()
         Me.Label12 = New System.Windows.Forms.Label()
         Me.GroupBox2 = New System.Windows.Forms.GroupBox()
+        Me.txtngay_to_khai = New ClsControl2.TxtDate()
+        Me.Label20 = New System.Windows.Forms.Label()
+        Me.lblten_cang = New System.Windows.Forms.Label()
+        Me.txtso_to_khai = New System.Windows.Forms.TextBox()
+        Me.Label19 = New System.Windows.Forms.Label()
+        Me.Label21 = New System.Windows.Forms.Label()
+        Me.txtma_cang = New System.Windows.Forms.TextBox()
         Me.Label15 = New System.Windows.Forms.Label()
         Me.txtdia_chi = New System.Windows.Forms.TextBox()
         Me.Label14 = New System.Windows.Forms.Label()
@@ -80,13 +87,18 @@ Partial Class Form1
         Me.TSDropDownGetdata = New System.Windows.Forms.ToolStripDropDownButton()
         Me.btnlaydulieutudonhang = New System.Windows.Forms.ToolStripMenuItem()
         Me.LayDuLieuTuPhieuNhapHangToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.txtngay_to_khai = New ClsControl2.TxtDate()
-        Me.Label20 = New System.Windows.Forms.Label()
-        Me.lblten_cang = New System.Windows.Forms.Label()
-        Me.txtso_to_khai = New System.Windows.Forms.TextBox()
-        Me.Label19 = New System.Windows.Forms.Label()
-        Me.Label21 = New System.Windows.Forms.Label()
-        Me.txtma_cang = New System.Windows.Forms.TextBox()
+        Me.Txtt_tien_nt10 = New ClsControl2.TxtNumeric()
+        Me.txtt_tien10 = New ClsControl2.TxtNumeric()
+        Me.Txtt_cp_nt10 = New ClsControl2.TxtNumeric()
+        Me.txtt_cp10 = New ClsControl2.TxtNumeric()
+        Me.Txtt_cp05 = New ClsControl2.TxtNumeric()
+        Me.Txtt_cp_nt05 = New ClsControl2.TxtNumeric()
+        Me.Txtt_tien05 = New ClsControl2.TxtNumeric()
+        Me.Txtt_tien_nt05 = New ClsControl2.TxtNumeric()
+        Me.Txtt_cp00 = New ClsControl2.TxtNumeric()
+        Me.Txtt_cp_nt00 = New ClsControl2.TxtNumeric()
+        Me.Txtt_tien00 = New ClsControl2.TxtNumeric()
+        Me.Txtt_tien_nt00 = New ClsControl2.TxtNumeric()
         Me.GroupBox4.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
         Me.TSgetdata.SuspendLayout()
@@ -403,6 +415,71 @@ Partial Class Form1
         Me.GroupBox2.TabStop = False
         Me.GroupBox2.Tag = "217"
         Me.GroupBox2.Text = "Khach hang"
+        '
+        'txtngay_to_khai
+        '
+        Me.txtngay_to_khai.Location = New System.Drawing.Point(319, 133)
+        Me.txtngay_to_khai.Mask = "00/00/0000"
+        Me.txtngay_to_khai.Name = "txtngay_to_khai"
+        Me.txtngay_to_khai.Size = New System.Drawing.Size(144, 20)
+        Me.txtngay_to_khai.TabIndex = 228
+        Me.txtngay_to_khai.Text = "01011910"
+        Me.txtngay_to_khai.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        Me.txtngay_to_khai.Value = New Date(1910, 1, 1, 0, 0, 0, 0)
+        '
+        'Label20
+        '
+        Me.Label20.AutoSize = True
+        Me.Label20.Location = New System.Drawing.Point(238, 136)
+        Me.Label20.Name = "Label20"
+        Me.Label20.Size = New System.Drawing.Size(67, 13)
+        Me.Label20.TabIndex = 230
+        Me.Label20.Tag = "ngay_to_khai"
+        Me.Label20.Text = "Ngày tờ khai"
+        '
+        'lblten_cang
+        '
+        Me.lblten_cang.AutoSize = True
+        Me.lblten_cang.Location = New System.Drawing.Point(295, 114)
+        Me.lblten_cang.Name = "lblten_cang"
+        Me.lblten_cang.Size = New System.Drawing.Size(49, 13)
+        Me.lblten_cang.TabIndex = 226
+        Me.lblten_cang.Text = "ten cang"
+        '
+        'txtso_to_khai
+        '
+        Me.txtso_to_khai.Location = New System.Drawing.Point(130, 133)
+        Me.txtso_to_khai.Name = "txtso_to_khai"
+        Me.txtso_to_khai.Size = New System.Drawing.Size(100, 20)
+        Me.txtso_to_khai.TabIndex = 227
+        '
+        'Label19
+        '
+        Me.Label19.AutoSize = True
+        Me.Label19.Location = New System.Drawing.Point(10, 113)
+        Me.Label19.Name = "Label19"
+        Me.Label19.Size = New System.Drawing.Size(49, 13)
+        Me.Label19.TabIndex = 225
+        Me.Label19.Tag = "ma_cang"
+        Me.Label19.Text = "Mã cảng"
+        '
+        'Label21
+        '
+        Me.Label21.AutoSize = True
+        Me.Label21.Location = New System.Drawing.Point(10, 136)
+        Me.Label21.Name = "Label21"
+        Me.Label21.Size = New System.Drawing.Size(55, 13)
+        Me.Label21.TabIndex = 229
+        Me.Label21.Tag = "so_to_khai"
+        Me.Label21.Text = "Số tờ khai"
+        '
+        'txtma_cang
+        '
+        Me.txtma_cang.Location = New System.Drawing.Point(130, 110)
+        Me.txtma_cang.Name = "txtma_cang"
+        Me.txtma_cang.Size = New System.Drawing.Size(159, 20)
+        Me.txtma_cang.TabIndex = 224
+        Me.txtma_cang.Tag = "F"
         '
         'Label15
         '
@@ -759,76 +836,215 @@ Partial Class Form1
         Me.LayDuLieuTuPhieuNhapHangToolStripMenuItem.Tag = "009"
         Me.LayDuLieuTuPhieuNhapHangToolStripMenuItem.Text = "Lay du lieu tu phieu nhap hang"
         '
-        'txtngay_to_khai
+        'Txtt_tien_nt10
         '
-        Me.txtngay_to_khai.Location = New System.Drawing.Point(319, 133)
-        Me.txtngay_to_khai.Mask = "00/00/0000"
-        Me.txtngay_to_khai.Name = "txtngay_to_khai"
-        Me.txtngay_to_khai.Size = New System.Drawing.Size(144, 20)
-        Me.txtngay_to_khai.TabIndex = 228
-        Me.txtngay_to_khai.Text = "01011910"
-        Me.txtngay_to_khai.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.txtngay_to_khai.Value = New Date(1910, 1, 1, 0, 0, 0, 0)
+        Me.Txtt_tien_nt10.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.Txtt_tien_nt10.Location = New System.Drawing.Point(408, 480)
+        Me.Txtt_tien_nt10.MaxLength = 0
+        Me.Txtt_tien_nt10.Name = "Txtt_tien_nt10"
+        Me.Txtt_tien_nt10.NumberDecimalDigits = 2
+        Me.Txtt_tien_nt10.ReadOnly = True
+        Me.Txtt_tien_nt10.Size = New System.Drawing.Size(130, 20)
+        Me.Txtt_tien_nt10.TabIndex = 245
+        Me.Txtt_tien_nt10.TabStop = False
+        Me.Txtt_tien_nt10.Text = "0.00"
+        Me.Txtt_tien_nt10.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        Me.Txtt_tien_nt10.Value = 0R
+        Me.Txtt_tien_nt10.Value2 = 0R
         '
-        'Label20
+        'txtt_tien10
         '
-        Me.Label20.AutoSize = True
-        Me.Label20.Location = New System.Drawing.Point(238, 136)
-        Me.Label20.Name = "Label20"
-        Me.Label20.Size = New System.Drawing.Size(67, 13)
-        Me.Label20.TabIndex = 230
-        Me.Label20.Tag = "ngay_to_khai"
-        Me.Label20.Text = "Ngày tờ khai"
+        Me.txtt_tien10.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.txtt_tien10.Location = New System.Drawing.Point(408, 492)
+        Me.txtt_tien10.MaxLength = 0
+        Me.txtt_tien10.Name = "txtt_tien10"
+        Me.txtt_tien10.NumberDecimalDigits = 2
+        Me.txtt_tien10.ReadOnly = True
+        Me.txtt_tien10.Size = New System.Drawing.Size(130, 20)
+        Me.txtt_tien10.TabIndex = 246
+        Me.txtt_tien10.TabStop = False
+        Me.txtt_tien10.Text = "0.00"
+        Me.txtt_tien10.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        Me.txtt_tien10.Value = 0R
+        Me.txtt_tien10.Value2 = 0R
         '
-        'lblten_cang
+        'Txtt_cp_nt10
         '
-        Me.lblten_cang.AutoSize = True
-        Me.lblten_cang.Location = New System.Drawing.Point(295, 114)
-        Me.lblten_cang.Name = "lblten_cang"
-        Me.lblten_cang.Size = New System.Drawing.Size(49, 13)
-        Me.lblten_cang.TabIndex = 226
-        Me.lblten_cang.Text = "ten cang"
+        Me.Txtt_cp_nt10.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.Txtt_cp_nt10.Location = New System.Drawing.Point(408, 503)
+        Me.Txtt_cp_nt10.MaxLength = 0
+        Me.Txtt_cp_nt10.Name = "Txtt_cp_nt10"
+        Me.Txtt_cp_nt10.NumberDecimalDigits = 2
+        Me.Txtt_cp_nt10.ReadOnly = True
+        Me.Txtt_cp_nt10.Size = New System.Drawing.Size(130, 20)
+        Me.Txtt_cp_nt10.TabIndex = 247
+        Me.Txtt_cp_nt10.TabStop = False
+        Me.Txtt_cp_nt10.Text = "0.00"
+        Me.Txtt_cp_nt10.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        Me.Txtt_cp_nt10.Value = 0R
+        Me.Txtt_cp_nt10.Value2 = 0R
         '
-        'txtso_to_khai
+        'txtt_cp10
         '
-        Me.txtso_to_khai.Location = New System.Drawing.Point(130, 133)
-        Me.txtso_to_khai.Name = "txtso_to_khai"
-        Me.txtso_to_khai.Size = New System.Drawing.Size(100, 20)
-        Me.txtso_to_khai.TabIndex = 227
+        Me.txtt_cp10.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.txtt_cp10.Location = New System.Drawing.Point(408, 518)
+        Me.txtt_cp10.MaxLength = 0
+        Me.txtt_cp10.Name = "txtt_cp10"
+        Me.txtt_cp10.NumberDecimalDigits = 2
+        Me.txtt_cp10.ReadOnly = True
+        Me.txtt_cp10.Size = New System.Drawing.Size(130, 20)
+        Me.txtt_cp10.TabIndex = 248
+        Me.txtt_cp10.TabStop = False
+        Me.txtt_cp10.Text = "0.00"
+        Me.txtt_cp10.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        Me.txtt_cp10.Value = 0R
+        Me.txtt_cp10.Value2 = 0R
         '
-        'Label19
+        'Txtt_cp05
         '
-        Me.Label19.AutoSize = True
-        Me.Label19.Location = New System.Drawing.Point(10, 113)
-        Me.Label19.Name = "Label19"
-        Me.Label19.Size = New System.Drawing.Size(49, 13)
-        Me.Label19.TabIndex = 225
-        Me.Label19.Tag = "ma_cang"
-        Me.Label19.Text = "Mã cảng"
+        Me.Txtt_cp05.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.Txtt_cp05.Location = New System.Drawing.Point(272, 517)
+        Me.Txtt_cp05.MaxLength = 0
+        Me.Txtt_cp05.Name = "Txtt_cp05"
+        Me.Txtt_cp05.NumberDecimalDigits = 2
+        Me.Txtt_cp05.ReadOnly = True
+        Me.Txtt_cp05.Size = New System.Drawing.Size(130, 20)
+        Me.Txtt_cp05.TabIndex = 252
+        Me.Txtt_cp05.TabStop = False
+        Me.Txtt_cp05.Text = "0.00"
+        Me.Txtt_cp05.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        Me.Txtt_cp05.Value = 0R
+        Me.Txtt_cp05.Value2 = 0R
         '
-        'Label21
+        'Txtt_cp_nt05
         '
-        Me.Label21.AutoSize = True
-        Me.Label21.Location = New System.Drawing.Point(10, 136)
-        Me.Label21.Name = "Label21"
-        Me.Label21.Size = New System.Drawing.Size(55, 13)
-        Me.Label21.TabIndex = 229
-        Me.Label21.Tag = "so_to_khai"
-        Me.Label21.Text = "Số tờ khai"
+        Me.Txtt_cp_nt05.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.Txtt_cp_nt05.Location = New System.Drawing.Point(272, 502)
+        Me.Txtt_cp_nt05.MaxLength = 0
+        Me.Txtt_cp_nt05.Name = "Txtt_cp_nt05"
+        Me.Txtt_cp_nt05.NumberDecimalDigits = 2
+        Me.Txtt_cp_nt05.ReadOnly = True
+        Me.Txtt_cp_nt05.Size = New System.Drawing.Size(130, 20)
+        Me.Txtt_cp_nt05.TabIndex = 251
+        Me.Txtt_cp_nt05.TabStop = False
+        Me.Txtt_cp_nt05.Text = "0.00"
+        Me.Txtt_cp_nt05.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        Me.Txtt_cp_nt05.Value = 0R
+        Me.Txtt_cp_nt05.Value2 = 0R
         '
-        'txtma_cang
+        'Txtt_tien05
         '
-        Me.txtma_cang.Location = New System.Drawing.Point(130, 110)
-        Me.txtma_cang.Name = "txtma_cang"
-        Me.txtma_cang.Size = New System.Drawing.Size(159, 20)
-        Me.txtma_cang.TabIndex = 224
-        Me.txtma_cang.Tag = "F"
+        Me.Txtt_tien05.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.Txtt_tien05.Location = New System.Drawing.Point(272, 491)
+        Me.Txtt_tien05.MaxLength = 0
+        Me.Txtt_tien05.Name = "Txtt_tien05"
+        Me.Txtt_tien05.NumberDecimalDigits = 2
+        Me.Txtt_tien05.ReadOnly = True
+        Me.Txtt_tien05.Size = New System.Drawing.Size(130, 20)
+        Me.Txtt_tien05.TabIndex = 250
+        Me.Txtt_tien05.TabStop = False
+        Me.Txtt_tien05.Text = "0.00"
+        Me.Txtt_tien05.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        Me.Txtt_tien05.Value = 0R
+        Me.Txtt_tien05.Value2 = 0R
+        '
+        'Txtt_tien_nt05
+        '
+        Me.Txtt_tien_nt05.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.Txtt_tien_nt05.Location = New System.Drawing.Point(272, 479)
+        Me.Txtt_tien_nt05.MaxLength = 0
+        Me.Txtt_tien_nt05.Name = "Txtt_tien_nt05"
+        Me.Txtt_tien_nt05.NumberDecimalDigits = 2
+        Me.Txtt_tien_nt05.ReadOnly = True
+        Me.Txtt_tien_nt05.Size = New System.Drawing.Size(130, 20)
+        Me.Txtt_tien_nt05.TabIndex = 249
+        Me.Txtt_tien_nt05.TabStop = False
+        Me.Txtt_tien_nt05.Text = "0.00"
+        Me.Txtt_tien_nt05.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        Me.Txtt_tien_nt05.Value = 0R
+        Me.Txtt_tien_nt05.Value2 = 0R
+        '
+        'Txtt_cp00
+        '
+        Me.Txtt_cp00.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.Txtt_cp00.Location = New System.Drawing.Point(348, 532)
+        Me.Txtt_cp00.MaxLength = 0
+        Me.Txtt_cp00.Name = "Txtt_cp00"
+        Me.Txtt_cp00.NumberDecimalDigits = 2
+        Me.Txtt_cp00.ReadOnly = True
+        Me.Txtt_cp00.Size = New System.Drawing.Size(130, 20)
+        Me.Txtt_cp00.TabIndex = 256
+        Me.Txtt_cp00.TabStop = False
+        Me.Txtt_cp00.Text = "0.00"
+        Me.Txtt_cp00.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        Me.Txtt_cp00.Value = 0R
+        Me.Txtt_cp00.Value2 = 0R
+        '
+        'Txtt_cp_nt00
+        '
+        Me.Txtt_cp_nt00.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.Txtt_cp_nt00.Location = New System.Drawing.Point(348, 517)
+        Me.Txtt_cp_nt00.MaxLength = 0
+        Me.Txtt_cp_nt00.Name = "Txtt_cp_nt00"
+        Me.Txtt_cp_nt00.NumberDecimalDigits = 2
+        Me.Txtt_cp_nt00.ReadOnly = True
+        Me.Txtt_cp_nt00.Size = New System.Drawing.Size(130, 20)
+        Me.Txtt_cp_nt00.TabIndex = 255
+        Me.Txtt_cp_nt00.TabStop = False
+        Me.Txtt_cp_nt00.Text = "0.00"
+        Me.Txtt_cp_nt00.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        Me.Txtt_cp_nt00.Value = 0R
+        Me.Txtt_cp_nt00.Value2 = 0R
+        '
+        'Txtt_tien00
+        '
+        Me.Txtt_tien00.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.Txtt_tien00.Location = New System.Drawing.Point(348, 506)
+        Me.Txtt_tien00.MaxLength = 0
+        Me.Txtt_tien00.Name = "Txtt_tien00"
+        Me.Txtt_tien00.NumberDecimalDigits = 2
+        Me.Txtt_tien00.ReadOnly = True
+        Me.Txtt_tien00.Size = New System.Drawing.Size(130, 20)
+        Me.Txtt_tien00.TabIndex = 254
+        Me.Txtt_tien00.TabStop = False
+        Me.Txtt_tien00.Text = "0.00"
+        Me.Txtt_tien00.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        Me.Txtt_tien00.Value = 0R
+        Me.Txtt_tien00.Value2 = 0R
+        '
+        'Txtt_tien_nt00
+        '
+        Me.Txtt_tien_nt00.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.Txtt_tien_nt00.Location = New System.Drawing.Point(348, 494)
+        Me.Txtt_tien_nt00.MaxLength = 0
+        Me.Txtt_tien_nt00.Name = "Txtt_tien_nt00"
+        Me.Txtt_tien_nt00.NumberDecimalDigits = 2
+        Me.Txtt_tien_nt00.ReadOnly = True
+        Me.Txtt_tien_nt00.Size = New System.Drawing.Size(130, 20)
+        Me.Txtt_tien_nt00.TabIndex = 253
+        Me.Txtt_tien_nt00.TabStop = False
+        Me.Txtt_tien_nt00.Text = "0.00"
+        Me.Txtt_tien_nt00.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        Me.Txtt_tien_nt00.Value = 0R
+        Me.Txtt_tien_nt00.Value2 = 0R
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(972, 472)
+        Me.Controls.Add(Me.Txtt_cp00)
+        Me.Controls.Add(Me.Txtt_cp_nt00)
+        Me.Controls.Add(Me.Txtt_tien00)
+        Me.Controls.Add(Me.Txtt_tien_nt00)
+        Me.Controls.Add(Me.Txtt_cp05)
+        Me.Controls.Add(Me.Txtt_cp_nt05)
+        Me.Controls.Add(Me.Txtt_tien05)
+        Me.Controls.Add(Me.Txtt_tien_nt05)
+        Me.Controls.Add(Me.txtt_cp10)
+        Me.Controls.Add(Me.Txtt_cp_nt10)
+        Me.Controls.Add(Me.txtt_tien10)
+        Me.Controls.Add(Me.Txtt_tien_nt10)
         Me.Controls.Add(Me.cbbstatus)
         Me.Controls.Add(Me.Label12)
         Me.Controls.Add(Me.TSgetdata)
@@ -948,4 +1164,16 @@ Partial Class Form1
     Friend WithEvents Label19 As Label
     Friend WithEvents Label21 As Label
     Friend WithEvents txtma_cang As TextBox
+    Friend WithEvents Txtt_tien_nt10 As ClsControl2.TxtNumeric
+    Friend WithEvents txtt_tien10 As ClsControl2.TxtNumeric
+    Friend WithEvents Txtt_cp_nt10 As ClsControl2.TxtNumeric
+    Friend WithEvents txtt_cp10 As ClsControl2.TxtNumeric
+    Friend WithEvents Txtt_cp05 As ClsControl2.TxtNumeric
+    Friend WithEvents Txtt_cp_nt05 As ClsControl2.TxtNumeric
+    Friend WithEvents Txtt_tien05 As ClsControl2.TxtNumeric
+    Friend WithEvents Txtt_tien_nt05 As ClsControl2.TxtNumeric
+    Friend WithEvents Txtt_cp00 As ClsControl2.TxtNumeric
+    Friend WithEvents Txtt_cp_nt00 As ClsControl2.TxtNumeric
+    Friend WithEvents Txtt_tien00 As ClsControl2.TxtNumeric
+    Friend WithEvents Txtt_tien_nt00 As ClsControl2.TxtNumeric
 End Class
