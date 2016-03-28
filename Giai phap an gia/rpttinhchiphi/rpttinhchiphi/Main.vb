@@ -6,7 +6,7 @@
     Dim oLable As Collection
     Private Sub MainForm_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         rptid = Clsql.Others.GetArgu(1)
-        rpt = New ClsRpt.rpt(rptid, Me.grd, btnIN, btnpreview, frmdkloc.cbbmau, frmdkloc.txttitle, frmdkloc.cbbma_dvcs)
+        rpt = New ClsRpt.rpt(rptid, Me.grd, btnIN, btnpreview, frmdkloc.cbbmau, frmdkloc.txttitle, frmdkloc.cbbma_dvcs, False, False)
         AddHandler rpt.AfterGetData, AddressOf aftergetdata
         oLable = ClsControl2.PropertyOfForm.SetLable(rpt.conn, Me, rptid)
         ClsControl2.PropertyOfForm.SetLable(oLable, frmdkloc)
@@ -36,6 +36,7 @@
     End Sub
     Dim ds As DataSet
     Private Sub aftergetdata(dataset As DataSet)
+        grd.Columns("ten_kh").Frozen = True
         ds = dataset
         importdata()
     End Sub
@@ -134,7 +135,7 @@
         If (grd.Columns(e.ColumnIndex).Name = "sel") Then
             Return
         End If
-        Dim new_value = grd.Item(e.ColumnIndex, e.RowIndex).Value
+        Dim new_value = grd.CurrentRow.Cells(e.ColumnIndex).Value
         If new_value <> old_value Then
             ds.AcceptChanges()
             'save to database
@@ -142,24 +143,28 @@
                 Dim query As String = "update phicanho set " & grd.Columns(e.ColumnIndex).Name & "=" & rpt.conn.ConvertToSQLType(new_value)
                 query = query & " where thang=" & rpt.conn.ConvertToSQLType(frmdkloc.txtky.Value)
                 query = query & " and nam = " & rpt.conn.ConvertToSQLType(frmdkloc.txtnam.Value)
-                query = query & " and ma_kh = " & rpt.conn.ConvertToSQLType(grd.Item("ma_kh", e.RowIndex).Value)
+                query = query & " and ma_kh = " & rpt.conn.ConvertToSQLType(grd.CurrentRow.Cells("ma_kh").Value)
                 rpt.conn.Execute(query)
                 'refresh
                 query = "exec  " & rpt.cPrint.Store
                 query = query & " " & rpt.conn.ConvertToSQLType(frmdkloc.txtky.Value)
                 query = query & "," & rpt.conn.ConvertToSQLType(frmdkloc.txtnam.Value)
-                query = query & "," & rpt.conn.ConvertToSQLType(grd.Item("ma_kh", e.RowIndex).Value)
+                query = query & "," & rpt.conn.ConvertToSQLType(grd.CurrentRow.Cells("ma_kh").Value)
                 query = query & "," & rpt.conn.ConvertToSQLType(True)
                 Dim dt_tmp As DataTable = rpt.conn.GetDatatable(query)
-                Dim current_row As DataRow = grd.Rows(e.RowIndex).DataBoundItem.row
+
                 If dt_tmp.Rows.Count > 0 Then
+                    Dim current_row As DataRow = grd.CurrentRow.DataBoundItem.row
+                    Dim source = grd.DataSource
+                    grd.DataSource = Nothing
                     For Each c As DataColumn In dt_tmp.Columns
                         Dim c_name As String = c.ColumnName
                         current_row.Item(c_name) = dt_tmp.Rows(0).Item(c_name)
                     Next
+                    grd.DataSource = source
                 End If
             Catch ex As Exception
-
+                MsgBox(ex.Message )
             End Try
 
 
@@ -169,9 +174,8 @@
     End Sub
 
     Private Sub grd_CellEnter(sender As Object, e As DataGridViewCellEventArgs) Handles grd.CellEnter
-        old_value = grd.Item(e.ColumnIndex, e.RowIndex).Value
+        old_value = grd.CurrentRow.Cells(e.ColumnIndex).Value
     End Sub
-
     Private Sub ToolStripButton3_Click(sender As Object, e As EventArgs) Handles btnGhiCongNo.Click
         query = "exec  postglchiphi"
         query = query & " " & rpt.conn.ConvertToSQLType(frmdkloc.txtky.Value)
@@ -199,4 +203,5 @@
     Private Sub btnInphieu_Click(sender As Object, e As EventArgs)
 
     End Sub
+
 End Class

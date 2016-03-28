@@ -24,6 +24,9 @@ Partial Class frmfilter
     Private Sub InitializeComponent()
         Me.tabdkloc = New System.Windows.Forms.TabControl()
         Me.TabPage1 = New System.Windows.Forms.TabPage()
+        Me.ten_kh = New System.Windows.Forms.Label()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.txtma_kh = New System.Windows.Forms.TextBox()
         Me.txtnam = New System.Windows.Forms.NumericUpDown()
         Me.txtky = New System.Windows.Forms.NumericUpDown()
         Me.Label2 = New System.Windows.Forms.Label()
@@ -36,9 +39,6 @@ Partial Class frmfilter
         Me.cbbmau = New System.Windows.Forms.ComboBox()
         Me.btnok = New System.Windows.Forms.Button()
         Me.btnCancel = New System.Windows.Forms.Button()
-        Me.Label1 = New System.Windows.Forms.Label()
-        Me.txtma_kh = New System.Windows.Forms.TextBox()
-        Me.ten_kh = New System.Windows.Forms.Label()
         Me.tabdkloc.SuspendLayout()
         Me.TabPage1.SuspendLayout()
         CType(Me.txtnam, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -80,6 +80,34 @@ Partial Class frmfilter
         Me.TabPage1.Tag = "001"
         Me.TabPage1.Text = "Điều kiện lọc"
         Me.TabPage1.UseVisualStyleBackColor = True
+        '
+        'ten_kh
+        '
+        Me.ten_kh.AutoSize = True
+        Me.ten_kh.Location = New System.Drawing.Point(271, 61)
+        Me.ten_kh.Name = "ten_kh"
+        Me.ten_kh.Size = New System.Drawing.Size(55, 13)
+        Me.ten_kh.TabIndex = 41
+        Me.ten_kh.Tag = ""
+        Me.ten_kh.Text = "ten khach"
+        Me.ten_kh.Visible = False
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Location = New System.Drawing.Point(9, 62)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(55, 13)
+        Me.Label1.TabIndex = 40
+        Me.Label1.Tag = ""
+        Me.Label1.Text = "Mã khách"
+        '
+        'txtma_kh
+        '
+        Me.txtma_kh.Location = New System.Drawing.Point(145, 58)
+        Me.txtma_kh.Name = "txtma_kh"
+        Me.txtma_kh.Size = New System.Drawing.Size(120, 20)
+        Me.txtma_kh.TabIndex = 2
         '
         'txtnam
         '
@@ -196,33 +224,6 @@ Partial Class frmfilter
         Me.btnCancel.Tag = "901"
         Me.btnCancel.Text = "Cancel"
         Me.btnCancel.UseVisualStyleBackColor = True
-        '
-        'Label1
-        '
-        Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(9, 62)
-        Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(55, 13)
-        Me.Label1.TabIndex = 40
-        Me.Label1.Tag = ""
-        Me.Label1.Text = "Mã khách"
-        '
-        'txtma_kh
-        '
-        Me.txtma_kh.Location = New System.Drawing.Point(145, 58)
-        Me.txtma_kh.Name = "txtma_kh"
-        Me.txtma_kh.Size = New System.Drawing.Size(120, 20)
-        Me.txtma_kh.TabIndex = 2
-        '
-        'ten_kh
-        '
-        Me.ten_kh.AutoSize = True
-        Me.ten_kh.Location = New System.Drawing.Point(271, 61)
-        Me.ten_kh.Name = "ten_kh"
-        Me.ten_kh.Size = New System.Drawing.Size(55, 13)
-        Me.ten_kh.TabIndex = 41
-        Me.ten_kh.Tag = ""
-        Me.ten_kh.Text = "ten khach"
         '
         'frmfilter
         '
