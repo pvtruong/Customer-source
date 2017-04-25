@@ -1,0 +1,11 @@
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.1\SMSMarketing\SMSMarketing\bin\Release\SMSMarketing.exe
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.1\SMSMarketing\SMSMarketing\bin\Release\SMSMarketing.pdb
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.1\SMSMarketing\SMSMarketing\bin\Release\SMSMarketing.xml
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.1\SMSMarketing\SMSMarketing\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.1\SMSMarketing\SMSMarketing\obj\Release\SMSMarketing.config.resources
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.1\SMSMarketing\SMSMarketing\obj\Release\SMSMarketing.Resources.resources
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.1\SMSMarketing\SMSMarketing\obj\Release\SMSMarketing.SendSMS.resources
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.1\SMSMarketing\SMSMarketing\obj\Release\SMSMarketing.vbproj.GenerateResource.Cache
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.1\SMSMarketing\SMSMarketing\obj\Release\SMSMarketing.exe
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.1\SMSMarketing\SMSMarketing\obj\Release\SMSMarketing.xml
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.1\SMSMarketing\SMSMarketing\obj\Release\SMSMarketing.pdb

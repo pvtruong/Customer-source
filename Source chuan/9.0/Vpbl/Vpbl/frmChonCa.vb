@@ -18,6 +18,7 @@ Public Class frmChonCa
         DialogResult = Windows.Forms.DialogResult.OK
         My.Settings.kho_mac_dinh = cbbma_kho.SelectedValue
         My.Settings.quay_mac_dinh = cbbso_may.SelectedValue
+        My.Settings.baudrate = txtbaundrate.Value
         My.Settings.Save()
         Me.Close()
 
@@ -36,6 +37,15 @@ Public Class frmChonCa
 
     Private Sub login_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         ClsControl2.PropertyOfForm.KeyEnter(Me)
+        cbbCOM.DropDownStyle = ComboBoxStyle.DropDownList
+        cbbCOM.Items.Add("")
+        For Each n As String In My.Computer.Ports.SerialPortNames
+            cbbCOM.Items.Add(n)
+        Next
+        If My.Computer.Ports.SerialPortNames.Count > 0 Then
+            cbbCOM.SelectedIndex = 0
+        End If
+        txtbaundrate.Value = My.Settings.baudrate
         Try
             Dim kho_mac_dih As String = My.Settings.kho_mac_dinh
             If kho_mac_dih <> "" Then

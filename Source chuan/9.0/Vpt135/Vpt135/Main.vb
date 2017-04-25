@@ -82,6 +82,15 @@ Public Class Frmmain
             frmin.txtma_kh.Text = grd.Item("ma_kh", grd.CurrentRow.Index).Value
         End If
         Voucher.Tabdetails("tdttno").Datatable = conn.GetDatatable("Exec GetInvoice4Rec_load ''," & conn.ConvertToSQLType(frmin.Txtngay_ct.Value) & "," & Voucher.Action & "," & conn.ConvertToSQLType(e))
+        'Try
+        '    If Voucher.Tabdetails("tdttno").Datatable Is Nothing Then
+        '        Voucher.Tabdetails("tdttno").Datatable = Voucher.Tabdetails("tdttno").DatatableView.Clone
+        '    End If
+
+        '    Clsql.Data.CopyTableSame(Voucher.Tabdetails("tdttno").DatatableView, Voucher.Tabdetails("tdttno").Datatable, "stt_rec='" & e & "'", "1=1")
+        'Catch ex As Exception
+        '    MsgBox(ex.ToString)
+        'End Try
         Voucher.Tabdetails("tdttno").gridDetailKeyin.AllowUserToAddRows = False
         Voucher.Tabdetails("tdttno").bindingsource.DataSource = Voucher.Tabdetails("tdttno").Datatable
         frmin.Txtt_tien_nt.Value = ClsControl2.PropertyOfGrid.Sum(Voucher.Tabdetails("tdttno").gridDetailKeyin, "tien_nt")

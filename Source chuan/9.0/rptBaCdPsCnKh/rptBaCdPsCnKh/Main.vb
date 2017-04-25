@@ -90,6 +90,7 @@
         query = query & "," & rpt.conn.ConvertToSQLType(frmdkloc.txtnh_kh1.Text)
         query = query & "," & rpt.conn.ConvertToSQLType(frmdkloc.txtnh_kh2.Text)
         query = query & "," & rpt.conn.ConvertToSQLType(frmdkloc.txtnh_kh3.Text)
+        query = query & "," & rpt.conn.ConvertToSQLType(Clsql.Reg.GetValue("id"))
         'xem chi tiet
         Dim xemsocai As String = rpt.conn.ConvertToSQLType(frmdkloc.Txttu_ngay.Value)
         xemsocai = xemsocai & "," & rpt.conn.ConvertToSQLType(frmdkloc.TxtDen_ngay.Value)
@@ -100,7 +101,7 @@
         rpt.DrillDown.convert2sql_yn = True
         rpt.DrillDown.setCondition("dccn", xemsocai)
 
-        Me.Text = oLable(Me.Tag) & " : " & frmdkloc.txtma_kh.Text & ", " & oLable("003") & " : " & frmdkloc.txttk.Text
+        'Me.Text = oLable(Me.Tag) & " : " & frmdkloc.txtma_kh.Text & ", " & oLable("003") & " : " & frmdkloc.txttk.Text
 
     End Sub
     

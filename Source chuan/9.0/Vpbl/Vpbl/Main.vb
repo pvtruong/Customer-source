@@ -9,6 +9,8 @@
     Public ma_kho As String = ""
     Public soca As DataRow
     Public query_where_soca As String
+    Public baudrate As Integer
+    Public comport As String
     Public Sub main()
         If Clsql.Reg.GetValue("SLG") = 0 Then
             Application.Exit()
@@ -36,6 +38,8 @@
             ma_may_ban_le = fchonca.cbbso_may.SelectedValue
             so_ca = fchonca.cbbso_ca.SelectedValue
             ma_kho = fchonca.cbbma_kho.SelectedValue
+            baudrate = fchonca.txtbaundrate.Value
+            comport = fchonca.cbbCOM.Text
         Else
 
             Application.Exit()
@@ -50,6 +54,9 @@
         Dim dtsoca As DataTable = conn.GetDatatable(query)
         If dtsoca.Rows.Count = 1 Then
             soca = dtsoca.Rows(0)
+            If IsDBNull(soca("tu_ngay")) Then
+                soca("tu_ngay") = soca("ngay")
+            End If
         Else
             soca = dtsoca.NewRow
             soca("nhan_vien") = Clsql.Reg.GetValue("id")
@@ -57,6 +64,7 @@
             soca("ma_ca") = so_ca
             soca("ma_may") = ma_may_ban_le
             soca("ngay") = Now
+            soca("tu_ngay") = Now
             soca("tu_gio") = Strings.Format(Now, "hh:mm:ss")
             soca("den_gio") = ""
             soca("so_ct_tu") = ""

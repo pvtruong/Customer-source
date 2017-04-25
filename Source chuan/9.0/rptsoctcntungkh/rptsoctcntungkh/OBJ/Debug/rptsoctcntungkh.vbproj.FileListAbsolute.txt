@@ -1,0 +1,26 @@
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptsoctcntungkh\rptsoctcntungkh\bin\Debug\rptsoctcntungkh.exe
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptsoctcntungkh\rptsoctcntungkh\bin\Debug\rptsoctcntungkh.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptsoctcntungkh\rptsoctcntungkh\bin\Debug\rptsoctcntungkh.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptsoctcntungkh\rptsoctcntungkh\bin\Debug\ClsMath.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptsoctcntungkh\rptsoctcntungkh\bin\Debug\Ionic.Zip.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptsoctcntungkh\rptsoctcntungkh\bin\Debug\clsab.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptsoctcntungkh\rptsoctcntungkh\bin\Debug\clsPopUp.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptsoctcntungkh\rptsoctcntungkh\bin\Debug\ClsPilot.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptsoctcntungkh\rptsoctcntungkh\bin\Debug\ClsRight.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptsoctcntungkh\rptsoctcntungkh\bin\Debug\ClsStpService.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptsoctcntungkh\rptsoctcntungkh\obj\Debug\ResolveAssemblyReference.cache
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptsoctcntungkh\rptsoctcntungkh\obj\Debug\rptsoctcntungkh.frmfilter.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptsoctcntungkh\rptsoctcntungkh\obj\Debug\rptsoctcntungkh.MainForm.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptsoctcntungkh\rptsoctcntungkh\obj\Debug\rptsoctcntungkh.Resources.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptsoctcntungkh\rptsoctcntungkh\obj\Debug\rptsoctcntungkh.vbproj.GenerateResource.Cache
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptsoctcntungkh\rptsoctcntungkh\obj\Debug\rptsoctcntungkh.exe
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptsoctcntungkh\rptsoctcntungkh\obj\Debug\rptsoctcntungkh.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptsoctcntungkh\rptsoctcntungkh\obj\Debug\rptsoctcntungkh.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptsoctcntungkh\rptsoctcntungkh\bin\Debug\ClPrint.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptsoctcntungkh\rptsoctcntungkh\bin\Debug\ClsControl2.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptsoctcntungkh\rptsoctcntungkh\bin\Debug\ClsLookup.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptsoctcntungkh\rptsoctcntungkh\bin\Debug\Clsql.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptsoctcntungkh\rptsoctcntungkh\bin\Debug\ClsRpt.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Rpt\rptsoctcntungkh\rptsoctcntungkh\bin\Debug\clsViDe.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\rptsoctcntungkh\rptsoctcntungkh\obj\Debug\rptsoctcntungkh.xml
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\rptsoctcntungkh\rptsoctcntungkh\obj\Debug\rptsoctcntungkh.pdb

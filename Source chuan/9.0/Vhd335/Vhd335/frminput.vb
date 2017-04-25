@@ -1,4 +1,5 @@
 ﻿Imports System.ComponentModel
+Imports ClsLookup
 
 Public Class frminput
 
@@ -91,10 +92,12 @@ Public Class frminput
     Private Sub Txtngay_ct_endter(ByVal sender As Object, ByVal e As System.EventArgs) Handles Txtngay_ct.Enter
         ngay_ctold = Txtngay_ct.Value
     End Sub
+
+
 #End Region
 
 
-    
+
 
     Private Sub btnLuu_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnLuu.Click
         If save() = False Then
@@ -243,13 +246,13 @@ Public Class frminput
         End Try
     End Sub
 
-   
+
     Sub hide_show_control(ByVal ma_nt As String)
         For Each t As ClsSV31.TabDetail20 In Voucher.Tabdetails.Values
             t.ma_nt = ma_nt
         Next
         If ma_nt.Trim.ToUpper = ma_nt_ht.Trim.ToUpper Then
-           
+
             Txtty_gia.ReadOnly = True
             Txtt_tien.Hide() 'Visible = False
             txtt_thue.Hide() 'Visible = False
@@ -271,7 +274,38 @@ Public Class frminput
             tinh_tong_tien()
         End If
     End Sub
+    Private Sub btngetPNH_Click(sender As Object, e As EventArgs) Handles btngetPNH.Click
+        layhd = New GetDataByStoreMD(Voucher.conn, "MPNH", "dpo1_get4pnh", , "GetPO1")
+        Dim fdkloc As New frmdklayhd
+        ClsControl2.PropertyOfForm.SetLable(Voucher.oLan, fdkloc)
+        fdkloc.Icon = Me.Icon
+        fdkloc.StartPosition = FormStartPosition.CenterParent
+        If fdkloc.ShowDialog(Me) = Windows.Forms.DialogResult.OK Then
+            If layhd.Show("Exec getPNH4HD3 " & conn.ConvertToSQLType(txtma_kh.Text) & "," & conn.ConvertToSQLType(fdkloc.Txttu_ngay.Value) & "," & conn.ConvertToSQLType(fdkloc.TxtDen_ngay.Value)) = Windows.Forms.DialogResult.OK Then
 
+                For Each r As DataRow In layhd.MDataView.Table.Select("sel = false")
+                    For Each r2 As DataRow In layhd.DDataView.Table.Select("stt_rec = '" & r("stt_rec") & "'")
+                        r2.Delete()
+                    Next
+                Next
+
+                For Each r As DataRow In layhd.DDataView.Table.Select("sel = false")
+                    r.Delete()
+                Next
+                Clsql.Data.CopyTable(layhd.DDataView.Table, Voucher.Tabdetails(Voucher.TabFirst).Datatable)
+                ' Voucher.chitiet.Datatable = layhd.DDataView.Table
+                Voucher.Tabdetails(Voucher.TabFirst).bindingsource.DataSource = Voucher.Tabdetails(Voucher.TabFirst).Datatable
+
+                For Each r As DataRow In layhd.MDataView.Table.Select("sel = true")
+                    Voucher.CurrentVoucher("ma_kh") = r("ma_kh")
+                    Voucher.CurrentVoucher("ong_ba") = r("ong_ba")
+                    txtma_kh.Focus()
+                    Voucher.Tabdetails(Voucher.TabFirst).gridDetailKeyin.Focus()
+                    Exit For
+                Next
+            End If
+        End If
+    End Sub
     Private Sub btngethoadon_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btngethoadon.Click
         Dim fdkloc As New frmdklayhd
         ClsControl2.PropertyOfForm.SetLable(Voucher.oLan, fdkloc)
@@ -298,7 +332,7 @@ Public Class frminput
         SendKeys.Send("{tab}")
     End Sub
 
-   
+
     Private Sub txtma_kh_Enter(ByVal sender As Object, ByVal e As System.EventArgs) Handles txtma_kh.Enter
         txtma_kh.ReadOnly = False
         For Each r As DataGridViewRow In Voucher.Tabdetails(Voucher.TabFirst).gridDetailKeyin.Rows

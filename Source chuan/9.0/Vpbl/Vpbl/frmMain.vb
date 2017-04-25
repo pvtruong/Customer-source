@@ -1,4 +1,5 @@
 ﻿Imports ClsStpService
+Imports ClsSV31
 
 Public Class frmMain
 
@@ -41,6 +42,14 @@ Public Class frmMain
     Public b_sua_tl_ck As Boolean = False
     Public lookups As New Dictionary(Of String, ClsLookup.AutoCompleteLookup)
     Private Sub Form1_FormClosing(ByVal sender As Object, ByVal e As System.Windows.Forms.FormClosingEventArgs) Handles Me.FormClosing
+        If SerialPort1.IsOpen Then
+            SerialPort1.Close()
+        End If
+        If Functions.PostInfoList.Count > 0 Then
+            MsgBox("Không thể tắt màn hình này do chương trình đang xử lý dữ liệu", , Clsql.AboutMe.Name)
+            e.Cancel = True
+            Return
+        End If
         If saved = False AndAlso gridsanpham.Rows.Count > 0 Then
             If MsgBox(olan("800"), MsgBoxStyle.YesNo, Clsql.AboutMe.Name) = MsgBoxResult.Yes Then
                 e.Cancel = False
@@ -52,7 +61,13 @@ Public Class frmMain
 
         End If
     End Sub
+    Private Sub sendMsg(ByVal msg As String)
+        If SerialPort1.IsOpen Then
+            SerialPort1.Write(New Byte() {&HC}, 0, 1)
 
+            SerialPort1.Write(msg)
+        End If
+    End Sub
     Private Sub Form1_KeyDown(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles Me.KeyDown
         If e.Control AndAlso e.KeyCode = Keys.E Then
             btnexit.PerformClick()
@@ -65,18 +80,7 @@ Public Class frmMain
 
         If (gridsanpham.Focused AndAlso e.KeyCode = Keys.Enter) _
         Or (e.KeyCode = Keys.Down AndAlso gridsanpham.Focused AndAlso gridsanpham.CurrentRow.Index = gridsanpham.Rows.Count - 1) Then
-            If txtma_vt.Visible Then
-                txtma_vt.Focus()
-            End If
-            If txtMa_kh.Visible Then
-                txtMa_kh.Focus()
-            End If
-            If txtSo_luong.Visible Then
-                txtSo_luong.Focus()
-            End If
-            If txttien.Visible Then
-                txttien.Focus()
-            End If
+            setfocus()
             Return
         End If
         'save and in nhanh
@@ -200,18 +204,114 @@ Public Class frmMain
         ClsControl2.PropertyOfForm.SetImage4PictureBox("splashscreen.png", logo, PictureBoxSizeMode.Zoom)
     End Sub
 
-
+    Dim ma_nhom As String, loai_nhom As Integer
     Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         lblngay.Text = Strings.Format(Now(), "dd/MM/yyyy")
         lblgio.Text = Strings.Format(Now(), "hh:mm:ss")
         timer_ngay_gio.Interval = 1000
         timer_ngay_gio.Enabled = True
 
-
+        If Not IsDBNull(comport) AndAlso comport <> "" Then
+            SerialPort1.PortName = comport
+            SerialPort1.BaudRate = baudrate
+            SerialPort1.Parity = IO.Ports.Parity.None
+            SerialPort1.DataBits = 8
+            SerialPort1.StopBits = IO.Ports.StopBits.One
+            SerialPort1.Open()
+            sendMsg("XIN CHAO QUY KHACH")
+        End If
         '
+
         Windows.Forms.Control.CheckForIllegalCrossThreadCalls = False
+        ClsLookup.AddItems.AddItemCbbGotBlank(conn, "select * from dmnhomvt where trang_thai=1", cbbnh_sp, "ten_nhom", "ma_nhom")
+        ma_nhom = My.Settings.nh_sp
+        loai_nhom = My.Settings.loai_nhom
+        If IsDBNull(ma_nhom) Then
+            ma_nhom = ""
+        End If
+        If IsDBNull(loai_nhom) Then
+            loai_nhom = 1
+        End If
+        cbbnh_sp.SelectedValue = ma_nhom
+        filldssanpham()
+    End Sub
+    Dim listImage As ImageList = Nothing
+    Sub filldssanpham()
+        Dim query As String = "select ma_vt,ten_vt,image from dmvt where "
+        query = query & " nh_vt" & loai_nhom & " ='" & ma_nhom & "'"
+        Dim ds_sp As DataTable = conn.GetDatatable(query)
+
+        dssanpham.Items.Clear()
+        If listImage Is Nothing Then
+            listImage = New ImageList
+            listImage.ImageSize = New Size(48, 48)
+            'listImage.ColorDepth = ColorDepth.Depth16Bit
+            Dim noimage As Image = Image.FromFile(Application.StartupPath & "\images\no_img.gif")
+
+            listImage.Images.Add("noimage", noimage)
+            dssanpham.LargeImageList = listImage
+        End If
+        For Each r As DataRow In ds_sp.Rows
+            Dim item As New ListViewItem(r("ten_vt").ToString)
+            item.Tag = r("ma_vt").ToString
+            If IsDBNull(r("image")) Then
+                item.ImageKey = "noimage"
+            Else
+                Dim img As Image = Clsql.Data.GetImageFromDB(r("image"))
+                listImage.Images.Add(r("ma_vt").ToString, img)
+                item.ImageKey = r("ma_vt").ToString
+            End If
+            dssanpham.Items.Add(item)
+        Next
     End Sub
 
+    Private Sub cbbnh_sp_SelectedValueChanged(sender As Object, e As EventArgs) Handles cbbnh_sp.SelectedValueChanged
+        If Not IsDBNull(cbbnh_sp.SelectedValue) And ma_nhom IsNot Nothing Then
+            Dim nh_selected As DataRow = cbbnh_sp.SelectedItem.row
+            If IsDBNull(nh_selected("loai_nhom")) Then
+                loai_nhom = 1
+            Else
+                loai_nhom = nh_selected("loai_nhom")
+            End If
+
+            If ma_nhom <> nh_selected("ma_nhom") Then
+                ma_nhom = nh_selected("ma_nhom")
+                My.Settings.nh_sp = ma_nhom
+                My.Settings.Save()
+
+                filldssanpham()
+            End If
+
+        End If
+        setfocus()
+    End Sub
+    Sub setfocus()
+        If txtma_vt.Visible Then
+            txtma_vt.Focus()
+        End If
+        If txtMa_kh.Visible Then
+            txtMa_kh.Focus()
+        End If
+        If txtSo_luong.Visible Then
+            txtSo_luong.Focus()
+        End If
+        If txttien.Visible Then
+            txttien.Focus()
+        End If
+    End Sub
+    Private Sub dssanpham_Click(sender As Object, e As EventArgs) Handles dssanpham.Click
+        If txtma_vt.Visible Then
+            If dssanpham.SelectedItems.Count > 0 Then
+                Dim item_selected As ListViewItem = dssanpham.SelectedItems(0)
+                Dim ma_vt As String = item_selected.Tag
+
+                Dim row As StpTableRow = conn.GetRow("select * from vdmvt where ma_vt='" & ma_vt & "'")
+                addHangHoa(row)
+
+            End If
+        End If
+        setfocus()
+    End Sub
     Private Sub btnCancel_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
         Me.Close()
     End Sub
@@ -629,6 +729,7 @@ Public Class frmMain
     End Sub
     Dim new_line As Integer = 0
     Private Sub addHoaDonMoi()
+
         new_line = 0
         btnBack.Enabled = False
         saved = False
@@ -660,7 +761,7 @@ Public Class frmMain
 
         currentMaster.Item("ma_nv") = conn.GetValue("select ma_nv from dmnsd where id='" & Clsql.Reg.GetValue("ID") & "'")
         dataMaster.Rows.Add(currentMaster)
-
+        sendMsg("XIN CHAO QUY KHACH")
     End Sub
     Private Sub khoiphuchoadon()
         Dim f As New formrestore()
@@ -670,6 +771,7 @@ Public Class frmMain
         If f.ShowDialog(Me) = Windows.Forms.DialogResult.OK Then
             Dim dr As DataGridViewRow = f.gridMaster.CurrentRow
             If dr IsNot Nothing Then
+                sendMsg("XIN CHAO QUY KHACH")
                 dataDetail.Rows.Clear()
                 dataThegiamgia.Rows.Clear()
                 stt_rec = dr.Cells("stt_rec").Value
@@ -692,7 +794,7 @@ Public Class frmMain
                         ''txtt_hoa_don.Value = ClsControl2.PropertyOfGrid.Sum(gridsanpham, "tien") - ClsControl2.PropertyOfGrid.Sum(gridsanpham, "tien_ck") + ClsControl2.PropertyOfGrid.Sum(gridsanpham, "tien_thue")
                         txtt_hoa_don.Value = ClsControl2.PropertyOfGrid.Sum(gridsanpham, "tien2") - ClsControl2.PropertyOfGrid.Sum(gridsanpham, "tien_ck") ''+ ClsControl2.PropertyOfGrid.Sum(gridsanpham, "tien_thue")
                         txtt_phai_thu.Value = txtt_hoa_don.Value - txtt_giam_gia.Value - txtt_tien_ck_hd.Value
-
+                        sendMsg(txtt_phai_thu.Text)
                         setBuoc(buoc.NHAP_MA_VT)
                         Exit For
                     End If
@@ -716,6 +818,7 @@ Public Class frmMain
             ds.Tables(0).TableName = "master"
             ds.Tables(1).TableName = "detail"
             cprint.Dataset = ds
+            cprint.stt_rec = s_stt_rec
             cprint.Print()
             txtstatus.Text = ""
         Catch ex As Exception
@@ -723,9 +826,6 @@ Public Class frmMain
             conn.Server.writeLog("Print PBL at " & Now.ToString & Chr(13) & ex.ToString, "error")
             txtstatus.Text = ""
         End Try
-        
-
-
     End Sub
     Private Sub xemphieu()
         fprint.Icon = Me.Icon
@@ -752,8 +852,14 @@ Public Class frmMain
         lblten_kh.Text = row.Cell("ten_kh")
         currentMaster.Item("ma_kh") = row.Cell("ma_kh")
         currentMaster.Item("ten_kh") = row.Cell("ten_kh")
-
-
+        For Each r As DataGridViewRow In gridsanpham.Rows
+            If Not r.IsNewRow Then
+                tinhgiaban(r.DataBoundItem.row)
+                tinhtienhang(r.DataBoundItem.row)
+                tinhsanphamduockhuyenmai(r)
+            End If
+        Next
+        
         If pre_b = buoc.TRA_SAU Then
             trasau()
             Return
@@ -766,7 +872,7 @@ Public Class frmMain
         End If
     End Sub
     Private Sub tinhtienhang(ByVal DataRow As DataRow)
-        
+
         DataRow("tien1") = Math.Round(DataRow("sl_xuat") * DataRow("gia_ban"), 0)
         DataRow("tien_nt1") = DataRow("tien1")
 
@@ -787,7 +893,7 @@ Public Class frmMain
         'thue
         DataRow("tien") = Math.Round(DataRow("tien1") - DataRow("tien_ck_ct"), 0)
         DataRow("tien_nt") = DataRow("tien")
-       
+
 
         DataRow("tien_thue") = Math.Round(DataRow("tien") * DataRow("thue_suat") / 100, 0)
         DataRow("tien_thue_nt") = DataRow("tien_thue")
@@ -802,6 +908,7 @@ Public Class frmMain
         'tinh tien giam gia theo ty le dua vao the giam gia
         TinhTienGiamGiaTheoTyLe()
         txtt_phai_thu.Value = txtt_hoa_don.Value - txtt_giam_gia.Value - txtt_tien_ck_hd.Value
+        sendMsg(txtt_phai_thu.Text)
     End Sub
     Private Sub tinhtienhang2(ByVal DataRow As DataGridViewRow)
         DataRow.Cells("tien").Value = DataRow.Cells("sl_xuat").Value * DataRow.Cells("gia_ban").Value
@@ -842,6 +949,7 @@ Public Class frmMain
         'tinh tien giam gia theo ty le dua vao the giam gia
         TinhTienGiamGiaTheoTyLe()
         txtt_phai_thu.Value = txtt_hoa_don.Value - txtt_giam_gia.Value - txtt_tien_ck_hd.Value
+        sendMsg(txtt_phai_thu.Value.ToString)
     End Sub
     Private Sub tinhgiaban(ByVal DataRow As DataRow)
         'neu san pham nay da sua gia ban thi khong tu tinh lai
@@ -931,7 +1039,7 @@ Public Class frmMain
     End Sub
     Private Sub SanPhamBanTheoKy(ByVal barcode As String, ByVal lookup As ClsLookup.AutoCompleteLookup)
         Dim sp_ban_ky As String = Clsql.Others.Options("sp_ban_ky", conn)
-        If sp_ban_ky.Trim <> "" AndAlso barcode.StartsWith(sp_ban_ky) Then
+        If sp_ban_ky.Trim <> "" AndAlso barcode.StartsWith(sp_ban_ky) AndAlso conn.GetDatatable("select 1 from dmvt where ma_vt ='" & barcode & "'").Rows.Count = 0 Then
             Try
                 Dim ma_vt As String = barcode.Substring(0, 7)
                 Dim sl As Double = barcode.Substring(7, 5) 'gam
@@ -1039,8 +1147,21 @@ Public Class frmMain
             End If
 
         End If
-        '
+        'cap nhat lo cho san pham ban theo lo
+        Try
+            Dim lo_yn As Boolean = conn.GetValue("select lo_yn from dmvt where ma_vt ='" & row.Cell("ma_vt") & "'")
+            If lo_yn Then
+                Dim flo As New frmcapnhatlo()
+                flo.ma_vt = row.Cell("ma_vt")
+                flo.StartPosition = FormStartPosition.CenterParent
+                If flo.ShowDialog(Me) = Windows.Forms.DialogResult.OK Then
+                    dataRow.Item("ma_lo") = flo.txtma_lo.Text
+                End If
+            End If
+        Catch ex As Exception
 
+        End Try
+        '
         dataDetail.Rows.Add(dataRow)
 
         txtt_so_luong.Value = ClsControl2.PropertyOfGrid.Sum(gridsanpham, "sl_xuat")
@@ -1076,7 +1197,7 @@ Public Class frmMain
             Return
         End If
         currentRow.Cells("sua_gia_ban_yn").Value = True
-        
+
         If currentRow.Cells("gia_chua_gom_vat").Value = True Then
             currentRow.Cells("gia_ban").Value = txtgia_ban.Value
             currentRow.Cells("gia_ban2").Value = txtgia_ban.Value * (1 + currentRow.Cells("thue_suat").Value / 100)
@@ -1104,8 +1225,6 @@ Public Class frmMain
         query = query & conn.ConvertToSQLType(txtt_hoa_don.Value)
         query = query & "," & conn.ConvertToSQLType(info_may_ban_le.Item("ma_kho"))
         query = query & "," & conn.ConvertToSQLType(lblma_kh.Text)
-        query = query & "," & conn.ConvertToSQLType(ClsControl2.PropertyOfGrid.Sum(gridsanpham, "tien_thue"))
-
         Dim ck_hdTable As DataTable = conn.GetDatatable(query)
         If ck_hdTable.Rows.Count > 0 Then
             txtt_tien_ck_hd.Value = ck_hdTable.Rows(0).Item("tien_ck")
@@ -1277,17 +1396,17 @@ s:
         'get stt_rec
         s_stt_rec = vno.GetNextSttRec
         vno.UpdateSttRec()
-        Dim so_ct As String = vno.GetNextSoCt(mastertable)
-        vno.CheckSoCt(Now, so_ct, s_stt_rec, mastertable)
-        vno.UpdateSoCt()
+        Dim so_ct As String = vno.GetNextSoCt(mastertable, True)
+        ' vno.CheckSoCt(Now, so_ct, s_stt_rec, mastertable)
+        ' vno.UpdateSoCt()
         '
-        currentMaster.Item("status") = 0
-        If checkright.Right("Csk") Then
-            currentMaster.Item("status") = 4
-        End If
-        If checkright.Right("Csc") Then
-            currentMaster.Item("status") = 5
-        End If
+        currentMaster.Item("status") = 5
+        'If checkright.Right("Csk") Then
+        '    currentMaster.Item("status") = 4
+        'End If
+        'If checkright.Right("Csc") Then
+        '    currentMaster.Item("status") = 5
+        'End If
 
         currentMaster.Item("t_so_luong") = txtt_so_luong.Value
         currentMaster.Item("t_hoa_don") = txtt_hoa_don.Value
@@ -1325,7 +1444,7 @@ s:
         query = conn.GetInsertQueryFromDatatable(dataThegiamgia, giamgiatable)
         conn.Execute(query)
         'post
-        ClsSV31.Functions.Post(conn, ma_ct, mastertable, s_stt_rec, currentMaster.Item("status"))
+        ClsSV31.Functions.PostSync(conn, ma_ct, mastertable, s_stt_rec, currentMaster.Item("status"))
         If soca("so_ct_tu") = "" Then
             soca("so_ct_tu") = so_ct
         End If
@@ -1583,13 +1702,13 @@ s:
             If txtma_so_ck.Text = "" Then
                 Return
             End If
-            dataThegiamgia.Rows.Clear() 'chi chap nhan mot the giam gia mot lan giao dich
-            For Each r As DataRow In dataThegiamgia.Rows
-                If r.Item("ma_the") = txtma_so_ck.Text Then
-                    MsgBox(olan("527"), , Clsql.AboutMe.Name)
-                    Return
-                End If
-            Next
+            'dataThegiamgia.Rows.Clear() 'chi chap nhan mot the giam gia mot lan giao dich
+            'For Each r As DataRow In dataThegiamgia.Rows
+            '    If r.Item("ma_the") = txtma_so_ck.Text Then
+            '        MsgBox(olan("527"), , Clsql.AboutMe.Name)
+            '        Return
+            '    End If
+            'Next
 
             Dim query = "exec get_thegiamgia '" + txtma_so_ck.Text + "'"
             Dim dt As DataTable = conn.GetDatatable(query)
@@ -1682,5 +1801,21 @@ s:
             Me.Close()
         End If
     End Sub
+
+    Private Sub dssanpham_SelectedIndexChanged(sender As Object, e As EventArgs) Handles dssanpham.SelectedIndexChanged
+        setfocus()
+    End Sub
+
+    Private Sub btnqlthegiamgia_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnqlthegiamgia.Click
+        Dim f As New frmThegiamgia
+        f.Icon = Me.Icon
+        ClsControl2.PropertyOfGrid.FillGrid(conn, "ctgiamgia", f.grdthegiamgia, dataThegiamgia.DefaultView)
+        f.StartPosition = FormStartPosition.CenterParent
+        f.ShowDialog()
+        TinhTienGiamGiaTheoMenhGia()
+        TinhTienGiamGiaTheoTyLe()
+    End Sub
+
+
 End Class
 

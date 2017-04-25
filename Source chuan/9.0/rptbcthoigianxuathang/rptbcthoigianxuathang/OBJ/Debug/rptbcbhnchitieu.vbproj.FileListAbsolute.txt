@@ -1,0 +1,4 @@
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\rptbcbhnchitieu\rptbcbhnchitieu\obj\Debug\rptbcbh2chitieu.exe
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\rptbcbhnchitieu\rptbcbhnchitieu\obj\Debug\rptbcbh2chitieu.xml
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\rptbcbhnchitieu\rptbcbhnchitieu\obj\Debug\rptbcbh2chitieu.pdb
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\rptbcthoigianxuathang\rptbcthoigianxuathang\bin\Debug\rptbcbhnchitieu.exe.config

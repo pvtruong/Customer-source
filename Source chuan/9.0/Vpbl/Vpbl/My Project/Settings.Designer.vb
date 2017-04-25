@@ -77,6 +77,42 @@ Namespace My
                 Me("kho_mac_dinh") = value
             End Set
         End Property
+        
+        <Global.System.Configuration.UserScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("9600")>  _
+        Public Property baudrate() As Integer
+            Get
+                Return CType(Me("baudrate"),Integer)
+            End Get
+            Set
+                Me("baudrate") = value
+            End Set
+        End Property
+        
+        <Global.System.Configuration.UserScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("")>  _
+        Public Property nh_sp() As String
+            Get
+                Return CType(Me("nh_sp"),String)
+            End Get
+            Set
+                Me("nh_sp") = value
+            End Set
+        End Property
+        
+        <Global.System.Configuration.UserScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("1")>  _
+        Public Property loai_nhom() As Integer
+            Get
+                Return CType(Me("loai_nhom"),Integer)
+            End Get
+            Set
+                Me("loai_nhom") = value
+            End Set
+        End Property
     End Class
 End Namespace
 

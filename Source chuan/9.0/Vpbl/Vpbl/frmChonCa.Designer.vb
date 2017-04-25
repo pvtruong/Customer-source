@@ -22,22 +22,27 @@ Partial Class frmChonCa
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.Button1 = New System.Windows.Forms.Button
-        Me.Button2 = New System.Windows.Forms.Button
-        Me.GroupBox1 = New System.Windows.Forms.GroupBox
-        Me.cbbso_ca = New System.Windows.Forms.ComboBox
-        Me.cbbso_may = New System.Windows.Forms.ComboBox
-        Me.Label2 = New System.Windows.Forms.Label
-        Me.Label1 = New System.Windows.Forms.Label
-        Me.cbbma_kho = New System.Windows.Forms.ComboBox
-        Me.lblma_kho = New System.Windows.Forms.Label
+        Me.Button1 = New System.Windows.Forms.Button()
+        Me.Button2 = New System.Windows.Forms.Button()
+        Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.txtbaundrate = New ClsControl2.TxtNumeric()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.cbbCOM = New System.Windows.Forms.ComboBox()
+        Me.cbbma_kho = New System.Windows.Forms.ComboBox()
+        Me.lblma_kho = New System.Windows.Forms.Label()
+        Me.cbbso_ca = New System.Windows.Forms.ComboBox()
+        Me.cbbso_may = New System.Windows.Forms.ComboBox()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.Label5 = New System.Windows.Forms.Label()
         Me.GroupBox1.SuspendLayout()
         Me.SuspendLayout()
         '
         'Button1
         '
         Me.Button1.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
-        Me.Button1.Location = New System.Drawing.Point(0, 99)
+        Me.Button1.Location = New System.Drawing.Point(0, 143)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(75, 23)
         Me.Button1.TabIndex = 1
@@ -49,7 +54,7 @@ Partial Class frmChonCa
         '
         Me.Button2.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
         Me.Button2.DialogResult = System.Windows.Forms.DialogResult.Cancel
-        Me.Button2.Location = New System.Drawing.Point(81, 99)
+        Me.Button2.Location = New System.Drawing.Point(81, 143)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(75, 23)
         Me.Button2.TabIndex = 2
@@ -60,9 +65,14 @@ Partial Class frmChonCa
         'GroupBox1
         '
         Me.GroupBox1.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.GroupBox1.BackColor = System.Drawing.Color.White
+        Me.GroupBox1.Controls.Add(Me.Label5)
+        Me.GroupBox1.Controls.Add(Me.Label4)
+        Me.GroupBox1.Controls.Add(Me.txtbaundrate)
+        Me.GroupBox1.Controls.Add(Me.Label3)
+        Me.GroupBox1.Controls.Add(Me.cbbCOM)
         Me.GroupBox1.Controls.Add(Me.cbbma_kho)
         Me.GroupBox1.Controls.Add(Me.lblma_kho)
         Me.GroupBox1.Controls.Add(Me.cbbso_ca)
@@ -71,24 +81,83 @@ Partial Class frmChonCa
         Me.GroupBox1.Controls.Add(Me.Label1)
         Me.GroupBox1.Location = New System.Drawing.Point(-7, -18)
         Me.GroupBox1.Name = "GroupBox1"
-        Me.GroupBox1.Size = New System.Drawing.Size(571, 111)
+        Me.GroupBox1.Size = New System.Drawing.Size(571, 155)
         Me.GroupBox1.TabIndex = 0
         Me.GroupBox1.TabStop = False
+        '
+        'Label4
+        '
+        Me.Label4.AutoSize = True
+        Me.Label4.Location = New System.Drawing.Point(239, 113)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Size = New System.Drawing.Size(129, 13)
+        Me.Label4.TabIndex = 7
+        Me.Label4.Text = "Tốc độ truyền (Baud rate)"
+        '
+        'txtbaundrate
+        '
+        Me.txtbaundrate.Location = New System.Drawing.Point(422, 109)
+        Me.txtbaundrate.MaxLength = 18
+        Me.txtbaundrate.Name = "txtbaundrate"
+        Me.txtbaundrate.NumberDecimalDigits = -1
+        Me.txtbaundrate.Size = New System.Drawing.Size(100, 20)
+        Me.txtbaundrate.TabIndex = 6
+        Me.txtbaundrate.TabStop = False
+        Me.txtbaundrate.Text = "0"
+        Me.txtbaundrate.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+        Me.txtbaundrate.Value = 0R
+        Me.txtbaundrate.Value2 = 0R
+        '
+        'Label3
+        '
+        Me.Label3.AutoSize = True
+        Me.Label3.Location = New System.Drawing.Point(19, 113)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(86, 13)
+        Me.Label3.TabIndex = 5
+        Me.Label3.Text = "Chọn cổng COM"
+        '
+        'cbbCOM
+        '
+        Me.cbbCOM.FormattingEnabled = True
+        Me.cbbCOM.Location = New System.Drawing.Point(111, 109)
+        Me.cbbCOM.Name = "cbbCOM"
+        Me.cbbCOM.Size = New System.Drawing.Size(121, 21)
+        Me.cbbCOM.TabIndex = 4
+        Me.cbbCOM.TabStop = False
+        '
+        'cbbma_kho
+        '
+        Me.cbbma_kho.FormattingEnabled = True
+        Me.cbbma_kho.Location = New System.Drawing.Point(111, 28)
+        Me.cbbma_kho.Name = "cbbma_kho"
+        Me.cbbma_kho.Size = New System.Drawing.Size(411, 21)
+        Me.cbbma_kho.TabIndex = 0
+        '
+        'lblma_kho
+        '
+        Me.lblma_kho.AutoSize = True
+        Me.lblma_kho.Location = New System.Drawing.Point(19, 32)
+        Me.lblma_kho.Name = "lblma_kho"
+        Me.lblma_kho.Size = New System.Drawing.Size(26, 13)
+        Me.lblma_kho.TabIndex = 3
+        Me.lblma_kho.Tag = "KHO"
+        Me.lblma_kho.Text = "Kho"
         '
         'cbbso_ca
         '
         Me.cbbso_ca.FormattingEnabled = True
-        Me.cbbso_ca.Location = New System.Drawing.Point(100, 81)
+        Me.cbbso_ca.Location = New System.Drawing.Point(111, 81)
         Me.cbbso_ca.Name = "cbbso_ca"
-        Me.cbbso_ca.Size = New System.Drawing.Size(422, 21)
+        Me.cbbso_ca.Size = New System.Drawing.Size(411, 21)
         Me.cbbso_ca.TabIndex = 2
         '
         'cbbso_may
         '
         Me.cbbso_may.FormattingEnabled = True
-        Me.cbbso_may.Location = New System.Drawing.Point(100, 55)
+        Me.cbbso_may.Location = New System.Drawing.Point(111, 55)
         Me.cbbso_may.Name = "cbbso_may"
-        Me.cbbso_may.Size = New System.Drawing.Size(422, 21)
+        Me.cbbso_may.Size = New System.Drawing.Size(411, 21)
         Me.cbbso_may.TabIndex = 1
         '
         'Label2
@@ -111,23 +180,15 @@ Partial Class frmChonCa
         Me.Label1.Tag = "601"
         Me.Label1.Text = "Số quầy"
         '
-        'cbbma_kho
+        'Label5
         '
-        Me.cbbma_kho.FormattingEnabled = True
-        Me.cbbma_kho.Location = New System.Drawing.Point(100, 28)
-        Me.cbbma_kho.Name = "cbbma_kho"
-        Me.cbbma_kho.Size = New System.Drawing.Size(422, 21)
-        Me.cbbma_kho.TabIndex = 0
-        '
-        'lblma_kho
-        '
-        Me.lblma_kho.AutoSize = True
-        Me.lblma_kho.Location = New System.Drawing.Point(19, 32)
-        Me.lblma_kho.Name = "lblma_kho"
-        Me.lblma_kho.Size = New System.Drawing.Size(26, 13)
-        Me.lblma_kho.TabIndex = 3
-        Me.lblma_kho.Tag = "KHO"
-        Me.lblma_kho.Text = "Kho"
+        Me.Label5.AutoSize = True
+        Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 7.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(163, Byte))
+        Me.Label5.Location = New System.Drawing.Point(111, 136)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(166, 13)
+        Me.Label5.TabIndex = 8
+        Me.Label5.Text = "Cổng này dùng cho màn hình phụ"
         '
         'frmChonCa
         '
@@ -136,7 +197,7 @@ Partial Class frmChonCa
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.CancelButton = Me.Button2
         Me.CausesValidation = False
-        Me.ClientSize = New System.Drawing.Size(554, 126)
+        Me.ClientSize = New System.Drawing.Size(554, 170)
         Me.Controls.Add(Me.GroupBox1)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
@@ -162,5 +223,9 @@ Partial Class frmChonCa
     Friend WithEvents cbbso_may As System.Windows.Forms.ComboBox
     Friend WithEvents cbbma_kho As System.Windows.Forms.ComboBox
     Friend WithEvents lblma_kho As System.Windows.Forms.Label
-
+    Friend WithEvents cbbCOM As System.Windows.Forms.ComboBox
+    Friend WithEvents Label4 As System.Windows.Forms.Label
+    Friend WithEvents txtbaundrate As ClsControl2.TxtNumeric
+    Friend WithEvents Label3 As System.Windows.Forms.Label
+    Friend WithEvents Label5 As Label
 End Class

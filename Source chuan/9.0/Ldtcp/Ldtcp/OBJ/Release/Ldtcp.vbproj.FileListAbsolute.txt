@@ -1,0 +1,81 @@
+E:\VNT\Ldtcp\Ldtcp\bin\Release\Ldtcp.exe
+E:\VNT\Ldtcp\Ldtcp\bin\Release\Ldtcp.pdb
+E:\VNT\Ldtcp\Ldtcp\bin\Release\Ldtcp.xml
+E:\VNT\Ldtcp\Ldtcp\bin\Release\ClsControl2.dll
+E:\VNT\Ldtcp\Ldtcp\bin\Release\ClsList.dll
+E:\VNT\Ldtcp\Ldtcp\bin\Release\ClsLookup.dll
+E:\VNT\Ldtcp\Ldtcp\bin\Release\Clsql.dll
+E:\VNT\Ldtcp\Ldtcp\bin\Release\Interop.Excel.dll
+E:\VNT\Ldtcp\Ldtcp\bin\Release\DriveInfoEx.dll
+E:\VNT\Ldtcp\Ldtcp\bin\Release\ClsMsg.dll
+E:\VNT\Ldtcp\Ldtcp\bin\Release\ClsRight.dll
+E:\VNT\Ldtcp\Ldtcp\bin\Release\ClPrint.dll
+E:\VNT\Ldtcp\Ldtcp\bin\Release\Control.dll
+E:\VNT\Ldtcp\Ldtcp\bin\Release\office.dll
+E:\VNT\Ldtcp\Ldtcp\bin\Release\clsPopUp.dll
+E:\VNT\Ldtcp\Ldtcp\bin\Release\ClsMath.dll
+E:\VNT\Ldtcp\Ldtcp\bin\Release\Microsoft.Vbe.Interop.dll
+E:\VNT\Ldtcp\Ldtcp\bin\Release\Form.dll
+E:\VNT\Ldtcp\Ldtcp\obj\Release\ResolveAssemblyReference.cache
+E:\VNT\Ldtcp\Ldtcp\obj\Release\Ldtcp.Frmmain.resources
+E:\VNT\Ldtcp\Ldtcp\obj\Release\Ldtcp.frminput.resources
+E:\VNT\Ldtcp\Ldtcp\obj\Release\Ldtcp.Resources.resources
+E:\VNT\Ldtcp\Ldtcp\obj\Release\Ldtcp.vbproj.GenerateResource.Cache
+E:\VNT\Ldtcp\Ldtcp\obj\Release\Ldtcp.exe
+E:\VNT\Ldtcp\Ldtcp\obj\Release\Ldtcp.xml
+E:\VNT\Ldtcp\Ldtcp\obj\Release\Ldtcp.pdb
+D:\Source\acc\5.0\list\Ldtcp\Ldtcp\obj\Release\ResolveAssemblyReference.cache
+D:\Source\acc\5.0\list\Ldtcp\Ldtcp\obj\Release\Ldtcp.Frmmain.resources
+D:\Source\acc\5.0\list\Ldtcp\Ldtcp\obj\Release\Ldtcp.frminput.resources
+D:\Source\acc\5.0\list\Ldtcp\Ldtcp\obj\Release\Ldtcp.Resources.resources
+D:\Source\acc\5.0\list\Ldtcp\Ldtcp\obj\Release\Ldtcp.vbproj.GenerateResource.Cache
+D:\Source\acc\5.0\list\Ldtcp\Ldtcp\obj\Release\Ldtcp.exe
+D:\Source\acc\5.0\list\Ldtcp\Ldtcp\obj\Release\Ldtcp.xml
+D:\Source\acc\5.0\list\Ldtcp\Ldtcp\obj\Release\Ldtcp.pdb
+D:\Source\acc\5.0\list\Ldtcp\Ldtcp\bin\Release\Ldtcp.exe
+D:\Source\acc\5.0\list\Ldtcp\Ldtcp\bin\Release\Ldtcp.pdb
+D:\Source\acc\5.0\list\Ldtcp\Ldtcp\bin\Release\Ldtcp.xml
+D:\Source\acc\5.0\list\Ldtcp\Ldtcp\bin\Release\ClsControl2.dll
+D:\Source\acc\5.0\list\Ldtcp\Ldtcp\bin\Release\ClsList.dll
+D:\Source\acc\5.0\list\Ldtcp\Ldtcp\bin\Release\ClsLookup.dll
+D:\Source\acc\5.0\list\Ldtcp\Ldtcp\bin\Release\Clsql.dll
+D:\Source\acc\5.0\list\Ldtcp\Ldtcp\bin\Release\ClsStpService.dll
+D:\Source\acc\5.0\list\Ldtcp\Ldtcp\bin\Release\ClsRight.dll
+D:\Source\acc\5.0\list\Ldtcp\Ldtcp\bin\Release\ClsMath.dll
+D:\Source\acc\5.0\list\Ldtcp\Ldtcp\bin\Release\clsab.dll
+D:\Source\acc\5.0\list\Ldtcp\Ldtcp\bin\Release\clsPermit4Field.dll
+D:\Source\acc\5.0\list\Ldtcp\Ldtcp\bin\Release\clsPopUp.dll
+D:\Source\acc\5.0\list\Ldtcp\Ldtcp\bin\Release\Ionic.Zip.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\obj\Release\Ldtcp.exe
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\obj\Release\Ldtcp.xml
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\obj\Release\Ldtcp.pdb
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\bin\Release\Ldtcp.exe.config
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\bin\Release\Ldtcp.exe
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\bin\Release\Ldtcp.pdb
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\bin\Release\Ldtcp.xml
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\bin\Release\ClsControl2.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\bin\Release\ClsList.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\bin\Release\ClsLookup.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\bin\Release\Clsql.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\bin\Release\ClsRight.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\bin\Release\ClsStpService.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\bin\Release\System.Windows.Forms.DataVisualization.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\bin\Release\clsViDe.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\bin\Release\ClsMath.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\bin\Release\clsPopUp.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\bin\Release\clsPermit4Field.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\bin\Release\ClsVno.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\bin\Release\ClsRpt.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\bin\Release\ClPrint.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\bin\Release\clsphannhomdm.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\bin\Release\Ionic.Zip.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\bin\Release\clsab.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\bin\Release\Eval3.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\bin\Release\clschat.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\bin\Release\ClsPilot.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\bin\Release\stdole.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\obj\Release\Ldtcp.vbprojResolveAssemblyReference.cache
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\obj\Release\Ldtcp.Frmmain.resources
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\obj\Release\Ldtcp.frminput.resources
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\obj\Release\Ldtcp.Resources.resources
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\obj\Release\Ldtcp.vbproj.GenerateResource.Cache

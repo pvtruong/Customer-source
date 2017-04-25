@@ -23,75 +23,77 @@ Partial Class frminput
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frminput))
-        Me.btnLuu = New System.Windows.Forms.Button
-        Me.btnhuy = New System.Windows.Forms.Button
-        Me.GroupBox1 = New System.Windows.Forms.GroupBox
-        Me.TabControl1 = New System.Windows.Forms.TabControl
-        Me.txtten_vt = New System.Windows.Forms.TextBox
-        Me.Label20 = New System.Windows.Forms.Label
-        Me.txtso_seri = New System.Windows.Forms.TextBox
-        Me.Label18 = New System.Windows.Forms.Label
-        Me.txtngay_hd = New ClsControl2.TxtDate
-        Me.Label16 = New System.Windows.Forms.Label
-        Me.txtso_hd = New System.Windows.Forms.TextBox
-        Me.Label17 = New System.Windows.Forms.Label
-        Me.Txtty_gia = New ClsControl2.TxtNumeric
-        Me.GroupBox2 = New System.Windows.Forms.GroupBox
-        Me.ma_thue = New System.Windows.Forms.Label
-        Me.txtma_so_thue = New System.Windows.Forms.TextBox
-        Me.Label15 = New System.Windows.Forms.Label
-        Me.txtdia_chi = New System.Windows.Forms.TextBox
-        Me.Label14 = New System.Windows.Forms.Label
-        Me.txtong_ba = New System.Windows.Forms.TextBox
-        Me.Label13 = New System.Windows.Forms.Label
-        Me.txtten_kh = New System.Windows.Forms.TextBox
-        Me.Label4 = New System.Windows.Forms.Label
-        Me.txtma_kh = New System.Windows.Forms.TextBox
-        Me.Txtngay_ct = New ClsControl2.TxtDate
-        Me.Label11 = New System.Windows.Forms.Label
-        Me.cbbma_nt = New System.Windows.Forms.ComboBox
-        Me.txtdien_giai = New System.Windows.Forms.TextBox
-        Me.Label7 = New System.Windows.Forms.Label
-        Me.Label2 = New System.Windows.Forms.Label
-        Me.txtso_ct = New System.Windows.Forms.TextBox
-        Me.Label1 = New System.Windows.Forms.Label
-        Me.cbbstatus = New System.Windows.Forms.ComboBox
-        Me.Label12 = New System.Windows.Forms.Label
-        Me.Label3 = New System.Windows.Forms.Label
-        Me.txtnguoi_tao = New System.Windows.Forms.Label
-        Me.txtngay_tao = New System.Windows.Forms.Label
-        Me.Label6 = New System.Windows.Forms.Label
-        Me.txtngay_sua = New System.Windows.Forms.Label
-        Me.Label5 = New System.Windows.Forms.Label
-        Me.txtnguoi_sua = New System.Windows.Forms.Label
-        Me.Label8 = New System.Windows.Forms.Label
-        Me.Label10 = New System.Windows.Forms.Label
-        Me.btnluuandmoi = New System.Windows.Forms.Button
-        Me.Label21 = New System.Windows.Forms.Label
-        Me.Label22 = New System.Windows.Forms.Label
-        Me.Label23 = New System.Windows.Forms.Label
-        Me.txtt_tt_nt = New ClsControl2.TxtNumeric
-        Me.txtt_tt = New ClsControl2.TxtNumeric
-        Me.txtt_thue_nt = New ClsControl2.TxtNumeric
-        Me.txtt_thue = New ClsControl2.TxtNumeric
-        Me.Txtt_ck_nt = New ClsControl2.TxtNumeric
-        Me.Txtt_ck = New ClsControl2.TxtNumeric
-        Me.Txtt_tien_nt = New ClsControl2.TxtNumeric
-        Me.Txtt_tien = New ClsControl2.TxtNumeric
-        Me.toolbar = New System.Windows.Forms.ToolStrip
-        Me.TSDropDownGetdata = New System.Windows.Forms.ToolStripDropDownButton
-        Me.btnlaydulieutudonhang = New System.Windows.Forms.ToolStripMenuItem
-        Me.Txtt_sl = New ClsControl2.TxtNumeric
-        Me.Label25 = New System.Windows.Forms.Label
-        Me.Label24 = New System.Windows.Forms.Label
-        Me.Txtt_tien_von = New ClsControl2.TxtNumeric
-        Me.Label9 = New System.Windows.Forms.Label
-        Me.Txtt_ck_hd_nt = New ClsControl2.TxtNumeric
-        Me.Txtt_ck_hd = New ClsControl2.TxtNumeric
-        Me.txtky_hieu_hoa_don = New System.Windows.Forms.TextBox
-        Me.Label19 = New System.Windows.Forms.Label
-        Me.txtma_hoa_don = New System.Windows.Forms.TextBox
-        Me.Label26 = New System.Windows.Forms.Label
+        Me.btnLuu = New System.Windows.Forms.Button()
+        Me.btnhuy = New System.Windows.Forms.Button()
+        Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.txtky_hieu_hoa_don = New System.Windows.Forms.TextBox()
+        Me.Label19 = New System.Windows.Forms.Label()
+        Me.txtma_hoa_don = New System.Windows.Forms.TextBox()
+        Me.Label26 = New System.Windows.Forms.Label()
+        Me.TabControl1 = New System.Windows.Forms.TabControl()
+        Me.txtten_vt = New System.Windows.Forms.TextBox()
+        Me.Label20 = New System.Windows.Forms.Label()
+        Me.txtso_seri = New System.Windows.Forms.TextBox()
+        Me.Label18 = New System.Windows.Forms.Label()
+        Me.txtngay_hd = New ClsControl2.TxtDate()
+        Me.Label16 = New System.Windows.Forms.Label()
+        Me.txtso_hd = New System.Windows.Forms.TextBox()
+        Me.Label17 = New System.Windows.Forms.Label()
+        Me.Txtty_gia = New ClsControl2.TxtNumeric()
+        Me.GroupBox2 = New System.Windows.Forms.GroupBox()
+        Me.ma_thue = New System.Windows.Forms.Label()
+        Me.txtma_so_thue = New System.Windows.Forms.TextBox()
+        Me.Label15 = New System.Windows.Forms.Label()
+        Me.txtdia_chi = New System.Windows.Forms.TextBox()
+        Me.Label14 = New System.Windows.Forms.Label()
+        Me.txtong_ba = New System.Windows.Forms.TextBox()
+        Me.Label13 = New System.Windows.Forms.Label()
+        Me.txtten_kh = New System.Windows.Forms.TextBox()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.txtma_kh = New System.Windows.Forms.TextBox()
+        Me.Txtngay_ct = New ClsControl2.TxtDate()
+        Me.Label11 = New System.Windows.Forms.Label()
+        Me.cbbma_nt = New System.Windows.Forms.ComboBox()
+        Me.txtdien_giai = New System.Windows.Forms.TextBox()
+        Me.Label7 = New System.Windows.Forms.Label()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.txtso_ct = New System.Windows.Forms.TextBox()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.cbbstatus = New System.Windows.Forms.ComboBox()
+        Me.Label12 = New System.Windows.Forms.Label()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.txtnguoi_tao = New System.Windows.Forms.Label()
+        Me.txtngay_tao = New System.Windows.Forms.Label()
+        Me.Label6 = New System.Windows.Forms.Label()
+        Me.txtngay_sua = New System.Windows.Forms.Label()
+        Me.Label5 = New System.Windows.Forms.Label()
+        Me.txtnguoi_sua = New System.Windows.Forms.Label()
+        Me.Label8 = New System.Windows.Forms.Label()
+        Me.Label10 = New System.Windows.Forms.Label()
+        Me.btnluuandmoi = New System.Windows.Forms.Button()
+        Me.Label21 = New System.Windows.Forms.Label()
+        Me.Label22 = New System.Windows.Forms.Label()
+        Me.Label23 = New System.Windows.Forms.Label()
+        Me.txtt_tt_nt = New ClsControl2.TxtNumeric()
+        Me.txtt_tt = New ClsControl2.TxtNumeric()
+        Me.txtt_thue_nt = New ClsControl2.TxtNumeric()
+        Me.txtt_thue = New ClsControl2.TxtNumeric()
+        Me.Txtt_ck_nt = New ClsControl2.TxtNumeric()
+        Me.Txtt_ck = New ClsControl2.TxtNumeric()
+        Me.Txtt_tien_nt = New ClsControl2.TxtNumeric()
+        Me.Txtt_tien = New ClsControl2.TxtNumeric()
+        Me.toolbar = New System.Windows.Forms.ToolStrip()
+        Me.TSDropDownGetdata = New System.Windows.Forms.ToolStripDropDownButton()
+        Me.btnlaydulieutudonhang = New System.Windows.Forms.ToolStripMenuItem()
+        Me.Txtt_sl = New ClsControl2.TxtNumeric()
+        Me.Label25 = New System.Windows.Forms.Label()
+        Me.Label24 = New System.Windows.Forms.Label()
+        Me.Txtt_tien_von = New ClsControl2.TxtNumeric()
+        Me.Label9 = New System.Windows.Forms.Label()
+        Me.Txtt_ck_hd_nt = New ClsControl2.TxtNumeric()
+        Me.Txtt_ck_hd = New ClsControl2.TxtNumeric()
+        Me.txtkh_hoa_don = New System.Windows.Forms.TextBox()
+        Me.Label27 = New System.Windows.Forms.Label()
         Me.GroupBox1.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
         Me.toolbar.SuspendLayout()
@@ -123,8 +125,10 @@ Partial Class frminput
         'GroupBox1
         '
         Me.GroupBox1.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.GroupBox1.Controls.Add(Me.txtkh_hoa_don)
+        Me.GroupBox1.Controls.Add(Me.Label27)
         Me.GroupBox1.Controls.Add(Me.txtky_hieu_hoa_don)
         Me.GroupBox1.Controls.Add(Me.Label19)
         Me.GroupBox1.Controls.Add(Me.txtma_hoa_don)
@@ -150,19 +154,55 @@ Partial Class frminput
         Me.GroupBox1.Controls.Add(Me.Label1)
         Me.GroupBox1.Location = New System.Drawing.Point(-5, 12)
         Me.GroupBox1.Name = "GroupBox1"
-        Me.GroupBox1.Size = New System.Drawing.Size(992, 346)
+        Me.GroupBox1.Size = New System.Drawing.Size(1023, 346)
         Me.GroupBox1.TabIndex = 0
         Me.GroupBox1.TabStop = False
+        '
+        'txtky_hieu_hoa_don
+        '
+        Me.txtky_hieu_hoa_don.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
+        Me.txtky_hieu_hoa_don.Location = New System.Drawing.Point(315, 39)
+        Me.txtky_hieu_hoa_don.Name = "txtky_hieu_hoa_don"
+        Me.txtky_hieu_hoa_don.Size = New System.Drawing.Size(101, 20)
+        Me.txtky_hieu_hoa_don.TabIndex = 3
+        '
+        'Label19
+        '
+        Me.Label19.AutoSize = True
+        Me.Label19.Location = New System.Drawing.Point(230, 43)
+        Me.Label19.Name = "Label19"
+        Me.Label19.Size = New System.Drawing.Size(75, 13)
+        Me.Label19.TabIndex = 220
+        Me.Label19.Tag = "KHH"
+        Me.Label19.Text = "Ký hiệu số HĐ"
+        '
+        'txtma_hoa_don
+        '
+        Me.txtma_hoa_don.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
+        Me.txtma_hoa_don.Location = New System.Drawing.Point(126, 39)
+        Me.txtma_hoa_don.Name = "txtma_hoa_don"
+        Me.txtma_hoa_don.Size = New System.Drawing.Size(100, 20)
+        Me.txtma_hoa_don.TabIndex = 2
+        '
+        'Label26
+        '
+        Me.Label26.AutoSize = True
+        Me.Label26.Location = New System.Drawing.Point(6, 43)
+        Me.Label26.Name = "Label26"
+        Me.Label26.Size = New System.Drawing.Size(65, 13)
+        Me.Label26.TabIndex = 219
+        Me.Label26.Tag = "MHD"
+        Me.Label26.Text = "Mã hóa đơn"
         '
         'TabControl1
         '
         Me.TabControl1.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TabControl1.Location = New System.Drawing.Point(3, 149)
         Me.TabControl1.Name = "TabControl1"
         Me.TabControl1.SelectedIndex = 0
-        Me.TabControl1.Size = New System.Drawing.Size(963, 197)
+        Me.TabControl1.Size = New System.Drawing.Size(994, 197)
         Me.TabControl1.TabIndex = 216
         Me.TabControl1.TabStop = False
         '
@@ -170,8 +210,8 @@ Partial Class frminput
         '
         Me.txtten_vt.Location = New System.Drawing.Point(126, 102)
         Me.txtten_vt.Name = "txtten_vt"
-        Me.txtten_vt.Size = New System.Drawing.Size(445, 20)
-        Me.txtten_vt.TabIndex = 8
+        Me.txtten_vt.Size = New System.Drawing.Size(462, 20)
+        Me.txtten_vt.TabIndex = 9
         '
         'Label20
         '
@@ -189,7 +229,7 @@ Partial Class frminput
         Me.txtso_seri.Location = New System.Drawing.Point(315, 60)
         Me.txtso_seri.Name = "txtso_seri"
         Me.txtso_seri.Size = New System.Drawing.Size(101, 20)
-        Me.txtso_seri.TabIndex = 5
+        Me.txtso_seri.TabIndex = 6
         '
         'Label18
         '
@@ -203,11 +243,12 @@ Partial Class frminput
         '
         'txtngay_hd
         '
-        Me.txtngay_hd.Location = New System.Drawing.Point(483, 60)
+        Me.txtngay_hd.Culture = New System.Globalization.CultureInfo("vi-VN")
+        Me.txtngay_hd.Location = New System.Drawing.Point(500, 60)
         Me.txtngay_hd.Mask = "00/00/0000"
         Me.txtngay_hd.Name = "txtngay_hd"
         Me.txtngay_hd.Size = New System.Drawing.Size(88, 20)
-        Me.txtngay_hd.TabIndex = 6
+        Me.txtngay_hd.TabIndex = 7
         Me.txtngay_hd.Text = "01011910"
         Me.txtngay_hd.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         Me.txtngay_hd.Value = New Date(1910, 1, 1, 0, 0, 0, 0)
@@ -228,7 +269,7 @@ Partial Class frminput
         Me.txtso_hd.Location = New System.Drawing.Point(126, 60)
         Me.txtso_hd.Name = "txtso_hd"
         Me.txtso_hd.Size = New System.Drawing.Size(100, 20)
-        Me.txtso_hd.TabIndex = 4
+        Me.txtso_hd.TabIndex = 5
         '
         'Label17
         '
@@ -247,16 +288,16 @@ Partial Class frminput
         Me.Txtty_gia.Name = "Txtty_gia"
         Me.Txtty_gia.NumberDecimalDigits = 0
         Me.Txtty_gia.Size = New System.Drawing.Size(101, 20)
-        Me.Txtty_gia.TabIndex = 10
+        Me.Txtty_gia.TabIndex = 11
         Me.Txtty_gia.Text = "0"
         Me.Txtty_gia.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.Txtty_gia.Value = 0
-        Me.Txtty_gia.Value2 = 0
+        Me.Txtty_gia.Value = 0R
+        Me.Txtty_gia.Value2 = 0R
         '
         'GroupBox2
         '
         Me.GroupBox2.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.GroupBox2.Controls.Add(Me.ma_thue)
         Me.GroupBox2.Controls.Add(Me.txtma_so_thue)
         Me.GroupBox2.Controls.Add(Me.Label15)
@@ -267,9 +308,9 @@ Partial Class frminput
         Me.GroupBox2.Controls.Add(Me.txtten_kh)
         Me.GroupBox2.Controls.Add(Me.Label4)
         Me.GroupBox2.Controls.Add(Me.txtma_kh)
-        Me.GroupBox2.Location = New System.Drawing.Point(585, 0)
+        Me.GroupBox2.Location = New System.Drawing.Point(607, 0)
         Me.GroupBox2.Name = "GroupBox2"
-        Me.GroupBox2.Size = New System.Drawing.Size(381, 175)
+        Me.GroupBox2.Size = New System.Drawing.Size(390, 175)
         Me.GroupBox2.TabIndex = 18
         Me.GroupBox2.TabStop = False
         Me.GroupBox2.Tag = "217"
@@ -397,14 +438,14 @@ Partial Class frminput
         Me.cbbma_nt.Location = New System.Drawing.Point(126, 123)
         Me.cbbma_nt.Name = "cbbma_nt"
         Me.cbbma_nt.Size = New System.Drawing.Size(159, 21)
-        Me.cbbma_nt.TabIndex = 9
+        Me.cbbma_nt.TabIndex = 10
         '
         'txtdien_giai
         '
         Me.txtdien_giai.Location = New System.Drawing.Point(126, 81)
         Me.txtdien_giai.Name = "txtdien_giai"
-        Me.txtdien_giai.Size = New System.Drawing.Size(445, 20)
-        Me.txtdien_giai.TabIndex = 7
+        Me.txtdien_giai.Size = New System.Drawing.Size(462, 20)
+        Me.txtdien_giai.TabIndex = 8
         '
         'Label7
         '
@@ -560,7 +601,7 @@ Partial Class frminput
         '
         Me.Label10.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label10.AutoSize = True
-        Me.Label10.Location = New System.Drawing.Point(544, 368)
+        Me.Label10.Location = New System.Drawing.Point(575, 368)
         Me.Label10.Name = "Label10"
         Me.Label10.Size = New System.Drawing.Size(28, 13)
         Me.Label10.TabIndex = 108
@@ -582,7 +623,7 @@ Partial Class frminput
         '
         Me.Label21.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label21.AutoSize = True
-        Me.Label21.Location = New System.Drawing.Point(544, 389)
+        Me.Label21.Location = New System.Drawing.Point(575, 389)
         Me.Label21.Name = "Label21"
         Me.Label21.Size = New System.Drawing.Size(43, 13)
         Me.Label21.TabIndex = 203
@@ -593,7 +634,7 @@ Partial Class frminput
         '
         Me.Label22.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label22.AutoSize = True
-        Me.Label22.Location = New System.Drawing.Point(544, 430)
+        Me.Label22.Location = New System.Drawing.Point(575, 430)
         Me.Label22.Name = "Label22"
         Me.Label22.Size = New System.Drawing.Size(52, 13)
         Me.Label22.TabIndex = 206
@@ -604,7 +645,7 @@ Partial Class frminput
         '
         Me.Label23.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label23.AutoSize = True
-        Me.Label23.Location = New System.Drawing.Point(544, 451)
+        Me.Label23.Location = New System.Drawing.Point(575, 451)
         Me.Label23.Name = "Label23"
         Me.Label23.Size = New System.Drawing.Size(82, 13)
         Me.Label23.TabIndex = 209
@@ -614,7 +655,7 @@ Partial Class frminput
         'txtt_tt_nt
         '
         Me.txtt_tt_nt.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.txtt_tt_nt.Location = New System.Drawing.Point(692, 448)
+        Me.txtt_tt_nt.Location = New System.Drawing.Point(723, 448)
         Me.txtt_tt_nt.MaxLength = 0
         Me.txtt_tt_nt.Name = "txtt_tt_nt"
         Me.txtt_tt_nt.NumberDecimalDigits = 2
@@ -623,13 +664,13 @@ Partial Class frminput
         Me.txtt_tt_nt.TabIndex = 114
         Me.txtt_tt_nt.Text = "0.00"
         Me.txtt_tt_nt.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.txtt_tt_nt.Value = 0
-        Me.txtt_tt_nt.Value2 = 0
+        Me.txtt_tt_nt.Value = 0R
+        Me.txtt_tt_nt.Value2 = 0R
         '
         'txtt_tt
         '
         Me.txtt_tt.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.txtt_tt.Location = New System.Drawing.Point(826, 448)
+        Me.txtt_tt.Location = New System.Drawing.Point(857, 448)
         Me.txtt_tt.MaxLength = 0
         Me.txtt_tt.Name = "txtt_tt"
         Me.txtt_tt.NumberDecimalDigits = 0
@@ -638,13 +679,13 @@ Partial Class frminput
         Me.txtt_tt.TabIndex = 115
         Me.txtt_tt.Text = "0"
         Me.txtt_tt.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.txtt_tt.Value = 0
-        Me.txtt_tt.Value2 = 0
+        Me.txtt_tt.Value = 0R
+        Me.txtt_tt.Value2 = 0R
         '
         'txtt_thue_nt
         '
         Me.txtt_thue_nt.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.txtt_thue_nt.Location = New System.Drawing.Point(692, 427)
+        Me.txtt_thue_nt.Location = New System.Drawing.Point(723, 427)
         Me.txtt_thue_nt.MaxLength = 0
         Me.txtt_thue_nt.Name = "txtt_thue_nt"
         Me.txtt_thue_nt.NumberDecimalDigits = 2
@@ -653,13 +694,13 @@ Partial Class frminput
         Me.txtt_thue_nt.TabIndex = 112
         Me.txtt_thue_nt.Text = "0.00"
         Me.txtt_thue_nt.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.txtt_thue_nt.Value = 0
-        Me.txtt_thue_nt.Value2 = 0
+        Me.txtt_thue_nt.Value = 0R
+        Me.txtt_thue_nt.Value2 = 0R
         '
         'txtt_thue
         '
         Me.txtt_thue.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.txtt_thue.Location = New System.Drawing.Point(826, 427)
+        Me.txtt_thue.Location = New System.Drawing.Point(857, 427)
         Me.txtt_thue.MaxLength = 0
         Me.txtt_thue.Name = "txtt_thue"
         Me.txtt_thue.NumberDecimalDigits = 0
@@ -668,13 +709,13 @@ Partial Class frminput
         Me.txtt_thue.TabIndex = 113
         Me.txtt_thue.Text = "0"
         Me.txtt_thue.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.txtt_thue.Value = 0
-        Me.txtt_thue.Value2 = 0
+        Me.txtt_thue.Value = 0R
+        Me.txtt_thue.Value2 = 0R
         '
         'Txtt_ck_nt
         '
         Me.Txtt_ck_nt.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.Txtt_ck_nt.Location = New System.Drawing.Point(692, 385)
+        Me.Txtt_ck_nt.Location = New System.Drawing.Point(723, 385)
         Me.Txtt_ck_nt.MaxLength = 0
         Me.Txtt_ck_nt.Name = "Txtt_ck_nt"
         Me.Txtt_ck_nt.NumberDecimalDigits = 2
@@ -683,13 +724,13 @@ Partial Class frminput
         Me.Txtt_ck_nt.TabIndex = 109
         Me.Txtt_ck_nt.Text = "0.00"
         Me.Txtt_ck_nt.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.Txtt_ck_nt.Value = 0
-        Me.Txtt_ck_nt.Value2 = 0
+        Me.Txtt_ck_nt.Value = 0R
+        Me.Txtt_ck_nt.Value2 = 0R
         '
         'Txtt_ck
         '
         Me.Txtt_ck.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.Txtt_ck.Location = New System.Drawing.Point(826, 385)
+        Me.Txtt_ck.Location = New System.Drawing.Point(857, 385)
         Me.Txtt_ck.MaxLength = 0
         Me.Txtt_ck.Name = "Txtt_ck"
         Me.Txtt_ck.NumberDecimalDigits = 0
@@ -698,13 +739,13 @@ Partial Class frminput
         Me.Txtt_ck.TabIndex = 110
         Me.Txtt_ck.Text = "0"
         Me.Txtt_ck.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.Txtt_ck.Value = 0
-        Me.Txtt_ck.Value2 = 0
+        Me.Txtt_ck.Value = 0R
+        Me.Txtt_ck.Value2 = 0R
         '
         'Txtt_tien_nt
         '
         Me.Txtt_tien_nt.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.Txtt_tien_nt.Location = New System.Drawing.Point(692, 364)
+        Me.Txtt_tien_nt.Location = New System.Drawing.Point(723, 364)
         Me.Txtt_tien_nt.MaxLength = 0
         Me.Txtt_tien_nt.Name = "Txtt_tien_nt"
         Me.Txtt_tien_nt.NumberDecimalDigits = 2
@@ -713,13 +754,13 @@ Partial Class frminput
         Me.Txtt_tien_nt.TabIndex = 107
         Me.Txtt_tien_nt.Text = "0.00"
         Me.Txtt_tien_nt.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.Txtt_tien_nt.Value = 0
-        Me.Txtt_tien_nt.Value2 = 0
+        Me.Txtt_tien_nt.Value = 0R
+        Me.Txtt_tien_nt.Value2 = 0R
         '
         'Txtt_tien
         '
         Me.Txtt_tien.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.Txtt_tien.Location = New System.Drawing.Point(826, 364)
+        Me.Txtt_tien.Location = New System.Drawing.Point(857, 364)
         Me.Txtt_tien.MaxLength = 0
         Me.Txtt_tien.Name = "Txtt_tien"
         Me.Txtt_tien.NumberDecimalDigits = 0
@@ -728,8 +769,8 @@ Partial Class frminput
         Me.Txtt_tien.TabIndex = 108
         Me.Txtt_tien.Text = "0"
         Me.Txtt_tien.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.Txtt_tien.Value = 0
-        Me.Txtt_tien.Value2 = 0
+        Me.Txtt_tien.Value = 0R
+        Me.Txtt_tien.Value2 = 0R
         '
         'toolbar
         '
@@ -739,7 +780,7 @@ Partial Class frminput
         Me.toolbar.Location = New System.Drawing.Point(0, 0)
         Me.toolbar.Name = "toolbar"
         Me.toolbar.RightToLeft = System.Windows.Forms.RightToLeft.Yes
-        Me.toolbar.Size = New System.Drawing.Size(961, 25)
+        Me.toolbar.Size = New System.Drawing.Size(992, 25)
         Me.toolbar.TabIndex = 216
         Me.toolbar.Text = "ToolStrip1"
         '
@@ -764,7 +805,7 @@ Partial Class frminput
         'Txtt_sl
         '
         Me.Txtt_sl.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.Txtt_sl.Location = New System.Drawing.Point(395, 364)
+        Me.Txtt_sl.Location = New System.Drawing.Point(426, 364)
         Me.Txtt_sl.MaxLength = 0
         Me.Txtt_sl.Name = "Txtt_sl"
         Me.Txtt_sl.NumberDecimalDigits = 2
@@ -773,15 +814,15 @@ Partial Class frminput
         Me.Txtt_sl.TabIndex = 210
         Me.Txtt_sl.Text = "0.00"
         Me.Txtt_sl.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.Txtt_sl.Value = 0
-        Me.Txtt_sl.Value2 = 0
+        Me.Txtt_sl.Value = 0R
+        Me.Txtt_sl.Value2 = 0R
         Me.Txtt_sl.Visible = False
         '
         'Label25
         '
         Me.Label25.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label25.AutoSize = True
-        Me.Label25.Location = New System.Drawing.Point(314, 368)
+        Me.Label25.Location = New System.Drawing.Point(345, 368)
         Me.Label25.Name = "Label25"
         Me.Label25.Size = New System.Drawing.Size(75, 13)
         Me.Label25.TabIndex = 211
@@ -793,7 +834,7 @@ Partial Class frminput
         '
         Me.Label24.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label24.AutoSize = True
-        Me.Label24.Location = New System.Drawing.Point(314, 388)
+        Me.Label24.Location = New System.Drawing.Point(345, 388)
         Me.Label24.Name = "Label24"
         Me.Label24.Size = New System.Drawing.Size(69, 13)
         Me.Label24.TabIndex = 215
@@ -804,7 +845,7 @@ Partial Class frminput
         'Txtt_tien_von
         '
         Me.Txtt_tien_von.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.Txtt_tien_von.Location = New System.Drawing.Point(395, 385)
+        Me.Txtt_tien_von.Location = New System.Drawing.Point(426, 385)
         Me.Txtt_tien_von.MaxLength = 0
         Me.Txtt_tien_von.Name = "Txtt_tien_von"
         Me.Txtt_tien_von.NumberDecimalDigits = 0
@@ -813,15 +854,15 @@ Partial Class frminput
         Me.Txtt_tien_von.TabIndex = 213
         Me.Txtt_tien_von.Text = "0"
         Me.Txtt_tien_von.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.Txtt_tien_von.Value = 0
-        Me.Txtt_tien_von.Value2 = 0
+        Me.Txtt_tien_von.Value = 0R
+        Me.Txtt_tien_von.Value2 = 0R
         Me.Txtt_tien_von.Visible = False
         '
         'Label9
         '
         Me.Label9.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label9.AutoSize = True
-        Me.Label9.Location = New System.Drawing.Point(544, 410)
+        Me.Label9.Location = New System.Drawing.Point(575, 410)
         Me.Label9.Name = "Label9"
         Me.Label9.Size = New System.Drawing.Size(125, 13)
         Me.Label9.TabIndex = 219
@@ -831,7 +872,7 @@ Partial Class frminput
         'Txtt_ck_hd_nt
         '
         Me.Txtt_ck_hd_nt.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.Txtt_ck_hd_nt.Location = New System.Drawing.Point(692, 406)
+        Me.Txtt_ck_hd_nt.Location = New System.Drawing.Point(723, 406)
         Me.Txtt_ck_hd_nt.MaxLength = 0
         Me.Txtt_ck_hd_nt.Name = "Txtt_ck_hd_nt"
         Me.Txtt_ck_hd_nt.NumberDecimalDigits = 2
@@ -840,13 +881,13 @@ Partial Class frminput
         Me.Txtt_ck_hd_nt.TabIndex = 217
         Me.Txtt_ck_hd_nt.Text = "0.00"
         Me.Txtt_ck_hd_nt.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.Txtt_ck_hd_nt.Value = 0
-        Me.Txtt_ck_hd_nt.Value2 = 0
+        Me.Txtt_ck_hd_nt.Value = 0R
+        Me.Txtt_ck_hd_nt.Value2 = 0R
         '
         'Txtt_ck_hd
         '
         Me.Txtt_ck_hd.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.Txtt_ck_hd.Location = New System.Drawing.Point(826, 406)
+        Me.Txtt_ck_hd.Location = New System.Drawing.Point(857, 406)
         Me.Txtt_ck_hd.MaxLength = 0
         Me.Txtt_ck_hd.Name = "Txtt_ck_hd"
         Me.Txtt_ck_hd.NumberDecimalDigits = 0
@@ -855,50 +896,32 @@ Partial Class frminput
         Me.Txtt_ck_hd.TabIndex = 218
         Me.Txtt_ck_hd.Text = "0"
         Me.Txtt_ck_hd.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.Txtt_ck_hd.Value = 0
-        Me.Txtt_ck_hd.Value2 = 0
+        Me.Txtt_ck_hd.Value = 0R
+        Me.Txtt_ck_hd.Value2 = 0R
         '
-        'txtky_hieu_hoa_don
+        'txtkh_hoa_don
         '
-        Me.txtky_hieu_hoa_don.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
-        Me.txtky_hieu_hoa_don.Location = New System.Drawing.Point(315, 39)
-        Me.txtky_hieu_hoa_don.Name = "txtky_hieu_hoa_don"
-        Me.txtky_hieu_hoa_don.Size = New System.Drawing.Size(101, 20)
-        Me.txtky_hieu_hoa_don.TabIndex = 3
+        Me.txtkh_hoa_don.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
+        Me.txtkh_hoa_don.Location = New System.Drawing.Point(500, 37)
+        Me.txtkh_hoa_don.Name = "txtkh_hoa_don"
+        Me.txtkh_hoa_don.Size = New System.Drawing.Size(88, 20)
+        Me.txtkh_hoa_don.TabIndex = 4
         '
-        'Label19
+        'Label27
         '
-        Me.Label19.AutoSize = True
-        Me.Label19.Location = New System.Drawing.Point(230, 43)
-        Me.Label19.Name = "Label19"
-        Me.Label19.Size = New System.Drawing.Size(75, 13)
-        Me.Label19.TabIndex = 220
-        Me.Label19.Tag = "KHH"
-        Me.Label19.Text = "Ký hiệu số HĐ"
-        '
-        'txtma_hoa_don
-        '
-        Me.txtma_hoa_don.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
-        Me.txtma_hoa_don.Location = New System.Drawing.Point(126, 39)
-        Me.txtma_hoa_don.Name = "txtma_hoa_don"
-        Me.txtma_hoa_don.Size = New System.Drawing.Size(100, 20)
-        Me.txtma_hoa_don.TabIndex = 2
-        '
-        'Label26
-        '
-        Me.Label26.AutoSize = True
-        Me.Label26.Location = New System.Drawing.Point(6, 43)
-        Me.Label26.Name = "Label26"
-        Me.Label26.Size = New System.Drawing.Size(65, 13)
-        Me.Label26.TabIndex = 219
-        Me.Label26.Tag = "MHD"
-        Me.Label26.Text = "Mã hóa đơn"
+        Me.Label27.AutoSize = True
+        Me.Label27.Location = New System.Drawing.Point(419, 41)
+        Me.Label27.Name = "Label27"
+        Me.Label27.Size = New System.Drawing.Size(61, 13)
+        Me.Label27.TabIndex = 222
+        Me.Label27.Tag = "KHH"
+        Me.Label27.Text = "Ký hiệu HĐ"
         '
         'frminput
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(961, 471)
+        Me.ClientSize = New System.Drawing.Size(992, 471)
         Me.Controls.Add(Me.Label9)
         Me.Controls.Add(Me.Txtt_ck_hd_nt)
         Me.Controls.Add(Me.Txtt_ck_hd)
@@ -1015,4 +1038,6 @@ Partial Class frminput
     Friend WithEvents Label19 As System.Windows.Forms.Label
     Friend WithEvents txtma_hoa_don As System.Windows.Forms.TextBox
     Friend WithEvents Label26 As System.Windows.Forms.Label
+    Friend WithEvents txtkh_hoa_don As TextBox
+    Friend WithEvents Label27 As Label
 End Class

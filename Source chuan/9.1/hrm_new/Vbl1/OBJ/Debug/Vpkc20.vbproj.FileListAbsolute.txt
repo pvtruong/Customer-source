@@ -1,0 +1,84 @@
+D:\SOURCE\ACC\Voucher\Vpkc20\Vpkc20\obj\Debug\Vpkc.exe
+D:\SOURCE\ACC\Voucher\Vpkc20\Vpkc20\obj\Debug\Vpkc.xml
+D:\SOURCE\ACC\Voucher\Vpkc20\Vpkc20\obj\Debug\Vpkc.pdb
+D:\SOURCE\ACC\Voucher\Vpkc20\Vpkc20\bin\Debug\Vpkc.exe
+D:\SOURCE\ACC\Voucher\Vpkc20\Vpkc20\bin\Debug\Vpkc.pdb
+D:\SOURCE\ACC\Voucher\Vpkc20\Vpkc20\bin\Debug\Vpkc.xml
+D:\SOURCE\ACC\Voucher\Vpkc20\Vpkc20\bin\Debug\ClPrint.dll
+D:\SOURCE\ACC\Voucher\Vpkc20\Vpkc20\bin\Debug\ClsControl2.dll
+D:\SOURCE\ACC\Voucher\Vpkc20\Vpkc20\bin\Debug\ClsLookup.dll
+D:\SOURCE\ACC\Voucher\Vpkc20\Vpkc20\bin\Debug\Clsql.dll
+D:\SOURCE\ACC\Voucher\Vpkc20\Vpkc20\bin\Debug\ClsRight.dll
+D:\SOURCE\ACC\Voucher\Vpkc20\Vpkc20\bin\Debug\ClsSV.dll
+D:\SOURCE\ACC\Voucher\Vpkc20\Vpkc20\bin\Debug\ClsVno.dll
+D:\SOURCE\ACC\Voucher\Vpkc20\Vpkc20\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\ACC\Voucher\Vpkc20\Vpkc20\bin\Debug\clsab.dll
+D:\SOURCE\ACC\Voucher\Vpkc20\Vpkc20\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\ACC\Voucher\Vpkc20\Vpkc20\bin\Debug\clsViDe.dll
+D:\SOURCE\ACC\Voucher\Vpkc20\Vpkc20\bin\Debug\clsPopUp.dll
+D:\SOURCE\ACC\Voucher\Vpkc20\Vpkc20\bin\Debug\Interop.Excel.dll
+D:\SOURCE\ACC\Voucher\Vpkc20\Vpkc20\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\ACC\Voucher\Vpkc20\Vpkc20\bin\Debug\ClsMath.dll
+D:\SOURCE\ACC\Voucher\Vpkc20\Vpkc20\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\ACC\Voucher\Vpkc20\Vpkc20\obj\Debug\Vpkc.frmPrint.resources
+D:\SOURCE\ACC\Voucher\Vpkc20\Vpkc20\obj\Debug\Vpkc.frmsearch.resources
+D:\SOURCE\ACC\Voucher\Vpkc20\Vpkc20\obj\Debug\Vpkc.Frmmain.resources
+D:\SOURCE\ACC\Voucher\Vpkc20\Vpkc20\obj\Debug\Vpkc.frminput.resources
+D:\SOURCE\ACC\Voucher\Vpkc20\Vpkc20\obj\Debug\Vpkc.Resources.resources
+D:\SOURCE\ACC\Voucher\Vpkc20\Vpkc20\obj\Debug\Vpkc20.vbproj.GenerateResource.Cache
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\obj\Debug\Vpkc.exe
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\obj\Debug\Vpkc.xml
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\obj\Debug\Vpkc.pdb
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\Vpkc.exe
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\Vpkc.pdb
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\Vpkc.xml
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\ClPrint.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\ClsControl2.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\ClsLookup.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\Clsql.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\ClsRight.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\ClsStpService.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\ClsSV.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\ClsVno.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\office.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\Ionic.Zip.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\clsab.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\DriveInfoEx.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\clsViDe.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\clsPopUp.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\Interop.Excel.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\ClsSqlRemoting.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\ClsMath.dll
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\obj\Debug\ResolveAssemblyReference.cache
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\obj\Debug\Vpkc.frmPrint.resources
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\obj\Debug\Vpkc.frmsearch.resources
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\obj\Debug\Vpkc.Frmmain.resources
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\obj\Debug\Vpkc.frminput.resources
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\obj\Debug\Vpkc.Resources.resources
+E:\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\obj\Debug\Vpkc20.vbproj.GenerateResource.Cache
+J:\STP01\#E\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\obj\Debug\Vpkc.exe
+J:\STP01\#E\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\obj\Debug\Vpkc.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\obj\Debug\Vpkc.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\Vpkc.exe
+J:\STP01\#E\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\Vpkc.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\Vpkc.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\ClsVno.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\office.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\Ionic.Zip.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\clsab.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\clsViDe.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\Microsoft.Vbe.Interop.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\clsPopUp.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\Interop.Excel.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\bin\Debug\ClsMath.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\obj\Debug\ResolveAssemblyReference.cache
+J:\STP01\#E\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\obj\Debug\Vpkc.frmPrint.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\obj\Debug\Vpkc.frmsearch.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\obj\Debug\Vpkc.Frmmain.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\obj\Debug\Vpkc.frminput.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\obj\Debug\Vpkc.Resources.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\Voucher\Vpkc20\Vpkc20\obj\Debug\Vpkc20.vbproj.GenerateResource.Cache
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpkc35\Vpkc35\obj\Debug\Vpkc.exe
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpkc35\Vpkc35\obj\Debug\Vpkc.xml
+J:\STP01\#E\STP SOURCE\ACC\3.5\Voucher\Vpkc35\Vpkc35\obj\Debug\Vpkc.pdb

@@ -28,3 +28,27 @@ C:\Users\Truong\Box Sync\acc\9.0\Vhd335\Vhd335\obj\Release\Vhd3.vbproj.GenerateR
 C:\Users\Truong\Box Sync\acc\9.0\Vhd335\Vhd335\obj\Release\Vhd3.exe
 C:\Users\Truong\Box Sync\acc\9.0\Vhd335\Vhd335\obj\Release\Vhd3.xml
 C:\Users\Truong\Box Sync\acc\9.0\Vhd335\Vhd335\obj\Release\Vhd3.pdb
+D:\Github\Customer-source\VanThinhPhu\Vhd335\Vhd335\bin\Release\Vhd3.exe.config
+D:\Github\Customer-source\VanThinhPhu\Vhd335\Vhd335\obj\Release\Vhd3.exe
+D:\Github\Customer-source\VanThinhPhu\Vhd335\Vhd335\obj\Release\Vhd3.xml
+D:\Github\Customer-source\VanThinhPhu\Vhd335\Vhd335\obj\Release\Vhd3.pdb
+D:\Github\Customer-source\VanThinhPhu\Vhd335\Vhd335\bin\Release\Vhd3.exe
+D:\Github\Customer-source\VanThinhPhu\Vhd335\Vhd335\bin\Release\Vhd3.pdb
+D:\Github\Customer-source\VanThinhPhu\Vhd335\Vhd335\bin\Release\Vhd3.xml
+D:\Github\Customer-source\VanThinhPhu\Vhd335\Vhd335\bin\Release\System.Windows.Forms.DataVisualization.dll
+D:\Github\Customer-source\VanThinhPhu\Vhd335\Vhd335\bin\Release\clsViDe.dll
+D:\Github\Customer-source\VanThinhPhu\Vhd335\Vhd335\bin\Release\ClsMath.dll
+D:\Github\Customer-source\VanThinhPhu\Vhd335\Vhd335\bin\Release\clsPopUp.dll
+D:\Github\Customer-source\VanThinhPhu\Vhd335\Vhd335\bin\Release\Ionic.Zip.dll
+D:\Github\Customer-source\VanThinhPhu\Vhd335\Vhd335\bin\Release\clsab.dll
+D:\Github\Customer-source\VanThinhPhu\Vhd335\Vhd335\bin\Release\Eval3.dll
+D:\Github\Customer-source\VanThinhPhu\Vhd335\Vhd335\bin\Release\clschat.dll
+D:\Github\Customer-source\VanThinhPhu\Vhd335\Vhd335\bin\Release\ClsVno.dll
+D:\Github\Customer-source\VanThinhPhu\Vhd335\Vhd335\obj\Release\Vhd3.vbprojResolveAssemblyReference.cache
+D:\Github\Customer-source\VanThinhPhu\Vhd335\Vhd335\obj\Release\Vhd3.frmdklayhd.resources
+D:\Github\Customer-source\VanThinhPhu\Vhd335\Vhd335\obj\Release\Vhd3.frmPrint.resources
+D:\Github\Customer-source\VanThinhPhu\Vhd335\Vhd335\obj\Release\Vhd3.frmsearch.resources
+D:\Github\Customer-source\VanThinhPhu\Vhd335\Vhd335\obj\Release\Vhd3.Frmmain.resources
+D:\Github\Customer-source\VanThinhPhu\Vhd335\Vhd335\obj\Release\Vhd3.frminput.resources
+D:\Github\Customer-source\VanThinhPhu\Vhd335\Vhd335\obj\Release\Vhd3.Resources.resources
+D:\Github\Customer-source\VanThinhPhu\Vhd335\Vhd335\obj\Release\Vhd3.vbproj.GenerateResource.Cache

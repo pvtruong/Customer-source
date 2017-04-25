@@ -300,39 +300,39 @@
         
     End Sub
 
-    Dim ma_khold As String
-    Private Sub txtma_kh_Enter(ByVal sender As Object, ByVal e As System.EventArgs) Handles txtma_kh.Enter, cbbma_gd.Enter
-        ma_khold = txtma_kh.Text.Trim
-        cbbma_gd.Enabled = True
-        txtma_kh.ReadOnly = False
-        If Voucher.Tabdetails("vtdttco").status = True Then
-            For Each r As DataGridViewRow In Voucher.Tabdetails("vtdttco").gridDetailKeyin.Rows
-                If Not r.IsNewRow Then
-                    If r.Cells("stt_rec_tt").Value <> "" Then
-                        txtma_kh.ReadOnly = True
-                        cbbma_gd.Enabled = False
-                        Exit For
-                    End If
-                End If
-            Next
-        End If
+    'Dim ma_khold As String
+    'Private Sub txtma_kh_Enter(ByVal sender As Object, ByVal e As System.EventArgs) Handles txtma_kh.Enter, cbbma_gd.Enter
+    '    ma_khold = txtma_kh.Text.Trim
+    '    cbbma_gd.Enabled = True
+    '    txtma_kh.ReadOnly = False
+    '    If Voucher.Tabdetails("vtdttco").status = True Then
+    '        For Each r As DataGridViewRow In Voucher.Tabdetails("vtdttco").gridDetailKeyin.Rows
+    '            If Not r.IsNewRow Then
+    '                If r.Cells("stt_rec_tt").Value <> "" Then
+    '                    txtma_kh.ReadOnly = True
+    '                    cbbma_gd.Enabled = False
+    '                    Exit For
+    '                End If
+    '            End If
+    '        Next
+    '    End If
 
-    End Sub
+    'End Sub
 
-    Private Sub txtma_kh_Validated(ByVal sender As Object, ByVal e As System.EventArgs) Handles txtma_kh.Validated
-        If ma_khold.ToUpper <> txtma_kh.Text.Trim.ToUpper Then
-            ma_khold = txtma_kh.Text
-            If cbbma_gd.SelectedValue = 1 Then
-                'Tabdetailhd.Datatable = conn.GetDatatable("Exec GetInvoice4Paid " & conn.ConvertToSQLType(txtma_kh.Text) & "," & conn.ConvertToSQLType(Txtngay_ct.Value) & "," & Voucher.Action)
-                '   Tabdetailhd.bindingsource.DataSource = Tabdetailhd.Datatable
-                '  Txtt_tien_nt.Value = ClsControl2.PropertyOfGrid.Sum(grddetailhd, "tien_nt")
-                ' Txtt_tien.Value = ClsControl2.PropertyOfGrid.Sum(grddetailhd, "tien")
-                'txtt_tt.Value = Txtt_tien.Value
-                'txtt_tt_nt.Value = Txtt_tien_nt.Value
-            End If
-        End If
+    'Private Sub txtma_kh_Validated(ByVal sender As Object, ByVal e As System.EventArgs) Handles txtma_kh.Validated
+    '    If ma_khold.ToUpper <> txtma_kh.Text.Trim.ToUpper Then
+    '        ma_khold = txtma_kh.Text
+    '        If cbbma_gd.SelectedValue = 1 Then
+    '            'Tabdetailhd.Datatable = conn.GetDatatable("Exec GetInvoice4Paid " & conn.ConvertToSQLType(txtma_kh.Text) & "," & conn.ConvertToSQLType(Txtngay_ct.Value) & "," & Voucher.Action)
+    '            '   Tabdetailhd.bindingsource.DataSource = Tabdetailhd.Datatable
+    '            '  Txtt_tien_nt.Value = ClsControl2.PropertyOfGrid.Sum(grddetailhd, "tien_nt")
+    '            ' Txtt_tien.Value = ClsControl2.PropertyOfGrid.Sum(grddetailhd, "tien")
+    '            'txtt_tt.Value = Txtt_tien.Value
+    '            'txtt_tt_nt.Value = Txtt_tien_nt.Value
+    '        End If
+    '    End If
 
-    End Sub
+    'End Sub
 
     Sub hide_show_control(ByVal ma_nt As String)
 
@@ -383,49 +383,46 @@
     End Sub
 
     Private Sub lay_hoa_don_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btngethoadon.Click
-        If layhd.Show("Exec GetInvoice4Paid " & conn.ConvertToSQLType(txtma_kh.Text) & "," & conn.ConvertToSQLType(Txtngay_ct.Value) & "," & Voucher.Action & ",'" & Voucher.Stt_rec & "'") = Windows.Forms.DialogResult.OK Then
-            'If Voucher.Action = ClsSV31.Voucher.Actions.EDIT Then
-            '    querytt = ""
-            '    Dim dt As DataTable = conn.GetDatatable("select stt_rec_tt,ma_ct_tt from vtdttco where stt_rec ='" & Voucher.Stt_rec & "'")
-            '    For Each r As DataRow In dt.Rows
-            '        querytt = querytt & Chr(13) & "EXEC Tatoanco '" & r("stt_rec_tt") & "','" & r("ma_ct_tt") & "'"
-            '    Next
-            'End If
+        Dim filter As New frmFilterHD
+        filter.Icon = Me.Icon
+        filter.Txttu_ngay.Value = DateSerial(Txtngay_ct.Value.Year, 1, 1)
+        filter.Txtden_ngay.Value = Txtngay_ct.Value
+        filter.txtma_kh.Text = txtma_kh.Text
+        filter.StartPosition = FormStartPosition.CenterParent
+        If filter.ShowDialog(Me) = DialogResult.OK Then
+            If layhd.Show("Exec GetInvoice4Paid_multi " & conn.ConvertToSQLType(filter.txtma_kh.Text) & "," & conn.ConvertToSQLType(filter.txtso_hd.Text) & "," & conn.ConvertToSQLType(filter.txtso_ct.Text) & "," & conn.ConvertToSQLType(filter.Txttu_ngay.Value) & "," & conn.ConvertToSQLType(filter.Txtden_ngay.Value) & "," & Voucher.Action & ",'" & Voucher.Stt_rec & "'") = Windows.Forms.DialogResult.OK Then
 
 
-            Voucher.Tabdetails("vtdttco").Datatable.Clear()
-            For Each r As DataRow In layhd.DataView.Table.Select("sel = false")
-                r.Delete()
-            Next
-            Voucher.Tabdetails("vtdttco").Datatable = layhd.DataView.Table
-            Voucher.Tabdetails("vtdttco").bindingsource.DataSource = Voucher.Tabdetails("vtdttco").Datatable
 
-            'set gia tri mac dinh
-            For Each r As DataRow In Voucher.Tabdetails("vtdttco").Datatable.Rows
-                For Each df As String In Voucher.Tabdetails("vtdttco").ProcessOnGrid.DefaultOnGrids.Keys
-                    If r.Table.Columns.Contains(df) AndAlso String.IsNullOrEmpty(r(df)) Then
-                        If Voucher.Tabdetails("vtdttco").Datatable.Columns(df).DataType.ToString.Contains("Boolean") Then
-                            If Voucher.Tabdetails("vtdttco").ProcessOnGrid.DefaultOnGrids.Item(df) = "1" Then
-                                r(df) = True
-                            Else
-                                r(df) = False
-                            End If
-                        Else
-                            r(df) = Voucher.Tabdetails("vtdttco").ProcessOnGrid.DefaultOnGrids.Item(df)
-                        End If
-                    End If
+                Voucher.Tabdetails("vtdttco").Datatable.Clear()
+                For Each r As DataRow In layhd.DataView.Table.Select("sel = false")
+                    r.Delete()
                 Next
-            Next
+                Voucher.Tabdetails("vtdttco").Datatable = layhd.DataView.Table
+                Voucher.Tabdetails("vtdttco").bindingsource.DataSource = Voucher.Tabdetails("vtdttco").Datatable
 
-            'If layhd.DataView.Table.Select("sel = true").Count > 0 Then
-            '    txtma_kh.ReadOnly = True
-            '    cbbma_gd.Enabled = False
-            'Else
-            '    txtma_kh.ReadOnly = False
-            '    cbbma_gd.Enabled = True
-            'End If
+                'set gia tri mac dinh
+                For Each r As DataRow In Voucher.Tabdetails("vtdttco").Datatable.Rows
+                    For Each df As String In Voucher.Tabdetails("vtdttco").ProcessOnGrid.DefaultOnGrids.Keys
+                        If r.Table.Columns.Contains(df) AndAlso String.IsNullOrEmpty(r(df)) Then
+                            If Voucher.Tabdetails("vtdttco").Datatable.Columns(df).DataType.ToString.Contains("Boolean") Then
+                                If Voucher.Tabdetails("vtdttco").ProcessOnGrid.DefaultOnGrids.Item(df) = "1" Then
+                                    r(df) = True
+                                Else
+                                    r(df) = False
+                                End If
+                            Else
+                                r(df) = Voucher.Tabdetails("vtdttco").ProcessOnGrid.DefaultOnGrids.Item(df)
+                            End If
+                        End If
+                    Next
+                Next
+
+
+            End If
+            SendKeys.Send("{tab}")
         End If
-        SendKeys.Send("{tab}")
+
     End Sub
 
 

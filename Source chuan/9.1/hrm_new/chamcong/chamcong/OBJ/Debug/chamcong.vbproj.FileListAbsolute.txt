@@ -1,0 +1,11 @@
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\obj\Debug\ResolveAssemblyReference.cache
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\obj\Debug\chamcong.frmfilter.resources
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\obj\Debug\chamcong.MainForm.resources
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\obj\Debug\chamcong.Resources.resources
+E:\Customer\Gas Huong Minh\source\chamcong\chamcong\obj\Debug\chamcong.vbproj.GenerateResource.Cache
+C:\Users\invnc\Google Drive\STP Enterprice\acc\9.1\hrm_new\chamcong\chamcong\bin\Debug\chamcong.exe.config
+C:\Users\invnc\Google Drive\STP Enterprice\acc\9.1\hrm_new\chamcong\chamcong\obj\Debug\chamcong.vbprojResolveAssemblyReference.cache
+C:\Users\invnc\Google Drive\STP Enterprice\acc\9.1\hrm_new\chamcong\chamcong\obj\Debug\chamcong.frmfilter.resources
+C:\Users\invnc\Google Drive\STP Enterprice\acc\9.1\hrm_new\chamcong\chamcong\obj\Debug\chamcong.MainForm.resources
+C:\Users\invnc\Google Drive\STP Enterprice\acc\9.1\hrm_new\chamcong\chamcong\obj\Debug\chamcong.Resources.resources
+C:\Users\invnc\Google Drive\STP Enterprice\acc\9.1\hrm_new\chamcong\chamcong\obj\Debug\chamcong.vbproj.GenerateResource.Cache

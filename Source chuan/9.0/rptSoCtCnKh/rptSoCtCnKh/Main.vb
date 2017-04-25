@@ -124,7 +124,7 @@
         rpt.cPrint.SetParameterValue("tk", frmdkloc.txttk.Text)
         rpt.cPrint.SetParameterValue("ten_tk", frmdkloc.ten_tk.Text)
 
-        Dim dtkh As DataTable = rpt.conn.GetDatatable("select * from dkh where ma_kh ='" & frmdkloc.txtma_kh.Text & "'")
+        Dim dtkh As DataTable = rpt.conn.GetDatatable("select a.*,b.ten_nhom as ten_nh_kh1,c.ten_nhom as ten_nh_kh2,d.ten_nhom as ten_nh_kh3 from dkh a left join dmnhomkh b on a.nh_kh1 = b.ma_nhom  left join dmnhomkh c on a.nh_kh2 = c.ma_nhom left join dmnhomkh d on a.nh_kh3 = d.ma_nhom where a.ma_kh ='" & frmdkloc.txtma_kh.Text & "'")
         For Each c As DataColumn In dtkh.Columns
             If dtkh.Rows.Count > 0 Then
                 If Not IsDBNull(dtkh.Rows(0).Item(c.ColumnName)) Then

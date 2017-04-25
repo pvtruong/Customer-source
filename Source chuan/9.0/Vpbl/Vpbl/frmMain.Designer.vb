@@ -22,69 +22,75 @@ Partial Class frmMain
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Me.components = New System.ComponentModel.Container()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frmMain))
-        Dim DataGridViewCellStyle17 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle
-        Me.StatusStrip1 = New System.Windows.Forms.StatusStrip
-        Me.txtten_chuong_trinh = New System.Windows.Forms.ToolStripStatusLabel
-        Me.txtserver = New System.Windows.Forms.ToolStripStatusLabel
-        Me.txtdatabase = New System.Windows.Forms.ToolStripStatusLabel
-        Me.txtuser = New System.Windows.Forms.ToolStripStatusLabel
-        Me.lblquay_so = New System.Windows.Forms.ToolStripStatusLabel
-        Me.txtstatus = New System.Windows.Forms.ToolStripStatusLabel
-        Me.ToolStripStatusLabel1 = New System.Windows.Forms.ToolStripStatusLabel
-        Me.lblngay = New System.Windows.Forms.ToolStripStatusLabel
-        Me.lblgio = New System.Windows.Forms.ToolStripStatusLabel
-        Me.inputPanel = New System.Windows.Forms.Panel
-        Me.totalPanel = New System.Windows.Forms.Panel
-        Me.txtt_tien_ck_hd = New ClsControl2.TxtNumeric
-        Me.Label8 = New System.Windows.Forms.Label
-        Me.txtt_phai_thu = New ClsControl2.TxtNumeric
-        Me.phaithu = New System.Windows.Forms.Label
-        Me.txtt_giam_gia = New ClsControl2.TxtNumeric
-        Me.Label1 = New System.Windows.Forms.Label
-        Me.txtt_tra_lai = New ClsControl2.TxtNumeric
-        Me.Label5 = New System.Windows.Forms.Label
-        Me.txtt_thu = New ClsControl2.TxtNumeric
-        Me.Label4 = New System.Windows.Forms.Label
-        Me.txtt_hoa_don = New ClsControl2.TxtNumeric
-        Me.txtt_so_luong = New ClsControl2.TxtNumeric
-        Me.Label3 = New System.Windows.Forms.Label
-        Me.Label2 = New System.Windows.Forms.Label
-        Me.keyPanel = New System.Windows.Forms.Panel
-        Me.btnbangiao = New System.Windows.Forms.Button
-        Me.txtgia_ban = New ClsControl2.TxtNumeric
-        Me.txtma_so_ck = New System.Windows.Forms.TextBox
-        Me.txttien = New ClsControl2.TxtNumeric
-        Me.txtma_vt = New System.Windows.Forms.TextBox
-        Me.txtSo_luong = New ClsControl2.TxtNumeric
-        Me.lblten_kh = New System.Windows.Forms.Label
-        Me.lblma_kh = New System.Windows.Forms.Label
-        Me.Label7 = New System.Windows.Forms.Label
-        Me.Label6 = New System.Windows.Forms.Label
-        Me.lblfunction = New System.Windows.Forms.Label
-        Me.txtMa_kh = New System.Windows.Forms.TextBox
-        Me.functuionPanel = New System.Windows.Forms.Panel
-        Me.btnBack = New System.Windows.Forms.Button
-        Me.btnF10 = New System.Windows.Forms.Button
-        Me.btnexit = New System.Windows.Forms.Button
-        Me.btnmanager = New System.Windows.Forms.Button
-        Me.btnF9 = New System.Windows.Forms.Button
-        Me.btnF8 = New System.Windows.Forms.Button
-        Me.btnF7 = New System.Windows.Forms.Button
-        Me.btnF6 = New System.Windows.Forms.Button
-        Me.btnF5 = New System.Windows.Forms.Button
-        Me.btnF4 = New System.Windows.Forms.Button
-        Me.btnF3 = New System.Windows.Forms.Button
-        Me.btnF2 = New System.Windows.Forms.Button
-        Me.gridsanpham = New ClsControl2.StpDataGridView
-        Me.logo = New System.Windows.Forms.PictureBox
+        Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Me.StatusStrip1 = New System.Windows.Forms.StatusStrip()
+        Me.txtten_chuong_trinh = New System.Windows.Forms.ToolStripStatusLabel()
+        Me.txtserver = New System.Windows.Forms.ToolStripStatusLabel()
+        Me.txtdatabase = New System.Windows.Forms.ToolStripStatusLabel()
+        Me.txtuser = New System.Windows.Forms.ToolStripStatusLabel()
+        Me.lblquay_so = New System.Windows.Forms.ToolStripStatusLabel()
+        Me.txtstatus = New System.Windows.Forms.ToolStripStatusLabel()
+        Me.ToolStripStatusLabel1 = New System.Windows.Forms.ToolStripStatusLabel()
+        Me.lblngay = New System.Windows.Forms.ToolStripStatusLabel()
+        Me.lblgio = New System.Windows.Forms.ToolStripStatusLabel()
+        Me.inputPanel = New System.Windows.Forms.Panel()
+        Me.totalPanel = New System.Windows.Forms.Panel()
+        Me.txtt_tien_ck_hd = New ClsControl2.TxtNumeric()
+        Me.Label8 = New System.Windows.Forms.Label()
+        Me.txtt_phai_thu = New ClsControl2.TxtNumeric()
+        Me.phaithu = New System.Windows.Forms.Label()
+        Me.txtt_giam_gia = New ClsControl2.TxtNumeric()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.txtt_tra_lai = New ClsControl2.TxtNumeric()
+        Me.Label5 = New System.Windows.Forms.Label()
+        Me.txtt_thu = New ClsControl2.TxtNumeric()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.txtt_hoa_don = New ClsControl2.TxtNumeric()
+        Me.txtt_so_luong = New ClsControl2.TxtNumeric()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.keyPanel = New System.Windows.Forms.Panel()
+        Me.btnqlthegiamgia = New System.Windows.Forms.Button()
+        Me.btnbangiao = New System.Windows.Forms.Button()
+        Me.txtgia_ban = New ClsControl2.TxtNumeric()
+        Me.txtma_so_ck = New System.Windows.Forms.TextBox()
+        Me.txttien = New ClsControl2.TxtNumeric()
+        Me.txtma_vt = New System.Windows.Forms.TextBox()
+        Me.txtSo_luong = New ClsControl2.TxtNumeric()
+        Me.lblten_kh = New System.Windows.Forms.Label()
+        Me.lblma_kh = New System.Windows.Forms.Label()
+        Me.Label7 = New System.Windows.Forms.Label()
+        Me.Label6 = New System.Windows.Forms.Label()
+        Me.lblfunction = New System.Windows.Forms.Label()
+        Me.txtMa_kh = New System.Windows.Forms.TextBox()
+        Me.functuionPanel = New System.Windows.Forms.Panel()
+        Me.logo = New System.Windows.Forms.PictureBox()
+        Me.btnBack = New System.Windows.Forms.Button()
+        Me.btnF10 = New System.Windows.Forms.Button()
+        Me.btnexit = New System.Windows.Forms.Button()
+        Me.btnmanager = New System.Windows.Forms.Button()
+        Me.btnF9 = New System.Windows.Forms.Button()
+        Me.btnF8 = New System.Windows.Forms.Button()
+        Me.btnF7 = New System.Windows.Forms.Button()
+        Me.btnF6 = New System.Windows.Forms.Button()
+        Me.btnF5 = New System.Windows.Forms.Button()
+        Me.btnF4 = New System.Windows.Forms.Button()
+        Me.btnF3 = New System.Windows.Forms.Button()
+        Me.btnF2 = New System.Windows.Forms.Button()
+        Me.gridsanpham = New ClsControl2.StpDataGridView()
+        Me.SerialPort1 = New System.IO.Ports.SerialPort(Me.components)
+        Me.Label9 = New System.Windows.Forms.Label()
+        Me.cbbnh_sp = New System.Windows.Forms.ComboBox()
+        Me.dssanpham = New System.Windows.Forms.ListView()
         Me.StatusStrip1.SuspendLayout()
         Me.inputPanel.SuspendLayout()
         Me.totalPanel.SuspendLayout()
         Me.keyPanel.SuspendLayout()
         Me.functuionPanel.SuspendLayout()
-        CType(Me.gridsanpham, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.logo, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.gridsanpham, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'StatusStrip1
@@ -159,7 +165,7 @@ Partial Class frmMain
         'inputPanel
         '
         Me.inputPanel.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.inputPanel.Controls.Add(Me.totalPanel)
         Me.inputPanel.Controls.Add(Me.keyPanel)
         Me.inputPanel.Controls.Add(Me.functuionPanel)
@@ -186,9 +192,9 @@ Partial Class frmMain
         Me.totalPanel.Controls.Add(Me.txtt_so_luong)
         Me.totalPanel.Controls.Add(Me.Label3)
         Me.totalPanel.Controls.Add(Me.Label2)
-        Me.totalPanel.Location = New System.Drawing.Point(708, 3)
+        Me.totalPanel.Location = New System.Drawing.Point(579, 3)
         Me.totalPanel.Name = "totalPanel"
-        Me.totalPanel.Size = New System.Drawing.Size(464, 250)
+        Me.totalPanel.Size = New System.Drawing.Size(593, 250)
         Me.totalPanel.TabIndex = 2
         '
         'txtt_tien_ck_hd
@@ -196,7 +202,7 @@ Partial Class frmMain
         Me.txtt_tien_ck_hd.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.txtt_tien_ck_hd.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.txtt_tien_ck_hd.ForeColor = System.Drawing.SystemColors.WindowText
-        Me.txtt_tien_ck_hd.Location = New System.Drawing.Point(217, 102)
+        Me.txtt_tien_ck_hd.Location = New System.Drawing.Point(345, 104)
         Me.txtt_tien_ck_hd.MaxLength = 18
         Me.txtt_tien_ck_hd.Name = "txtt_tien_ck_hd"
         Me.txtt_tien_ck_hd.NumberDecimalDigits = 0
@@ -206,14 +212,14 @@ Partial Class frmMain
         Me.txtt_tien_ck_hd.TabStop = False
         Me.txtt_tien_ck_hd.Text = "0"
         Me.txtt_tien_ck_hd.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.txtt_tien_ck_hd.Value = 0
-        Me.txtt_tien_ck_hd.Value2 = 0
+        Me.txtt_tien_ck_hd.Value = 0R
+        Me.txtt_tien_ck_hd.Value2 = 0R
         '
         'Label8
         '
         Me.Label8.AutoSize = True
         Me.Label8.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label8.Location = New System.Drawing.Point(4, 109)
+        Me.Label8.Location = New System.Drawing.Point(4, 107)
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(99, 17)
         Me.Label8.TabIndex = 12
@@ -226,7 +232,7 @@ Partial Class frmMain
         Me.txtt_phai_thu.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.txtt_phai_thu.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.txtt_phai_thu.ForeColor = System.Drawing.Color.Red
-        Me.txtt_phai_thu.Location = New System.Drawing.Point(217, 134)
+        Me.txtt_phai_thu.Location = New System.Drawing.Point(345, 136)
         Me.txtt_phai_thu.MaxLength = 18
         Me.txtt_phai_thu.Name = "txtt_phai_thu"
         Me.txtt_phai_thu.NumberDecimalDigits = 0
@@ -236,15 +242,15 @@ Partial Class frmMain
         Me.txtt_phai_thu.TabStop = False
         Me.txtt_phai_thu.Text = "0"
         Me.txtt_phai_thu.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.txtt_phai_thu.Value = 0
-        Me.txtt_phai_thu.Value2 = 0
+        Me.txtt_phai_thu.Value = 0R
+        Me.txtt_phai_thu.Value2 = 0R
         '
         'phaithu
         '
         Me.phaithu.AutoSize = True
         Me.phaithu.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.phaithu.ForeColor = System.Drawing.SystemColors.WindowText
-        Me.phaithu.Location = New System.Drawing.Point(4, 137)
+        Me.phaithu.Location = New System.Drawing.Point(4, 135)
         Me.phaithu.Name = "phaithu"
         Me.phaithu.Size = New System.Drawing.Size(83, 25)
         Me.phaithu.TabIndex = 10
@@ -256,7 +262,7 @@ Partial Class frmMain
         Me.txtt_giam_gia.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.txtt_giam_gia.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.txtt_giam_gia.ForeColor = System.Drawing.SystemColors.WindowText
-        Me.txtt_giam_gia.Location = New System.Drawing.Point(217, 70)
+        Me.txtt_giam_gia.Location = New System.Drawing.Point(345, 74)
         Me.txtt_giam_gia.MaxLength = 18
         Me.txtt_giam_gia.Name = "txtt_giam_gia"
         Me.txtt_giam_gia.NumberDecimalDigits = 0
@@ -266,8 +272,8 @@ Partial Class frmMain
         Me.txtt_giam_gia.TabStop = False
         Me.txtt_giam_gia.Text = "0"
         Me.txtt_giam_gia.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.txtt_giam_gia.Value = 0
-        Me.txtt_giam_gia.Value2 = 0
+        Me.txtt_giam_gia.Value = 0R
+        Me.txtt_giam_gia.Value2 = 0R
         '
         'Label1
         '
@@ -284,7 +290,7 @@ Partial Class frmMain
         '
         Me.txtt_tra_lai.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.txtt_tra_lai.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtt_tra_lai.Location = New System.Drawing.Point(217, 199)
+        Me.txtt_tra_lai.Location = New System.Drawing.Point(345, 201)
         Me.txtt_tra_lai.MaxLength = 18
         Me.txtt_tra_lai.Name = "txtt_tra_lai"
         Me.txtt_tra_lai.NumberDecimalDigits = 0
@@ -294,14 +300,14 @@ Partial Class frmMain
         Me.txtt_tra_lai.TabStop = False
         Me.txtt_tra_lai.Text = "0"
         Me.txtt_tra_lai.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.txtt_tra_lai.Value = 0
-        Me.txtt_tra_lai.Value2 = 0
+        Me.txtt_tra_lai.Value = 0R
+        Me.txtt_tra_lai.Value2 = 0R
         '
         'Label5
         '
         Me.Label5.AutoSize = True
         Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label5.Location = New System.Drawing.Point(4, 202)
+        Me.Label5.Location = New System.Drawing.Point(4, 200)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(102, 25)
         Me.Label5.TabIndex = 6
@@ -312,7 +318,7 @@ Partial Class frmMain
         '
         Me.txtt_thu.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.txtt_thu.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtt_thu.Location = New System.Drawing.Point(217, 166)
+        Me.txtt_thu.Location = New System.Drawing.Point(345, 168)
         Me.txtt_thu.MaxLength = 18
         Me.txtt_thu.Name = "txtt_thu"
         Me.txtt_thu.NumberDecimalDigits = 0
@@ -322,14 +328,14 @@ Partial Class frmMain
         Me.txtt_thu.TabStop = False
         Me.txtt_thu.Text = "0"
         Me.txtt_thu.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.txtt_thu.Value = 0
-        Me.txtt_thu.Value2 = 0
+        Me.txtt_thu.Value = 0R
+        Me.txtt_thu.Value2 = 0R
         '
         'Label4
         '
         Me.Label4.AutoSize = True
         Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label4.Location = New System.Drawing.Point(4, 169)
+        Me.Label4.Location = New System.Drawing.Point(4, 171)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(99, 17)
         Me.Label4.TabIndex = 4
@@ -341,7 +347,7 @@ Partial Class frmMain
         Me.txtt_hoa_don.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.txtt_hoa_don.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.txtt_hoa_don.ForeColor = System.Drawing.SystemColors.WindowText
-        Me.txtt_hoa_don.Location = New System.Drawing.Point(217, 38)
+        Me.txtt_hoa_don.Location = New System.Drawing.Point(345, 42)
         Me.txtt_hoa_don.MaxLength = 18
         Me.txtt_hoa_don.Name = "txtt_hoa_don"
         Me.txtt_hoa_don.NumberDecimalDigits = 0
@@ -351,14 +357,14 @@ Partial Class frmMain
         Me.txtt_hoa_don.TabStop = False
         Me.txtt_hoa_don.Text = "0"
         Me.txtt_hoa_don.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.txtt_hoa_don.Value = 0
-        Me.txtt_hoa_don.Value2 = 0
+        Me.txtt_hoa_don.Value = 0R
+        Me.txtt_hoa_don.Value2 = 0R
         '
         'txtt_so_luong
         '
         Me.txtt_so_luong.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.txtt_so_luong.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtt_so_luong.Location = New System.Drawing.Point(217, 6)
+        Me.txtt_so_luong.Location = New System.Drawing.Point(345, 10)
         Me.txtt_so_luong.MaxLength = 18
         Me.txtt_so_luong.Name = "txtt_so_luong"
         Me.txtt_so_luong.NumberDecimalDigits = 2
@@ -368,8 +374,8 @@ Partial Class frmMain
         Me.txtt_so_luong.TabStop = False
         Me.txtt_so_luong.Text = "0.00"
         Me.txtt_so_luong.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.txtt_so_luong.Value = 0
-        Me.txtt_so_luong.Value2 = 0
+        Me.txtt_so_luong.Value = 0R
+        Me.txtt_so_luong.Value2 = 0R
         '
         'Label3
         '
@@ -396,9 +402,10 @@ Partial Class frmMain
         'keyPanel
         '
         Me.keyPanel.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.keyPanel.BackColor = System.Drawing.Color.Green
         Me.keyPanel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.keyPanel.Controls.Add(Me.btnqlthegiamgia)
         Me.keyPanel.Controls.Add(Me.btnbangiao)
         Me.keyPanel.Controls.Add(Me.txtgia_ban)
         Me.keyPanel.Controls.Add(Me.txtma_so_ck)
@@ -413,14 +420,27 @@ Partial Class frmMain
         Me.keyPanel.Controls.Add(Me.txtMa_kh)
         Me.keyPanel.Location = New System.Drawing.Point(3, 3)
         Me.keyPanel.Name = "keyPanel"
-        Me.keyPanel.Size = New System.Drawing.Size(706, 250)
+        Me.keyPanel.Size = New System.Drawing.Size(577, 250)
         Me.keyPanel.TabIndex = 1
+        '
+        'btnqlthegiamgia
+        '
+        Me.btnqlthegiamgia.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.btnqlthegiamgia.BackColor = System.Drawing.SystemColors.Control
+        Me.btnqlthegiamgia.Location = New System.Drawing.Point(331, 199)
+        Me.btnqlthegiamgia.Name = "btnqlthegiamgia"
+        Me.btnqlthegiamgia.Size = New System.Drawing.Size(116, 38)
+        Me.btnqlthegiamgia.TabIndex = 12
+        Me.btnqlthegiamgia.TabStop = False
+        Me.btnqlthegiamgia.Tag = "QGG"
+        Me.btnqlthegiamgia.Text = "QL thẻ giảm giá"
+        Me.btnqlthegiamgia.UseVisualStyleBackColor = False
         '
         'btnbangiao
         '
         Me.btnbangiao.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.btnbangiao.BackColor = System.Drawing.SystemColors.Control
-        Me.btnbangiao.Location = New System.Drawing.Point(582, 199)
+        Me.btnbangiao.Location = New System.Drawing.Point(453, 199)
         Me.btnbangiao.Name = "btnbangiao"
         Me.btnbangiao.Size = New System.Drawing.Size(116, 38)
         Me.btnbangiao.TabIndex = 11
@@ -432,74 +452,74 @@ Partial Class frmMain
         'txtgia_ban
         '
         Me.txtgia_ban.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.txtgia_ban.Font = New System.Drawing.Font("Microsoft Sans Serif", 25.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.txtgia_ban.Location = New System.Drawing.Point(3, 30)
         Me.txtgia_ban.MaxLength = 18
         Me.txtgia_ban.Name = "txtgia_ban"
         Me.txtgia_ban.NumberDecimalDigits = 0
-        Me.txtgia_ban.Size = New System.Drawing.Size(696, 45)
+        Me.txtgia_ban.Size = New System.Drawing.Size(567, 45)
         Me.txtgia_ban.TabIndex = 10
         Me.txtgia_ban.Text = "0"
         Me.txtgia_ban.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.txtgia_ban.Value = 0
-        Me.txtgia_ban.Value2 = 0
+        Me.txtgia_ban.Value = 0R
+        Me.txtgia_ban.Value2 = 0R
         Me.txtgia_ban.Visible = False
         '
         'txtma_so_ck
         '
         Me.txtma_so_ck.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.txtma_so_ck.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
         Me.txtma_so_ck.Font = New System.Drawing.Font("Microsoft Sans Serif", 25.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.txtma_so_ck.Location = New System.Drawing.Point(3, 30)
         Me.txtma_so_ck.Name = "txtma_so_ck"
-        Me.txtma_so_ck.Size = New System.Drawing.Size(696, 45)
+        Me.txtma_so_ck.Size = New System.Drawing.Size(567, 45)
         Me.txtma_so_ck.TabIndex = 9
         '
         'txttien
         '
         Me.txttien.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.txttien.Font = New System.Drawing.Font("Microsoft Sans Serif", 25.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.txttien.Location = New System.Drawing.Point(3, 30)
         Me.txttien.MaxLength = 18
         Me.txttien.Name = "txttien"
         Me.txttien.NumberDecimalDigits = 0
-        Me.txttien.Size = New System.Drawing.Size(696, 45)
+        Me.txttien.Size = New System.Drawing.Size(567, 45)
         Me.txttien.TabIndex = 8
         Me.txttien.Text = "0"
         Me.txttien.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.txttien.Value = 0
-        Me.txttien.Value2 = 0
+        Me.txttien.Value = 0R
+        Me.txttien.Value2 = 0R
         Me.txttien.Visible = False
         '
         'txtma_vt
         '
         Me.txtma_vt.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.txtma_vt.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
         Me.txtma_vt.Font = New System.Drawing.Font("Microsoft Sans Serif", 25.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.txtma_vt.Location = New System.Drawing.Point(3, 30)
         Me.txtma_vt.Name = "txtma_vt"
-        Me.txtma_vt.Size = New System.Drawing.Size(696, 45)
+        Me.txtma_vt.Size = New System.Drawing.Size(567, 45)
         Me.txtma_vt.TabIndex = 7
         '
         'txtSo_luong
         '
         Me.txtSo_luong.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.txtSo_luong.Font = New System.Drawing.Font("Microsoft Sans Serif", 25.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.txtSo_luong.Location = New System.Drawing.Point(3, 30)
         Me.txtSo_luong.MaxLength = 18
         Me.txtSo_luong.Name = "txtSo_luong"
         Me.txtSo_luong.NumberDecimalDigits = 2
-        Me.txtSo_luong.Size = New System.Drawing.Size(696, 45)
+        Me.txtSo_luong.Size = New System.Drawing.Size(567, 45)
         Me.txtSo_luong.TabIndex = 6
         Me.txtSo_luong.Text = "1.00"
         Me.txtSo_luong.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.txtSo_luong.Value = 1
-        Me.txtSo_luong.Value2 = 1
+        Me.txtSo_luong.Value = 1.0R
+        Me.txtSo_luong.Value2 = 1.0R
         Me.txtSo_luong.Visible = False
         '
         'lblten_kh
@@ -560,18 +580,18 @@ Partial Class frmMain
         'txtMa_kh
         '
         Me.txtMa_kh.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.txtMa_kh.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
         Me.txtMa_kh.Font = New System.Drawing.Font("Microsoft Sans Serif", 25.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.txtMa_kh.Location = New System.Drawing.Point(3, 30)
         Me.txtMa_kh.Name = "txtMa_kh"
-        Me.txtMa_kh.Size = New System.Drawing.Size(696, 45)
+        Me.txtMa_kh.Size = New System.Drawing.Size(567, 45)
         Me.txtMa_kh.TabIndex = 0
         '
         'functuionPanel
         '
         Me.functuionPanel.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.functuionPanel.Controls.Add(Me.logo)
         Me.functuionPanel.Controls.Add(Me.btnBack)
         Me.functuionPanel.Controls.Add(Me.btnF10)
@@ -589,6 +609,14 @@ Partial Class frmMain
         Me.functuionPanel.Name = "functuionPanel"
         Me.functuionPanel.Size = New System.Drawing.Size(1169, 77)
         Me.functuionPanel.TabIndex = 0
+        '
+        'logo
+        '
+        Me.logo.Location = New System.Drawing.Point(1034, 3)
+        Me.logo.Name = "logo"
+        Me.logo.Size = New System.Drawing.Size(278, 70)
+        Me.logo.TabIndex = 15
+        Me.logo.TabStop = False
         '
         'btnBack
         '
@@ -793,28 +821,52 @@ Partial Class frmMain
         '
         Me.gridsanpham.AllowUserToAddRows = False
         Me.gridsanpham.AllowUserToDeleteRows = False
-        Me.gridsanpham.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.gridsanpham.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.gridsanpham.BackgroundColor = System.Drawing.Color.White
         Me.gridsanpham.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.gridsanpham.Location = New System.Drawing.Point(0, 1)
+        Me.gridsanpham.Location = New System.Drawing.Point(579, 1)
         Me.gridsanpham.Name = "gridsanpham"
         Me.gridsanpham.ReadOnly = True
         Me.gridsanpham.RowHeadersVisible = False
-        DataGridViewCellStyle17.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.gridsanpham.RowsDefaultCellStyle = DataGridViewCellStyle17
-        Me.gridsanpham.Size = New System.Drawing.Size(1175, 228)
+        DataGridViewCellStyle2.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.gridsanpham.RowsDefaultCellStyle = DataGridViewCellStyle2
+        Me.gridsanpham.Size = New System.Drawing.Size(596, 228)
         Me.gridsanpham.TabIndex = 15
         Me.gridsanpham.TabStop = False
         '
-        'logo
+        'Label9
         '
-        Me.logo.Location = New System.Drawing.Point(1034, 3)
-        Me.logo.Name = "logo"
-        Me.logo.Size = New System.Drawing.Size(278, 70)
-        Me.logo.TabIndex = 15
-        Me.logo.TabStop = False
+        Me.Label9.AutoSize = True
+        Me.Label9.Location = New System.Drawing.Point(4, 9)
+        Me.Label9.Name = "Label9"
+        Me.Label9.Size = New System.Drawing.Size(84, 13)
+        Me.Label9.TabIndex = 22
+        Me.Label9.Text = "Nhóm sản phẩm"
+        '
+        'cbbnh_sp
+        '
+        Me.cbbnh_sp.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.cbbnh_sp.FormattingEnabled = True
+        Me.cbbnh_sp.Location = New System.Drawing.Point(176, 6)
+        Me.cbbnh_sp.Name = "cbbnh_sp"
+        Me.cbbnh_sp.Size = New System.Drawing.Size(399, 21)
+        Me.cbbnh_sp.TabIndex = 21
+        Me.cbbnh_sp.TabStop = False
+        '
+        'dssanpham
+        '
+        Me.dssanpham.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.dssanpham.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.dssanpham.Location = New System.Drawing.Point(0, 33)
+        Me.dssanpham.Name = "dssanpham"
+        Me.dssanpham.Size = New System.Drawing.Size(580, 196)
+        Me.dssanpham.TabIndex = 20
+        Me.dssanpham.TabStop = False
+        Me.dssanpham.UseCompatibleStateImageBehavior = False
         '
         'frmMain
         '
@@ -822,6 +874,9 @@ Partial Class frmMain
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.CausesValidation = False
         Me.ClientSize = New System.Drawing.Size(1175, 585)
+        Me.Controls.Add(Me.Label9)
+        Me.Controls.Add(Me.cbbnh_sp)
+        Me.Controls.Add(Me.dssanpham)
         Me.Controls.Add(Me.inputPanel)
         Me.Controls.Add(Me.gridsanpham)
         Me.Controls.Add(Me.StatusStrip1)
@@ -840,8 +895,8 @@ Partial Class frmMain
         Me.keyPanel.ResumeLayout(False)
         Me.keyPanel.PerformLayout()
         Me.functuionPanel.ResumeLayout(False)
-        CType(Me.gridsanpham, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.logo, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.gridsanpham, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -900,5 +955,9 @@ Partial Class frmMain
     Friend WithEvents txtstatus As System.Windows.Forms.ToolStripStatusLabel
     Friend WithEvents btnbangiao As System.Windows.Forms.Button
     Friend WithEvents logo As System.Windows.Forms.PictureBox
-
+    Friend WithEvents btnqlthegiamgia As System.Windows.Forms.Button
+    Friend WithEvents SerialPort1 As System.IO.Ports.SerialPort
+    Friend WithEvents Label9 As Label
+    Friend WithEvents cbbnh_sp As ComboBox
+    Friend WithEvents dssanpham As ListView
 End Class

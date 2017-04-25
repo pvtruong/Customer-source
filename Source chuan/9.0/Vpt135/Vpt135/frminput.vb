@@ -144,6 +144,9 @@ Public Class frminput
         For Each detail As ClsSV31.TabDetail20 In Voucher.Tabdetails.Values
             detail.bindingsource.DataSource = Nothing
             For Each r As DataRow In detail.Datatable.Rows
+                If r.RowState = DataRowState.Deleted Then
+                    Continue For
+                End If
                 If cbbma_gd.SelectedValue <> 1 Then
                     If detail.Datatable.Columns.Contains("ty_gia_gs_co") Then
                         If chbtg_gs_dd_yn.Checked = False Then
@@ -170,7 +173,6 @@ Public Class frminput
             sqltattoan = conn.GetInsertQueryFromDatatable(Voucher.Tabdetails("tdttno").Datatable, Voucher.Tabdetails("vdpt1").TableName)
             conn.Execute(sqltattoan)
             Dim tbdetail As DataTable = conn.GetDatatable("select * from vdpt1 where stt_rec ='" & Voucher.Stt_rec & "'")
-            '  Clsql.Data.CopyTable(Voucher.Tabdetails("tdttno").Datatable, Voucher.Tabdetails("vdpt1").DatatableView, "1=1", "stt_rec='" & Voucher.Stt_rec & "'")
             Clsql.Data.CopyTable(tbdetail, Voucher.Tabdetails("vdpt1").DatatableView, "1=1", "stt_rec='" & Voucher.Stt_rec & "'")
             tbdetail.Dispose()
         End If
@@ -320,38 +322,47 @@ Public Class frminput
     End Sub
 
     Private Sub btngethoadon_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btngethoadon.Click
-        If layhd.Show("Exec GetInvoice4Rec " & conn.ConvertToSQLType(txtma_kh.Text) & "," & conn.ConvertToSQLType(Txtngay_ct.Value) & "," & Voucher.Action & ",'" & Voucher.Stt_rec & "'") = Windows.Forms.DialogResult.OK Then
+        Dim filter As New frmfilterHD
+        filter.Txttu_ngay.Value = DateSerial(Txtngay_ct.Value.Year, 1, 1)
+        filter.Txtden_ngay.Value = Txtngay_ct.Value
+        filter.txtma_kh.Text = txtma_kh.Text
+        filter.Icon = Me.Icon
+        filter.StartPosition = FormStartPosition.CenterParent
+        If filter.ShowDialog(Me) = DialogResult.OK Then
+            If layhd.Show("Exec GetInvoice4Rec_multi " & conn.ConvertToSQLType(filter.txtma_kh.Text) & "," & conn.ConvertToSQLType(filter.txtso_hd.Text) & "," & conn.ConvertToSQLType(filter.txtso_ct.Text) & "," & conn.ConvertToSQLType(filter.Txttu_ngay.Value) & "," & conn.ConvertToSQLType(filter.Txtden_ngay.Value) & "," & Voucher.Action & ",'" & Voucher.Stt_rec & "'") = Windows.Forms.DialogResult.OK Then
 
-            Voucher.Tabdetails("tdttno").bindingsource.DataSource = Nothing
-            Voucher.Tabdetails("tdttno").Datatable.Clear()
+                Voucher.Tabdetails("tdttno").bindingsource.DataSource = Nothing
+                Voucher.Tabdetails("tdttno").Datatable.Clear()
 
-            'For Each r As DataRow In layhd.DataView.Table.Select("sel = false")
-            '    r.Delete()
-            'Next
-            Clsql.Data.CopyTableSame(layhd.DataView.Table, Voucher.Tabdetails("tdttno").Datatable, "sel=true")
-            'set gia tri mac dinh
-            For Each r As DataRow In Voucher.Tabdetails("tdttno").Datatable.Rows
-                For Each df As String In Voucher.Tabdetails("tdttno").ProcessOnGrid.DefaultOnGrids.Keys
-                    If r.Table.Columns.Contains(df) AndAlso String.IsNullOrEmpty(r(df)) Then
-                        If Voucher.Tabdetails("tdttno").Datatable.Columns(df).DataType.ToString.Contains("Boolean") Then
-                            If Voucher.Tabdetails("tdttno").ProcessOnGrid.DefaultOnGrids.Item(df) = "1" Then
-                                r(df) = True
+                'For Each r As DataRow In layhd.DataView.Table.Select("sel = false")
+                '    r.Delete()
+                'Next
+                Clsql.Data.CopyTableSame(layhd.DataView.Table, Voucher.Tabdetails("tdttno").Datatable, "sel=true")
+                'set gia tri mac dinh
+                For Each r As DataRow In Voucher.Tabdetails("tdttno").Datatable.Rows
+                    For Each df As String In Voucher.Tabdetails("tdttno").ProcessOnGrid.DefaultOnGrids.Keys
+                        If r.Table.Columns.Contains(df) AndAlso String.IsNullOrEmpty(r(df)) Then
+                            If Voucher.Tabdetails("tdttno").Datatable.Columns(df).DataType.ToString.Contains("Boolean") Then
+                                If Voucher.Tabdetails("tdttno").ProcessOnGrid.DefaultOnGrids.Item(df) = "1" Then
+                                    r(df) = True
+                                Else
+                                    r(df) = False
+                                End If
                             Else
-                                r(df) = False
+                                r(df) = Voucher.Tabdetails("tdttno").ProcessOnGrid.DefaultOnGrids.Item(df)
                             End If
-                        Else
-                            r(df) = Voucher.Tabdetails("tdttno").ProcessOnGrid.DefaultOnGrids.Item(df)
                         End If
-                    End If
 
 
+                    Next
                 Next
-            Next
-            'Voucher.Tabdetails("tdttno").Datatable = layhd.DataView.Table
-            Voucher.Tabdetails("tdttno").bindingsource.DataSource = Voucher.Tabdetails("tdttno").Datatable
+                'Voucher.Tabdetails("tdttno").Datatable = layhd.DataView.Table
+                Voucher.Tabdetails("tdttno").bindingsource.DataSource = Voucher.Tabdetails("tdttno").Datatable
 
-            SendKeys.Send("{tab}")
+                SendKeys.Send("{tab}")
+            End If
         End If
+
     End Sub
 
     Private Sub laydulieutuhoadonToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btngetdatafromhd.Click

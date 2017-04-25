@@ -1,0 +1,55 @@
+D:\SOURCE\ACC\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\rptbcbh2chitieu.exe
+D:\SOURCE\ACC\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\rptbcbh2chitieu.pdb
+D:\SOURCE\ACC\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\rptbcbh2chitieu.xml
+D:\SOURCE\ACC\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\ClPrint.dll
+D:\SOURCE\ACC\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\ClsControl2.dll
+D:\SOURCE\ACC\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\ClsLookup.dll
+D:\SOURCE\ACC\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\Clsql.dll
+D:\SOURCE\ACC\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\ClsRpt.dll
+D:\SOURCE\ACC\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\clsViDe.dll
+D:\SOURCE\ACC\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\ACC\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\clsab.dll
+D:\SOURCE\ACC\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\ACC\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\clsPopUp.dll
+D:\SOURCE\ACC\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\ClsPilot.dll
+D:\SOURCE\ACC\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\ClsRight.dll
+D:\SOURCE\ACC\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\Interop.Excel.dll
+D:\SOURCE\ACC\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\ACC\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\ClsMath.dll
+D:\SOURCE\ACC\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\ACC\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\obj\Debug\rptbcbh2chitieu.frmfilter.resources
+D:\SOURCE\ACC\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\obj\Debug\rptbcbh2chitieu.MainForm.resources
+D:\SOURCE\ACC\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\obj\Debug\rptbcbh2chitieu.Resources.resources
+D:\SOURCE\ACC\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\obj\Debug\rptbcbh2chitieu.vbproj.GenerateResource.Cache
+D:\SOURCE\ACC\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\obj\Debug\rptbcbh2chitieu.exe
+D:\SOURCE\ACC\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\obj\Debug\rptbcbh2chitieu.xml
+D:\SOURCE\ACC\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\obj\Debug\rptbcbh2chitieu.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\obj\Debug\rptbcbh2chitieu.exe
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\obj\Debug\rptbcbh2chitieu.xml
+J:\STP01\#E\STP SOURCE\ACC\3.5\Rpt\rptbcbh2chitieu\rptbcbh2chitieu\obj\Debug\rptbcbh2chitieu.pdb
+D:\Source\acc\7.1\rpt\rptbcbh2chitieu\rptbcbh2chitieu\obj\Debug\rptbcbh2chitieu.exe
+D:\Source\acc\7.1\rpt\rptbcbh2chitieu\rptbcbh2chitieu\obj\Debug\rptbcbh2chitieu.xml
+D:\Source\acc\7.1\rpt\rptbcbh2chitieu\rptbcbh2chitieu\obj\Debug\rptbcbh2chitieu.pdb
+D:\Source\acc\7.1\rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\rptbcbh2chitieu.exe
+D:\Source\acc\7.1\rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\rptbcbh2chitieu.pdb
+D:\Source\acc\7.1\rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\rptbcbh2chitieu.xml
+D:\Source\acc\7.1\rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\office.dll
+D:\Source\acc\7.1\rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\Ionic.Zip.dll
+D:\Source\acc\7.1\rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\clsab.dll
+D:\Source\acc\7.1\rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\DriveInfoEx.dll
+D:\Source\acc\7.1\rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Source\acc\7.1\rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\clsPopUp.dll
+D:\Source\acc\7.1\rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\ClsPilot.dll
+D:\Source\acc\7.1\rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\ClsRight.dll
+D:\Source\acc\7.1\rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\Interop.Excel.dll
+D:\Source\acc\7.1\rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\ClsSqlRemoting.dll
+D:\Source\acc\7.1\rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\ClsMath.dll
+D:\Source\acc\7.1\rpt\rptbcbh2chitieu\rptbcbh2chitieu\bin\Debug\office.xml
+D:\Source\acc\7.1\rpt\rptbcbh2chitieu\rptbcbh2chitieu\obj\Debug\ResolveAssemblyReference.cache
+D:\Source\acc\7.1\rpt\rptbcbh2chitieu\rptbcbh2chitieu\obj\Debug\rptbcbh2chitieu.frmfilter.resources
+D:\Source\acc\7.1\rpt\rptbcbh2chitieu\rptbcbh2chitieu\obj\Debug\rptbcbh2chitieu.MainForm.resources
+D:\Source\acc\7.1\rpt\rptbcbh2chitieu\rptbcbh2chitieu\obj\Debug\rptbcbh2chitieu.Resources.resources
+D:\Source\acc\7.1\rpt\rptbcbh2chitieu\rptbcbh2chitieu\obj\Debug\rptbcbh2chitieu.vbproj.GenerateResource.Cache
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\rptbcbhnchitieu\rptbcbhnchitieu\obj\Debug\rptbcbh2chitieu.exe
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\rptbcbhnchitieu\rptbcbhnchitieu\obj\Debug\rptbcbh2chitieu.xml
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\rptbcbhnchitieu\rptbcbhnchitieu\obj\Debug\rptbcbh2chitieu.pdb

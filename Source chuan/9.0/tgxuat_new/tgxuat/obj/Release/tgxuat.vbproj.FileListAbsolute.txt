@@ -143,3 +143,9 @@ C:\Users\Truong\Box Sync\acc\9.0\tgxuat_new\tgxuat\obj\Release\tgxuat.Form1.reso
 C:\Users\Truong\Box Sync\acc\9.0\tgxuat_new\tgxuat\obj\Release\tgxuat.frmError.resources
 C:\Users\Truong\Box Sync\acc\9.0\tgxuat_new\tgxuat\obj\Release\tgxuat.Resources.resources
 C:\Users\Truong\Box Sync\acc\9.0\tgxuat_new\tgxuat\obj\Release\tgxuat.vbproj.GenerateResource.Cache
+C:\Users\Truong\Box Sync\acc\9.0\tgxuat_new\tgxuat\bin\Release\tgxuat.exe.config
+C:\Users\Truong\Box Sync\acc\9.0\tgxuat_new\tgxuat\bin\Release\System.Windows.Forms.DataVisualization.dll
+C:\Users\invnc\Google Drive\STP Enterprice\acc\9.0\tgxuat_new\tgxuat\bin\Release\tgxuat.exe.config
+C:\Users\invnc\Google Drive\STP Enterprice\acc\9.0\tgxuat_new\tgxuat\obj\Release\tgxuat.exe
+C:\Users\invnc\Google Drive\STP Enterprice\acc\9.0\tgxuat_new\tgxuat\obj\Release\tgxuat.xml
+C:\Users\invnc\Google Drive\STP Enterprice\acc\9.0\tgxuat_new\tgxuat\obj\Release\tgxuat.pdb

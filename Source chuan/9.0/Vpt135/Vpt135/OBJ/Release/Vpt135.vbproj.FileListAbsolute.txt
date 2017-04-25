@@ -153,3 +153,28 @@ C:\Users\Truong\Box Sync\acc\9.0\Vpt135\Vpt135\bin\Release\clschat.dll
 C:\Users\Truong\Box Sync\acc\9.0\Vpt135\Vpt135\bin\Release\ClsVno.dll
 C:\Users\Truong\Box Sync\acc\9.0\Vpt135\Vpt135\bin\Release\stdole.dll
 C:\Users\Truong\Box Sync\acc\9.0\Vpt135\Vpt135\obj\Release\Vpt1.exe
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vpt135\Vpt135\obj\Release\Vpt1.exe
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vpt135\Vpt135\obj\Release\Vpt1.xml
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vpt135\Vpt135\obj\Release\Vpt1.pdb
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vpt135\Vpt135\bin\Release\Vpt1.exe
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vpt135\Vpt135\bin\Release\Vpt1.pdb
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vpt135\Vpt135\bin\Release\Vpt1.xml
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vpt135\Vpt135\bin\Release\System.Windows.Forms.DataVisualization.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vpt135\Vpt135\bin\Release\clsViDe.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vpt135\Vpt135\bin\Release\ClsMath.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vpt135\Vpt135\bin\Release\clsPopUp.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vpt135\Vpt135\bin\Release\Ionic.Zip.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vpt135\Vpt135\bin\Release\clsab.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vpt135\Vpt135\bin\Release\Eval3.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vpt135\Vpt135\bin\Release\clschat.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vpt135\Vpt135\bin\Release\ClsVno.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vpt135\Vpt135\bin\Release\stdole.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vpt135\Vpt135\obj\Release\Vpt135.vbprojResolveAssemblyReference.cache
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vpt135\Vpt135\obj\Release\Vpt1.frmdklayhd.resources
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vpt135\Vpt135\obj\Release\Vpt1.frmPrint.resources
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vpt135\Vpt135\obj\Release\Vpt1.frmsearch.resources
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vpt135\Vpt135\obj\Release\Vpt1.Frmmain.resources
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vpt135\Vpt135\obj\Release\Vpt1.frminput.resources
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vpt135\Vpt135\obj\Release\Vpt1.Resources.resources
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vpt135\Vpt135\obj\Release\Vpt135.vbproj.GenerateResource.Cache
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vpt135\Vpt135\obj\Release\Vpt1.frmfilterHD.resources

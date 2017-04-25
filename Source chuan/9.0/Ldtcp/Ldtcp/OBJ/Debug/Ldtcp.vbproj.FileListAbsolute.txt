@@ -1,0 +1,107 @@
+E:\VNT\Ldtcp\Ldtcp\bin\Debug\Ldtcp.exe
+E:\VNT\Ldtcp\Ldtcp\bin\Debug\Ldtcp.pdb
+E:\VNT\Ldtcp\Ldtcp\bin\Debug\Ldtcp.xml
+E:\VNT\Ldtcp\Ldtcp\bin\Debug\ClsControl2.dll
+E:\VNT\Ldtcp\Ldtcp\bin\Debug\ClsList.dll
+E:\VNT\Ldtcp\Ldtcp\bin\Debug\ClsLookup.dll
+E:\VNT\Ldtcp\Ldtcp\bin\Debug\Clsql.dll
+E:\VNT\Ldtcp\Ldtcp\bin\Debug\Interop.Excel.dll
+E:\VNT\Ldtcp\Ldtcp\bin\Debug\DriveInfoEx.dll
+E:\VNT\Ldtcp\Ldtcp\bin\Debug\ClsMsg.dll
+E:\VNT\Ldtcp\Ldtcp\bin\Debug\ClsRight.dll
+E:\VNT\Ldtcp\Ldtcp\bin\Debug\ClPrint.dll
+E:\VNT\Ldtcp\Ldtcp\bin\Debug\Control.dll
+E:\VNT\Ldtcp\Ldtcp\bin\Debug\office.dll
+E:\VNT\Ldtcp\Ldtcp\bin\Debug\clsPopUp.dll
+E:\VNT\Ldtcp\Ldtcp\bin\Debug\ClsMath.dll
+E:\VNT\Ldtcp\Ldtcp\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\VNT\Ldtcp\Ldtcp\bin\Debug\Form.dll
+E:\VNT\Ldtcp\Ldtcp\obj\Debug\ResolveAssemblyReference.cache
+E:\VNT\Ldtcp\Ldtcp\obj\Debug\Ldtcp.Frmmain.resources
+E:\VNT\Ldtcp\Ldtcp\obj\Debug\Ldtcp.frminput.resources
+E:\VNT\Ldtcp\Ldtcp\obj\Debug\Ldtcp.Resources.resources
+E:\VNT\Ldtcp\Ldtcp\obj\Debug\Ldtcp.vbproj.GenerateResource.Cache
+E:\VNT\Ldtcp\Ldtcp\obj\Debug\Ldtcp.exe
+E:\VNT\Ldtcp\Ldtcp\obj\Debug\Ldtcp.xml
+E:\VNT\Ldtcp\Ldtcp\obj\Debug\Ldtcp.pdb
+D:\SOURCE\CRM\Ldtcp\Ldtcp\obj\Debug\Ldtcp.exe
+D:\SOURCE\CRM\Ldtcp\Ldtcp\obj\Debug\Ldtcp.xml
+D:\SOURCE\CRM\Ldtcp\Ldtcp\obj\Debug\Ldtcp.pdb
+D:\SOURCE\CRM\Ldtcp\Ldtcp\bin\Debug\Ldtcp.exe
+D:\SOURCE\CRM\Ldtcp\Ldtcp\bin\Debug\Ldtcp.pdb
+D:\SOURCE\CRM\Ldtcp\Ldtcp\bin\Debug\Ldtcp.xml
+D:\SOURCE\CRM\Ldtcp\Ldtcp\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\CRM\Ldtcp\Ldtcp\bin\Debug\ClsRight.dll
+D:\SOURCE\CRM\Ldtcp\Ldtcp\bin\Debug\clsPopUp.dll
+D:\SOURCE\CRM\Ldtcp\Ldtcp\bin\Debug\ClsMath.dll
+D:\SOURCE\CRM\Ldtcp\Ldtcp\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\CRM\Ldtcp\Ldtcp\obj\Debug\Ldtcp.Frmmain.resources
+D:\SOURCE\CRM\Ldtcp\Ldtcp\obj\Debug\Ldtcp.frminput.resources
+D:\SOURCE\CRM\Ldtcp\Ldtcp\obj\Debug\Ldtcp.Resources.resources
+D:\SOURCE\CRM\Ldtcp\Ldtcp\obj\Debug\Ldtcp.vbproj.GenerateResource.Cache
+D:\SOURCE\CRM\Ldtcp\Ldtcp\bin\Debug\ClsControl2.dll
+D:\SOURCE\CRM\Ldtcp\Ldtcp\bin\Debug\ClsList.dll
+D:\SOURCE\CRM\Ldtcp\Ldtcp\bin\Debug\ClsLookup.dll
+D:\SOURCE\CRM\Ldtcp\Ldtcp\bin\Debug\Clsql.dll
+D:\SOURCE\CRM\Ldtcp\Ldtcp\bin\Debug\clsab.dll
+D:\SOURCE\CRM\Ldtcp\Ldtcp\bin\Debug\Interop.Excel.dll
+D:\SOURCE\CRM\Ldtcp\Ldtcp\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\CRM\Ldtcp\Ldtcp\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\CRM\Ldtcp\Ldtcp\bin\Debug\clsPermit4Field.dll
+D:\SOURCE\ACC\List\Ldtcp\Ldtcp\obj\Debug\Ldtcp.exe
+D:\SOURCE\ACC\List\Ldtcp\Ldtcp\obj\Debug\Ldtcp.xml
+D:\SOURCE\ACC\List\Ldtcp\Ldtcp\obj\Debug\Ldtcp.pdb
+D:\SOURCE\ACC\List\Ldtcp\Ldtcp\bin\Debug\Ldtcp.exe
+D:\SOURCE\ACC\List\Ldtcp\Ldtcp\bin\Debug\Ldtcp.pdb
+D:\SOURCE\ACC\List\Ldtcp\Ldtcp\bin\Debug\Ldtcp.xml
+D:\SOURCE\ACC\List\Ldtcp\Ldtcp\bin\Debug\ClsControl2.dll
+D:\SOURCE\ACC\List\Ldtcp\Ldtcp\bin\Debug\ClsList.dll
+D:\SOURCE\ACC\List\Ldtcp\Ldtcp\bin\Debug\ClsLookup.dll
+D:\SOURCE\ACC\List\Ldtcp\Ldtcp\bin\Debug\Clsql.dll
+D:\SOURCE\ACC\List\Ldtcp\Ldtcp\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\ACC\List\Ldtcp\Ldtcp\bin\Debug\ClsVno.dll
+D:\SOURCE\ACC\List\Ldtcp\Ldtcp\bin\Debug\Interop.SQLDMO.dll
+D:\SOURCE\ACC\List\Ldtcp\Ldtcp\bin\Debug\ClsRight.dll
+D:\SOURCE\ACC\List\Ldtcp\Ldtcp\bin\Debug\ClsMath.dll
+D:\SOURCE\ACC\List\Ldtcp\Ldtcp\bin\Debug\clsab.dll
+D:\SOURCE\ACC\List\Ldtcp\Ldtcp\bin\Debug\Interop.Excel.dll
+D:\SOURCE\ACC\List\Ldtcp\Ldtcp\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\ACC\List\Ldtcp\Ldtcp\bin\Debug\clsPopUp.dll
+D:\SOURCE\ACC\List\Ldtcp\Ldtcp\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\ACC\List\Ldtcp\Ldtcp\bin\Debug\clsPermit4Field.dll
+D:\SOURCE\ACC\List\Ldtcp\Ldtcp\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\ACC\List\Ldtcp\Ldtcp\obj\Debug\Ldtcp.Frmmain.resources
+D:\SOURCE\ACC\List\Ldtcp\Ldtcp\obj\Debug\Ldtcp.frminput.resources
+D:\SOURCE\ACC\List\Ldtcp\Ldtcp\obj\Debug\Ldtcp.Resources.resources
+D:\SOURCE\ACC\List\Ldtcp\Ldtcp\obj\Debug\Ldtcp.vbproj.GenerateResource.Cache
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldtcp\Ldtcp\obj\Debug\Ldtcp.exe
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldtcp\Ldtcp\obj\Debug\Ldtcp.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldtcp\Ldtcp\obj\Debug\Ldtcp.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldtcp\Ldtcp\bin\Debug\Ldtcp.exe
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldtcp\Ldtcp\bin\Debug\Ldtcp.pdb
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldtcp\Ldtcp\bin\Debug\Ldtcp.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldtcp\Ldtcp\bin\Debug\DriveInfoEx.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldtcp\Ldtcp\bin\Debug\ClsVno.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldtcp\Ldtcp\bin\Debug\Interop.SQLDMO.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldtcp\Ldtcp\bin\Debug\ClsRight.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldtcp\Ldtcp\bin\Debug\ClsMath.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldtcp\Ldtcp\bin\Debug\clsab.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldtcp\Ldtcp\bin\Debug\Interop.Excel.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldtcp\Ldtcp\bin\Debug\office.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldtcp\Ldtcp\bin\Debug\ClsSqlRemoting.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldtcp\Ldtcp\bin\Debug\clsPopUp.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldtcp\Ldtcp\bin\Debug\Ionic.Zip.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldtcp\Ldtcp\bin\Debug\Microsoft.Vbe.Interop.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldtcp\Ldtcp\bin\Debug\clsPermit4Field.dll
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldtcp\Ldtcp\bin\Debug\office.xml
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldtcp\Ldtcp\obj\Debug\ResolveAssemblyReference.cache
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldtcp\Ldtcp\obj\Debug\Ldtcp.Frmmain.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldtcp\Ldtcp\obj\Debug\Ldtcp.frminput.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldtcp\Ldtcp\obj\Debug\Ldtcp.Resources.resources
+J:\STP01\#E\STP SOURCE\ACC\3.0\List\Ldtcp\Ldtcp\obj\Debug\Ldtcp.vbproj.GenerateResource.Cache
+D:\Source\acc\5.0\list\Ldtcp\Ldtcp\obj\Debug\Ldtcp.exe
+D:\Source\acc\5.0\list\Ldtcp\Ldtcp\obj\Debug\Ldtcp.xml
+D:\Source\acc\5.0\list\Ldtcp\Ldtcp\obj\Debug\Ldtcp.pdb
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\obj\Debug\Ldtcp.exe
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\obj\Debug\Ldtcp.xml
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Ldtcp\Ldtcp\obj\Debug\Ldtcp.pdb

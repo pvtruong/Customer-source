@@ -1,0 +1,29 @@
+E:\STP SOURCE\ACC\3.0\List\Lgtcthspb\Lgtcthspb\bin\Debug\Lgtcthspb.exe
+E:\STP SOURCE\ACC\3.0\List\Lgtcthspb\Lgtcthspb\bin\Debug\Lgtcthspb.pdb
+E:\STP SOURCE\ACC\3.0\List\Lgtcthspb\Lgtcthspb\bin\Debug\Lgtcthspb.xml
+E:\STP SOURCE\ACC\3.0\List\Lgtcthspb\Lgtcthspb\bin\Debug\ClsControl2.dll
+E:\STP SOURCE\ACC\3.0\List\Lgtcthspb\Lgtcthspb\bin\Debug\ClsList.dll
+E:\STP SOURCE\ACC\3.0\List\Lgtcthspb\Lgtcthspb\bin\Debug\ClsLookup.dll
+E:\STP SOURCE\ACC\3.0\List\Lgtcthspb\Lgtcthspb\bin\Debug\Clsql.dll
+E:\STP SOURCE\ACC\3.0\List\Lgtcthspb\Lgtcthspb\bin\Debug\ClsStpService.dll
+E:\STP SOURCE\ACC\3.0\List\Lgtcthspb\Lgtcthspb\bin\Debug\ClsRight.dll
+E:\STP SOURCE\ACC\3.0\List\Lgtcthspb\Lgtcthspb\bin\Debug\ClsMath.dll
+E:\STP SOURCE\ACC\3.0\List\Lgtcthspb\Lgtcthspb\bin\Debug\clsab.dll
+E:\STP SOURCE\ACC\3.0\List\Lgtcthspb\Lgtcthspb\bin\Debug\Interop.Excel.dll
+E:\STP SOURCE\ACC\3.0\List\Lgtcthspb\Lgtcthspb\bin\Debug\office.dll
+E:\STP SOURCE\ACC\3.0\List\Lgtcthspb\Lgtcthspb\bin\Debug\clsPopUp.dll
+E:\STP SOURCE\ACC\3.0\List\Lgtcthspb\Lgtcthspb\bin\Debug\ClsVno.dll
+E:\STP SOURCE\ACC\3.0\List\Lgtcthspb\Lgtcthspb\bin\Debug\Ionic.Zip.dll
+E:\STP SOURCE\ACC\3.0\List\Lgtcthspb\Lgtcthspb\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\STP SOURCE\ACC\3.0\List\Lgtcthspb\Lgtcthspb\bin\Debug\clsPermit4Field.dll
+E:\STP SOURCE\ACC\3.0\List\Lgtcthspb\Lgtcthspb\obj\Debug\ResolveAssemblyReference.cache
+E:\STP SOURCE\ACC\3.0\List\Lgtcthspb\Lgtcthspb\obj\Debug\Lgtcthspb.Frmmain.resources
+E:\STP SOURCE\ACC\3.0\List\Lgtcthspb\Lgtcthspb\obj\Debug\Lgtcthspb.frmfilter.resources
+E:\STP SOURCE\ACC\3.0\List\Lgtcthspb\Lgtcthspb\obj\Debug\Lgtcthspb.frminput.resources
+E:\STP SOURCE\ACC\3.0\List\Lgtcthspb\Lgtcthspb\obj\Debug\Lgtcthspb.Resources.resources
+E:\STP SOURCE\ACC\3.0\List\Lgtcthspb\Lgtcthspb\obj\Debug\Lgtcthspb.vbproj.GenerateResource.Cache
+E:\STP SOURCE\ACC\3.0\List\Lgtcthspb\Lgtcthspb\obj\Debug\Lgtcthspb.exe
+E:\STP SOURCE\ACC\3.0\List\Lgtcthspb\Lgtcthspb\obj\Debug\Lgtcthspb.xml
+E:\STP SOURCE\ACC\3.0\List\Lgtcthspb\Lgtcthspb\obj\Debug\Lgtcthspb.pdb
+C:\Users\invnc\Google Drive\STP Enterprice\acc\9.1\Lgtcthspb\obj\Debug\Lgtcthspb.xml
+C:\Users\invnc\Google Drive\STP Enterprice\acc\9.1\Lgtcthspb\obj\Debug\Lgtcthspb.pdb

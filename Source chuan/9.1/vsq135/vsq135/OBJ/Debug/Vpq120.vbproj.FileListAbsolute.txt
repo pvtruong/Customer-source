@@ -1,0 +1,95 @@
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\obj\Debug\Vpo1.exe
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\obj\Debug\Vpo1.xml
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\obj\Debug\Vpo1.pdb
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\bin\Debug\Vpo1.exe
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\bin\Debug\Vpo1.pdb
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\bin\Debug\Vpo1.xml
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\bin\Debug\ClsControl2.dll
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\bin\Debug\ClsList.dll
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\bin\Debug\ClsLookup.dll
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\bin\Debug\Clsql.dll
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\bin\Debug\ClsRight.dll
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\bin\Debug\ClsRpt.dll
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\bin\Debug\ClsStpService.dll
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\bin\Debug\ClsSV.dll
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\bin\Debug\clsViDe.dll
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\bin\Debug\ClsVno.dll
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\bin\Debug\ClsMath.dll
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\bin\Debug\office.dll
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\bin\Debug\Ionic.Zip.dll
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\bin\Debug\clsab.dll
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\bin\Debug\ClPrint.dll
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\bin\Debug\clsPopUp.dll
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\bin\Debug\ClsPilot.dll
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\bin\Debug\clsPermit4Field.dll
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\bin\Debug\Interop.Excel.dll
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\obj\Debug\Vpo1.frmPrint.resources
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\obj\Debug\Vpo1.frmsearch.resources
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\obj\Debug\Vpo1.Frmmain.resources
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\obj\Debug\Vpo1.frminput.resources
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\obj\Debug\Vpo1.Resources.resources
+C:\Documents and Settings\Me\Desktop\Vpq120\Vpq120\obj\Debug\Vpq120.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\bin\Debug\ClsControl2.dll
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\bin\Debug\ClsList.dll
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\bin\Debug\ClsLookup.dll
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\bin\Debug\Clsql.dll
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\bin\Debug\ClsRight.dll
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\bin\Debug\ClsRpt.dll
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\bin\Debug\ClsStpService.dll
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\bin\Debug\ClsSV.dll
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\bin\Debug\clsViDe.dll
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\bin\Debug\ClsVno.dll
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\bin\Debug\ClsMath.dll
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\bin\Debug\office.dll
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\bin\Debug\Ionic.Zip.dll
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\bin\Debug\clsab.dll
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\bin\Debug\ClPrint.dll
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\bin\Debug\clsPopUp.dll
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\bin\Debug\ClsPilot.dll
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\bin\Debug\clsPermit4Field.dll
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\bin\Debug\Interop.Excel.dll
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\obj\Debug\Vpq120.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\bin\Debug\Vpq1.exe
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\bin\Debug\Vpq1.pdb
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\bin\Debug\Vpq1.xml
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\obj\Debug\Vpq1.frmPrint.resources
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\obj\Debug\Vpq1.frmsearch.resources
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\obj\Debug\Vpq1.Frmmain.resources
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\obj\Debug\Vpq1.frminput.resources
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\obj\Debug\Vpq1.Resources.resources
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\obj\Debug\Vpq1.exe
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\obj\Debug\Vpq1.xml
+C:\Documents and Settings\Me\Desktop\20101018_phieuyeucau\Vpq120\Vpq120\obj\Debug\Vpq1.pdb
+E:\STP SOURCE\ACC\3.0\purchase\Vpq120\Vpq120\obj\Debug\Vpq1.exe
+E:\STP SOURCE\ACC\3.0\purchase\Vpq120\Vpq120\obj\Debug\Vpq1.xml
+E:\STP SOURCE\ACC\3.0\purchase\Vpq120\Vpq120\obj\Debug\Vpq1.pdb
+E:\STP SOURCE\ACC\3.0\purchase\Vpq120\Vpq120\bin\Debug\Vpq1.exe
+E:\STP SOURCE\ACC\3.0\purchase\Vpq120\Vpq120\bin\Debug\Vpq1.pdb
+E:\STP SOURCE\ACC\3.0\purchase\Vpq120\Vpq120\bin\Debug\Vpq1.xml
+E:\STP SOURCE\ACC\3.0\purchase\Vpq120\Vpq120\bin\Debug\ClsVno.dll
+E:\STP SOURCE\ACC\3.0\purchase\Vpq120\Vpq120\bin\Debug\ClsMath.dll
+E:\STP SOURCE\ACC\3.0\purchase\Vpq120\Vpq120\bin\Debug\office.dll
+E:\STP SOURCE\ACC\3.0\purchase\Vpq120\Vpq120\bin\Debug\Ionic.Zip.dll
+E:\STP SOURCE\ACC\3.0\purchase\Vpq120\Vpq120\bin\Debug\clsab.dll
+E:\STP SOURCE\ACC\3.0\purchase\Vpq120\Vpq120\bin\Debug\ClPrint.dll
+E:\STP SOURCE\ACC\3.0\purchase\Vpq120\Vpq120\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\STP SOURCE\ACC\3.0\purchase\Vpq120\Vpq120\bin\Debug\clsPopUp.dll
+E:\STP SOURCE\ACC\3.0\purchase\Vpq120\Vpq120\bin\Debug\ClsPilot.dll
+E:\STP SOURCE\ACC\3.0\purchase\Vpq120\Vpq120\bin\Debug\clsPermit4Field.dll
+E:\STP SOURCE\ACC\3.0\purchase\Vpq120\Vpq120\bin\Debug\Interop.Excel.dll
+E:\STP SOURCE\ACC\3.0\purchase\Vpq120\Vpq120\obj\Debug\ResolveAssemblyReference.cache
+E:\STP SOURCE\ACC\3.0\purchase\Vpq120\Vpq120\obj\Debug\Vpq1.frmPrint.resources
+E:\STP SOURCE\ACC\3.0\purchase\Vpq120\Vpq120\obj\Debug\Vpq1.frmsearch.resources
+E:\STP SOURCE\ACC\3.0\purchase\Vpq120\Vpq120\obj\Debug\Vpq1.Frmmain.resources
+E:\STP SOURCE\ACC\3.0\purchase\Vpq120\Vpq120\obj\Debug\Vpq1.frminput.resources
+E:\STP SOURCE\ACC\3.0\purchase\Vpq120\Vpq120\obj\Debug\Vpq1.Resources.resources
+E:\STP SOURCE\ACC\3.0\purchase\Vpq120\Vpq120\obj\Debug\Vpq120.vbproj.GenerateResource.Cache
+E:\STP SOURCE\ACC\3.0\purchase\Vpq120\Vpq120\bin\Debug\ClsSV.dll
+E:\STP SOURCE\ACC\3.0\purchase\Vpq120\Vpq120\obj\Debug\Vpq1.frmlydo.resources
+E:\STP SOURCE\ACC\3.0\Sales\vsq120\vsq120\obj\Debug\Vpq1.exe
+E:\STP SOURCE\ACC\3.0\Sales\vsq120\vsq120\obj\Debug\Vpq1.xml
+E:\STP SOURCE\ACC\3.0\Sales\vsq120\vsq120\obj\Debug\Vpq1.pdb

@@ -1,0 +1,62 @@
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\bin\Debug\rptSocai.exe
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\bin\Debug\rptSocai.pdb
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\bin\Debug\rptSocai.xml
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\bin\Debug\ClPrint.dll
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\bin\Debug\ClsControl2.dll
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\bin\Debug\ClsLookup.dll
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\bin\Debug\Clsql.dll
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\bin\Debug\ClsRpt.dll
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\bin\Debug\clsViDe.dll
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\bin\Debug\ClsMath.dll
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\bin\Debug\Ionic.Zip.dll
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\bin\Debug\DriveInfoEx.dll
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\bin\Debug\Form.dll
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\bin\Debug\Control.dll
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\bin\Debug\clsPopUp.dll
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\bin\Debug\ClsPilot.dll
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\bin\Debug\ClsMsg.dll
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\bin\Debug\ClsRight.dll
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\bin\Debug\Interop.Excel.dll
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\bin\Debug\ClsSqlRemoting.dll
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\obj\Debug\rptSocai.frmfilter.resources
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\obj\Debug\rptSocai.MainForm.resources
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\obj\Debug\rptSocai.Resources.resources
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\obj\Debug\rptSocai.vbproj.GenerateResource.Cache
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\obj\Debug\rptSocai.exe
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\obj\Debug\rptSocai.xml
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\obj\Debug\rptSocai.pdb
+D:\SOURCE\CRM\Rpt\rptsocai\rptsocai\bin\Debug\clsab.dll
+D:\SOURCE\ACC\Rpt\rptsocai\rptsocai\obj\Debug\rptSocai.exe
+D:\SOURCE\ACC\Rpt\rptsocai\rptsocai\obj\Debug\rptSocai.xml
+D:\SOURCE\ACC\Rpt\rptsocai\rptsocai\obj\Debug\rptSocai.pdb
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocai\rptsocai\obj\Debug\rptSocai.exe
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocai\rptsocai\obj\Debug\rptSocai.xml
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocai\rptsocai\obj\Debug\rptSocai.pdb
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocai\rptsocai\bin\Debug\rptSocai.exe
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocai\rptsocai\bin\Debug\rptSocai.pdb
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocai\rptsocai\bin\Debug\rptSocai.xml
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocai\rptsocai\bin\Debug\ClPrint.dll
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocai\rptsocai\bin\Debug\ClsControl2.dll
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocai\rptsocai\bin\Debug\ClsLookup.dll
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocai\rptsocai\bin\Debug\Clsql.dll
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocai\rptsocai\bin\Debug\ClsRpt.dll
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocai\rptsocai\bin\Debug\clsViDe.dll
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocai\rptsocai\bin\Debug\ClsMath.dll
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocai\rptsocai\bin\Debug\office.dll
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocai\rptsocai\bin\Debug\Ionic.Zip.dll
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocai\rptsocai\bin\Debug\clsab.dll
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocai\rptsocai\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocai\rptsocai\bin\Debug\clsPopUp.dll
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocai\rptsocai\bin\Debug\ClsPilot.dll
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocai\rptsocai\bin\Debug\ClsStpService.dll
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocai\rptsocai\bin\Debug\Interop.Excel.dll
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocai\rptsocai\bin\Debug\ClsRight.dll
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocai\rptsocai\obj\Debug\ResolveAssemblyReference.cache
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocai\rptsocai\obj\Debug\rptSocai.frmfilter.resources
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocai\rptsocai\obj\Debug\rptSocai.MainForm.resources
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocai\rptsocai\obj\Debug\rptSocai.Resources.resources
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocai\rptsocai\obj\Debug\rptSocai.vbproj.GenerateResource.Cache
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocaitungtk\rptsocaitungtk\obj\Debug\rptSocai.exe
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocaitungtk\rptsocaitungtk\obj\Debug\rptSocai.xml
+E:\STP SOURCE\ACC\3.0\Rpt\rptsocaitungtk\rptsocaitungtk\obj\Debug\rptSocai.pdb

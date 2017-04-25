@@ -135,3 +135,29 @@ C:\Users\Truong\Downloads\Vxhd\Vxhd\obj\Release\Vxhd.Frmmain.resources
 C:\Users\Truong\Downloads\Vxhd\Vxhd\obj\Release\Vxhd.frminput.resources
 C:\Users\Truong\Downloads\Vxhd\Vxhd\obj\Release\Vxhd.Resources.resources
 C:\Users\Truong\Downloads\Vxhd\Vxhd\obj\Release\Vxhd.vbproj.GenerateResource.Cache
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vxhd\Vxhd\bin\Release\Vxhd.exe.config
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vxhd\Vxhd\obj\Release\Vxhd.exe
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vxhd\Vxhd\obj\Release\Vxhd.xml
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vxhd\Vxhd\obj\Release\Vxhd.pdb
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vxhd\Vxhd\bin\Release\Vxhd.exe
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vxhd\Vxhd\bin\Release\Vxhd.pdb
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vxhd\Vxhd\bin\Release\Vxhd.xml
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vxhd\Vxhd\bin\Release\System.Windows.Forms.DataVisualization.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vxhd\Vxhd\bin\Release\clsViDe.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vxhd\Vxhd\bin\Release\ClsMath.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vxhd\Vxhd\bin\Release\clsPopUp.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vxhd\Vxhd\bin\Release\clsab.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vxhd\Vxhd\bin\Release\Ionic.Zip.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vxhd\Vxhd\bin\Release\clschat.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vxhd\Vxhd\bin\Release\ClPrint.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vxhd\Vxhd\bin\Release\ClsVno.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vxhd\Vxhd\bin\Release\stdole.dll
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vxhd\Vxhd\obj\Release\Vxhd.vbprojResolveAssemblyReference.cache
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vxhd\Vxhd\obj\Release\Vxhd.frmdklayhd.resources
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vxhd\Vxhd\obj\Release\Vxhd.frmPrint.resources
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vxhd\Vxhd\obj\Release\Vxhd.frmsearch.resources
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vxhd\Vxhd\obj\Release\Vxhd.frmThuTien.resources
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vxhd\Vxhd\obj\Release\Vxhd.Frmmain.resources
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vxhd\Vxhd\obj\Release\Vxhd.frminput.resources
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vxhd\Vxhd\obj\Release\Vxhd.Resources.resources
+C:\Users\Truong\Google Drive\STP Enterprice\acc\9.0\Vxhd\Vxhd\obj\Release\Vxhd.vbproj.GenerateResource.Cache
