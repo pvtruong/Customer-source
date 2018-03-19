@@ -65,6 +65,16 @@ Namespace My
                 Me("ma_nvu") = value
             End Set
         End Property
+        
+        <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.SpecialSettingAttribute(Global.System.Configuration.SpecialSetting.WebServiceUrl),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("https://5800412474-cadmin.vnpt-invoice.com.vn/PublishService.asmx")>  _
+        Public ReadOnly Property Vhd2_VNPT_PublishService() As String
+            Get
+                Return CType(Me("Vhd2_VNPT_PublishService"),String)
+            End Get
+        End Property
     End Class
 End Namespace
 

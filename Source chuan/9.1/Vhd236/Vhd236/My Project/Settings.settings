@@ -5,5 +5,8 @@
     <Setting Name="ma_nvu" Type="System.String" Scope="User">
       <Value Profile="(Default)">PT01</Value>
     </Setting>
+    <Setting Name="Vhd2_VNPT_PublishService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://5800412474-cadmin.vnpt-invoice.com.vn/PublishService.asmx</Value>
+    </Setting>
   </Settings>
 </SettingsFile>

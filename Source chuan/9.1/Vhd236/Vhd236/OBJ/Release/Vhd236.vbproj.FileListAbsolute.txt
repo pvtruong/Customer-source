@@ -236,3 +236,31 @@ C:\Users\invnc\Google Drive\STP Enterprice\acc\9.1\Vhd236\Vhd236\obj\Release\Vhd
 C:\Users\invnc\Google Drive\STP Enterprice\acc\9.1\Vhd236\Vhd236\obj\Release\Vhd2.frminput.resources
 C:\Users\invnc\Google Drive\STP Enterprice\acc\9.1\Vhd236\Vhd236\obj\Release\Vhd2.Resources.resources
 C:\Users\invnc\Google Drive\STP Enterprice\acc\9.1\Vhd236\Vhd236\obj\Release\Vhd236.vbproj.GenerateResource.Cache
+D:\STP\SourceTmp\91\Vhd236\Vhd236\bin\Release\Vhd2.exe.config
+D:\STP\SourceTmp\91\Vhd236\Vhd236\obj\Release\Vhd2.exe
+D:\STP\SourceTmp\91\Vhd236\Vhd236\obj\Release\Vhd2.xml
+D:\STP\SourceTmp\91\Vhd236\Vhd236\obj\Release\Vhd2.pdb
+D:\STP\SourceTmp\91\Vhd236\Vhd236\bin\Release\Vhd2.exe
+D:\STP\SourceTmp\91\Vhd236\Vhd236\bin\Release\Vhd2.XmlSerializers.dll
+D:\STP\SourceTmp\91\Vhd236\Vhd236\bin\Release\Vhd2.pdb
+D:\STP\SourceTmp\91\Vhd236\Vhd236\bin\Release\Vhd2.xml
+D:\STP\SourceTmp\91\Vhd236\Vhd236\bin\Release\ClPrint.dll
+D:\STP\SourceTmp\91\Vhd236\Vhd236\bin\Release\System.Windows.Forms.DataVisualization.dll
+D:\STP\SourceTmp\91\Vhd236\Vhd236\bin\Release\ClsMath.dll
+D:\STP\SourceTmp\91\Vhd236\Vhd236\bin\Release\clsPopUp.dll
+D:\STP\SourceTmp\91\Vhd236\Vhd236\bin\Release\Ionic.Zip.dll
+D:\STP\SourceTmp\91\Vhd236\Vhd236\bin\Release\clsab.dll
+D:\STP\SourceTmp\91\Vhd236\Vhd236\bin\Release\Eval3.dll
+D:\STP\SourceTmp\91\Vhd236\Vhd236\bin\Release\clschat.dll
+D:\STP\SourceTmp\91\Vhd236\Vhd236\bin\Release\ClsVno.dll
+D:\STP\SourceTmp\91\Vhd236\Vhd236\bin\Release\stdole.dll
+D:\STP\SourceTmp\91\Vhd236\Vhd236\obj\Release\Vhd236.vbprojResolveAssemblyReference.cache
+D:\STP\SourceTmp\91\Vhd236\Vhd236\obj\Release\Vhd2.frmdklayhd.resources
+D:\STP\SourceTmp\91\Vhd236\Vhd236\obj\Release\Vhd2.frmPrint.resources
+D:\STP\SourceTmp\91\Vhd236\Vhd236\obj\Release\Vhd2.frmsearch.resources
+D:\STP\SourceTmp\91\Vhd236\Vhd236\obj\Release\Vhd2.frmThuTien.resources
+D:\STP\SourceTmp\91\Vhd236\Vhd236\obj\Release\Vhd2.Frmmain.resources
+D:\STP\SourceTmp\91\Vhd236\Vhd236\obj\Release\Vhd2.frminput.resources
+D:\STP\SourceTmp\91\Vhd236\Vhd236\obj\Release\Vhd2.Resources.resources
+D:\STP\SourceTmp\91\Vhd236\Vhd236\obj\Release\Vhd236.vbproj.GenerateResource.Cache
+D:\STP\SourceTmp\91\Vhd236\Vhd236\obj\Release\Vhd2.XmlSerializers.dll

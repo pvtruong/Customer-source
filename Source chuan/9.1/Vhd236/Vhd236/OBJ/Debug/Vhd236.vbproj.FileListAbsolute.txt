@@ -202,3 +202,6 @@ E:\Box Sync\acc\7.2\voucher\Vhd236\Vhd236\bin\Debug\Microsoft.Office.Interop.Exc
 C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\obj\Debug\Vhd2.xml
 C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\obj\Debug\Vhd2.pdb
 C:\Users\Truong\Box Sync\acc\9.0\Vhd236\Vhd236\bin\Debug\Vhd2.exe.config
+D:\STP\SourceTmp\91\Vhd236\Vhd236\bin\Debug\Vhd2.exe.config
+D:\STP\SourceTmp\91\Vhd236\Vhd236\obj\Debug\Vhd2.xml
+D:\STP\SourceTmp\91\Vhd236\Vhd236\obj\Debug\Vhd2.pdb
