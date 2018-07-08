@@ -172,21 +172,21 @@ Public Class Frmmain
 
     End Sub
     Private Sub SaveClick()
-        'If (list.Action = Actions.Action.Add) Then
-        '    Dim mst As String = frmin.txtma_so_thue.Text
-        '    If (mst.Trim <> "") Then
-        '        Dim k As String = list.conn.GetValue("select ma_kh from dkh where ma_so_thue ='" & mst & "'")
-        '        If IsDBNull(k) Then
-        '            k = ""
-        '        End If
-        '        If k.Trim <> "" Then
-        '            MsgBox(Clsql.Others.Msgs("0002", list.conn).Replace("%&", mst), MsgBoxStyle.Critical, Clsql.AboutMe.Name)
+        If (list.Action = Actions.Action.Add) And Clsql.Others.Options("check_ma_so_thue", conn) = "1" Then
+            Dim mst As String = frmin.txtma_so_thue.Text
+            If (mst.Trim <> "") Then
+                Dim k As String = list.conn.GetValue("select ma_kh from dkh where ma_so_thue ='" & mst & "'")
+                If IsDBNull(k) Then
+                    k = ""
+                End If
+                If k.Trim <> "" Then
+                    MsgBox(Clsql.Others.Msgs("0002", list.conn).Replace("%&", mst), MsgBoxStyle.Critical, Clsql.AboutMe.Name)
 
-        '            list.ContinueSave = False
-        '            frmin.txtma_so_thue.Focus()
-        '        End If
-        '    End If
-        'End If
+                    list.ContinueSave = False
+                    frmin.txtma_so_thue.Focus()
+                End If
+            End If
+        End If
     End Sub
 
 #Region "Thong tin lien he"

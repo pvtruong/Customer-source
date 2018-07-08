@@ -55,6 +55,8 @@ Partial Class Frmmain
         Me.Label11 = New System.Windows.Forms.Label()
         Me.txtten_tk = New System.Windows.Forms.TextBox()
         Me.Label2 = New System.Windows.Forms.Label()
+        Me.txttk_ref = New System.Windows.Forms.TextBox()
+        Me.Label9 = New System.Windows.Forms.Label()
         Me.StatusStrip1.SuspendLayout()
         Me.SplitContainer1.Panel1.SuspendLayout()
         Me.SplitContainer1.Panel2.SuspendLayout()
@@ -67,28 +69,28 @@ Partial Class Frmmain
         'StatusStrip1
         '
         Me.StatusStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.lbluser, Me.ToolStripStatusLabel1, Me.lbllines})
-        Me.StatusStrip1.Location = New System.Drawing.Point(0, 428)
+        Me.StatusStrip1.Location = New System.Drawing.Point(0, 424)
         Me.StatusStrip1.Name = "StatusStrip1"
-        Me.StatusStrip1.Size = New System.Drawing.Size(970, 22)
+        Me.StatusStrip1.Size = New System.Drawing.Size(970, 26)
         Me.StatusStrip1.TabIndex = 1
         Me.StatusStrip1.Text = "StatusStrip1"
         '
         'lbluser
         '
         Me.lbluser.Name = "lbluser"
-        Me.lbluser.Size = New System.Drawing.Size(29, 17)
+        Me.lbluser.Size = New System.Drawing.Size(40, 21)
         Me.lbluser.Text = "user"
         '
         'ToolStripStatusLabel1
         '
         Me.ToolStripStatusLabel1.Name = "ToolStripStatusLabel1"
-        Me.ToolStripStatusLabel1.Size = New System.Drawing.Size(926, 17)
+        Me.ToolStripStatusLabel1.Size = New System.Drawing.Size(915, 21)
         Me.ToolStripStatusLabel1.Spring = True
         '
         'lbllines
         '
         Me.lbllines.Name = "lbllines"
-        Me.lbllines.Size = New System.Drawing.Size(0, 17)
+        Me.lbllines.Size = New System.Drawing.Size(0, 21)
         '
         'ToolStripmain
         '
@@ -112,7 +114,7 @@ Partial Class Frmmain
         'SplitContainer1.Panel2
         '
         Me.SplitContainer1.Panel2.Controls.Add(Me.TabControl1)
-        Me.SplitContainer1.Size = New System.Drawing.Size(970, 403)
+        Me.SplitContainer1.Size = New System.Drawing.Size(970, 399)
         Me.SplitContainer1.SplitterDistance = 423
         Me.SplitContainer1.TabIndex = 6
         '
@@ -122,7 +124,7 @@ Partial Class Frmmain
         Me.grid.Dock = System.Windows.Forms.DockStyle.Fill
         Me.grid.Location = New System.Drawing.Point(0, 0)
         Me.grid.Name = "grid"
-        Me.grid.Size = New System.Drawing.Size(423, 403)
+        Me.grid.Size = New System.Drawing.Size(423, 399)
         Me.grid.TabIndex = 0
         '
         'TabControl1
@@ -134,12 +136,14 @@ Partial Class Frmmain
         Me.TabControl1.Location = New System.Drawing.Point(0, 2)
         Me.TabControl1.Name = "TabControl1"
         Me.TabControl1.SelectedIndex = 0
-        Me.TabControl1.Size = New System.Drawing.Size(542, 399)
+        Me.TabControl1.Size = New System.Drawing.Size(542, 395)
         Me.TabControl1.TabIndex = 23
         '
         'thong_tin_chung
         '
         Me.thong_tin_chung.BackColor = System.Drawing.Color.White
+        Me.thong_tin_chung.Controls.Add(Me.txttk_ref)
+        Me.thong_tin_chung.Controls.Add(Me.Label9)
         Me.thong_tin_chung.Controls.Add(Me.txtnh_tk1)
         Me.thong_tin_chung.Controls.Add(Me.Label10)
         Me.thong_tin_chung.Controls.Add(Me.txtten_loai_cl_co2)
@@ -167,7 +171,7 @@ Partial Class Frmmain
         Me.thong_tin_chung.Location = New System.Drawing.Point(4, 22)
         Me.thong_tin_chung.Name = "thong_tin_chung"
         Me.thong_tin_chung.Padding = New System.Windows.Forms.Padding(3)
-        Me.thong_tin_chung.Size = New System.Drawing.Size(534, 373)
+        Me.thong_tin_chung.Size = New System.Drawing.Size(534, 369)
         Me.thong_tin_chung.TabIndex = 0
         Me.thong_tin_chung.Tag = "096"
         Me.thong_tin_chung.Text = "Thông tin chính"
@@ -390,6 +394,24 @@ Partial Class Frmmain
         Me.Label2.Tag = "002"
         Me.Label2.Text = "Ten tk"
         '
+        'txttk_ref
+        '
+        Me.txttk_ref.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
+        Me.txttk_ref.Location = New System.Drawing.Point(378, 6)
+        Me.txttk_ref.Name = "txttk_ref"
+        Me.txttk_ref.Size = New System.Drawing.Size(149, 20)
+        Me.txttk_ref.TabIndex = 128
+        '
+        'Label9
+        '
+        Me.Label9.AutoSize = True
+        Me.Label9.Location = New System.Drawing.Point(265, 10)
+        Me.Label9.Name = "Label9"
+        Me.Label9.Size = New System.Drawing.Size(76, 13)
+        Me.Label9.TabIndex = 129
+        Me.Label9.Tag = "TKR"
+        Me.Label9.Text = "TK tham chiếu"
+        '
         'Frmmain
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -447,7 +469,8 @@ Partial Class Frmmain
     Friend WithEvents txtten_loai_cl_no2 As System.Windows.Forms.TextBox
     Friend WithEvents txtnh_tk1 As System.Windows.Forms.TextBox
     Friend WithEvents Label10 As System.Windows.Forms.Label
-
+    Friend WithEvents txttk_ref As TextBox
+    Friend WithEvents Label9 As Label
 
 
 End Class

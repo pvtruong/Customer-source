@@ -71,6 +71,10 @@ Public Class Frmmain
         Dim ctm As New ContextMenuStrip
         Voucher.AddContextMenuStrip(ctm)
         Me.ContextMenuStrip = ctm
+        '
+        Voucher.btnTD2.Text = "Xuất H.Đ điện tử"
+        Voucher.btnTD2.Visible = Voucher.rights.NewRight Or Voucher.rights.EditRight
+        AddHandler Voucher.btnTD2.Click, AddressOf exportEInvoiceVNPT
         'load
         SetUpLookup()
         loadf()
@@ -82,6 +86,93 @@ Public Class Frmmain
         AddHandler frmin.Txtt_tien_nt.ValueChanged, AddressOf tinhtienthue
         AddHandler frmin.Txtt_ck_nt.ValueChanged, AddressOf tinhtienthue
 
+    End Sub
+    Function importInvVNPT(stt_rec As String) As String
+
+        Dim url As String = Clsql.Others.Options("VNPT_URL", conn)
+        Dim user As String = Clsql.Others.Options("VNPT_USER", conn)
+        Dim password As String = Clsql.Others.Options("VNPT_PASSWORD", conn)
+
+        If String.IsNullOrEmpty(url) Or String.IsNullOrEmpty(user) Or String.IsNullOrEmpty(password) Then Throw New Exception("Bạn phải khai báo thông tin kết nối tới VNPT Service trong tùy chọn hệ thống")
+
+        Dim vatra As DataTable = conn.GetDatatable("select * from vatra where stt_rec ='" & stt_rec & "'")
+        If vatra.Rows.Count = 0 Then
+            Throw New Exception("Chứng từ này chưa khai thuế")
+        End If
+        If (vatra.Rows(0).Item("ma_hoa_don") <> "") Then
+            'Throw New Exception("Chứng từ này đã được xuất sang chương trình hóa đơn điện tử")
+            Return ""
+        End If
+
+        Dim invoice_string As String = "<Invoices><Inv>"
+
+        'header
+        invoice_string = invoice_string & Chr(13) & "<key>" & stt_rec & "</key>"
+        invoice_string = invoice_string & Chr(13) & "<Invoice>"
+        'invoice_string = invoice_string & Chr(13) & "<OrderNo></OrderNo>"
+        'invoice_string = invoice_string & Chr(13) & "<OrderDate></OrderDate>"
+        invoice_string = invoice_string & Chr(13) & "<CusCode>" & vatra.Rows(0).Item("ma_kh") & "</CusCode>"
+        invoice_string = invoice_string & Chr(13) & "<CusName><![CDATA[" & vatra.Rows(0).Item("ten_kh") & "]]></CusName>"
+        'invoice_string = invoice_string & Chr(13) & "<CusCom><![CDATA[" & vatra.Rows(0).Item("ten_kh") & "]]></CusCom>"
+        invoice_string = invoice_string & Chr(13) & "<CusAddress><![CDATA[" & vatra.Rows(0).Item("dia_chi") & "]]></CusAddress>"
+        invoice_string = invoice_string & Chr(13) & "<CusPhone></CusPhone>"
+        invoice_string = invoice_string & Chr(13) & "<CusTaxCode>" & vatra.Rows(0).Item("ma_so_thue") & "</CusTaxCode>"
+        invoice_string = invoice_string & Chr(13) & "<PaymentMethod></PaymentMethod>"
+        'detail
+        invoice_string = invoice_string & Chr(13) & "<Products>"
+        Dim dt As DataTable = conn.GetDatatable("select * from vdhd2 where stt_rec ='" & stt_rec & "'")
+        For Each r As DataRow In dt.Rows
+            invoice_string = invoice_string & Chr(13) & "<Product>"
+            'invoice_string = invoice_string & Chr(13) & "<Code></Code>"
+            invoice_string = invoice_string & Chr(13) & "<ProdName><![CDATA[" & r.Item("ten_vt") & "]]></ProdName>"
+            invoice_string = invoice_string & Chr(13) & "<ProdUnit><![CDATA[" & r.Item("ma_dvt") & "]]></ProdUnit>"
+            invoice_string = invoice_string & Chr(13) & "<ProdQuantity>" & r.Item("sl_xuat") & "</ProdQuantity>"
+            invoice_string = invoice_string & Chr(13) & "<ProdPrice>" & Math.Round(r.Item("gia_ban"), 0) & "</ProdPrice>"
+            invoice_string = invoice_string & Chr(13) & "<Amount>" & Math.Round(r.Item("tien"), 0) & "</Amount>"
+            invoice_string = invoice_string & Chr(13) & "</Product>"
+
+        Next
+
+        invoice_string = invoice_string & Chr(13) & "</Products>"
+
+        invoice_string = invoice_string & Chr(13) & "<Total>" & Math.Round(vatra.Rows(0).Item("t_tien"), 0) & "</Total>"
+        invoice_string = invoice_string & Chr(13) & "<VATRate>" & Math.Round(vatra.Rows(0).Item("thue_suat"), 0) & "</VATRate>"
+        invoice_string = invoice_string & Chr(13) & "<VATAmount>" & Math.Round(vatra.Rows(0).Item("t_thue"), 0) & "</VATAmount>"
+        invoice_string = invoice_string & Chr(13) & "<Amount>" & Math.Round(vatra.Rows(0).Item("t_tien") + vatra.Rows(0).Item("t_thue"), 0) & "</Amount>"
+        invoice_string = invoice_string & Chr(13) & "<AmountInWords><![CDATA[" & ClPrint.ByWord.Number2TextV(vatra.Rows(0).Item("t_tien") + vatra.Rows(0).Item("t_thue")) & " đồng]]></AmountInWords>"
+        invoice_string = invoice_string & Chr(13) & "<ArisingDate>" & Strings.Format(vatra.Rows(0).Item("ngay_hd"), "dd/MM/yyyy") & "</ArisingDate>"
+        invoice_string = invoice_string & Chr(13) & "<EmailDeliver>" & conn.GetValue("select ltrim(email) from dkh where ma_kh='" & vatra.Rows(0).Item("ma_kh") & "'") & "</EmailDeliver>"
+        invoice_string = invoice_string & Chr(13) & "<SMSDeliver></SMSDeliver>"
+        invoice_string = invoice_string & Chr(13) & "</Invoice>"
+        invoice_string = invoice_string & Chr(13) & "</Inv>"
+        invoice_string = invoice_string & Chr(13) & "</Invoices>"
+        Dim vnpt As New VNPT.PublishService
+        vnpt.Url = url
+        Dim kq As String
+        kq = vnpt.ImportInv(invoice_string, user, password, 0)
+        If kq.Contains("ERR") Then
+            Throw New Exception(kq)
+        Else
+            Dim ma_hoa_don As String = kq.Split(";")(0).Split(":")(1)
+            conn.Execute("update vatra set ma_hoa_don='" & ma_hoa_don & "' where stt_rec='" & stt_rec & "'")
+        End If
+        Return kq
+    End Function
+    Private Sub exportEInvoiceVNPT(sender As Object, e As EventArgs)
+        Voucher.grdView.EndEdit()
+        Voucher.Mdatatable.AcceptChanges()
+
+        For Each r As DataRow In Voucher.Mdatatable.Select("sel=true")
+            Try
+                If Not String.IsNullOrEmpty(r("stt_rec")) Then
+                    importInvVNPT(r("stt_rec"))
+                End If
+            Catch ex As Exception
+                MsgBox("Lỗi: " & ex.Message & Chr(13) & "Số chứng từ: " & r("so_ct") & Chr(13) & "Ngày chứng từ: " & Strings.Format(r("ngay_ct"), "dd/MM/yyyy"),, Clsql.AboutMe.Name)
+                Return
+            End Try
+        Next
+        MsgBox("Chương trình đã thực hiện xong",, Clsql.AboutMe.Name)
     End Sub
     Private Sub dmload(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
 

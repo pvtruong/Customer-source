@@ -19,34 +19,34 @@ Public Class frminput
         For Each dvtab As ClsSV31.TabDetail20 In Voucher.Tabdetails.Values
             RemoveHandler dvtab.AfterCalcOnCell, AddressOf tinh_tong_tien
         Next
-        RemoveHandler Voucher.Tabdetails("vvatvao").gridDetailKeyin.CellEndEdit, AddressOf grdvat_CellEndEdit
+        ' RemoveHandler Voucher.Tabdetails("vvatvao").gridDetailKeyin.CellEndEdit, AddressOf grdvat_CellEndEdit
     End Sub
 
     Private Sub frminput_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
         For Each dvtab As ClsSV31.TabDetail20 In Voucher.Tabdetails.Values
             AddHandler dvtab.AfterCalcOnCell, AddressOf tinh_tong_tien
         Next
-        AddHandler Voucher.Tabdetails("vvatvao").gridDetailKeyin.CellEndEdit, AddressOf grdvat_CellEndEdit
+        ' AddHandler Voucher.Tabdetails("vvatvao").gridDetailKeyin.CellEndEdit, AddressOf grdvat_CellEndEdit
 
     End Sub
 
-    Private Sub grdvat_CellEndEdit(ByVal sender As Object, ByVal e As System.Windows.Forms.DataGridViewCellEventArgs)
+    'Private Sub grdvat_CellEndEdit(ByVal sender As Object, ByVal e As System.Windows.Forms.DataGridViewCellEventArgs)
 
-        Dim ty_gia As Double = Txtty_gia.Value
-        If sender.Rows(e.RowIndex).IsNewRow = False Then
-            Select Case sender.Columns(e.ColumnIndex).Name
-                Case "ma_hoa_don"
-                    If Voucher.Tabdetails(Voucher.TabFirst).gridDetailKeyin.RowCount > 1 Then
-                        sender.Item("tk_du", e.RowIndex).Value = Voucher.Tabdetails(Voucher.TabFirst).gridDetailKeyin.Rows(0).Cells("tk_co").Value
-                    End If
-                Case "so_seri"
-                    sender.Item("so_seri", e.RowIndex).Value = sender.Item("so_seri", e.RowIndex).Value.ToString.ToUpper
+    '    Dim ty_gia As Double = Txtty_gia.Value
+    '    If sender.Rows(e.RowIndex).IsNewRow = False Then
+    '        Select Case sender.Columns(e.ColumnIndex).Name
+    '            Case "ma_hoa_don"
+    '                If Voucher.Tabdetails(Voucher.TabFirst).gridDetailKeyin.RowCount > 1 Then
+    '                    sender.Item("tk_du", e.RowIndex).Value = Voucher.Tabdetails(Voucher.TabFirst).gridDetailKeyin.Rows(0).Cells("tk_co").Value
+    '                End If
+    '            Case "so_seri"
+    '                sender.Item("so_seri", e.RowIndex).Value = sender.Item("so_seri", e.RowIndex).Value.ToString.ToUpper
 
 
 
-            End Select
-        End If
-    End Sub
+    '        End Select
+    '    End If
+    'End Sub
     Private Sub frminput_show(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Shown
         Dim dvr As DataRowView = cbbma_nt.SelectedItem
 
@@ -172,8 +172,8 @@ Public Class frminput
         t_tien_nt = ClsControl2.PropertyOfGrid.Sum(Voucher.Tabdetails(Voucher.TabFirst).gridDetailKeyin, "tien_nt")
         t_tien = ClsControl2.PropertyOfGrid.Sum(Voucher.Tabdetails(Voucher.TabFirst).gridDetailKeyin, "tien")
 
-        t_thue_nt = Math.Abs(ClsControl2.PropertyOfGrid.Sum(Voucher.Tabdetails("vvatvao").gridDetailKeyin, "t_thue_nt"))
-        t_thue = Math.Abs(ClsControl2.PropertyOfGrid.Sum(Voucher.Tabdetails("vvatvao").gridDetailKeyin, "t_thue"))
+        t_thue_nt = Math.Abs(ClsControl2.PropertyOfGrid.Sum(Voucher.Tabdetails("vatra").gridDetailKeyin, "t_thue_nt"))
+        t_thue = Math.Abs(ClsControl2.PropertyOfGrid.Sum(Voucher.Tabdetails("vatra").gridDetailKeyin, "t_thue"))
 
         t_sl = ClsControl2.PropertyOfGrid.Sum(Voucher.Tabdetails(Voucher.TabFirst).gridDetailKeyin, "sl_nhap")
         t_tien_von = ClsControl2.PropertyOfGrid.Sum(Voucher.Tabdetails(Voucher.TabFirst).gridDetailKeyin, "tien_nhap")

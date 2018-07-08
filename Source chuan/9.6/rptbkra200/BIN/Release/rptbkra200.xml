@@ -1,0 +1,749 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+rptbkra200
+</name>
+</assembly>
+<members>
+<member name="T:rptbkra200.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:rptbkra200.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:rptbkra200.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:rptbkra200.vnpt.PublishService">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.#ctor">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.ImportAndPublishInvCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.ImportInvCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.publishInvCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.UpdateCusCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.setCusCertCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.ImportFromXmlCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.syncInfomationCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.SignInCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.resetPasswordCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.AppClientSyncInfoSystemCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.getCurrentNoCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.syncClientInvCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.updateInvoiceCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.syncDecisionCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.syncPublishCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.GetPublishInvCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.syncInvCancelCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.getDateTimeServerCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.syncClientInvoiceCancelCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.ConvertForVerifyCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.sendEmailCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.syncCertCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.syncInvoicev2Completed">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.syncInvoiceCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.GetSingleInvoiceCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.PaymentForVerifyCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.getHashInvWithTokenCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.publishInvWithTokenCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.AdjustReplaceInvWithTokenCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.CancelInvoiceWithTokenCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.rolBackWithTokenCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.importCertWithTokenCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.getStatusInvCompleted">
+<remarks/>
+</member>
+<member name="E:rptbkra200.vnpt.PublishService.getHashInvCompleted">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.ImportAndPublishInv(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.ImportAndPublishInvAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.ImportAndPublishInvAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.ImportInv(System.String,System.String,System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.ImportInvAsync(System.String,System.String,System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.ImportInvAsync(System.String,System.String,System.String,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.publishInv(System.Int32[],System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.publishInvAsync(System.Int32[],System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.publishInvAsync(System.Int32[],System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.UpdateCus(System.String,System.String,System.String,System.Nullable{System.Int32})">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.UpdateCusAsync(System.String,System.String,System.String,System.Nullable{System.Int32})">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.UpdateCusAsync(System.String,System.String,System.String,System.Nullable{System.Int32},System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.setCusCert(System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.setCusCertAsync(System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.setCusCertAsync(System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.ImportFromXml(System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.ImportFromXmlAsync(System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.ImportFromXmlAsync(System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.syncInfomation(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.syncInfomationAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.syncInfomationAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.SignIn(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.SignInAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.SignInAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.resetPassword(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.resetPasswordAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.resetPasswordAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.AppClientSyncInfoSystem(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.AppClientSyncInfoSystemAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.AppClientSyncInfoSystemAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.getCurrentNo(System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.getCurrentNoAsync(System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.getCurrentNoAsync(System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.syncClientInv(System.String,System.String,System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.syncClientInvAsync(System.String,System.String,System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.syncClientInvAsync(System.String,System.String,System.String,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.updateInvoice(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.updateInvoiceAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.updateInvoiceAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.syncDecision(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.syncDecisionAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.syncDecisionAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.syncPublish(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.syncPublishAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.syncPublishAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.GetPublishInv(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.GetPublishInvAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.GetPublishInvAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.syncInvCancel(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.syncInvCancelAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.syncInvCancelAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.getDateTimeServer(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.getDateTimeServerAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.getDateTimeServerAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.syncClientInvoiceCancel(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.syncClientInvoiceCancelAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.syncClientInvoiceCancelAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.ConvertForVerify(System.String,System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.ConvertForVerifyAsync(System.String,System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.ConvertForVerifyAsync(System.String,System.String,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.sendEmail(System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.sendEmailAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.sendEmailAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.syncCert(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.syncCertAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.syncCertAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.syncInvoicev2(System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.syncInvoicev2Async(System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.syncInvoicev2Async(System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.syncInvoice(System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.syncInvoiceAsync(System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.syncInvoiceAsync(System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.GetSingleInvoice(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.GetSingleInvoiceAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.GetSingleInvoiceAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.PaymentForVerify(System.String,System.String,System.Int32,System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.PaymentForVerifyAsync(System.String,System.String,System.Int32,System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.PaymentForVerifyAsync(System.String,System.String,System.Int32,System.Int32,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.getHashInvWithToken(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.String,System.String,System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.getHashInvWithTokenAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.String,System.String,System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.getHashInvWithTokenAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.String,System.String,System.String,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.publishInvWithToken(System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.publishInvWithTokenAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.publishInvWithTokenAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.AdjustReplaceInvWithToken(System.String,System.String,System.String,System.String,System.String,System.Int32,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.AdjustReplaceInvWithTokenAsync(System.String,System.String,System.String,System.String,System.String,System.Int32,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.AdjustReplaceInvWithTokenAsync(System.String,System.String,System.String,System.String,System.String,System.Int32,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.CancelInvoiceWithToken(System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.CancelInvoiceWithTokenAsync(System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.CancelInvoiceWithTokenAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.rolBackWithToken(System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.rolBackWithTokenAsync(System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.rolBackWithTokenAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.importCertWithToken(System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.importCertWithTokenAsync(System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.importCertWithTokenAsync(System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.getStatusInv(System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.getStatusInvAsync(System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.getStatusInvAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.getHashInv(System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.getHashInvAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.getHashInvAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:rptbkra200.vnpt.PublishService.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.ImportAndPublishInvCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.ImportAndPublishInvCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.ImportAndPublishInvCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.ImportInvCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.ImportInvCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.ImportInvCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.publishInvCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.publishInvCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.publishInvCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.UpdateCusCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.UpdateCusCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.UpdateCusCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.setCusCertCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.setCusCertCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.setCusCertCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.ImportFromXmlCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.ImportFromXmlCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.ImportFromXmlCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.syncInfomationCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.syncInfomationCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.syncInfomationCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.SignInCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.SignInCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.SignInCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.resetPasswordCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.resetPasswordCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.resetPasswordCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.AppClientSyncInfoSystemCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.AppClientSyncInfoSystemCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.AppClientSyncInfoSystemCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.getCurrentNoCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.getCurrentNoCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.getCurrentNoCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.syncClientInvCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.syncClientInvCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.syncClientInvCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.updateInvoiceCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.updateInvoiceCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.updateInvoiceCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.syncDecisionCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.syncDecisionCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.syncDecisionCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.syncPublishCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.syncPublishCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.syncPublishCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.GetPublishInvCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.GetPublishInvCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.GetPublishInvCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.syncInvCancelCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.syncInvCancelCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.syncInvCancelCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.getDateTimeServerCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.getDateTimeServerCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.getDateTimeServerCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.syncClientInvoiceCancelCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.syncClientInvoiceCancelCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.syncClientInvoiceCancelCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.ConvertForVerifyCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.ConvertForVerifyCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.ConvertForVerifyCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.sendEmailCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.sendEmailCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.sendEmailCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.syncCertCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.syncCertCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.syncCertCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.syncInvoicev2CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.syncInvoicev2CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.syncInvoicev2CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.syncInvoiceCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.syncInvoiceCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.syncInvoiceCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.GetSingleInvoiceCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.GetSingleInvoiceCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.GetSingleInvoiceCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.PaymentForVerifyCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.PaymentForVerifyCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.PaymentForVerifyCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.getHashInvWithTokenCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.getHashInvWithTokenCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.getHashInvWithTokenCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.publishInvWithTokenCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.publishInvWithTokenCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.publishInvWithTokenCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.AdjustReplaceInvWithTokenCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.AdjustReplaceInvWithTokenCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.AdjustReplaceInvWithTokenCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.CancelInvoiceWithTokenCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.CancelInvoiceWithTokenCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.CancelInvoiceWithTokenCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.rolBackWithTokenCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.rolBackWithTokenCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.rolBackWithTokenCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.importCertWithTokenCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.importCertWithTokenCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.importCertWithTokenCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.getStatusInvCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.getStatusInvCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.getStatusInvCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.getHashInvCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:rptbkra200.vnpt.getHashInvCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:rptbkra200.vnpt.getHashInvCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>

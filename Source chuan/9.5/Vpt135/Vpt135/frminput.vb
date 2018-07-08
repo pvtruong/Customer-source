@@ -152,7 +152,7 @@ Public Class frminput
         _parent.Voucher.SynMD()
         '
         For Each detail As ClsSV31.TabDetail20 In _parent.Voucher.Tabdetails.Values
-            detail.bindingsource.DataSource = Nothing
+            'detail.bindingsource.DataSource = Nothing
             For Each r As DataRow In detail.Datatable.Rows
                 If r.RowState = DataRowState.Deleted Then
                     Continue For
@@ -167,7 +167,7 @@ Public Class frminput
                     End If
                 End If
             Next
-            detail.bindingsource.DataSource = detail.Datatable
+            'detail.bindingsource.DataSource = detail.Datatable
         Next
         '
         _parent.querytt = getQuerytattoan(voucher.Stt_rec)
@@ -353,6 +353,9 @@ Public Class frminput
                 Clsql.Data.CopyTableSame(layhd.DataView.Table, _parent.Voucher.Tabdetails("tdttno").Datatable, "sel=true")
                 'set gia tri mac dinh
                 For Each r As DataRow In voucher.Tabdetails("tdttno").Datatable.Rows
+                    If r.RowState = DataRowState.Deleted Then
+                        Continue For
+                    End If
                     For Each df As String In voucher.Tabdetails("tdttno").ProcessOnGrid.DefaultOnGrids.Keys
                         If r.Table.Columns.Contains(df) AndAlso String.IsNullOrEmpty(r(df)) Then
                             If voucher.Tabdetails("tdttno").Datatable.Columns(df).DataType.ToString.Contains("Boolean") Then
@@ -421,6 +424,9 @@ Public Class frminput
                 _parent.Voucher.Tabdetails(_parent.Voucher.TabFirst).bindingsource.DataSource = _parent.Voucher.Tabdetails(_parent.Voucher.TabFirst).Datatable
                 'lay cac gia tri phan thong tin chung
                 For Each r As DataRow In layhd.MDataView.Table.Select("sel = true")
+                    If r.RowState = DataRowState.Deleted Then
+                        Continue For
+                    End If
                     _parent.Voucher.CurrentVoucher("ma_kh") = r("ma_kh")
                     _parent.Voucher.CurrentVoucher("ong_ba") = r("ong_ba")
 

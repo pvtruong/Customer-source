@@ -22,92 +22,93 @@ Partial Class frminput
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.btnLuu = New System.Windows.Forms.Button
-        Me.btnhuy = New System.Windows.Forms.Button
-        Me.GroupBox1 = New System.Windows.Forms.GroupBox
-        Me.Label35 = New System.Windows.Forms.Label
-        Me.txtso_luong = New ClsControl2.TxtNumeric
-        Me.chbtinh_kh_cl = New System.Windows.Forms.CheckBox
-        Me.Txtngay_mua = New ClsControl2.TxtDate
-        Me.Label23 = New System.Windows.Forms.Label
-        Me.Label11 = New System.Windows.Forms.Label
-        Me.Txttong_sl = New ClsControl2.TxtNumeric
-        Me.ten_tk_cp = New System.Windows.Forms.Label
-        Me.txttk_cp = New System.Windows.Forms.TextBox
-        Me.Label24 = New System.Windows.Forms.Label
-        Me.ten_tk_kh = New System.Windows.Forms.Label
-        Me.txttk_kh = New System.Windows.Forms.TextBox
-        Me.Label22 = New System.Windows.Forms.Label
-        Me.ten_tk_tscd = New System.Windows.Forms.Label
-        Me.txttk_ts = New System.Windows.Forms.TextBox
-        Me.Label21 = New System.Windows.Forms.Label
-        Me.ten_bp = New System.Windows.Forms.Label
-        Me.txtma_bp = New System.Windows.Forms.TextBox
-        Me.Label12 = New System.Windows.Forms.Label
-        Me.Label20 = New System.Windows.Forms.Label
-        Me.Txtty_le_kh = New ClsControl2.TxtNumeric
-        Me.Label19 = New System.Windows.Forms.Label
-        Me.Txtky_kh00 = New ClsControl2.TxtNumeric
-        Me.Label18 = New System.Windows.Forms.Label
-        Me.Txttien_cl = New ClsControl2.TxtNumeric
-        Me.Label17 = New System.Windows.Forms.Label
-        Me.Txtso_ky_kh = New ClsControl2.TxtNumeric
-        Me.Label14 = New System.Windows.Forms.Label
-        Me.Txtngay_kh0 = New ClsControl2.TxtDate
-        Me.cbbkieu_kh = New System.Windows.Forms.ComboBox
-        Me.Label15 = New System.Windows.Forms.Label
-        Me.ten_tang = New System.Windows.Forms.Label
-        Me.txtma_tg_ts = New System.Windows.Forms.TextBox
-        Me.Label13 = New System.Windows.Forms.Label
-        Me.ten_loai = New System.Windows.Forms.Label
-        Me.txtloai_ts = New System.Windows.Forms.TextBox
-        Me.Label9 = New System.Windows.Forms.Label
-        Me.txtso_the_ts = New System.Windows.Forms.TextBox
-        Me.Label4 = New System.Windows.Forms.Label
-        Me.TabControl1 = New System.Windows.Forms.TabControl
-        Me.TabPage3 = New System.Windows.Forms.TabPage
-        Me.ten_nh3 = New System.Windows.Forms.Label
-        Me.ten_nh2 = New System.Windows.Forms.Label
-        Me.ten_nh1 = New System.Windows.Forms.Label
-        Me.txtnam_sx = New ClsControl2.TxtNumeric
-        Me.txtghi_chu = New System.Windows.Forms.TextBox
-        Me.txtly_do_dc = New System.Windows.Forms.TextBox
-        Me.txtnuoc_sx = New System.Windows.Forms.TextBox
-        Me.txtts_kt = New System.Windows.Forms.TextBox
-        Me.txtnh_ts3 = New System.Windows.Forms.TextBox
-        Me.txtnh_ts2 = New System.Windows.Forms.TextBox
-        Me.txtnh_ts1 = New System.Windows.Forms.TextBox
-        Me.txtso_hieu_ts = New System.Windows.Forms.TextBox
-        Me.txtten_ts2 = New System.Windows.Forms.TextBox
-        Me.Label33 = New System.Windows.Forms.Label
-        Me.Label32 = New System.Windows.Forms.Label
-        Me.Label31 = New System.Windows.Forms.Label
-        Me.Txtngay_dc = New ClsControl2.TxtDate
-        Me.Label30 = New System.Windows.Forms.Label
-        Me.Txtngay_dvsd = New ClsControl2.TxtDate
-        Me.Label29 = New System.Windows.Forms.Label
-        Me.Label28 = New System.Windows.Forms.Label
-        Me.Label27 = New System.Windows.Forms.Label
-        Me.Label34 = New System.Windows.Forms.Label
-        Me.Label16 = New System.Windows.Forms.Label
-        Me.Label10 = New System.Windows.Forms.Label
-        Me.Label26 = New System.Windows.Forms.Label
-        Me.Label25 = New System.Windows.Forms.Label
-        Me.Txtngay_ct = New ClsControl2.TxtDate
-        Me.txtten_ts = New System.Windows.Forms.TextBox
-        Me.Label7 = New System.Windows.Forms.Label
-        Me.Label2 = New System.Windows.Forms.Label
-        Me.txtso_ct = New System.Windows.Forms.TextBox
-        Me.Label1 = New System.Windows.Forms.Label
-        Me.Label3 = New System.Windows.Forms.Label
-        Me.txtnguoi_tao = New System.Windows.Forms.Label
-        Me.txtngay_tao = New System.Windows.Forms.Label
-        Me.Label6 = New System.Windows.Forms.Label
-        Me.txtngay_sua = New System.Windows.Forms.Label
-        Me.Label5 = New System.Windows.Forms.Label
-        Me.txtnguoi_sua = New System.Windows.Forms.Label
-        Me.Label8 = New System.Windows.Forms.Label
-        Me.btnluuandmoi = New System.Windows.Forms.Button
+        Me.btnLuu = New System.Windows.Forms.Button()
+        Me.btnhuy = New System.Windows.Forms.Button()
+        Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.Label35 = New System.Windows.Forms.Label()
+        Me.txtso_luong = New ClsControl2.TxtNumeric()
+        Me.chbtinh_kh_cl = New System.Windows.Forms.CheckBox()
+        Me.Txtngay_mua = New ClsControl2.TxtDate()
+        Me.Label23 = New System.Windows.Forms.Label()
+        Me.Label11 = New System.Windows.Forms.Label()
+        Me.Txttong_sl = New ClsControl2.TxtNumeric()
+        Me.ten_tk_cp = New System.Windows.Forms.Label()
+        Me.txttk_cp = New System.Windows.Forms.TextBox()
+        Me.Label24 = New System.Windows.Forms.Label()
+        Me.ten_tk_kh = New System.Windows.Forms.Label()
+        Me.txttk_kh = New System.Windows.Forms.TextBox()
+        Me.Label22 = New System.Windows.Forms.Label()
+        Me.ten_tk_tscd = New System.Windows.Forms.Label()
+        Me.txttk_ts = New System.Windows.Forms.TextBox()
+        Me.Label21 = New System.Windows.Forms.Label()
+        Me.ten_bp = New System.Windows.Forms.Label()
+        Me.txtma_bp = New System.Windows.Forms.TextBox()
+        Me.Label12 = New System.Windows.Forms.Label()
+        Me.Label20 = New System.Windows.Forms.Label()
+        Me.Txtty_le_kh = New ClsControl2.TxtNumeric()
+        Me.Label19 = New System.Windows.Forms.Label()
+        Me.Txtky_kh00 = New ClsControl2.TxtNumeric()
+        Me.Label18 = New System.Windows.Forms.Label()
+        Me.Txttien_cl = New ClsControl2.TxtNumeric()
+        Me.Label17 = New System.Windows.Forms.Label()
+        Me.Txtso_ky_kh = New ClsControl2.TxtNumeric()
+        Me.Label14 = New System.Windows.Forms.Label()
+        Me.Txtngay_kh0 = New ClsControl2.TxtDate()
+        Me.cbbkieu_kh = New System.Windows.Forms.ComboBox()
+        Me.Label15 = New System.Windows.Forms.Label()
+        Me.ten_tang = New System.Windows.Forms.Label()
+        Me.txtma_tg_ts = New System.Windows.Forms.TextBox()
+        Me.Label13 = New System.Windows.Forms.Label()
+        Me.ten_loai = New System.Windows.Forms.Label()
+        Me.txtloai_ts = New System.Windows.Forms.TextBox()
+        Me.Label9 = New System.Windows.Forms.Label()
+        Me.txtso_the_ts = New System.Windows.Forms.TextBox()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.TabControl1 = New System.Windows.Forms.TabControl()
+        Me.TabPage3 = New System.Windows.Forms.TabPage()
+        Me.ten_nh3 = New System.Windows.Forms.Label()
+        Me.ten_nh2 = New System.Windows.Forms.Label()
+        Me.ten_nh1 = New System.Windows.Forms.Label()
+        Me.txtnam_sx = New ClsControl2.TxtNumeric()
+        Me.txtghi_chu = New System.Windows.Forms.TextBox()
+        Me.txtly_do_dc = New System.Windows.Forms.TextBox()
+        Me.txtnuoc_sx = New System.Windows.Forms.TextBox()
+        Me.txtts_kt = New System.Windows.Forms.TextBox()
+        Me.txtnh_ts3 = New System.Windows.Forms.TextBox()
+        Me.txtnh_ts2 = New System.Windows.Forms.TextBox()
+        Me.txtnh_ts1 = New System.Windows.Forms.TextBox()
+        Me.txtso_hieu_ts = New System.Windows.Forms.TextBox()
+        Me.txtten_ts2 = New System.Windows.Forms.TextBox()
+        Me.Label33 = New System.Windows.Forms.Label()
+        Me.Label32 = New System.Windows.Forms.Label()
+        Me.Label31 = New System.Windows.Forms.Label()
+        Me.Txtngay_dc = New ClsControl2.TxtDate()
+        Me.Label30 = New System.Windows.Forms.Label()
+        Me.Txtngay_dvsd = New ClsControl2.TxtDate()
+        Me.Label29 = New System.Windows.Forms.Label()
+        Me.Label28 = New System.Windows.Forms.Label()
+        Me.Label27 = New System.Windows.Forms.Label()
+        Me.Label34 = New System.Windows.Forms.Label()
+        Me.Label16 = New System.Windows.Forms.Label()
+        Me.Label10 = New System.Windows.Forms.Label()
+        Me.Label26 = New System.Windows.Forms.Label()
+        Me.Label25 = New System.Windows.Forms.Label()
+        Me.Txtngay_ct = New ClsControl2.TxtDate()
+        Me.txtten_ts = New System.Windows.Forms.TextBox()
+        Me.Label7 = New System.Windows.Forms.Label()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.txtso_ct = New System.Windows.Forms.TextBox()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.txtnguoi_tao = New System.Windows.Forms.Label()
+        Me.txtngay_tao = New System.Windows.Forms.Label()
+        Me.Label6 = New System.Windows.Forms.Label()
+        Me.txtngay_sua = New System.Windows.Forms.Label()
+        Me.Label5 = New System.Windows.Forms.Label()
+        Me.txtnguoi_sua = New System.Windows.Forms.Label()
+        Me.Label8 = New System.Windows.Forms.Label()
+        Me.btnluuandmoi = New System.Windows.Forms.Button()
+        Me.Button1 = New System.Windows.Forms.Button()
         Me.GroupBox1.SuspendLayout()
         Me.TabControl1.SuspendLayout()
         Me.TabPage3.SuspendLayout()
@@ -139,8 +140,9 @@ Partial Class frminput
         'GroupBox1
         '
         Me.GroupBox1.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.GroupBox1.Controls.Add(Me.Button1)
         Me.GroupBox1.Controls.Add(Me.Label35)
         Me.GroupBox1.Controls.Add(Me.txtso_luong)
         Me.GroupBox1.Controls.Add(Me.chbtinh_kh_cl)
@@ -213,8 +215,8 @@ Partial Class frminput
         Me.txtso_luong.TabIndex = 9
         Me.txtso_luong.Text = "0"
         Me.txtso_luong.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.txtso_luong.Value = 0
-        Me.txtso_luong.Value2 = 0
+        Me.txtso_luong.Value = 0R
+        Me.txtso_luong.Value2 = 0R
         '
         'chbtinh_kh_cl
         '
@@ -269,8 +271,8 @@ Partial Class frminput
         Me.Txttong_sl.TabIndex = 16
         Me.Txttong_sl.Text = "0"
         Me.Txttong_sl.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.Txttong_sl.Value = 0
-        Me.Txttong_sl.Value2 = 0
+        Me.Txttong_sl.Value = 0R
+        Me.Txttong_sl.Value2 = 0R
         '
         'ten_tk_cp
         '
@@ -397,8 +399,8 @@ Partial Class frminput
         Me.Txtty_le_kh.TabIndex = 15
         Me.Txtty_le_kh.Text = "0.00"
         Me.Txtty_le_kh.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.Txtty_le_kh.Value = 0
-        Me.Txtty_le_kh.Value2 = 0
+        Me.Txtty_le_kh.Value = 0R
+        Me.Txtty_le_kh.Value2 = 0R
         '
         'Label19
         '
@@ -420,8 +422,8 @@ Partial Class frminput
         Me.Txtky_kh00.TabIndex = 13
         Me.Txtky_kh00.Text = "0"
         Me.Txtky_kh00.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.Txtky_kh00.Value = 0
-        Me.Txtky_kh00.Value2 = 0
+        Me.Txtky_kh00.Value = 0R
+        Me.Txtky_kh00.Value2 = 0R
         '
         'Label18
         '
@@ -443,8 +445,8 @@ Partial Class frminput
         Me.Txttien_cl.TabIndex = 14
         Me.Txttien_cl.Text = "0"
         Me.Txttien_cl.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.Txttien_cl.Value = 0
-        Me.Txttien_cl.Value2 = 0
+        Me.Txttien_cl.Value = 0R
+        Me.Txttien_cl.Value2 = 0R
         '
         'Label17
         '
@@ -466,8 +468,8 @@ Partial Class frminput
         Me.Txtso_ky_kh.TabIndex = 12
         Me.Txtso_ky_kh.Text = "0"
         Me.Txtso_ky_kh.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.Txtso_ky_kh.Value = 0
-        Me.Txtso_ky_kh.Value2 = 0
+        Me.Txtso_ky_kh.Value = 0R
+        Me.Txtso_ky_kh.Value2 = 0R
         '
         'Label14
         '
@@ -581,8 +583,8 @@ Partial Class frminput
         'TabControl1
         '
         Me.TabControl1.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TabControl1.Controls.Add(Me.TabPage3)
         Me.TabControl1.Location = New System.Drawing.Point(4, 198)
         Me.TabControl1.Name = "TabControl1"
@@ -665,8 +667,8 @@ Partial Class frminput
         Me.txtnam_sx.TabIndex = 4
         Me.txtnam_sx.Text = "0"
         Me.txtnam_sx.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
-        Me.txtnam_sx.Value = 0
-        Me.txtnam_sx.Value2 = 0
+        Me.txtnam_sx.Value = 0R
+        Me.txtnam_sx.Value2 = 0R
         '
         'txtghi_chu
         '
@@ -1031,6 +1033,17 @@ Partial Class frminput
         Me.btnluuandmoi.Text = "Luu va them moi"
         Me.btnluuandmoi.UseVisualStyleBackColor = True
         '
+        'Button1
+        '
+        Me.Button1.Location = New System.Drawing.Point(227, 173)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(103, 23)
+        Me.Button1.TabIndex = 81
+        Me.Button1.TabStop = False
+        Me.Button1.Tag = "GPN"
+        Me.Button1.Text = "Lấy phiếu nhập"
+        Me.Button1.UseVisualStyleBackColor = True
+        '
         'frminput
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -1146,4 +1159,5 @@ Partial Class frminput
     Friend WithEvents Label25 As System.Windows.Forms.Label
     Friend WithEvents Label35 As System.Windows.Forms.Label
     Friend WithEvents txtso_luong As ClsControl2.TxtNumeric
+    Friend WithEvents Button1 As Button
 End Class

@@ -22,39 +22,41 @@ Partial Class tk
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.btnLuu = New System.Windows.Forms.Button
-        Me.btnhuy = New System.Windows.Forms.Button
-        Me.Label3 = New System.Windows.Forms.Label
-        Me.txtnguoi_tao = New System.Windows.Forms.Label
-        Me.txtngay_tao = New System.Windows.Forms.Label
-        Me.Label6 = New System.Windows.Forms.Label
-        Me.txtngay_sua = New System.Windows.Forms.Label
-        Me.Label5 = New System.Windows.Forms.Label
-        Me.txtnguoi_sua = New System.Windows.Forms.Label
-        Me.Label8 = New System.Windows.Forms.Label
-        Me.TabControl1 = New System.Windows.Forms.TabControl
-        Me.TabPage1 = New System.Windows.Forms.TabPage
-        Me.Label7 = New System.Windows.Forms.Label
-        Me.Label4 = New System.Windows.Forms.Label
-        Me.cbbloai_cl_co = New System.Windows.Forms.ComboBox
-        Me.cbbloai_cl_no = New System.Windows.Forms.ComboBox
-        Me.chbtk_cn = New System.Windows.Forms.CheckBox
-        Me.ten_nt = New System.Windows.Forms.Label
-        Me.ten_tk_me = New System.Windows.Forms.Label
-        Me.chbtrang_thai = New System.Windows.Forms.CheckBox
-        Me.txttk = New System.Windows.Forms.TextBox
-        Me.Label1 = New System.Windows.Forms.Label
-        Me.txtma_nt = New System.Windows.Forms.TextBox
-        Me.Label18 = New System.Windows.Forms.Label
-        Me.txttk_me = New System.Windows.Forms.TextBox
-        Me.Label14 = New System.Windows.Forms.Label
-        Me.txtten_tk2 = New System.Windows.Forms.TextBox
-        Me.Label11 = New System.Windows.Forms.Label
-        Me.txtten_tk = New System.Windows.Forms.TextBox
-        Me.Label2 = New System.Windows.Forms.Label
-        Me.ten_nh_tk1 = New System.Windows.Forms.Label
-        Me.txtnh_tk1 = New System.Windows.Forms.TextBox
-        Me.Label10 = New System.Windows.Forms.Label
+        Me.btnLuu = New System.Windows.Forms.Button()
+        Me.btnhuy = New System.Windows.Forms.Button()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.txtnguoi_tao = New System.Windows.Forms.Label()
+        Me.txtngay_tao = New System.Windows.Forms.Label()
+        Me.Label6 = New System.Windows.Forms.Label()
+        Me.txtngay_sua = New System.Windows.Forms.Label()
+        Me.Label5 = New System.Windows.Forms.Label()
+        Me.txtnguoi_sua = New System.Windows.Forms.Label()
+        Me.Label8 = New System.Windows.Forms.Label()
+        Me.TabControl1 = New System.Windows.Forms.TabControl()
+        Me.TabPage1 = New System.Windows.Forms.TabPage()
+        Me.txttk_ref = New System.Windows.Forms.TextBox()
+        Me.Label9 = New System.Windows.Forms.Label()
+        Me.ten_nh_tk1 = New System.Windows.Forms.Label()
+        Me.txtnh_tk1 = New System.Windows.Forms.TextBox()
+        Me.Label10 = New System.Windows.Forms.Label()
+        Me.Label7 = New System.Windows.Forms.Label()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.cbbloai_cl_co = New System.Windows.Forms.ComboBox()
+        Me.cbbloai_cl_no = New System.Windows.Forms.ComboBox()
+        Me.chbtk_cn = New System.Windows.Forms.CheckBox()
+        Me.ten_nt = New System.Windows.Forms.Label()
+        Me.ten_tk_me = New System.Windows.Forms.Label()
+        Me.chbtrang_thai = New System.Windows.Forms.CheckBox()
+        Me.txttk = New System.Windows.Forms.TextBox()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.txtma_nt = New System.Windows.Forms.TextBox()
+        Me.Label18 = New System.Windows.Forms.Label()
+        Me.txttk_me = New System.Windows.Forms.TextBox()
+        Me.Label14 = New System.Windows.Forms.Label()
+        Me.txtten_tk2 = New System.Windows.Forms.TextBox()
+        Me.Label11 = New System.Windows.Forms.Label()
+        Me.txtten_tk = New System.Windows.Forms.TextBox()
+        Me.Label2 = New System.Windows.Forms.Label()
         Me.TabControl1.SuspendLayout()
         Me.TabPage1.SuspendLayout()
         Me.SuspendLayout()
@@ -176,8 +178,8 @@ Partial Class tk
         'TabControl1
         '
         Me.TabControl1.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-                    Or System.Windows.Forms.AnchorStyles.Left) _
-                    Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TabControl1.Controls.Add(Me.TabPage1)
         Me.TabControl1.Location = New System.Drawing.Point(-5, 2)
         Me.TabControl1.Name = "TabControl1"
@@ -188,6 +190,8 @@ Partial Class tk
         'TabPage1
         '
         Me.TabPage1.BackColor = System.Drawing.Color.Transparent
+        Me.TabPage1.Controls.Add(Me.txttk_ref)
+        Me.TabPage1.Controls.Add(Me.Label9)
         Me.TabPage1.Controls.Add(Me.ten_nh_tk1)
         Me.TabPage1.Controls.Add(Me.txtnh_tk1)
         Me.TabPage1.Controls.Add(Me.Label10)
@@ -218,6 +222,51 @@ Partial Class tk
         Me.TabPage1.Text = "Thông tin chính"
         Me.TabPage1.UseVisualStyleBackColor = True
         '
+        'txttk_ref
+        '
+        Me.txttk_ref.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
+        Me.txttk_ref.Location = New System.Drawing.Point(367, 7)
+        Me.txttk_ref.Name = "txttk_ref"
+        Me.txttk_ref.Size = New System.Drawing.Size(149, 20)
+        Me.txttk_ref.TabIndex = 1
+        '
+        'Label9
+        '
+        Me.Label9.AutoSize = True
+        Me.Label9.Location = New System.Drawing.Point(254, 11)
+        Me.Label9.Name = "Label9"
+        Me.Label9.Size = New System.Drawing.Size(76, 13)
+        Me.Label9.TabIndex = 113
+        Me.Label9.Tag = "TKR"
+        Me.Label9.Text = "TK tham chiếu"
+        '
+        'ten_nh_tk1
+        '
+        Me.ten_nh_tk1.AutoSize = True
+        Me.ten_nh_tk1.Location = New System.Drawing.Point(254, 210)
+        Me.ten_nh_tk1.Name = "ten_nh_tk1"
+        Me.ten_nh_tk1.Size = New System.Drawing.Size(63, 13)
+        Me.ten_nh_tk1.TabIndex = 111
+        Me.ten_nh_tk1.Tag = ""
+        Me.ten_nh_tk1.Text = "ten nhom tk"
+        '
+        'txtnh_tk1
+        '
+        Me.txtnh_tk1.Location = New System.Drawing.Point(138, 207)
+        Me.txtnh_tk1.Name = "txtnh_tk1"
+        Me.txtnh_tk1.Size = New System.Drawing.Size(100, 20)
+        Me.txtnh_tk1.TabIndex = 9
+        '
+        'Label10
+        '
+        Me.Label10.AutoSize = True
+        Me.Label10.Location = New System.Drawing.Point(6, 211)
+        Me.Label10.Name = "Label10"
+        Me.Label10.Size = New System.Drawing.Size(82, 13)
+        Me.Label10.TabIndex = 110
+        Me.Label10.Tag = "102"
+        Me.Label10.Text = "Nhom tai khoan"
+        '
         'Label7
         '
         Me.Label7.AutoSize = True
@@ -244,7 +293,7 @@ Partial Class tk
         Me.cbbloai_cl_co.Location = New System.Drawing.Point(138, 180)
         Me.cbbloai_cl_co.Name = "cbbloai_cl_co"
         Me.cbbloai_cl_co.Size = New System.Drawing.Size(378, 21)
-        Me.cbbloai_cl_co.TabIndex = 7
+        Me.cbbloai_cl_co.TabIndex = 8
         '
         'cbbloai_cl_no
         '
@@ -252,7 +301,7 @@ Partial Class tk
         Me.cbbloai_cl_no.Location = New System.Drawing.Point(138, 155)
         Me.cbbloai_cl_no.Name = "cbbloai_cl_no"
         Me.cbbloai_cl_no.Size = New System.Drawing.Size(378, 21)
-        Me.cbbloai_cl_no.TabIndex = 6
+        Me.cbbloai_cl_no.TabIndex = 7
         '
         'chbtk_cn
         '
@@ -260,7 +309,7 @@ Partial Class tk
         Me.chbtk_cn.Location = New System.Drawing.Point(138, 131)
         Me.chbtk_cn.Name = "chbtk_cn"
         Me.chbtk_cn.Size = New System.Drawing.Size(116, 17)
-        Me.chbtk_cn.TabIndex = 5
+        Me.chbtk_cn.TabIndex = 6
         Me.chbtk_cn.Tag = "006"
         Me.chbtk_cn.Text = "Tai khoan cong no"
         Me.chbtk_cn.UseVisualStyleBackColor = True
@@ -291,7 +340,7 @@ Partial Class tk
         Me.chbtrang_thai.Location = New System.Drawing.Point(138, 235)
         Me.chbtrang_thai.Name = "chbtrang_thai"
         Me.chbtrang_thai.Size = New System.Drawing.Size(74, 17)
-        Me.chbtrang_thai.TabIndex = 9
+        Me.chbtrang_thai.TabIndex = 10
         Me.chbtrang_thai.Tag = "007"
         Me.chbtrang_thai.Text = "Trang thai"
         Me.chbtrang_thai.UseVisualStyleBackColor = True
@@ -299,7 +348,7 @@ Partial Class tk
         'txttk
         '
         Me.txttk.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper
-        Me.txttk.Location = New System.Drawing.Point(138, 6)
+        Me.txttk.Location = New System.Drawing.Point(138, 7)
         Me.txttk.Name = "txttk"
         Me.txttk.Size = New System.Drawing.Size(100, 20)
         Me.txttk.TabIndex = 0
@@ -307,7 +356,7 @@ Partial Class tk
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(6, 10)
+        Me.Label1.Location = New System.Drawing.Point(6, 11)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(55, 13)
         Me.Label1.TabIndex = 101
@@ -319,7 +368,7 @@ Partial Class tk
         Me.txtma_nt.Location = New System.Drawing.Point(138, 103)
         Me.txtma_nt.Name = "txtma_nt"
         Me.txtma_nt.Size = New System.Drawing.Size(100, 20)
-        Me.txtma_nt.TabIndex = 4
+        Me.txtma_nt.TabIndex = 5
         '
         'Label18
         '
@@ -336,7 +385,7 @@ Partial Class tk
         Me.txttk_me.Location = New System.Drawing.Point(138, 79)
         Me.txttk_me.Name = "txttk_me"
         Me.txttk_me.Size = New System.Drawing.Size(100, 20)
-        Me.txttk_me.TabIndex = 3
+        Me.txttk_me.TabIndex = 4
         '
         'Label14
         '
@@ -353,7 +402,7 @@ Partial Class tk
         Me.txtten_tk2.Location = New System.Drawing.Point(138, 55)
         Me.txtten_tk2.Name = "txtten_tk2"
         Me.txtten_tk2.Size = New System.Drawing.Size(378, 20)
-        Me.txtten_tk2.TabIndex = 2
+        Me.txtten_tk2.TabIndex = 3
         '
         'Label11
         '
@@ -370,7 +419,7 @@ Partial Class tk
         Me.txtten_tk.Location = New System.Drawing.Point(138, 31)
         Me.txtten_tk.Name = "txtten_tk"
         Me.txtten_tk.Size = New System.Drawing.Size(378, 20)
-        Me.txtten_tk.TabIndex = 1
+        Me.txtten_tk.TabIndex = 2
         '
         'Label2
         '
@@ -381,33 +430,6 @@ Partial Class tk
         Me.Label2.TabIndex = 92
         Me.Label2.Tag = "002"
         Me.Label2.Text = "Ten tk"
-        '
-        'ten_nh_tk1
-        '
-        Me.ten_nh_tk1.AutoSize = True
-        Me.ten_nh_tk1.Location = New System.Drawing.Point(254, 210)
-        Me.ten_nh_tk1.Name = "ten_nh_tk1"
-        Me.ten_nh_tk1.Size = New System.Drawing.Size(63, 13)
-        Me.ten_nh_tk1.TabIndex = 111
-        Me.ten_nh_tk1.Tag = ""
-        Me.ten_nh_tk1.Text = "ten nhom tk"
-        '
-        'txtnh_tk1
-        '
-        Me.txtnh_tk1.Location = New System.Drawing.Point(138, 207)
-        Me.txtnh_tk1.Name = "txtnh_tk1"
-        Me.txtnh_tk1.Size = New System.Drawing.Size(100, 20)
-        Me.txtnh_tk1.TabIndex = 8
-        '
-        'Label10
-        '
-        Me.Label10.AutoSize = True
-        Me.Label10.Location = New System.Drawing.Point(6, 211)
-        Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(82, 13)
-        Me.Label10.TabIndex = 110
-        Me.Label10.Tag = "102"
-        Me.Label10.Text = "Nhom tai khoan"
         '
         'tk
         '
@@ -467,4 +489,6 @@ Partial Class tk
     Friend WithEvents ten_nh_tk1 As System.Windows.Forms.Label
     Friend WithEvents txtnh_tk1 As System.Windows.Forms.TextBox
     Friend WithEvents Label10 As System.Windows.Forms.Label
+    Friend WithEvents txttk_ref As TextBox
+    Friend WithEvents Label9 As Label
 End Class

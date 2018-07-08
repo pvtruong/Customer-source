@@ -239,4 +239,49 @@ finish:
             txtso_the_ts.Text = txtso_ct.Text
         End If
     End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        Dim f As New frmGetPN
+        f.Icon = Me.Icon
+        ClsControl2.PropertyOfForm.SetLable(Voucher.oLan, f)
+        Dim vt As New ClsLookup.AutoCompleteLookup(conn, "dmvt", f.txtma_vt, "ma_vt")
+        vt.SetValue("ten_vt", f.ten_vt)
+        f.StartPosition = FormStartPosition.CenterParent
+        If f.ShowDialog(Me) = DialogResult.OK Then
+            Dim fm As New ClsLookup.GetDataByStore(conn, "getPNCC")
+            Dim query As String = "exec getPNCC " & conn.ConvertToSQLType(f.Txttu_ngay.Value)
+            query = query & "," & conn.ConvertToSQLType(f.Txtden_ngay.Value)
+            query = query & "," & conn.ConvertToSQLType(f.txtma_vt.Text)
+            query = query & "," & conn.ConvertToSQLType(f.txtso_ct.Text)
+            query = query & "," & conn.ConvertToSQLType(Voucher.Stt_rec)
+
+            If fm.Show(query) = DialogResult.OK Then
+                Dim rows As DataRow() = fm.DataView.Table.Select("sel=true")
+                If rows.Length > 0 Then
+                    Dim row As DataRow = rows(0)
+                    Dim drow As DataRow = Voucher.Tabdetails(Voucher.TabFirst).Datatable.NewRow
+
+                    For Each c As DataColumn In row.Table.Columns
+                        'master
+                        If Voucher.CurrentVoucher.Table.Columns.Contains(c.ColumnName) AndAlso Not IsDBNull(row.Item(c)) Then
+                            Voucher.CurrentVoucher(c.ColumnName) = row.Item(c)
+                        End If
+                        'detail
+                        If drow.Table.Columns.Contains(c.ColumnName) AndAlso Not IsDBNull(row.Item(c)) Then
+                            drow(c.ColumnName) = row.Item(c)
+                        End If
+                    Next
+                    Voucher.Tabdetails(Voucher.TabFirst).Datatable.Rows.Clear()
+                    Voucher.Tabdetails(Voucher.TabFirst).Datatable.Rows.Add(drow)
+                    Clsql.Data.ClearNullValue(drow.Table)
+                    'end
+                    Voucher.CurrentVoucher.EndEdit()
+                End If
+            End If
+
+
+        End If
+
+
+    End Sub
 End Class

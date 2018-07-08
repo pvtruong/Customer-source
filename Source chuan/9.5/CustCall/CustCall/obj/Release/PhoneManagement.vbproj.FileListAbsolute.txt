@@ -69,3 +69,33 @@ C:\Users\invnc\Google Drive\STP Enterprice\acc\9.5\CustCall\CustCall\bin\Release
 C:\Users\invnc\Google Drive\STP Enterprice\acc\9.5\CustCall\CustCall\obj\Release\PhoneManagement.exe
 C:\Users\invnc\Google Drive\STP Enterprice\acc\9.5\CustCall\CustCall\obj\Release\PhoneManagement.xml
 C:\Users\invnc\Google Drive\STP Enterprice\acc\9.5\CustCall\CustCall\obj\Release\PhoneManagement.pdb
+D:\STP\SourceTmp\95\CustCall\CustCall\bin\Release\PhoneManagement.exe.config
+D:\STP\SourceTmp\95\CustCall\CustCall\obj\Release\PhoneManagement.exe
+D:\STP\SourceTmp\95\CustCall\CustCall\obj\Release\PhoneManagement.xml
+D:\STP\SourceTmp\95\CustCall\CustCall\obj\Release\PhoneManagement.pdb
+D:\STP\SourceTmp\95\CustCall\CustCall\bin\Release\PhoneManagement.exe
+D:\STP\SourceTmp\95\CustCall\CustCall\bin\Release\PhoneManagement.pdb
+D:\STP\SourceTmp\95\CustCall\CustCall\bin\Release\PhoneManagement.xml
+D:\STP\SourceTmp\95\CustCall\CustCall\bin\Release\ClsLookup.dll
+D:\STP\SourceTmp\95\CustCall\CustCall\bin\Release\System.Windows.Forms.DataVisualization.dll
+D:\STP\SourceTmp\95\CustCall\CustCall\bin\Release\clsViDe.dll
+D:\STP\SourceTmp\95\CustCall\CustCall\bin\Release\ClsMath.dll
+D:\STP\SourceTmp\95\CustCall\CustCall\bin\Release\clsPopUp.dll
+D:\STP\SourceTmp\95\CustCall\CustCall\bin\Release\clsPermit4Field.dll
+D:\STP\SourceTmp\95\CustCall\CustCall\bin\Release\clsphannhomdm.dll
+D:\STP\SourceTmp\95\CustCall\CustCall\bin\Release\Ionic.Zip.dll
+D:\STP\SourceTmp\95\CustCall\CustCall\bin\Release\clsab.dll
+D:\STP\SourceTmp\95\CustCall\CustCall\bin\Release\Eval3.dll
+D:\STP\SourceTmp\95\CustCall\CustCall\bin\Release\ClsPilot.dll
+D:\STP\SourceTmp\95\CustCall\CustCall\bin\Release\clschat.dll
+D:\STP\SourceTmp\95\CustCall\CustCall\bin\Release\stdole.dll
+D:\STP\SourceTmp\95\CustCall\CustCall\obj\Release\PhoneManagement.vbprojResolveAssemblyReference.cache
+D:\STP\SourceTmp\95\CustCall\CustCall\obj\Release\PhoneManagement.customer.resources
+D:\STP\SourceTmp\95\CustCall\CustCall\obj\Release\PhoneManagement.Form1.resources
+D:\STP\SourceTmp\95\CustCall\CustCall\obj\Release\PhoneManagement.frmformprint.resources
+D:\STP\SourceTmp\95\CustCall\CustCall\obj\Release\PhoneManagement.frmlistkh.resources
+D:\STP\SourceTmp\95\CustCall\CustCall\obj\Release\PhoneManagement.frmMain.resources
+D:\STP\SourceTmp\95\CustCall\CustCall\obj\Release\PhoneManagement.frmordertmp.resources
+D:\STP\SourceTmp\95\CustCall\CustCall\obj\Release\PhoneManagement.frmselector.resources
+D:\STP\SourceTmp\95\CustCall\CustCall\obj\Release\PhoneManagement.Resources.resources
+D:\STP\SourceTmp\95\CustCall\CustCall\obj\Release\PhoneManagement.vbproj.GenerateResource.Cache

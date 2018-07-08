@@ -1450,6 +1450,9 @@ s:
         'check ton tuc thoi
         If Clsql.Others.Options("chk_xuat_am", conn) = "1" Then
             For Each r As DataRow In dataDetail.Rows
+                If r.RowState = DataRowState.Deleted Then
+                    Continue For
+                End If
                 If r("ton_tt") < r("sl_xuat") Then
                     MsgBox("Sản phẩm " & r("ten_vt") & " có số lượng bán lớn hơn số lượng tồn trong kho",, Clsql.AboutMe.Name)
                     Return
@@ -1503,6 +1506,9 @@ s:
         conn.Execute(query)
         'save phieu giam gia
         For Each r As DataRow In dataThegiamgia.Rows
+            If r.RowState = DataRowState.Deleted Then
+                Continue For
+            End If
             r.Item("stt_rec") = s_stt_rec
         Next
         query = conn.GetInsertQueryFromDatatable(dataThegiamgia, giamgiatable)

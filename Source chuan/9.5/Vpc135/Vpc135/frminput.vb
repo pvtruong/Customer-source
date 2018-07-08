@@ -437,6 +437,9 @@ Public Class frminput
 
                 'set gia tri mac dinh
                 For Each r As DataRow In voucher.Tabdetails("vtdttco").Datatable.Rows
+                    If r.RowState = DataRowState.Deleted Then
+                        Continue For
+                    End If
                     For Each df As String In voucher.Tabdetails("vtdttco").ProcessOnGrid.DefaultOnGrids.Keys
                         If r.Table.Columns.Contains(df) AndAlso String.IsNullOrEmpty(r(df)) Then
                             If voucher.Tabdetails("vtdttco").Datatable.Columns(df).DataType.ToString.Contains("Boolean") Then

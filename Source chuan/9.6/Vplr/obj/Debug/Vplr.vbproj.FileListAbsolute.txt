@@ -1,0 +1,4 @@
+D:\STP\SourceTmp\96\Vplr\bin\Debug\Vpxk.exe.config
+D:\STP\SourceTmp\96\Vplr\obj\Debug\Vpxk.exe
+D:\STP\SourceTmp\96\Vplr\obj\Debug\Vpxk.xml
+D:\STP\SourceTmp\96\Vplr\obj\Debug\Vpxk.pdb

@@ -22,5 +22,728 @@ Vhd1
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="T:Vhd1.VNPT.PublishService">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.#ctor">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.ImportAndPublishInvCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.ImportInvCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.publishInvCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.UpdateCusCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.setCusCertCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.ImportFromXmlCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.syncInfomationCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.SignInCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.resetPasswordCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.AppClientSyncInfoSystemCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.getCurrentNoCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.syncClientInvCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.updateInvoiceCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.syncDecisionCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.syncPublishCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.GetPublishInvCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.syncInvCancelCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.getDateTimeServerCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.syncClientInvoiceCancelCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.ConvertForVerifyCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.sendEmailCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.syncCertCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.syncInvoicev2Completed">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.syncInvoiceCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.GetSingleInvoiceCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.PaymentForVerifyCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.getHashInvWithTokenCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.publishInvWithTokenCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.AdjustReplaceInvWithTokenCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.CancelInvoiceWithTokenCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.rolBackWithTokenCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.importCertWithTokenCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.getStatusInvCompleted">
+<remarks/>
+</member>
+<member name="E:Vhd1.VNPT.PublishService.getHashInvCompleted">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.ImportAndPublishInv(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.ImportAndPublishInvAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.ImportAndPublishInvAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.ImportInv(System.String,System.String,System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.ImportInvAsync(System.String,System.String,System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.ImportInvAsync(System.String,System.String,System.String,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.publishInv(System.Int32[],System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.publishInvAsync(System.Int32[],System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.publishInvAsync(System.Int32[],System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.UpdateCus(System.String,System.String,System.String,System.Nullable{System.Int32})">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.UpdateCusAsync(System.String,System.String,System.String,System.Nullable{System.Int32})">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.UpdateCusAsync(System.String,System.String,System.String,System.Nullable{System.Int32},System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.setCusCert(System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.setCusCertAsync(System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.setCusCertAsync(System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.ImportFromXml(System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.ImportFromXmlAsync(System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.ImportFromXmlAsync(System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.syncInfomation(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.syncInfomationAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.syncInfomationAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.SignIn(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.SignInAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.SignInAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.resetPassword(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.resetPasswordAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.resetPasswordAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.AppClientSyncInfoSystem(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.AppClientSyncInfoSystemAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.AppClientSyncInfoSystemAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.getCurrentNo(System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.getCurrentNoAsync(System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.getCurrentNoAsync(System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.syncClientInv(System.String,System.String,System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.syncClientInvAsync(System.String,System.String,System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.syncClientInvAsync(System.String,System.String,System.String,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.updateInvoice(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.updateInvoiceAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.updateInvoiceAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.syncDecision(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.syncDecisionAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.syncDecisionAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.syncPublish(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.syncPublishAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.syncPublishAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.GetPublishInv(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.GetPublishInvAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.GetPublishInvAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.syncInvCancel(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.syncInvCancelAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.syncInvCancelAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.getDateTimeServer(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.getDateTimeServerAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.getDateTimeServerAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.syncClientInvoiceCancel(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.syncClientInvoiceCancelAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.syncClientInvoiceCancelAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.ConvertForVerify(System.String,System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.ConvertForVerifyAsync(System.String,System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.ConvertForVerifyAsync(System.String,System.String,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.sendEmail(System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.sendEmailAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.sendEmailAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.syncCert(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.syncCertAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.syncCertAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.syncInvoicev2(System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.syncInvoicev2Async(System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.syncInvoicev2Async(System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.syncInvoice(System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.syncInvoiceAsync(System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.syncInvoiceAsync(System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.GetSingleInvoice(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.GetSingleInvoiceAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.GetSingleInvoiceAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.PaymentForVerify(System.String,System.String,System.Int32,System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.PaymentForVerifyAsync(System.String,System.String,System.Int32,System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.PaymentForVerifyAsync(System.String,System.String,System.Int32,System.Int32,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.getHashInvWithToken(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.String,System.String,System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.getHashInvWithTokenAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.String,System.String,System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.getHashInvWithTokenAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.String,System.String,System.String,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.publishInvWithToken(System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.publishInvWithTokenAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.publishInvWithTokenAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.AdjustReplaceInvWithToken(System.String,System.String,System.String,System.String,System.String,System.Int32,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.AdjustReplaceInvWithTokenAsync(System.String,System.String,System.String,System.String,System.String,System.Int32,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.AdjustReplaceInvWithTokenAsync(System.String,System.String,System.String,System.String,System.String,System.Int32,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.CancelInvoiceWithToken(System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.CancelInvoiceWithTokenAsync(System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.CancelInvoiceWithTokenAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.rolBackWithToken(System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.rolBackWithTokenAsync(System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.rolBackWithTokenAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.importCertWithToken(System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.importCertWithTokenAsync(System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.importCertWithTokenAsync(System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.getStatusInv(System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.getStatusInvAsync(System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.getStatusInvAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.getHashInv(System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.getHashInvAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.getHashInvAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Vhd1.VNPT.PublishService.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.ImportAndPublishInvCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.ImportAndPublishInvCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.ImportAndPublishInvCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.ImportInvCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.ImportInvCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.ImportInvCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.publishInvCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.publishInvCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.publishInvCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.UpdateCusCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.UpdateCusCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.UpdateCusCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.setCusCertCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.setCusCertCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.setCusCertCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.ImportFromXmlCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.ImportFromXmlCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.ImportFromXmlCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.syncInfomationCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.syncInfomationCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.syncInfomationCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.SignInCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.SignInCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.SignInCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.resetPasswordCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.resetPasswordCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.resetPasswordCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.AppClientSyncInfoSystemCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.AppClientSyncInfoSystemCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.AppClientSyncInfoSystemCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.getCurrentNoCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.getCurrentNoCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.getCurrentNoCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.syncClientInvCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.syncClientInvCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.syncClientInvCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.updateInvoiceCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.updateInvoiceCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.updateInvoiceCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.syncDecisionCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.syncDecisionCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.syncDecisionCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.syncPublishCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.syncPublishCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.syncPublishCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.GetPublishInvCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.GetPublishInvCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.GetPublishInvCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.syncInvCancelCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.syncInvCancelCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.syncInvCancelCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.getDateTimeServerCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.getDateTimeServerCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.getDateTimeServerCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.syncClientInvoiceCancelCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.syncClientInvoiceCancelCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.syncClientInvoiceCancelCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.ConvertForVerifyCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.ConvertForVerifyCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.ConvertForVerifyCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.sendEmailCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.sendEmailCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.sendEmailCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.syncCertCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.syncCertCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.syncCertCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.syncInvoicev2CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.syncInvoicev2CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.syncInvoicev2CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.syncInvoiceCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.syncInvoiceCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.syncInvoiceCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.GetSingleInvoiceCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.GetSingleInvoiceCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.GetSingleInvoiceCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.PaymentForVerifyCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.PaymentForVerifyCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.PaymentForVerifyCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.getHashInvWithTokenCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.getHashInvWithTokenCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.getHashInvWithTokenCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.publishInvWithTokenCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.publishInvWithTokenCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.publishInvWithTokenCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.AdjustReplaceInvWithTokenCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.AdjustReplaceInvWithTokenCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.AdjustReplaceInvWithTokenCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.CancelInvoiceWithTokenCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.CancelInvoiceWithTokenCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.CancelInvoiceWithTokenCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.rolBackWithTokenCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.rolBackWithTokenCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.rolBackWithTokenCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.importCertWithTokenCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.importCertWithTokenCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.importCertWithTokenCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.getStatusInvCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.getStatusInvCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.getStatusInvCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.getHashInvCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Vhd1.VNPT.getHashInvCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Vhd1.VNPT.getHashInvCompletedEventArgs.Result">
+<remarks/>
+</member>
 </members>
 </doc>

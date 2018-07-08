@@ -6,57 +6,11 @@ Imports ClsSV31
 Imports System.ComponentModel
 
 Public Class Frmmain
-    Implements ExecImp
     Dim frmin As New frminput
-    Private _def_condition As String = Nothing
-    Public Property def_condition As String Implements ExecImp.def_condition
-        Get
-            Return _def_condition
-        End Get
-        Set(value As String)
-            _def_condition = value
-        End Set
-    End Property
-    Private _defaultFields As Dictionary(Of String, Object) = Nothing
-    Public Property defaultFields As Dictionary(Of String, Object) Implements ExecImp.defaultFields
-        Get
-            Return _defaultFields
-        End Get
-        Set(value As Dictionary(Of String, Object))
-            _defaultFields = value
-        End Set
-    End Property
-    Private _addNewWhenLoadFirst As Boolean = False
-    Public Property addNewWhenLoadFirst As Boolean Implements ExecImp.addNewWhenLoadFirst
-        Get
-            Return _addNewWhenLoadFirst
-        End Get
-        Set(value As Boolean)
-            _addNewWhenLoadFirst = value
-        End Set
-    End Property
-    Public Sub setId(_voucherid As String) Implements ExecImp.SetId
 
-    End Sub
-    Public Sub Add(defaultFields As Dictionary(Of String, Object)) Implements ExecImp.Add
-        Voucher.add_first_argument = defaultFields
-        If Voucher.add_first_argument Is Nothing Then
-            Voucher.add_first_argument = New Dictionary(Of String, Object)
-        End If
-        Voucher.News()
-    End Sub
 
-    Public Sub Search(condition As String) Implements ExecImp.Search
-        If condition <> Me.def_condition Then
-            Voucher.Search(condition)
-        End If
-    End Sub
-    Sub New()
+    Private Sub dmload(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
 
-        ' This call is required by the designer.
-        InitializeComponent()
-
-        ' Add any initialization after the InitializeComponent() call.
         txtuser.Text = Clsql.Reg.GetValue("ID")
         '
         Voucher = New Voucher20(Voucherid, grd, frmin.TabControl1, frmin)
@@ -81,11 +35,11 @@ Public Class Frmmain
         Voucher.btnCancel = frmin.btnhuy
         'Dim oLable As Collection = SetLable(Voucher.conn, frmin, Voucherid)
         SetLable(Voucher.oLan, Me)
-
+        SetLable(Voucher.oLan, frmsearch)
         SetLable(Voucher.oLan, fPrintDialog)
         fPrintDialog.Icon = frmin.Icon
         Me.Icon = frmin.Icon
-
+        frmsearch.Icon = Me.Icon
 
         AddHandler Voucher.btnFind.Click, AddressOf tim
 
@@ -102,15 +56,11 @@ Public Class Frmmain
         formtask.Icon = Me.Icon
 
         'load data
-        'Voucher.LoadFirst()
-    End Sub
-    Private Sub dmload(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
-
-
+        Voucher.LoadFirst()
 
     End Sub
 
-    Private Sub thoat(ByVal sender As Object, ByVal e As System.EventArgs)
+    Private Sub thoat(ByVal sender As Object, ByVal e As System.EventArgs) Handles mnuthoat.Click
         Voucher = Nothing
         Me.Close()
     End Sub

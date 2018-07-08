@@ -197,6 +197,9 @@ Public Class Frmmain
     Sub BeforeDelete(ByVal e As String)
         Dim dt As DataTable = conn.GetDatatable("select stt_rec_tt,ma_ct_tt from vtdttco where stt_rec ='" & e & "'")
         For Each r As DataRow In dt.Rows
+            If r.RowState = DataRowState.Deleted Then
+                Continue For
+            End If
             querytt = querytt & Chr(13) & "EXEC Tatoanco '" & r("stt_rec_tt") & "','" & r("ma_ct_tt") & "'"
         Next
     End Sub
